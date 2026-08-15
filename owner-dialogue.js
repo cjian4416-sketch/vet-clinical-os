@@ -36,13 +36,17 @@
   function render() {
     const training = document.getElementById('training');
     const title = document.getElementById('train-title')?.textContent || '';
-    if (!training?.classList.contains('active') || !title || document.getElementById('owner-dialogue-panel')) return;
+    if (!training?.classList.contains('active') || !title) return;
+    const existing = document.getElementById('owner-dialogue-panel');
+    if (existing?.dataset.caseTitle === title) return;
+    if (existing) existing.remove();
     const config = questionFor(title);
     const host = training.querySelector('article.card');
     if (!host) return;
     const panel = document.createElement('section');
     panel.id = 'owner-dialogue-panel';
     panel.className = 'feedback';
+    panel.dataset.caseTitle = title;
     panel.innerHTML = `<p class="label">主人互动 · 沟通关</p><p><strong>${config.question}</strong></p><p class="muted">请用主人能听懂的话回答：为什么、现在怎么做、观察什么、何时必须升级。</p><textarea id="owner-reply" placeholder="写下你会对主人说的话。"></textarea><div class="controls" style="margin-top:10px"><button class="btn primary" id="score-owner-reply">提交并获取练习反馈</button></div><div id="owner-feedback" class="hide"></div><p class="source">练习反馈按病例风险与沟通要素生成，不替代带教兽医对实际病例的审核。</p>`;
     host.appendChild(panel);
     document.getElementById('score-owner-reply').onclick = () => {
