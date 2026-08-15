@@ -1,0 +1,208 @@
+{
+  "source": "PubMed E-utilities",
+  "query": "\"case reports\"[Publication Type] AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
+  "updated_at": "2026-08-15T13:20:22.628870+00:00",
+  "policy": "Pending records are never used in daily training until manually structured and approved.",
+  "records": [
+    {
+      "pmid": "42264194",
+      "title": "Clinical manifestations and management of Androctonus bicolor envenomation in a dog: A previously undescribed clinical case.",
+      "journal": "Toxicon : official journal of the International Society on Toxinology",
+      "publication_date": "2026-Oct-01",
+      "abstract": "The black fat tailed scorpion (Androctonus bicolor) is one of the most venomous native scorpion species in Israel. Its venom induces widespread autonomic overstimulation, resulting in severe cardiovascular, respiratory, and neuromuscular manifestations. Veterinary scorpion envenomation reports are scarce, and Canine Androctonus bicolor envenomation remains undocumented in the literature. A 10-year-old male dog was presented three hrs. following a witnessed Androctonus bicolor envenomation. Immediate clinical signs included dyspnea, hypersalivation, and collapse. The scorpion was identified by the Israeli Nature and Parks Authority. On presentation, the dog was non-ambulatory, and tachypneic. A small puncture wound was observed over the right hind paw. Immediate treatment included analgesia, antihistamine, and intravenous fluids. The dog developed nystagmus, muscle spasms, and generalized hypertonicity with tachycardia and high systolic blood pressure. Midazolam and phenobarbital were required to achieve muscle relaxation. Three days post admission the dog presented marked clinical improvement and was discharged, however, five days after discharge, the dog was re-presented with tremors, inappetence, hematochezia, hyperthermia, mild tachycardia with occasional ventricular premature complexes, and labored breathing. Bloodwork revealed an elevated C-reactive protein concentration and mild increased pancreatic lipase activity, consistent with systemic inflammation and mild pancreatitis. Supportive therapy was instituted, and clinical improvement was observed within 24 hours from the second admission. The dog was discharged and remained well. This is the first documented case of Androctonus bicolor envenomation in a dog. It highlights the prominent neurological and autonomic manifestations associated with this species in a canine patient, and importantly, identifies concurrent pancreatitis as a newly recognized potential sequela in veterinary patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42264194/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42086106",
+      "title": "Pleural effusion associated with Strongyloides stercoralis hyperinfection in a splenectomised dog.",
+      "journal": "Parasitology international",
+      "publication_date": "2026-Oct",
+      "abstract": "Strongyloides stercoralis is a soil-transmitted helminth that is increasingly reported in dogs across Europe. While most infections are subclinical, hyperinfection syndrome, marked by excessive larval proliferation and systemic spread, can occur in immunocompromised hosts. An 11-year-old male Boston Terrier dog, originating from southern France with a history of chronic diarrhoea and recent splenectomy was presented with severe regenerative anaemia, thrombocytopenia, and a degenerative left shift. Haemotropic Mycoplasma haemocanis infection was diagnosed, and doxycycline therapy was initiated. During hospitalisation, the dog developed dyspnoea, pneumonia, and progressive pleural effusion containing motile nematode larvae. Strongyloides stercoralis infection was diagnosed by morphological identification of larvae in pleural effusion (third-stage larvae) and faeces (first- and third-stage larvae) and confirmed by PCR targeting mitochondrial cox1 and nuclear 18S rDNA hypervariable regions (HVR) I and IV), followed by sequencing, which revealed the haplotypes HP16 (cox1), VI (HVR-I) and A (HVR-IV). The HVR-IV haplotype A is found in both dogs and humans, characterizing the zoonotic population of S. stercoralis. Respiratory signs worsened despite combined fenbendazole and escalating ivermectin treatment, requiring euthanasia. Post-mortem examination revealed chronic granulomatous pneumonia, a pulmonary carcinomatous nodule, lymphoplasmacytic enterocolitis, and glomerulonephritis. This case represents the first report of S. stercoralis hyperinfection in an adult splenectomised dog. It highlights the importance of including strongyloidiasis in differential diagnoses of dogs with respiratory and gastrointestinal signs, particularly in animals with compromised immunity or relevant travel history.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42599763",
+      "title": "Giant Hepatobiliary Cystadenoma Requiring Biliary Reconstruction in a Cat: A Case Report.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "Hepatobiliary cystadenoma is an uncommon benign biliary tumour in domestic cats (Felis catus) that may mimic cystadenocarcinoma. Although imaging provides important diagnostic information, histopathological examination is required for confirmation. This case was notable for the exceptionally large lesion and the need for biliary reconstruction following surgical excision. A 7-year-old neutered male domestic shorthair cat weighing 8 kg was presented with several weeks of vomiting, inappetence and abdominal distension. Serum biochemistry demonstrated a cholestatic pattern with increased alkaline phosphatase and gamma-glutamyl transferase activities. Abdominal radiographs revealed a cranial abdominal mass, and ultrasonography identified a multiloculated cyst with thin septa and no mural nodules. Contrast-enhanced computed tomography confirmed a 163 × 148 × 136 mm cystic hepatic mass with homogeneous fluid attenuation, non-enhancing septa and no solid components. Exploratory laparotomy enabled complete excision with preservation of hepatic tissue. Partial resection of the common bile duct followed by end-to-end anastomosis was performed to restore bile flow. Histopathological examination confirmed hepatobiliary cystadenoma. Recovery was uncomplicated, and at the 3-month follow-up the cat was clinically normal, with no ultrasonographic evidence of recurrence. Large multiloculated hepatic cystic lesions with homogeneous fluid contents and no enhancing mural nodules should prompt consideration of hepatobiliary cystadenoma in cats. Complete surgical excision with preservation or reconstruction of biliary structures may result in a favourable short-term outcome. Longer clinical, biochemical, and imaging follow-up is recommended.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42599763/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42581334",
+      "title": "Sequential Photodynamic Therapy and Electrochemotherapy for Bilateral Palpebral Squamous Cell Carcinoma in a Cat: A Case Report.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Sep",
+      "abstract": "To report the clinical outcomes of photodynamic therapy (PDT), alone and in combination with electrochemotherapy (ECT), in the conservative treatment of bilateral palpebral squamous cell carcinoma (SCC) in a cat, involving the right and left eyelids, with functional preservation and local tumor control. A domestic shorthair cat with histologically confirmed squamous cell carcinoma affecting both eyelid margins underwent different therapeutic protocols. The left eye received a single PDT session with topical a lipophilic methyl ester derivative of 5-aminolevulinic acid (160 mg/g) and red LED light, while the right eye received two sessions, followed by adjuvant ECT with intravenous bleomycin. The lesion in the left eye presented with pallor associated with mild inflammation after the PDT session, with complete resolution in the following days and recovery of its normal clinical appearance. In the right eye, the first two PDT sessions resulted in significant regression of the neoplastic lesions. However, a lesion in the medial canthus showed partial response, requiring adjuvant treatment with ECT, which led to complete clinical resolution, despite the presence of mild eyelid deformity. In this single case report, PDT was associated with clinical regression of superficial lesions, while adjuvant ECT was followed by complete clinical resolution of the residual lesion. The combination of these modalities represents a viable conservative alternative to extensive surgical excision, enabling the tumor remission while preserving the aesthetic appearance and functional integrity of the eyelid.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581334/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42541109",
+      "title": "Canine dermatophytosis due to Arthroderma uncinatum: case report and diagnostic considerations.",
+      "journal": "Medical mycology case reports",
+      "publication_date": "2026-Sep",
+      "abstract": "This report describes a molecularly confirmed case of canine dermatophytosis caused by Arthroderma uncinatum in an 11-month-old English Setter from Southern Italy. The dog presented with two alopecic, erythematous, scaling lesions on the metacarpal and metatarsal regions. While routine microscopic examinations were inconclusive, dermatophyte culture yielded a fungal isolate identified as A. uncinatum by ITS sequencing. Topical 1% clotrimazole administered for three weeks resulted in complete clinical and mycological cure. This case documents an uncommon infection by a geophilic dermatophyte and expands veterinary knowledge of A. uncinatum-associated canine disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541109/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42522416",
+      "title": "Occipital Bone Angiomatosis and Chronic Subdural Hematoma Causing Severe Cerebellar and Brainstem Compression and Obstructive Hydrocephalus in a Young Adult Cat.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Sep",
+      "abstract": "A 2-year-old cat was presented for a 1-month history of cautious ambulation, head shaking, and lethargy, with severe spinal pain on neurologic examination. MRI and CT demonstrated marked endophytic thickening of the occipital bone diploe with widened intertrabecular spaces, irregular internal cortical margins, relative preservation of the outer cortex, and strong internal and perilesional contrast enhancement. Histopathology revealed an anomalous blood vessel proliferation consistent with angiomatosis. An associated chronic subdural hematoma caused severe cerebellar and brainstem compression, foramen magnum herniation, and obstructive hydrocephalus. This represents the first report of occipital bone angiomatosis with concomitant subdural hematoma in a cat.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522416/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42522410",
+      "title": "Computed Tomographic Findings of Primary Hepatic Extraskeletal Osteosarcoma With Peritoneal Metastasis via Periportal Space in a Dog.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Sep",
+      "abstract": "A 15-year-old castrated male Shih Tzu presented with anorexia and lethargy. Computed tomography (CT) revealed a hepatic mass with extensive central mineralization and an ill-defined hypoattenuating peripheral zone. The periportal halo sign extending to the lesser omentum was compatible with neoplastic infiltration of the periportal space, suggesting a potential metastatic pathway via this anatomical route. Whole-body CT excluded primary skeletal involvement, and histopathology confirmed extraskeletal osteosarcoma of hepatic origin. This case illustrates the value of CT in characterizing mineralized hepatic neoplasia and identifying potential routes of intra-abdominal dissemination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522410/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42522406",
+      "title": "Imaging Characterization of a Cystic Duct Neuroendocrine Carcinoma in a Dog Using Contrast-Enhanced Ultrasonography and Multiphasic Computed Tomography.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Sep",
+      "abstract": "We describe a cystic duct neuroendocrine carcinoma in a dog evaluated with CEUS and multiphasic CT. The lesion was initially suspected to be hepatic but was reclassified as an intraluminal biliary mass on imaging. CEUS showed arterial hyperenhancement with early washout, and CT demonstrated a strongly enhancing intraluminal mass with progressive washout and biliary dilation. These findings enabled accurate localization and supported surgical management. Histopathology confirmed neuroendocrine carcinoma. Neoplasia of the canine gallbladder and biliary tract is uncommon, and tumors arising from the biliary ducts are rarely reported. Differentiating between hepatic and biliary origin can be challenging, particularly when intraductal lesions cause disproportionate biliary dilation relative to their size. Contrast-enhanced ultrasonography and multiphasic CT enable assessment of vascular characteristics and lesion localization, which may aid in distinguishing intraluminal biliary lesions from hepatic masses. This report describes a cystic duct neuroendocrine carcinoma characterized using CEUS, multiphasic CT, and histopathology, highlighting the role of multimodal imaging in accurate lesion localization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522406/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42456220",
+      "title": "Intra-house circulation and persistence of methicillin-resistant Staphylococcus pseudintermedius in Brazil: Evidence of transmission between a dog and its family.",
+      "journal": "Veterinary microbiology",
+      "publication_date": "2026-Sep",
+      "abstract": "We investigated a case of postoperative osteomyelitis in a dog caused by methicillin-resistant Staphylococcus pseudintermedius (MRSP) at a veterinary teaching hospital in Brazil, and screened the cohabiting dog, five household members and the attending surgeon for MRSP and other methicillin-resistant staphylococci (MRS) during infection (2021) and two years later (2023). Nasal and skin swabs were cultured on oxacillin-supplemented media. Isolates were identified as MRSP by PCR and characterized by PFGE and whole-genome sequencing, including MLST, SCCmec typing, resistance gene profiling and core-genome SNP analysis. The index infection was caused by MRSP ST71-SCCmec II-III displaying multidrug resistance but amikacin susceptible; the dog was successfully treated with prolonged amikacin therapy combined with surgical revision. During infection, MRSP ST71-SCCmec II-III was recovered from the patient, four owners and the surgeon (6/8 colonized with MRSP), while the cohabiting dog carried methicillin-resistant S. epidermidis. Two years later, MRSP carriage was identified in the cohabiting dog and two owners (3/7), with co-existence of MRSP ST71-SCCmec II-III (cohabiting dog skin) and the emerging lineage ST1095-CC551-SCCmec V (cohabiting dog nares; two owners), while the patient and two other owners carried other MRS. Within each lineage, pairwise SNP distances were ≤ 8, consistent with recent transmission. Overall, this case illustrates long-term intra-household circulation and strain replacement of MRSP across dogs and humans, highlighting the importance of hygiene measures in households to reduce the risk of transmission.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456220/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42257705",
+      "title": "Multisystem Detection and Molecular Evidence Linking Dog-Associated Ticks to Two Fatal Human SFTSV Infections in Thailand.",
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publication_date": "2026-Sep",
+      "abstract": "Severe fever with thrombocytopenia syndrome virus (SFTSV) is an emerging tick-borne pathogen responsible for severe and often fatal disease in East Asia; however, information from Southeast Asia remains limited. We report two fatal human SFTS cases in Thailand confirmed by quantitative reverse transcription polymerase chain reaction, in which viral RNA was detected in multiple specimen types from both patients, including plasma, cerebrospinal fluid, respiratory secretions, urine, and stool, indicating systemic infection. Rhipicephalus sanguineus ticks collected from pet dogs and from the patients' households also tested positive for SFTSV RNA, with cycle threshold values ranging from 15.6 to 30.6. Phylogenetic analyses based on the S, M, and L segments showed that sequences obtained from human and tick samples clustered within genotype B-1 and were closely related to previously reported Thai and related Chinese strains. These findings provide molecular evidence of SFTSV in dog-associated R. sanguineus ticks and suggest a possible epidemiological association with human cases; however, their role in transmission and the direction of transmission remain uncertain. These findings expand the known geographic and ecological context of SFTSV and underscore the importance of heightened clinical awareness and integrated human-animal-vector surveillance in Southeast Asia, particularly in dengue-endemic regions where SFTS may be clinically overlooked.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42257705/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42248407",
+      "title": "Chronic papillary conjunctivitis as a novel ocular manifestation of Rickettsia felis infection: A case report.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "publication_date": "2026-Sep",
+      "abstract": "To report the first case of chronic papillary conjunctivitis caused by Rickettsia felis infection. A 27-year-old man presented with a 4-year history of unilateral papillary conjunctivitis refractory to multiple antibiotic courses. Examination revealed tarsal conjunctival injection, papillary hypertrophy, mucopurulent discharge, and eyelid laxity with entropion. The patient had a history of cat ownership for 5-6 years, suggesting possible exposure to the cat flea, and remained systemically asymptomatic without fever, rash, or lymphadenopathy. Metagenomic next-generation sequencing, serology, and histopathology confirmed R. felis infection. Given the chronic intracellular nature of the infection, the patient received an extended 2-month course of oral doxycycline (100 mg twice daily) combined with topical therapy, with marked improvement observed by week 8 and subsequent entropion repair surgery. This represents the first reported case of chronic, isolated rickettsial conjunctivitis without systemic involvement or Parinaud's oculoglandular syndrome features. This case highlights the importance of considering rickettsial infection in chronic, treatment-refractory conjunctivitis and demonstrates the value of metagenomic sequencing for diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42248407/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42127721",
+      "title": "Peripheral neurological involvement due to Bartonella henselae in an immunocompetent adolescent: a case report and literature review.",
+      "journal": "Diagnostic microbiology and infectious disease",
+      "publication_date": "2026-Sep",
+      "abstract": "This report describes a rare case of post-infectious meningoradiculitis caused by Bartonella henselae in a healthy 17-year-old male. The patient presented with bilateral peripheral facial palsy, paresthesia and absent deep tendon reflexes, following axillary lymphadenopathy related to cat scratches. Lumbar puncture showed lymphocytic pleocytosis, and serological results showed high titers of both IgG and IgM for Bartonella henselae. Electroneuromyography revealed prolonged F waves. Treatment included intravenous immunoglobulins and doxycycline, with gradual clinical improvement. A systematic literature review identified 20 cases of peripheral neurological involvement associated with Bartonella henselae, highlighting the diversity of neurological manifestations beyond encephalitis and neuroretinitis. This case illustrates the importance of considering Bartonella henselae in the differential diagnosis of inflammatory radiculopathies, especially in individuals who have had contact with cats and when more common causes are ruled out.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42127721/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "41789638",
+      "title": "Oral Neuroma in a Dog: A Case Report.",
+      "journal": "Journal of veterinary dentistry",
+      "publication_date": "2026-Sep",
+      "abstract": "A neuroma is a tangled, circumscribed, non-neoplastic mass of neuronal tissue formed after axonal injury and consists of a mixture of fibroblasts, Schwann cells and axons. Traumatic neuroma is the most commonly recognized neuroma lesion in humans and can occur at any site in the body where a nerve is traumatized. A 15-year-old female Miniature Pinscher was presented with periodontal disease. A lump on the right side of the face was found, corresponding to a solitary cylindrical mass on the mucosal surface of the lower lip. Dental radiographs showed no lysis of the mandibular bone. After an inconclusive cytological examination, the mass was surgically removed, fixed in 10% formalin, embedded in paraffin, and routinely stained for light microscopy. Macroscopically, a whitish, firm, filiform mass measuring 2.5 × 0.5 × 0.3 cm was found. Microscopically, the mass was poorly defined and consisted of spindle-shaped cells forming bands, bundles, and sometimes coiled structures, resembling nerves, surrounded by fibrosis. The cells were monomorphic, but an area of increased cellularity and nuclear atypia was observed. Mitotic figures, Verocay bodies, or Antoni A and B patterns were not found. The mass was surrounded by oral epithelium, mucinous glands, and skeletal muscle. There is much confusion in veterinary medicine regarding the nomenclature of peripheral nerve sheath tumors, that is, schwannomas, neurofibromas, perineuromas, traumatic neuroma, and malignant tumors of the peripheral nerve sheath. This lesion had histological features consistent with a neuroma, an unusual entity in the canine oral cavity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41789638/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "41719179",
+      "title": "Management of an Oronasal Fistula Using Microscope-Assisted Er:YAG Laser Periodontal Regenerative Therapy in a Dog.",
+      "journal": "Journal of veterinary dentistry",
+      "publication_date": "2026-Sep",
+      "abstract": "Oronasal fistula formation, associated with maxillary canine teeth, is a frequent sequela to untreated periodontal disease, and extraction has traditionally been regarded as the primary treatment. A 10-year-old spayed female miniature Dachshund was presented with an oronasal fistula involving the left maxillary canine tooth. After initial non-surgical management with minimally invasive non-surgical technique (MINST) failed to resolve the periodontal pocket and fistula, microscope-assisted periodontal regenerative therapy combined with an Er:YAG laser was performed. The treatment achieved complete closure of the fistula together with reduction of the periodontal pocket. Cone beam computed tomography at 8 months post-surgery confirmed new bone formation. This case demonstrates that the integration of microsurgical visualization and Er:YAG laser therapy can enable preservation of maxillary canine teeth with oronasal fistula, providing a minimally invasive alternative to extraction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41719179/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42596859",
+      "title": "Fine-Needle Aspirate Cytology of Feline Pulmonary Langerhans Cell Histiocytosis in Two Cats.",
+      "journal": "Veterinary clinical pathology",
+      "publication_date": "2026-Aug-14",
+      "abstract": "Feline pulmonary Langerhans cell histiocytosis (FPLCH) is a rare histiocytic disorder in cats, usually diagnosed post-mortem following natural death or euthanasia for severe respiratory distress. Antemortem diagnosis has been reported only once, achieved by cytologic examination of bronchoalveolar lavage fluid combined with immunocytochemistry, whereas fine-needle aspiration (FNA) of lung nodules was previously reported as non-diagnostic. Here we describe two cases of FPLCH in which cytology of ultrasound-guided lung-nodule FNA yielded diagnostic material, including from one cat with an atypical clinical presentation. Whereas case 1 presented with severe respiratory distress, case 2 had no respiratory signs. Both specimens were highly cellular and composed of atypical cells morphologically most consistent with histiocytes showing moderate atypia. A combination of postmortem gross, histopathologic, immunophenotypic, and ultrastructural findings confirmed the cytologic suspicion of FPLCH. To our knowledge, this is the first cytologic description of FPLCH in FNA samples from lung nodules and the first report of a confirmed case without respiratory signs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42596859/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42593565",
+      "title": "Case Report: Detection of a Caprine Coccidian Parasite in a Neonatal Bengal Tiger Cub (Panthera tigris tigris) at Grand Taman Safari Prigen, Indonesia.",
+      "journal": "Acta parasitologica",
+      "publication_date": "2026-Aug-13",
+      "abstract": "The Bengal tiger (Panthera tigris tigris), a large carnivorous felid housed at Grand Taman Safari Prigen, Indonesia, poses considerable conservation and veterinary challenges in captivity. The present study investigated fecal parasitological findings in a neonatal Bengal tiger cub with acute diarrhea; however, the etiology of the diarrhea could not be determined. Coproparasitological examination was conducted on a neonatal Bengal tiger cub fecal sample immediately after defecation, followed by oocyst purification and molecular analysis with universal primers targeting mainly Eimeria. Microscopic evaluation identified oocysts containing four sporocysts, consistent with Eimeria species, and revealed considerable morphological and size variation, suggesting a possible mixed-species infection. By molecular analysis, one species among them could be successfully identified. Sequencing analysis demonstrated high similarity to Eimeria species commonly infecting ruminants, particularly goats, Eimeria sp. Yakushima, suggesting potential cross-species transmission to a non-typical carnivorous host. Based on morphological characteristics, some oocysts also matched those of other goat Eimeria species (E. alijevi, E. arloingi, E. christenseni, and an unknown species). This transmission may have resulted from contaminated, reused bedding materials previously exposed to herbivorous animals. Notably, oocysts of Eimeria spp. are recognized for their environmental resistance and persistence against disinfectants. Although the parasite was confirmed, infection of carnivores by caprine coccidian is considered atypical, and its role in disease manifestation remains unclear. These findings illustrate the complexity of diagnosing enteric disorders in captive wildlife and emphasize the necessity for integrated parasitological and environmental management strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593565/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42592381",
+      "title": "Cushing's Syndrome associated with diabetes mellitus in a Persian cat: clinical features, diagnosis, and therapeutic management.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "publication_date": "2026",
+      "abstract": "The association between Cushing's syndrome (CS) and diabetes mellitus (DM) in cats is rarely reported. Complications related to hypercortisolism and persistent hyperglycemia may occur, which may complicate the control of both endocrinopathies. This report describes the case of a 10-year-old Persian cat diagnosed with CS and DM. The patient presented with polyuria, polydipsia, chronic dry seborrhea on the dorsal region and flanks, and lack of hair regrowth on the abdomen. Through the dexamethasone suppression test (0.1 mg/kg) and the presence of persistent hyperglycemia with elevated fructosamine levels and glycosuria, diagnoses of Cushing's syndrome and DM were established. Treatment was initiated with trilostane (2 mg/kg PO BID) for CS and insulin glargine (2 IU/animal SC BID) for DM, resulting in stabilization of blood glucose, cortisol concentrations, and the patient's clinical condition, although cutaneous fragility persisted for a prolonged period. Diagnostic investigation for hypercortisolism should be considered in cats with DM to allow earlier diagnosis, reduce underdiagnosis, and improve the availability of epidemiological and clinical data on this association. The diagnostic approach and clinical management described may aid veterinarians in recognizing this coexistence and anticipating therapeutic challenges, such as persistent cutaneous fragility despite cortisol control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42592381/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42592278",
+      "title": "Approach to the diagnosis of bilateral ureteral transitional cell carcinoma in a cat.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "publication_date": "2026",
+      "abstract": "A cat with bilateral ureteral obstruction and long-term urolithiasis that had been medically managed for a year was presented to the emergency department of our hospital. Severe azotemia and metabolic acidosis were identified. Ultrasonography and computed tomography supported a diagnosis of ureteral calculi, with no evidence of other underlying abnormalities. During exploratory laparotomy, irreversible renal failure secondary to bilateral ureteral obstruction was suspected, and euthanasia was elected. Histopathological and immunohistochemical examination of the ureters revealed tubulopapillary urothelial carcinoma (transitional cell carcinoma). This case is noteworthy because it represents only the second reported case of feline ureteral transitional cell carcinoma associated with ureteral calculi causing bilateral ureteral obstruction. It also highlights that ureteral calculi may coexist with ureteral transitional cell carcinoma in cats, potentially masking the underlying neoplasm and delaying its diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42592278/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42579237",
+      "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-Aug-11",
+      "abstract": "Tremorgenic mycotoxicosis is a well-recognized cause of acute neurotoxicosis in dogs, most commonly associated with penitrem A (PTA), which is mainly produced by Penicillium crustosum. However, analytical confirmation of such cases is rare. This study describes five clinical cases of canine tremorgenic mycotoxicosis in Germany, together with comprehensive analytical confirmation. All dogs had been presented at the veterinary clinic of Justus-Liebig-University because of acute-onset generalized tremors. Clinical findings, therapeutic measures and final outcome were documented. Samples of gastric content (induced emesis or gastric lavage) and blood serum (if available) were analyzed for several neurotoxic mycotoxins, penitrems A-F, paxilline (PAX), α-cyclopiazonic acid (CPA), and ergoline alkaloids. Analysis was done by enzyme immunoassay (EIA), and by HPLC-MS/MS. EIA of gastric content was positive for PTA in all samples, and for PAX, CPA, and ergoline alkaloids in some. HPLC-MS/MS analysis confirmed the presence of penitrems A-F, PAX, and CPA. Trace levels of PTA, PAX and CPA were also detected in serum samples. Penitrem producing P. crustosum was isolated from gastric content of all animals. This is the first full analytical study on acute canine tremorgenic mycotoxicoses in Germany, and presents comprehensive results along the causal chain of tremorgenic mycotoxicosis. In addition to the penitrems, several other neurotoxic mycotoxins (PAX, CPA, ergoline alkaloids) may play a role in canine mycotoxicosis. While immediate stabilisation and symptomatic treatment are paramount, prompt mycotoxin testing can help identify the source of poisoning during differential diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579237/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42576538",
+      "title": "Pituitary tumour shrinkage and diabetic remission in two cats with Cushing syndrome treated with cabergoline.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-Aug-10",
+      "abstract": "We describe two cats with diabetes mellitus and Cushing's syndrome. Diabetes mellitus was initially managed with insulin glargine (Lantus; Sanofi-Aventis, Paris, France), nutritional therapy and continuous glucose monitoring. Hypercortisolism was suspected based on severe hypertension (Case 1), and insulin resistance in combination with typical clinical features of Cushing's syndrome (Case 2). Endocrine testing revealed non-suppressible cortisol concentrations on low-dose-dexamethasone suppression test, elevated endogenous adenocorticotrophic hormone (ACTH) concentration and pituitary enlargement on computed tomography. Cabergoline (Holiday®, Holliday-Scott S.A., Buenos Aires, Argentina) was initiated at a dose of 10 μg/kg po every 48 hours targeting both the pituitary tumour and hypercortisolism. In Case 2, the cabergoline dosage was gradually increased to a final dose of 10 μg/kg po every 12 hours. Both cats achieved diabetic remission within 1 and 6 months of treatment, respectively. Serial monitoring demonstrated a decrease in endogenous ACTH concentrations and a reduction in pituitary volume of 29% of baseline (Case 1) and of 52% of baseline (Case 2) after 8 months of treatment. These findings suggest that cabergoline may be a potential medical treatment option in cats with pituitary-dependent hypercortisolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576538/",
+      "status": "pending_review",
+      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    }
+  ]
+}
