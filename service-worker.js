@@ -1,5 +1,5 @@
-const CACHE_NAME = "vet-clinical-os-v4";
-const APP_SHELL = ["./", "./index.html", "./data.js", "./owner-dialogue.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg"];
+const CACHE_NAME = "vet-clinical-os-v5";
+const APP_SHELL = ["./", "./index.html", "./data.js", "./owner-dialogue.js", "./practice-center.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
