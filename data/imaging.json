@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-09-02T18:30:00+08:00",
+  "cases": [
+    {
+      "id": "VET-IMG-001",
+      "status": "approved",
+      "modality": "DR",
+      "species": "犬",
+      "patient": "4岁拉布拉多犬",
+      "system": "腹部",
+      "acuity": "急症",
+      "title": "犬腹部 DR：胃穿孔致张力性气腹",
+      "clinical_context": "厌食、精神沉郁20天；就诊时腹部明显膨隆、体温40.7°C、心率132次/分、呼吸困难伴喘气。",
+      "image": "assets/imaging/canine-pneumoperitoneum-fig1.jpg",
+      "image_caption": "原文图1：A/C为减压前，B/D为减压后；图内箭头为原作者标注，因此本例是参考判读，不是无提示盲读。",
+      "task": "按片位与质量→腹腔整体→脏器边界→气体分布→优先问题写出影像所见，并决定是否需要立即升级处置。",
+      "interpretation": "减压前可见腹腔内大量游离气体、腹腔轮廓异常显现、部分肠壁双壁征及整体腹部浆膜细节下降；减压后腹腔游离气体仍大量存在，膈肌颅移提示腹腔压力升高。原病例术中证实胃肿物邻近胃穿孔，导致张力性气腹。",
+      "source": "Kim M, et al. Frontiers in Veterinary Science, 2024, PMCID: PMC10808648",
+      "license": "CC BY",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10808648/"
+    }
+  ]
+}
