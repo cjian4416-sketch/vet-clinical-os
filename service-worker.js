@@ -1,5 +1,5 @@
-const CACHE_NAME = "vet-clinical-os-v6";
-const APP_SHELL = ["./", "./index.html", "./data.js", "./data/cases.json", "./data/pubmed-intake.json", "./owner-dialogue.js", "./practice-center.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg"];
+const CACHE_NAME = "vet-clinical-os-v7";
+const APP_SHELL = ["./", "./index.html", "./data.js", "./data/cases.json", "./data/imaging.json", "./data/pubmed-intake.json", "./owner-dialogue.js", "./practice-center.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
@@ -13,7 +13,7 @@ self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   const url = new URL(event.request.url);
   if (url.origin !== self.location.origin) return;
-  const liveData = url.pathname.endsWith("/data/cases.json") || url.pathname.endsWith("/data/pubmed-intake.json");
+  const liveData = url.pathname.endsWith("/data/cases.json") || url.pathname.endsWith("/data/imaging.json") || url.pathname.endsWith("/data/pubmed-intake.json");
   if (event.request.mode === "navigate" || url.pathname.endsWith("/index.html") || url.pathname.endsWith("/data.js") || liveData) {
     event.respondWith(fetch(event.request).then((response) => {
       const copy = response.clone();
