@@ -41,6 +41,10 @@
   window.VET_CASE_SOURCE = "data/cases.json";
   window.VET_IMAGING_SOURCE = "data/imaging.json";
 
+  function escapeHtml(value) {
+    return String(value || "").replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
+  }
+
   function localDateKey(value) {
     if (!value) return null;
     const d = new Date(value);
@@ -131,8 +135,54 @@
     }
   }
 
+  function renderImagingLibrary() {
+    const section = document.getElementById("imaging");
+    if (!section) return;
+    const cases = (imaging.cases || []).filter((item) => item.status === "approved");
+    if (!cases.length) {
+      section.innerHTML = '<article class="card"><p class="label">影像实操</p><h2>暂无已审核影像病例</h2><p class="muted">新的 DR/超声病例通过审核后会进入 data/imaging.json 并显示在这里。</p></article>';
+      return;
+    }
+
+    section.innerHTML = cases.map((item) => `
+      <article class="card imaging-library-case" data-imaging-id="${escapeHtml(item.id)}" style="margin-bottom:16px">
+        <p class="label">真实影像实操 · ${escapeHtml(item.id)}</p>
+        <h2>${escapeHtml(item.title)}</h2>
+        <div>
+          <span class="chip">${escapeHtml(item.species)}</span>
+          <span class="chip">${escapeHtml(item.patient)}</span>
+          <span class="chip">${escapeHtml(item.modality)}</span>
+          <span class="chip">${escapeHtml(item.system)}</span>
+          <span class="chip risk">${escapeHtml(item.acuity)}</span>
+        </div>
+        <p class="lead">真实病例背景：${escapeHtml(item.clinical_context)}</p>
+        <figure class="imaging-figure">
+          <img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.title)}">
+          <figcaption class="imaging-caption">${escapeHtml(item.image_caption)}</figcaption>
+        </figure>
+        <p class="muted">DR 实操任务：${escapeHtml(item.task)}</p>
+        <textarea class="imaging-note" placeholder="写下你的影像所见、Problem List、最优先排除的风险和下一步检查目标。"></textarea>
+        <div class="controls" style="margin-top:12px">
+          <button class="btn primary reveal-imaging" type="button">查看来源判读与结局</button>
+          <a class="btn" target="_blank" rel="noreferrer" href="${escapeHtml(item.source_url)}">查看开放原文</a>
+        </div>
+        <div class="reveal imaging-answer hide"><strong>来源判读（教学整理）：</strong>${escapeHtml(item.interpretation)}<p class="source">来源：${escapeHtml(item.source)}；授权：${escapeHtml(item.license)}。</p></div>
+      </article>
+    `).join("") + '<article class="card"><p class="label">超声实操</p><h2>待真实授权素材入库</h2><p class="muted">超声病例需具备真实授权视频或连续帧、扫查部位与体位、探头方向、标准切面、关键征象以及最终诊断/随访后再进入正式训练。</p></article>';
+
+    section.querySelectorAll(".reveal-imaging").forEach((button) => {
+      button.addEventListener("click", () => {
+        const answer = button.closest(".imaging-library-case")?.querySelector(".imaging-answer");
+        if (!answer) return;
+        answer.classList.remove("hide");
+        button.textContent = "已显示来源判读";
+      });
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", () => {
     enhanceCaseBank();
+    renderImagingLibrary();
     const grid = document.getElementById("case-grid");
     if (grid) new MutationObserver(enhanceCaseBank).observe(grid, { childList: true, subtree: false });
   });
