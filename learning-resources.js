@@ -1,37 +1,37 @@
 (() => {
   const resources = [
     {
-      title: 'Veterinary Radiology · Case of the Day',
+      title: '兽医影像 · 每日病例库',
       type: '公开病例库',
       focus: '犬猫 DR、超声、CT/MRI；可按胸部、腹部、骨科和物种浏览。',
       url: 'https://www.veterinaryradiology.net/cases/'
     },
     {
-      title: 'IVRA Open Education Resources',
+      title: '国际兽医放射学会开放教育资源',
       type: '开放教学资源',
       focus: '影像病例、感染性疾病影像总结与外部学习资源索引。',
       url: 'https://www.ivraimaging.org/oer-open-education-resources'
     },
     {
-      title: 'St. George’s University · Small Animal Radiology I',
+      title: '圣乔治大学 · 小动物放射学基础课程',
       type: '课程大纲',
       focus: '犬猫标准体位、图像质量、正常解剖和基础判读的学习顺序。',
       url: 'https://catalog.sgu.edu/courses/sams-501/syllabus'
     },
     {
-      title: 'UC Davis · Small Animal X-ray',
+      title: '加州大学戴维斯分校 · 小动物 X 光基础',
       type: '临床影像基础',
       focus: '了解 DR/X-ray 的临床定位、胸部/腹部/骨骼系统常见适应证及数字影像工作场景。',
       url: 'https://www.vetmed.ucdavis.edu/hospital/diagnostic-imaging/small-animal/xray'
     },
     {
-      title: 'University of Copenhagen · Veterinary Imaging',
+      title: '哥本哈根大学 · 兽医影像课程',
       type: '影像课程框架',
       focus: 'DR 取得质量、体位、辐射安全、超声和横断面影像的完整课程路径。',
       url: 'https://kurser.ku.dk/course/svek13043u/2025-2026'
     },
     {
-      title: 'Oregon State · Diagnostic Imaging Techniques',
+      title: '俄勒冈州立大学 · 诊断影像技术',
       type: '技术原理',
       focus: '从 X-ray、透视到数字影像的技术基础；用于补齐“怎样获得合格片子”的底层知识。',
       url: 'https://vetmed.oregonstate.edu/hospital/diagnostic-imaging-techniques'

@@ -1,35 +1,55 @@
 (function () {
   function loadJson(path, fallback) {
-    try {
-      const xhr = new XMLHttpRequest();
-      xhr.open("GET", path + "?v=" + Date.now(), false);
-      xhr.send(null);
-      if (xhr.status >= 200 && xhr.status < 300) return JSON.parse(xhr.responseText);
-    } catch (error) {
-      console.error("VET Clinical OS data load failed:", path, error);
+    // Keep the request URL identical to the service-worker cache key. Adding
+    // a timestamp created a different key every visit, leaving some phones
+    // with an empty catalogue when the live request was delayed or unavailable.
+    for (const requestPath of [path, `${path}?source=network`]) {
+      try {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", requestPath, false);
+        xhr.send(null);
+        if (xhr.status >= 200 && xhr.status < 300) return JSON.parse(xhr.responseText);
+      } catch (error) {
+        console.error("VET Clinical OS data load failed:", requestPath, error);
+      }
     }
     return fallback;
   }
 
   const rawCatalog = loadJson("data/cases.json", { schema_version: "2.0", updated_at: null, evidence_policy: "病例数据加载失败。", cases: [] });
+  const terminology = [
+    ['Clinical Loop', '临床闭环'], ['Problem List', '问题清单'], ['DDx', '鉴别诊断'],
+    ['Week', '第'], ['Day', '天'], ['training_log', '训练节点'], ['CBC', '血常规'],
+    ['biochemistry', '生化检查'], ['urinalysis', '尿液检查'], ['abdominal_radiographs', '腹部 X 光'],
+    ['abdominal_ultrasound', '腹部超声'], ['echocardiography', '超声心动图'], ['thoracic_radiographs', '胸部 X 光'],
+    ['Diagnosis', '诊断'], ['Treatment indication', '治疗指征'], ['Risk', '风险'], ['Prevention', '预防'],
+    ['Monitoring', '监测'], ['SOAP', '主观-客观-评估-计划病历']
+  ];
+  function localizeValue(value) {
+    if (typeof value === 'string') return terminology.reduce((text, [from, to]) => text.replaceAll(from, to), value);
+    if (Array.isArray(value)) return value.map(localizeValue);
+    if (value && typeof value === 'object') return Object.fromEntries(Object.entries(value).map(([key, item]) => [key, localizeValue(item)]));
+    return value;
+  }
   const frontendCases = (rawCatalog.cases || []).map((item) => {
-    if (item.status !== "training_log") return item;
-    const weekDay = `Week ${item.week || "?"} · Day ${item.day || "?"}`;
-    const loop = item.clinical_loop_stage || "Clinical Loop 训练记录";
-    const parent = item.parent_case_id ? `连续病例：${item.parent_case_id}` : "独立训练病例";
+    const chineseItem = localizeValue(item);
+    if (chineseItem.status !== "training_log") return chineseItem;
+    const weekDay = `第 ${chineseItem.week || "?"} 周 · 第 ${chineseItem.day || "?"} 天`;
+    const loop = chineseItem.clinical_loop_stage || "临床闭环训练记录";
+    const parent = chineseItem.parent_case_id ? `连续病例：${chineseItem.parent_case_id}` : "独立训练病例";
     return {
-      ...item,
+      ...chineseItem,
       status: "approved",
       source_status: "training_log",
-      acuity: item.acuity || "V2训练记录",
-      title: `${weekDay}｜${item.title || "临床训练"}`,
-      chief_complaint: item.chief_complaint || item.assessment || loop,
-      learning_goal: [item.learning_goal, `Clinical Loop：${loop}`, parent].filter(Boolean).join("\n"),
-      red_flags: item.critical_errors || item.red_flags || [],
-      source_type: "VET Clinical OS V2.0 每日训练",
-      source: `data/cases.json · ${item.id}`,
-      evidence_grade: item.evidence_grade || "教学训练记录",
-      estimated_minutes: item.estimated_minutes || 35
+      acuity: chineseItem.acuity || "V2 训练记录",
+      title: `${weekDay}｜${chineseItem.title || "临床训练"}`,
+      chief_complaint: chineseItem.chief_complaint || chineseItem.assessment || loop,
+      learning_goal: [chineseItem.learning_goal, `临床闭环：${loop}`, parent].filter(Boolean).join("\n"),
+      red_flags: chineseItem.critical_errors || chineseItem.red_flags || [],
+      source_type: "本工作台 V2.0 每日训练",
+      source: `本地病例库 · ${chineseItem.id}`,
+      evidence_grade: chineseItem.evidence_grade || "教学训练记录",
+      estimated_minutes: chineseItem.estimated_minutes || 35
     };
   });
 
@@ -193,6 +213,10 @@
   }
 
   document.addEventListener("DOMContentLoaded", () => {
+    const stamp = document.getElementById("data-stamp");
+    if (stamp) {
+      stamp.textContent = frontendCases.length ? `已加载 ${frontendCases.length} 例训练病例` : '病例库加载失败';
+    }
     enhanceCaseBank();
     renderImagingLibrary();
     const grid = document.getElementById("case-grid");

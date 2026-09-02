@@ -71,7 +71,7 @@
       <p class="lead">${escapeHtml(item.chief_complaint || '暂未提供主诉。')}</p>
       <p class="muted">${escapeHtml(item.clinical_loop_stage || item.learning_goal || '')}</p>
       <div class="grid two" style="margin-top:14px">
-        <article class="card"><h3>已有资料</h3><p><strong>体检/发现</strong></p>${asList(item.findings, '本节点暂未提供体检资料。')}<p><strong>问题清单</strong></p>${asList(item.problem_list, '本节点进入训练后需要由你建立 Problem List。')}</article>
+        <article class="card"><h3>已有资料</h3><p><strong>体检/发现</strong></p>${asList(item.findings, '本节点暂未提供体检资料。')}<p><strong>问题清单</strong></p>${asList(item.problem_list, '本节点进入训练后需要由你建立问题清单。')}</article>
         <article class="card"><h3>检查资料</h3>${asList(diagnosticEntries, '本节点尚未释放检查结果；请在模拟接诊中决定是否申请检查。')}</article>
       </div>
       <div class="grid two" style="margin-top:14px">

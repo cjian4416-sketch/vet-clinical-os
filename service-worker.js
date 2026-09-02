@@ -1,5 +1,5 @@
-const CACHE_NAME = "vet-clinical-os-v15";
-const APP_SHELL = ["./", "./index.html", "./data.js", "./data/cases.json", "./data/imaging.json", "./data/pubmed-intake.json", "./owner-dialogue.js", "./practice-center.js", "./workflow.js", "./review-library.js", "./case-study.js", "./learning-resources.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg", "./assets/imaging/feline-asd-vsd-thoracic-dr-fig1.jpg"];
+const CACHE_NAME = "vet-clinical-os-v17";
+const APP_SHELL = ["./", "./index.html", "./data.js", "./data/cases.json", "./data/imaging.json", "./data/pubmed-intake.json", "./owner-dialogue.js", "./practice-center.js", "./workflow.js", "./review-library.js", "./case-study.js", "./learning-resources.js", "./chinese-ui.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg", "./assets/imaging/feline-asd-vsd-thoracic-dr-fig1.jpg"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
