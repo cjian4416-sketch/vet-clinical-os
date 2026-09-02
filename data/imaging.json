@@ -19,6 +19,24 @@
       "source": "Kim M, et al. Frontiers in Veterinary Science, 2024, PMCID: PMC10808648",
       "license": "CC BY",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10808648/"
+    },
+    {
+      "id": "VET-IMG-002",
+      "status": "approved",
+      "modality": "DR",
+      "species": "猫",
+      "patient": "7月龄斯芬克斯猫",
+      "system": "胸部 / 心血管",
+      "acuity": "急症",
+      "title": "猫胸部 DR：呼吸急促与心影增大",
+      "clinical_context": "呼吸窘迫、运动不耐受；心率 200 次/分，肺部可闻及爆裂音。初诊胸片后需先判断是否存在肺水肿及是否需要优先稳定。",
+      "image": "assets/imaging/feline-asd-vsd-thoracic-dr-fig1.jpg",
+      "image_caption": "原文图 1：A/C 为初诊右侧位和 VD 位；B/D 为 8 个月后随访。图中保留原作者 A–D 标记；训练时先只看 A/C，再与 B/D 比较。",
+      "task": "先仅判读 A/C：确认片位、心影大小与形态、肺野模式和是否有胸腔积液；写出 Problem List、优先鉴别与“先稳定还是先进一步检查”的理由，再显示随访片和原文判读。",
+      "interpretation": "初诊 A/C 可见全心性心影增大、心影右移、双侧前/后肺叶肺泡性浸润，并有肝大；原文将其与心源性肺水肿相符。超声和心电图随后证实 ASD 与 VSD 并合并肺高压。随访 B/D 显示心影缩小、肺水肿未复发，但不能仅凭影像改善就判定基础疾病痊愈。",
+      "source": "Lee J, et al. Frontiers in Veterinary Science, 2025, PMCID: PMC12673618",
+      "license": "CC BY",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12673618/"
     }
   ]
 }
