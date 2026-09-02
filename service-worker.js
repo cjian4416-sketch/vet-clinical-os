@@ -1,4 +1,4 @@
-const CACHE_NAME = "vet-clinical-os-v17";
+const CACHE_NAME = "vet-clinical-os-v18";
 const APP_SHELL = ["./", "./index.html", "./data.js", "./data/cases.json", "./data/imaging.json", "./data/pubmed-intake.json", "./owner-dialogue.js", "./practice-center.js", "./workflow.js", "./review-library.js", "./case-study.js", "./learning-resources.js", "./chinese-ui.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg", "./assets/imaging/feline-asd-vsd-thoracic-dr-fig1.jpg"];
 
 self.addEventListener("install", (event) => {
