@@ -3,7 +3,6 @@
     try {
       const xhr = new XMLHttpRequest();
       xhr.open("GET", path + "?v=" + Date.now(), false);
-      xhr.setRequestHeader("Cache-Control", "no-cache");
       xhr.send(null);
       if (xhr.status >= 200 && xhr.status < 300) return JSON.parse(xhr.responseText);
     } catch (error) {
@@ -12,20 +11,12 @@
     return fallback;
   }
 
-  const rawCatalog = loadJson("data/cases.json", {
-    schema_version: "2.0",
-    updated_at: null,
-    evidence_policy: "病例数据加载失败。",
-    cases: []
-  });
-
+  const rawCatalog = loadJson("data/cases.json", { schema_version: "2.0", updated_at: null, evidence_policy: "病例数据加载失败。", cases: [] });
   const frontendCases = (rawCatalog.cases || []).map((item) => {
     if (item.status !== "training_log") return item;
-
     const weekDay = `Week ${item.week || "?"} · Day ${item.day || "?"}`;
     const loop = item.clinical_loop_stage || "Clinical Loop 训练记录";
     const parent = item.parent_case_id ? `连续病例：${item.parent_case_id}` : "独立训练病例";
-
     return {
       ...item,
       status: "approved",
@@ -42,18 +33,11 @@
     };
   });
 
-  const catalog = {
-    ...rawCatalog,
-    cases: frontendCases
-  };
+  const catalog = { ...rawCatalog, cases: frontendCases };
+  const intake = loadJson("data/pubmed-intake.json", { source: "PubMed E-utilities", updated_at: null, policy: "Pending records are never used in daily training until manually structured and approved.", records: [] });
+  const imaging = loadJson("data/imaging.json", { schema_version: "1.0", updated_at: null, cases: [] });
 
-  const intake = loadJson("data/pubmed-intake.json", {
-    source: "PubMed E-utilities",
-    updated_at: null,
-    policy: "Pending records are never used in daily training until manually structured and approved.",
-    records: []
-  });
-
-  window.VET_CLINICAL_DATA = { catalog, intake };
+  window.VET_CLINICAL_DATA = { catalog, intake, imaging };
   window.VET_CASE_SOURCE = "data/cases.json";
+  window.VET_IMAGING_SOURCE = "data/imaging.json";
 })();
