@@ -1,4 +1,4 @@
-const CACHE_NAME = "vet-clinical-os-v9";
+const CACHE_NAME = "vet-clinical-os-v10";
 const APP_SHELL = ["./", "./index.html", "./data.js", "./data/cases.json", "./data/imaging.json", "./data/pubmed-intake.json", "./owner-dialogue.js", "./practice-center.js", "./workflow.js", "./manifest.webmanifest", "./icons/app-icon.svg", "./assets/imaging/canine-pneumoperitoneum-fig1.jpg"];
 
 self.addEventListener("install", (event) => {

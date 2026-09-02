@@ -60,7 +60,13 @@
   }
 
   function isNewCase(item) {
-    return localDateKey(item.approved_at || item.ingested_at || item.created_at) === todayKey();
+    const explicitDate = item.approved_at || item.ingested_at || item.created_at;
+    if (localDateKey(explicitDate) === todayKey()) return true;
+
+    // V2 daily-training nodes were added as one audited catalog batch. They
+    // have no individual ingest timestamps, so use the catalog batch date
+    // only for that update day rather than permanently calling them new.
+    return item.source_status === "training_log" && localDateKey(rawCatalog.updated_at) === todayKey();
   }
 
   function enhanceCaseBank() {
@@ -68,6 +74,12 @@
     if (!grid) return;
     const cards = [...grid.querySelectorAll(".case[data-id]")];
     if (!cards.length) return;
+
+    const newCount = frontendCases.filter(isNewCase).length;
+    const counter = document.getElementById("casebank-count");
+    if (counter && newCount) {
+      counter.textContent = `${counter.textContent} · 今日新入库 ${newCount} 例`;
+    }
 
     cards.forEach((card) => {
       if (card.dataset.v2Enhanced === "1") return;
