@@ -1,14 +1,24 @@
 {
   "source": "PubMed E-utilities",
-  "query": "\"case reports\"[Publication Type] AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-08-15T13:20:22.628870+00:00",
-  "policy": "Pending records are never used in daily training until manually structured and approved.",
+  "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
+  "updated_at": "2026-09-07T06:31:04.321966+00:00",
+  "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "42556180",
+      "title": "Histopathological findings and staining performance in cutaneous nodules from a cat with Leishmania amazonensis infection.",
+      "journal": "Veterinary parasitology",
+      "publication_date": "2026-08",
+      "abstract": "Cutaneous leishmaniasis (CL) is a zoonotic disease with wide geographic distribution and significant public health impact. In Brazil, the main etiological agents are Leishmania braziliensis and Leishmania amazonensis. In animals, the disease usually presents as a chronic condition characterized by poorly healing skin lesions, oral and ocular involvement, and cutaneous nodules, most commonly affecting the head and neck regions. Diagnosis may be achieved using molecular techniques, immunohistochemistry, cytology, histopathology, and culture. Despite the endemic nature of CL in several regions, histopathological descriptions of the disease in felines remain scarce. This study aimed to describe the histopathological features of cutaneous nodular tissue parasitized by amastigote forms of Leishmania amazonensis in a domestic cat, using different histological staining protocols to compare the performance of different histological staining protocols in this case. A fragment of cutaneous nodular tissue was subjected to routine histological processing and stained with hematoxylin and eosin (H&E), periodic acid-Schiff (PAS), fast green, Fontana-Masson, and Mallory's trichrome. Histological evaluation was performed using photomicrographs obtained from five microscopic fields. Among the evaluated staining techniques, hematoxylin and eosin appeared to provide the best visualization and differentiation of amastigote forms from surrounding tissue structures in the evaluated tissue. The evaluated sections showed moderate lymphoplasmacytic dermal infiltrates and numerous macrophages with cytoplasm filled with amastigotes. Special stains yielded variable contrast, with fast green and Mallory's trichrome allowing reasonable differentiation, while Fontana-Masson showed limited diagnostic utility.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556180/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "42264194",
       "title": "Clinical manifestations and management of Androctonus bicolor envenomation in a dog: A previously undescribed clinical case.",
       "journal": "Toxicon : official journal of the International Society on Toxinology",
-      "publication_date": "2026-Oct-01",
+      "publication_date": "2026-06",
       "abstract": "The black fat tailed scorpion (Androctonus bicolor) is one of the most venomous native scorpion species in Israel. Its venom induces widespread autonomic overstimulation, resulting in severe cardiovascular, respiratory, and neuromuscular manifestations. Veterinary scorpion envenomation reports are scarce, and Canine Androctonus bicolor envenomation remains undocumented in the literature. A 10-year-old male dog was presented three hrs. following a witnessed Androctonus bicolor envenomation. Immediate clinical signs included dyspnea, hypersalivation, and collapse. The scorpion was identified by the Israeli Nature and Parks Authority. On presentation, the dog was non-ambulatory, and tachypneic. A small puncture wound was observed over the right hind paw. Immediate treatment included analgesia, antihistamine, and intravenous fluids. The dog developed nystagmus, muscle spasms, and generalized hypertonicity with tachycardia and high systolic blood pressure. Midazolam and phenobarbital were required to achieve muscle relaxation. Three days post admission the dog presented marked clinical improvement and was discharged, however, five days after discharge, the dog was re-presented with tremors, inappetence, hematochezia, hyperthermia, mild tachycardia with occasional ventricular premature complexes, and labored breathing. Bloodwork revealed an elevated C-reactive protein concentration and mild increased pancreatic lipase activity, consistent with systemic inflammation and mild pancreatitis. Supportive therapy was instituted, and clinical improvement was observed within 24 hours from the second admission. The dog was discharged and remained well. This is the first documented case of Androctonus bicolor envenomation in a dog. It highlights the prominent neurological and autonomic manifestations associated with this species in a canine patient, and importantly, identifies concurrent pancreatitis as a newly recognized potential sequela in veterinary patients.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42264194/",
       "status": "pending_review",
@@ -18,11 +28,311 @@
       "pmid": "42086106",
       "title": "Pleural effusion associated with Strongyloides stercoralis hyperinfection in a splenectomised dog.",
       "journal": "Parasitology international",
-      "publication_date": "2026-Oct",
+      "publication_date": "2026-05",
       "abstract": "Strongyloides stercoralis is a soil-transmitted helminth that is increasingly reported in dogs across Europe. While most infections are subclinical, hyperinfection syndrome, marked by excessive larval proliferation and systemic spread, can occur in immunocompromised hosts. An 11-year-old male Boston Terrier dog, originating from southern France with a history of chronic diarrhoea and recent splenectomy was presented with severe regenerative anaemia, thrombocytopenia, and a degenerative left shift. Haemotropic Mycoplasma haemocanis infection was diagnosed, and doxycycline therapy was initiated. During hospitalisation, the dog developed dyspnoea, pneumonia, and progressive pleural effusion containing motile nematode larvae. Strongyloides stercoralis infection was diagnosed by morphological identification of larvae in pleural effusion (third-stage larvae) and faeces (first- and third-stage larvae) and confirmed by PCR targeting mitochondrial cox1 and nuclear 18S rDNA hypervariable regions (HVR) I and IV), followed by sequencing, which revealed the haplotypes HP16 (cox1), VI (HVR-I) and A (HVR-IV). The HVR-IV haplotype A is found in both dogs and humans, characterizing the zoonotic population of S. stercoralis. Respiratory signs worsened despite combined fenbendazole and escalating ivermectin treatment, requiring euthanasia. Post-mortem examination revealed chronic granulomatous pneumonia, a pulmonary carcinomatous nodule, lymphoplasmacytic enterocolitis, and glomerulonephritis. This case represents the first report of S. stercoralis hyperinfection in an adult splenectomised dog. It highlights the importance of including strongyloidiasis in differential diagnoses of dogs with respiratory and gastrointestinal signs, particularly in animals with compromised immunity or relevant travel history.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42698121",
+      "title": "Eosinophilic Cerebrospinal Fluid Pleocytosis in A Dog With Hypertrophic Pachymeningitis and Generalized Eosinophilic Disease.",
+      "journal": "Veterinary clinical pathology",
+      "publication_date": "2026-09",
+      "abstract": "An 8-year-old Whippet crossbreed was presented with a month's history of collapsing episodes and altered mentation. Clinical improvement was noted upon administration of prednisolone prior to referral. Neurologic examination was compatible with a multifocal intracranial disease. Magnetic resonance imaging revealed thickening of the dura mater around the left parietal and temporal cerebral cortex, left piriform lobe, and cerebellar hemispheres. Cerebrospinal fluid (CSF) analysis revealed marked eosinophilic pleocytosis with increased protein concentration. Infectious diseases were ruled out. Thoracic and abdominal imaging did not reveal any significant abnormalities. The dog was euthanized 4 days after diagnosis. Post-mortem examination revealed diffuse, severe, subacute to chronic eosinophilic pachymeningitis and generalized eosinophilic disease. Eosinophilic CSF pleocytosis has been reported in a number of inflammatory (sterile and infectious) and neoplastic canine encephalopathies. To the best of our knowledge, eosinophilic pleocytosis has not been reported in cases of hypertrophic pachymeningitis in dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698121/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42697729",
+      "title": "Dermal chondrosarcoma in a cat with prolonged survival after limb amputation.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-09",
+      "abstract": "A 5-year-old male entire domestic shorthair cat presented with a firm dermal mass on the dorsal left metatarsal region. Diagnostic investigations included haematology, biochemistry, urinalysis, biopsy, histopathology and computed tomography staging. Histopathology of the tissue biopsy, including immunohistochemistry, confirmed a dermal chondrosarcoma (CSA), and computed tomography supported an extraskeletal origin. Pretreatment staging did not identify metastatic disease. Curative-intent limb amputation was therefore performed, resulting in tumour-free surgical margins. No adjuvant treatment was used. The cat underwent regular reevaluation for 3 years and remained free of local recurrence or metastatic disease. Dermal CSA is rarely reported in cats, and information regarding biological behaviour and outcome is limited. This patient experienced long-term control, demonstrating that with complete surgical excision alone, extraskeletal CSAs can have a favourable outcome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697729/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42697716",
+      "title": "Airway leakage due to intratracheal malpositioning of an oesophageal temperature probe in an anaesthetised dog.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-09",
+      "abstract": "A 10-year-old, 16.2-kg male neutered Beagle under general anaesthesia developed an airway leak following blind insertion of an oesophageal temperature probe. Before probe placement, anaesthesia was uneventful. Intubation was performed with a high-volume, low-pressure cuffed endotracheal tube. Immediately after probe placement, capnographic morphology transitioned from a normal rectangular waveform to a low-amplitude, triangular trace consistent with airway leakage. Repeated cuff inflation did not resolve the capnographic abnormalities. Reintubation revealed inadvertent tracheal placement of the temperature probe, which had presumably disrupted the cuff seal. Capnography normalised following reintubation and the procedure was completed uneventfully. This case report describes the malpositioning of an oesophageal temperature probe intratracheally, resulting in airway leakage in an anaesthetised dog. Sudden changes in capnographic waveform or a marked reduction in expected temperature following probe insertion should prompt consideration for oesophageal temperature probe malposition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697716/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42696223",
+      "title": "Noninvasive malignant mammary adenomyoepithelioma in a male cat.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-09",
+      "abstract": "This report describes the histopathological and immunohistochemical findings of a noninvasive malignant mammary adenomyoepithelioma in a seven-year-old neutered male mixed-breed cat. The animal was euthanized due to an extensive mandibular fracture caused by squamous cell carcinoma. Macroscopically, a 3 × 1.5 cm, elevated, well-defined, ulcerated, lobulated, reddish-white, solid - occasionally cystic - and firm nodule was observed in the right inguinal mammary gland. Microscopically, an expansive neoplastic proliferation composed of myoepithelial and epithelial cells arranged predominantly in a papillary pattern was observed. Immunohistochemistry was performed for the markers C-Kit, pan-cytokeratin (CK-AE1/AE3), cytokeratin 7 (CK7), P63, estrogen receptor (ER), progesterone receptor (PR), Ki67, cyclooxygenase-2 (Cox-2), and GATA3. The neoplastic cells were positive for CK AE1/AE3 and 7 (epithelial cells), P63 (myoepithelial cells), Cox-2 (epithelial and myoepithelial cells), and PR (epithelial cells). Positive results for CK-AE1/AE3, CK7, and P63 confirmed the epithelial and myoepithelial nature of the tumor, the mitotic index and elevated Ki-67 expression supported the interpretation of a malignant proliferative phenotype and contributed to the classification of the lesion as a noninvasive malignant adenomyoepithelioma. Based on the macroscopic, microscopic, and immunohistochemical findings, a diagnosis of noninvasive malignant mammary adenomyoepithelioma was established.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696223/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42696055",
+      "title": "First case of Brucella suis biovar 1 infection in a dog in Switzerland.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-09",
+      "abstract": "As one of the most common zoonoses globally, brucellosis threatens not only animals but also humans with Brucella (B.) melitensis, B. abortus and B. suis biovar 1&3, being more virulent for humans than B. canis, B. ovis and B. suis biovar 2. Canine brucellosis is caused mainly by B. canis, however, B. suis infections in dogs have been reported sporadically in Europe and more frequently in Australia. B. suis infection in dogs is mainly associated with hunting or wild-animal exposure and rarely with consumption of commercial raw meat products. In Switzerland, B. canis is sporadically diagnosed in dogs and B. suis biovar 2 is present in wild boar and brown hare. We report a case of brucellosis in a dog from Switzerland, neither having a history of hunting nor travel-associated risk of exposure. The intact male dog showed clinical signs (fever and epididymitis) consistent with brucellosis, which was confirmed by culture and molecular methods in urine and by serological methods. Culture and subsequent whole genome sequencing revealed the isolate as B. suis biovar 1, ST-14. The most closely related strain was shown to be a strain isolated in 2021 from a dog in Germany. Based on the lack of any previous report, infection by B. suis in dogs has not previously been diagnosed in Switzerland. This case highlights the need for vigilance regarding this less expected pathogen of high zoonotic importance in dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696055/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42457553",
+      "title": "Disseminated nocardiosis in a Japanese raccoon dog (Nyctereutes procyonoides viverrinus).",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-07",
+      "abstract": "A captive male Japanese raccoon dog died after self-mutilation by biting its tail and developing anorexia. At necropsy, ulceration of the tail root and pelvic region, an abdominal mass, multifocal nodules in the lungs, and thrombi in the heart were observed. Histopathological examinations revealed multifocal pyogranulomatous inflammation in the lungs, abdominal mass, spleen, brain, liver, and kidneys. Gram-positive bacterial aggregates were observed in the lungs, abdominal mass, and spleen. These organisms were partially acid-fast and periodic acid-Schiff-positive, and branching filaments were observed on Grocott's methenamine silver staining. Nocardia aobensis was identified in the abdominal mass by PCR and sequence analysis. These findings suggest that N. aobensis should be considered a potential cause of disseminated pyogranulomatous disease in animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457553/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42693554",
+      "title": "Two Cases of Feline Hepatosplenic Cytotoxic T-Cell Lymphoma With Hemophagocytosis.",
+      "journal": "Veterinary clinical pathology",
+      "publication_date": "2026-09",
+      "abstract": "This report describes the clinical courses of two cats with hepatosplenic cytotoxic T-cell lymphoma (TCL) with tumor-cell hemophagocytosis (THP). Both cats presented with pancytopenia and marked splenomegaly with a honeycomb pattern on ultrasonography. Cytology of splenic aspirates revealed large atypical lymphocytes with phagocytosis of erythrocytes and leukocytes. Immunohistochemical analysis revealed positive staining for CD3 and granzyme B. Bone marrow analysis revealed preserved trilineage hematopoiesis without apparent evidence of neoplastic infiltration. In Case 1, the cat was treated with prednisolone, L-asparaginase, and a CHOP-based chemotherapy protocol, resulting in temporary improvement. However, the cat died suddenly on day 88, with necropsy revealing pulmonary fibrosis. In Case 2, early splenectomy followed by CHOP chemotherapy led to sustained clinical improvement and longer-term disease control. Despite relapse on day 65, the cat responded to rescue therapy with L-asparaginase and ACNU and survived until day 278. These cases highlight the clinical and pathological features of 2 cases of feline hepatosplenic cytotoxic TCL with THP and suggest that splenectomy may play a role in improving clinical stability by suppressing hemophagocytic activity. A multimodal approach incorporating surgery and chemotherapy may be considered as a therapeutic option for hepatosplenic cytotoxic TCL with THP.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693554/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42687429",
+      "title": "Serum Baclofen Concentrations in Four Dogs With Baclofen Toxicosis Treated With In-Series Carbon Hemoperfusion and Hemodialysis.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-09",
+      "abstract": "To report serum baclofen concentrations before, during, and after in-series carbon hemoperfusion (cHP) and hemodialysis (HD) in four dogs with severe baclofen toxicosis. This series involves four dogs with serum samples collected before, during, and after in-series cHP/HD. The extraction ratio (ER, %) of cHP and HD, half-life during cHP/HD, and total extracorporeal elimination constant were calculated. Posttreatment samples were collected to determine endogenous half-life and intrinsic elimination constant. Two dogs received both cHP/HD and mechanical ventilation, while the other two received cHP/HD alone. The range of ingested dosages was 4-24 mg/kg. The median time from suspected ingestion to cHP/HD initiation was 7 h (range: 5-15 h). Extracorporeal therapy was performed using an intermittent hemodialysis platform in two cases and a continuous renal replacement therapy platform in two cases. The median duration of cHP/HD was 3 h (range: 2.2-4 h), with a median total blood volume processed of 1.3 L/kg (range: 1-1.5 L/kg), equating to 15 times (range: 12-18.2 times) the estimated blood volume (80 mL/kg) in dogs. Serum baclofen concentration was reduced during cHP/HD by a median 69% (range: 46%-80%). The median ER for cHP was 61% (range: 60%-81%) and for HD was 4% (range: -0.5% to 11.5%). The calculated half-life during cHP/HD was 1.9 h (range: 1.1-2.5 h), compared with 5.8 h (range: 3.1-13.6 h) after cHP/HD. The median extracorporeal elimination constant was 0.34 (range: 0.08-0.37), which was 2.8 times faster than the intrinsic elimination constant of 0.12 (range: 0.05-0.23). In-series cHP/HD reduced serum baclofen concentrations in this small series of dogs, highlighting its potential role in the treatment of severe baclofen intoxication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687429/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699830",
+      "title": "Systemic sterile nodular panniculitis associated with an intra-abdominal mass in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "A 12-year-old spayed female dog was referred because of recurrent febrile syndrome and palpable abdominal mass. Ultrasonography and contrast-enhanced computed tomography showed a non-parenchymal abdominal mass. Multiple deep subcutaneous nodules with mixed fluid- and fat-attenuating centers were identified on computed tomography. Surgical exploration revealed that the mass was located near the tip of the left uterine horn. The mass was removed and the subcutaneous nodules were sampled for analysis. Histology together with negative microbial cultures indicated sterile pyogranulomatous steatitis of both subcutaneous and intra-abdominal lesions. The dog was diagnosed with a sterile nodular panniculitis with atypical involvement of intra-abdominal fat and was managed with long-term glucocorticoid treatment. Key clinical message: Computed tomography can be helpful for detecting clinically non-palpable subcutaneous nodules in dogs that are presented with recurrent febrile syndrome. These nodules may correspond to sterile nodular panniculitis, particularly if exhibiting a fluid and fat component. Detection should prompt sampling. This disease may not be limited to the subcutaneous tissues, and a systemic form should be considered, especially when additional clinical abnormalities are present.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699830/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699822",
+      "title": "Endoscopic diode laser lysis of dorsal acquired glottic web and custom-made Silastic keel placement in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "Laryngeal web is a rare condition in dogs that can cause upper airway obstruction. Surgery is the treatment of choice to remove the glottic obstruction. In veterinary medicine, ventral laryngotomy has been described for resection of laryngeal webs. In humans, the endolaryngeal surgical approach consists of laser ablation of the glottic obstruction, followed by temporary placement of a protective keel onto the exposed arytenoid mucosa to prevent excessive granulation tissue formation and recurrence. In the present case, a dog with a dorsal acquired glottic web associated with obstructive dyspnea was successfully treated  via  transoral endoscopic lysis using a diode laser and temporary keel placement. The favorable outcome suggests the potential for broader application of this technique. Key clinical message: Diode laser ablation represents a minimally invasive technique for treatment of laryngeal web, a rare cause of laryngeal obstruction in dogs. Temporary keel placement may help prevent recurrence, which is frequently reported following web resection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699822/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699814",
+      "title": "Soft tissue sarcoma invasion of the humerus  via  the nutrient foramen in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "A 7-year-old castrated male dachshund dog was presented because of non-weight-bearing right thoracic limb lameness with a soft tissue mass of the proximal humerus. Orthogonal radiographs of the affected limb showed a region of geographic lysis and variable cortical thinning centered in the proximal humeral metaphysis. Differential diagnoses for these lesions included benign and malignant processes, including primary osseous neoplasia. Right forelimb amputation was conducted, and histopathologic assessment facilitated diagnosis of a grade II/intermediate-grade soft tissue sarcoma invading the proximal humerus  via  the nutrient foramen. No evidence of metastasis was present at the time of surgery. The dog recovered uneventfully following amputation and maintained a good quality of life for 15 mo after surgery. This report describes a unique presentation of a soft tissue sarcoma with osseous invasion, offering an alternative differential diagnosis for monostotic aggressive bone lesions. Key clinical message: This case report describes a unique presentation of a common canine neoplasm. Associated with a more positive prognosis than other primary osseous neoplasms, a soft tissue sarcoma could be considered a differential diagnosis for osseous lesions with soft tissue masses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699814/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699809",
+      "title": "Pericardial-diaphragmatic malformation with intrapericardial diaphragmatic eventration in a cat.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "A 3-month-old intact male domestic shorthair kitten was evaluated for progressive, recurrent pericardial effusion. Computed tomography (CT) showed marked pericardial effusion with diffuse pericardial thickening and an apparent incomplete pericardial closure. Portions of the left medial and quadrate liver lobes and the gallbladder protruded cranially into the pericardial space and were encased by a thick, contrast-enhancing fibrous layer. These findings were initially interpreted as atypical peritoneopericardial diaphragmatic hernia (PPDH). Due to acute clinical deterioration, the kitten was euthanized. Necropsy and histology confirmed severe necrotizing pericarditis and epicarditis, incomplete pericardial closure, and ventral midline diaphragmatic eventration with intrapericardial protrusion of liver and gallbladder. This collection of findings supported a diagnosis of diaphragmatic eventration, forming a fibrous cupola contiguous with the pericardium, which can mimic PPDH on imaging. Key clinical message: To the authors' knowledge, the combination of CT findings and histologic confirmation of diaphragmatic eventration with incomplete closure of the pericardium has not been previously reported. When CT shows a pericardium continuous with the diaphragm and a fibrous cupola encasing intrapericardial protruded abdominal organs, eventration should be included in the differential diagnosis, in addition to PPDH.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699809/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699405",
+      "title": "Primary vaginal T-cell lymphoma involving the cervix in 2 dogs.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "This report describes 2 cases of extremely rare primary vaginal T-cell lymphoma involving the cervix in dogs, diagnosed through comprehensive imaging, histopathological, and immunophenotypic evaluations. Case 1 involved a 12-year-old spayed female Shiba Inu dog that was presented with dyschezia and vulvar bleeding. Cytologic evaluation of fine-needle aspirates was nondiagnostic, necessitating tissue biopsy for definitive diagnosis. Computed tomography revealed a large vaginal mass with poor contrast enhancement and a uniformly hypodense internal structure. Chemotherapy with prednisolone, L-asparaginase, and lomustine resulted in temporary tumor regression; however, disease progression was noted by Day 50, and the dog died on Day 56. Case 2 involved a 10-year-old spayed female mixed-breed dog that was presented with dyschezia, dysuria, and hematuria. A CT scan revealed a large mass extending from the vaginal canal into the pelvic cavity. Cytologic evaluation was inconclusive. Surgical excision of the mass and urinary diversion was done, followed by chemotherapy with L-asparaginase, prednisolone, and lomustine. Despite these interventions, the clinical condition rapidly deteriorated, and the dog died on Day 44. Necropsy revealed widespread systemic dissemination of lymphoma and findings consistent with disseminated intravascular coagulation. These cases highlight the aggressive clinical behavior of this disease and underscore the importance of early histopathological diagnosis for appropriate therapeutic intervention. Key clinical message: Lymphoma should be considered as a differential diagnosis in dogs with primary vaginal masses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699405/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699384",
+      "title": "Presumptive congenital peritoneal encapsulation in a young mixed-breed dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "A 9-month-old female mixed-breed dog weighing 3.25 kg was referred for elective ovariohysterectomy. A previous attempt had been aborted when the abdominal organs appeared to be enclosed within an abnormal membranous structure. At surgery, the abdominal viscera visible within the operative field were covered by a thin, translucent membrane that could be bluntly dissected from the organ surfaces without hemorrhage. The excised membrane was submitted for histopathological analysis. Postoperative non-contrast computed tomography did not identify abnormal soft-tissue densities or displacement of abdominal organs. Histopathological analysis revealed coarse, fibro-collagenous tissue composed of interspersed, flattened spindle cells without a mesothelial lining and without inflammation. These findings supported a presumptive diagnosis of congenital peritoneal encapsulation, an extremely rare developmental anomaly. This case highlights the need to recognize this condition as a potential incidental finding during routine abdominal procedures in dogs. Key clinical message: Congenital peritoneal encapsulation should be considered when an unexpected membranous covering of abdominal viscera is encountered during routine abdominal surgery in a young dog. Recognition of this rare developmental anomaly may prevent unnecessary surgical intervention or premature abandonment of the procedure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699384/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699376",
+      "title": "Tranexamic acid resolved idiopathic renal hematuria in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "There is a lack of consistently effective noninvasive treatments for idiopathic renal hematuria (IRH) in dogs. This report describes a dog with IRH that had complete resolution of clinical signs after a 6-week treatment with the antifibrinolytic agent tranexamic acid (TXA). In this dog, macroscopic and microscopic hematuria remained absent after TXA was discontinued. Further, 16 mo later, the owner reported no noted recurrence of macroscopic hematuria. This report provides evidence that oral TXA therapy is a viable, noninvasive treatment option that may help manage some dogs with IRH. Key clinical message: Oral TXA therapy is a potential treatment option for dogs with IRH when other treatment modalities are unsuccessful or not possible.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699376/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42699370",
+      "title": "Single cortical positional screw for fixation of fibular head instability.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-09",
+      "abstract": "Fibular head instability is a rare, isolated injury in veterinary medicine, with no previous case reports in the veterinary literature. The fibular head is secured proximo-distally by the lateral collateral ligament and craniocaudally by the cranial and caudal fibular head ligaments. A 1-year-old, 26-kg, spayed female border collie mix dog was referred for chronic bilateral Salter Harris-II tibial tuberosity avulsion fractures. The dog was non-weight-bearing on the right pelvic limb, with pain and mobility localized to the right fibular head. Preoperative radiographs showed no fibular pathology. Intraoperatively, the cranial and caudal fibular head ligaments were completely torn, whereas the lateral collateral ligament remained intact. Open reduction and stabilization with a cortical positional screw was conducted. At the 8-week follow-up, the dog was sound at a walk, with a mild intermittent \"hitch\" at a trot. At 7 mo following surgery, the owner reported a return to high-energy activity. Key clinical message: This report documents the successful surgical repair of fibular head instability using a single cortical positional screw.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699370/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42689384",
+      "title": "Severe Hypernatraemia Secondary to Adipsia Associated With a Pituitary Macroadenoma in a Dog: A Case Report.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "Adipsia is a rare disorder characterised by absence of thirst despite hyperosmolality, resulting from dysfunction of the hypothalamic thirst centre. In veterinary medicine, most reported cases of adipsia are associated with congenital forebrain abnormalities, whereas acquired causes in adult dogs are uncommon. This report describes a 9-year-old neutered male mixed-breed dog presented with lethargy, anorexia, vomiting, recumbency, complete absence of voluntary water intake (adipsia) and intermittent tremors. Severe hypernatraemia (192 mmol/L) and hyperchloremia were identified on initial evaluation. Plasma aldosterone concentration was within the reference interval, excluding hyperaldosteronism. An ACTH stimulation test revealed hypercortisolemia, and abdominal ultrasonography demonstrated bilateral adrenal enlargement. Following controlled correction of hypernatraemia with intravenous fluid therapy, magnetic resonance imaging identified a pituitary macroadenoma occupying the sellar and suprasellar regions with mass effect toward the hypothalamus. Secondary adipsia due to hypothalamic compression was considered the most likely cause of hypernatraemia. Medical management with trilostane and cabergoline was initiated. Follow-up imaging demonstrated mild tumour reduction, and serum sodium concentrations remained stable with assisted water supplementation during nine months of follow-up. This case expands the recognised neurological manifestations of pituitary-dependent hyperadrenocorticism and highlights pituitary macroadenoma as a potential cause of acquired adipsia and severe hypernatraemia in geriatric dogs. Not applicable.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689384/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42685339",
+      "title": "A SINE-like insertion in intron 13 of the ATP7A gene is associated with a mild form of Menkes-like disease in a Cavalier King Charles Spaniel.",
+      "journal": "Journal of veterinary internal medicine",
+      "publication_date": "2026-Sep",
+      "abstract": "A 7-month-old intact male Cavalier King Charles Spaniel was presented for persistent glucosuria despite normoglycemia, failure to thrive, chronic diarrhea, and cerebellar ataxia. Fanconi syndrome was diagnosed, but the neurologic abnormalities were not fully explained. As a consequence of the early onset Fanconi syndrome, a hereditary process was suspected. Whole genome sequencing identified a private hemizygous SINE-like insertion into the ATP7A gene, at the end of intron 13, near the start of exon 14. In humans, variants in ATP7A are associated with Menkes disease, a disorder of copper metabolism associated with a spectrum of clinical signs including progressive neurodegeneration and connective tissue abnormalities. Clinically affected dogs with variants in ATP7A have not been reported previously. Although this case appears to represent a mild phenotypic presentation of Menkes-like disease, it raises the possibility that copper disorders aside from copper-associated hepatitis might exist in dogs. Further genetic screening and phenotypic characterization of rare genetic variants associated with copper metabolism would be beneficial to expand our knowledge of copper disorders in dogs and allow potential early intervention and modeling for metabolic diseases in humans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685339/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42679799",
+      "title": "H5N1 Clade 2.3.4.4b Infections in Domestic Cats During an Avian Influenza Outbreak in Italy: Implications for One Health Surveillance.",
+      "journal": "Influenza and other respiratory viruses",
+      "publication_date": "2026-Sep",
+      "abstract": "H5Nx goose/Guangdong (Gs/GD) lineage highly pathogenic avian influenza (HPAI) viruses pose a significant public health threat due to their global spread, mutation accumulation, and expanding host range. The descendant clade 2.3.4.4b has been causing widespread infections in birds and increasing spillover events in mammals. This report documents the first fatal case of highly pathogenic avian influenza virus (HPAIV) H5N1 clade 2.3.4.4b infection in a domestic cat in Italy, detected in early January 2025. The cat (CAT 1) resided on a backyard poultry farm experiencing a high pathogenicity avian influenza outbreak and succumbed rapidly following the onset of respiratory signs. A second exposed cat (CAT 2) developed clinical disease without fatal outcome. Comprehensive outbreak investigations were conducted, including pathological, serological, molecular analyses, and genomic characterization. Pathological examination of CAT 1 revealed acute necrotizing bronchointerstitial pneumonia, non-suppurative meningoencephalitis, and disseminated foci of hepatic necrosis. Interestingly, the PB2-E627K mutation associated with mammalian virus adaptation was observed in the feline viral isolate compared to avian isolates. Such polymerase complex mutations are key determinants of host range and increase pathogenicity in mammals. CAT 2 from the same farm tested negative for AIV genome detection but subsequently seroconverted for antibodies against NPA, H5, and N1. Sharing these findings is crucial for surveillance aimed at enabling early identification of increased risks to human and animal health, preventing cross-species viral transmission and mitigating the risk of potential spillover events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679799/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42678295",
+      "title": "Non-rim-enhancing intracranial abscess in a cat confirmed by MRI and histopathology.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-09",
+      "abstract": "PubMed 未提供摘要。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678295/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42675021",
+      "title": "Successful Treatment of Mycobacterium caprae Infection in Two UK Cats.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "A 4-year-old, male-neutered Savannah cat (Case 1) and a 3-year-old female-neutered British shorthair cat (Case 2) were each investigated for chronic coughing, lethargy and weight loss. Thoracic imaging revealed diffuse broncho-interstitial changes and multifocal soft-tissue nodules (Case 1), and two cavitating masses in the left lung (Case 2). Bronchoalveolar lavage cytology (BAL) in both cases identified macrophagic inflammation with acid-fast bacilli and was culture (Case 1) or PCR (Case 2) positive for Mycobacterium caprae. The cats were treated with 11 months (Case 1) and 9 months (Case 2) of triple antimicrobial therapy comprising pradofloxacin (5 mg/kg orally once every 24 h), rifampicin (10 mg/kg orally once every 24 h) and azithromycin (15 mg/kg orally once every 24 h). Both made complete clinical recoveries and radiographic improvement in the thoracic changes were static for 2 months prior to cessation of therapy. Both cats remain clinically well 12 and 10 months after cessation of treatment, respectively.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675021/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42671147",
+      "title": "Segmental Aplasia and Right Azygos Continuation of the Caudal Vena Cava in a Cat (Felis catus).",
+      "journal": "Anatomia, histologia, embryologia",
+      "publication_date": "2026-Sep",
+      "abstract": "Segmental aplasia of the caudal vena cava is a rare variant, primarily reported in dogs. We describe herein a cat with this anomaly. The caudal vena cava was formed by confluence of the right and left common iliac veins and a common trunk of the right and left renal veins. The caudal vena cava continued to the right azygos vein and joined into the cranial vena cava. A confluence of hepatic veins drained into the right atrium as in the normal caudal vena cava. Detailed reports of venous variations are important for providing appropriate veterinary care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671147/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42667639",
+      "title": "Blue‒Green Neutrophilic Inclusions in a Cat With Severe Hepatocellular Injury.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "A 5-year-old female spayed domestic long-haired cat presented with fever, lethargy and inappetence. Haematologic evaluation revealed mild neutrophilia with a regenerative left shift and moderate thrombocytopenia. A review of a peripheral blood smear identified a moderate number of blue‒green neutrophilic inclusions. Further characterisation revealed that these inclusions exhibited broad-spectrum autofluorescence, were negative for Prussian blue staining, and were positive for Sudan Black staining. Biochemical analysis demonstrated severe acute hepatocellular injury characterised by markedly increased alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activities with mild hyperbilirubinemia. Following hospitalisation and supportive care, the cat showed clinical improvement. The cat was alive on Day 279 follow-up with normal ALT and AST values.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667639/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42667638",
+      "title": "A Rare Case of Cutaneous Infection by Corynascus verrucosus in a Shih Tzu Dog: Molecular Identification and Phylogenetic Analysis.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "Fungal infections are important causes of dermatological disease in companion animals and may involve a diverse range of clinically relevant fungal pathogens. Accurate identification of the causative agent is essential for appropriate diagnosis, treatment and assessment of potential zoonotic risks. This study aimed to characterize a fungal isolate from a canine cutaneous lesion in Tehran, Iran, using morphological, molecular and phylogenetic analyses. Skin scrapings were aseptically collected from a dog presenting with pruritus and scaling, using sterile techniques microscopic examination and fungal culture. Microbiological observations were inconclusive for species-level identification. Hence, target isolate was subjected to PCR amplification of the internal transcribed spacer (ITS) region using ITS1 and ITS4 universal primers. The ITS1-5.8S rDNA-ITS2 region was successfully amplified and sequenced using the universal ITS1 and ITS4 primers, and the sequence was deposited in the NCBI GenBank (PV082530). BLAST analysis showed 99.36% nucleotide similarity to a reference sequence of Corynascus verrucosus. In the maximum likelihood analysis placed the Iranian isolate within the broader Corynascus lineage, clustering closely with C. verrucosus reference sequences from different geographic regions. Morphological findings, particularly large, round, verrucose conidia, supported the molecular identification. Overall, the combined morphological, molecular and phylogenetic findings supported identification as C. verrucosus. This case highlights the occurrence of an uncommon C. verrucosus isolate in a canine cutaneous lesion and demonstrates the value of integrating morphological, molecular, and phylogenetic approaches for fungal identification. The findings also emphasize the importance of cautious interpretation of molecular data when closely related fungal taxa show high sequence similarity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667638/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42667636",
+      "title": "Proliferative Sparganosis Due to Spirometra mansoni in a Dog: A Detailed Diagnostic Picture.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "A young Blue Heeler presented for abdominal distension and weight gain, without a history of raw feeding or travel outside the western suburbs of Melbourne, Victoria, Australia. Abdominal ultrasound noted innumerable small anechoic oval cystic structures scattered throughout the peritoneal cavity and suspended in a large volume of echogenic peritoneal effusion. Subsequent diagnostics, including computed tomography, exploratory laparotomy, histopathology and molecular testing, confirmed the structures were Spirometra mansoni plerocercoids, and the patient was diagnosed with proliferative sparganosis. Despite treatment, the animal's health rapidly declined and was euthanised three weeks later. The postmortem revealed extensive diffuse severe granulomatous peritonitis with fibrinous adhesions throughout the peritoneal cavity. Proliferative sparganosis is a rare and devastating parasitic condition resulting from asexual replication of Spirometra spp. larvae within body cavities or organs. This article provides a detailed diagnostic picture of canine peritoneal proliferative sparganosis and is the first report describing the ultrasonographic findings of this condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667636/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42661154",
+      "title": "Transconjunctival Orbitotomy as Surgical Management of an Orbital Lipoma in a Dog.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Sep",
+      "abstract": "Orbital lipomas are rare in dogs and may pose diagnostic and surgical challenges. This report describes the case of a 14-year-old female Border Collie presenting chronic exophthalmos caused by a retrobulbar mass. On ophthalmic examination, the animal maintained bilateral vision despite chronic exposure of the right ocular surface. Computed tomography revealed a retrobulbar mass with density compatible with adipose tissue. Cytological examination was performed as a screening test and supported the diagnostic suspicion. An anterior subconjunctival orbitotomy was performed, ensuring preservation of the dog's eye and vision. Cytology and histopathological examination, correlated with the clinical history, confirmed the diagnosis of an orbital lipoma. This case highlights the importance of advanced imaging for surgical planning and supports the use of minimally invasive orbitotomy techniques for selected benign orbital lesions, prioritizing functional and aesthetic preservation of the eye.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661154/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42656136",
+      "title": "Clinical Case and Follow-Up of Babesia banethi Infection in a Red Fox.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "Red foxes play an important role in the circulation of ticks and tick-borne pathogens, including Babesia spp. While for Babesia vulpes many studies are available on its epidemiology in fox populations as well as pathogenicity in dogs, no data are reported for the recently described Babesia banethi infecting red foxes. Here we describe the clinical and parasitological follow-up of a naturally occurring B. banethi infection in a red fox from southern Italy. An adult male fox presented with severe debilitation, weight loss, pale mucous membranes, brown discolouration of urine and sarcoptic mange. Haematological examination revealed regenerative anaemia associated with left-shift neutrophilia and lymphocytosis. Blood smear examination showed intraerythrocytic inclusions morphologically consistent with small piroplasmids, and PCR amplification and sequencing of the 18S rDNA gene confirmed infection with B. banethi. Screening for other vector-borne pathogens scored negative. Treatment with imidocarb dipropionate resulted in temporary clinical and haematological improvement but persistence of PCR positivity and later relapse of parasitaemia and clinical signs. Subsequently, treatment with atovaquone/proguanil combined with azithromycin led to marked clinical recovery and disappearance of parasites at blood smear examination, although PCR positivity persisted for several months. A second therapeutic course resulted in both cytological and molecular negativity. This longitudinal case report provides the first detailed account of the clinical course, therapeutic response and long-term parasitological follow-up of B. banethi infection in a red fox, suggesting that this piroplasm might cause clinically relevant and persistent infection, yet further validation of this hypothesis on a larger number of clinical cases is advocated. Not applicable.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42656136/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42642988",
+      "title": "Head and Neck CT Lymphangiography in a Dog With Cutaneous Lymphangiosarcoma.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Sep",
+      "abstract": "A 9-year-old neutered male Australian Cattle Dog presented for severe, extensive, and progressive swelling of the neck and face. CT lymphangiography (CTL) of the head and neck demonstrated cervical lymphedema with imaging features of mid-cervical lymphatic obstruction, regional lymphatic leakage, and local lymphadenopathy. A final diagnosis of lymphangiosarcoma was obtained by histopathology, postulated to be the origin of the lymphatic obstruction. To the author's knowledge, this is the first description of a head and neck CTL as an aid in the diagnosis of lymphangiosarcoma in a dog.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642988/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42625559",
+      "title": "Zygomatic Sialadenitis as a Rare Cause of Exophthalmos in a Dog.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Sep",
+      "abstract": "To describe the clinical presentation, diagnostic findings, and surgical management of zygomatic sialadenitis associated with retrobulbar disease in a dog following extensive dental extractions. A 10-year-old spayed female Cavalier King Charles Spaniel. The dog was evaluated for acute-onset right-sided exophthalmos that developed after a recent dental procedure involving 15 extractions. Ophthalmic examination identified marked exophthalmos, pain on opening of the mouth, lagophthalmos, and a superficial corneal ulcer. Computed tomography (CT) of the head was performed and revealed a tubular fluid-filled structure likely consistent with a retrobulbar abscess and right-sided zygomatic sialadenitis. Samples for cytology and culture were obtained. Initial medical management included intravenous fluids, broad-spectrum systemic antibiotics, analgesics, topical antibiotics, and ocular antihypertensive medications. Cytology revealed septic suppurative inflammation. Microbial culture identified Bacteroides pyogenes , an anaerobic organism not typically associated with antimicrobial resistance. Histopathology confirmed subacute zygomatic sialadenitis with associated cellulitis. Due to progressive clinical deterioration and vision loss, transpalpebral exenteration with zygomatic sialoadenectomy was performed. Postoperative recovery was uneventful, with complete resolution of periocular swelling and pain on follow-up examination. Zygomatic sialadenitis should be considered a differential diagnosis for retrobulbar disease in dogs, particularly when cases are refractory to medical management. In this case, persistent salivary secretions likely contributed to ongoing inflammation and clinical signs. Advanced imaging facilitated accurate diagnosis, and surgical removal of the affected gland was necessary for definitive resolution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625559/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42621794",
+      "title": "Multimodal Advanced Imaging and Long-Term Follow-Up of Peters Anomaly Type 2, With Presumed Lenticular Material in the Cornea, in a Scottish Terrier.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Sep",
+      "abstract": "To describe the clinical findings and advanced in vivo imaging features of a bilateral case of peters anomaly type 2 in a dog. An 8-week-old male scottish terrier presented with bilateral central corneal leukomas and was followed clinically for 3 years. Complete ophthalmic examination was performed at multiple time points. Ocular ultrasonography, optical coherence tomography (OCT), and in vivo confocal microscopy (IVCM) were performed under sedation at 37 weeks of age to further evaluate anterior segment structures obscured by corneal opacity. Both eyes displayed central leukoma and iridocorneal adhesions consistent with anterior segment dysgenesis. The left eye had a keratolenticular adhesion, progressive cataract formation, microphthalmia, goniodysgenesis, and secondary glaucoma. A defect involving the posterior corneal stroma, descemet's membrane, and endothelium, with extension of the keratolenticular adhesion into the mid-stroma was demonstrated in detail with OCT. Endothelial cell loss, endothelial polymegathism and pleomorphism, stromal fibrosis, vascularization, and multiple highly refractile structures within the mid-stroma consistent with presumed lenticular material were visualized with IVCM. The right eye had a mild central corneal leukoma and incipient cataract, with spontaneous separation of the keratolenticular adhesion and no further clinically significant abnormalities. This report documents peters anomaly type 2 in a dog using OCT and IVCM. Advanced imaging allowed detailed evaluation of anterior segment abnormalities that were not fully appreciable on clinical examination and revealed presumed lenticular remnants within the corneal stroma, a finding not previously described in veterinary medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42621794/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "42599763",
@@ -46,10 +356,10 @@
     },
     {
       "pmid": "42541109",
-      "title": "Canine dermatophytosis due to Arthroderma uncinatum: case report and diagnostic considerations.",
+      "title": "Canine dermatophytosis due to  Arthroderma uncinatum : case report and diagnostic considerations.",
       "journal": "Medical mycology case reports",
-      "publication_date": "2026-Sep",
-      "abstract": "This report describes a molecularly confirmed case of canine dermatophytosis caused by Arthroderma uncinatum in an 11-month-old English Setter from Southern Italy. The dog presented with two alopecic, erythematous, scaling lesions on the metacarpal and metatarsal regions. While routine microscopic examinations were inconclusive, dermatophyte culture yielded a fungal isolate identified as A. uncinatum by ITS sequencing. Topical 1% clotrimazole administered for three weeks resulted in complete clinical and mycological cure. This case documents an uncommon infection by a geophilic dermatophyte and expands veterinary knowledge of A. uncinatum-associated canine disease.",
+      "publication_date": "2026-07",
+      "abstract": "This report describes a molecularly confirmed case of canine dermatophytosis caused by  Arthroderma uncinatum  in an 11-month-old English Setter from Southern Italy. The dog presented with two alopecic, erythematous, scaling lesions on the metacarpal and metatarsal regions. While routine microscopic examinations were inconclusive, dermatophyte culture yielded a fungal isolate identified as  A. uncinatum  by ITS sequencing. Topical 1% clotrimazole administered for three weeks resulted in complete clinical and mycological cure. This case documents an uncommon infection by a geophilic dermatophyte and expands veterinary knowledge of  A. uncinatum -associated canine disease.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42541109/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
@@ -88,7 +398,7 @@
       "pmid": "42456220",
       "title": "Intra-house circulation and persistence of methicillin-resistant Staphylococcus pseudintermedius in Brazil: Evidence of transmission between a dog and its family.",
       "journal": "Veterinary microbiology",
-      "publication_date": "2026-Sep",
+      "publication_date": "2026-07",
       "abstract": "We investigated a case of postoperative osteomyelitis in a dog caused by methicillin-resistant Staphylococcus pseudintermedius (MRSP) at a veterinary teaching hospital in Brazil, and screened the cohabiting dog, five household members and the attending surgeon for MRSP and other methicillin-resistant staphylococci (MRS) during infection (2021) and two years later (2023). Nasal and skin swabs were cultured on oxacillin-supplemented media. Isolates were identified as MRSP by PCR and characterized by PFGE and whole-genome sequencing, including MLST, SCCmec typing, resistance gene profiling and core-genome SNP analysis. The index infection was caused by MRSP ST71-SCCmec II-III displaying multidrug resistance but amikacin susceptible; the dog was successfully treated with prolonged amikacin therapy combined with surgical revision. During infection, MRSP ST71-SCCmec II-III was recovered from the patient, four owners and the surgeon (6/8 colonized with MRSP), while the cohabiting dog carried methicillin-resistant S. epidermidis. Two years later, MRSP carriage was identified in the cohabiting dog and two owners (3/7), with co-existence of MRSP ST71-SCCmec II-III (cohabiting dog skin) and the emerging lineage ST1095-CC551-SCCmec V (cohabiting dog nares; two owners), while the patient and two other owners carried other MRS. Within each lineage, pairwise SNP distances were ≤ 8, consistent with recent transmission. Overall, this case illustrates long-term intra-household circulation and strain replacement of MRSP across dogs and humans, highlighting the importance of hygiene measures in households to reduce the risk of transmission.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42456220/",
       "status": "pending_review",
