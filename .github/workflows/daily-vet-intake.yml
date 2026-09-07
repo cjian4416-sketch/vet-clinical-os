@@ -1,0 +1,24 @@
+name: 每日犬猫病例文献入队
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-pubmed-intake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 抓取犬猫临床病例文献线索
+        run: python scripts/update_pubmed_intake.py
+      - name: 提交待审核队列更新
+        run: |
+          git config user.name "vet-clinical-os-bot"
+          git config user.email "vet-clinical-os-bot@users.noreply.github.com"
+          git add data/pubmed-intake.json
+          git diff --cached --quiet || git commit -m "chore: update veterinary case intake"
+          git push
