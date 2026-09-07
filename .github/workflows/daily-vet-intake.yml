@@ -2,6 +2,10 @@ name: 每日犬猫病例文献入队
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/daily-vet-intake.yml"
+      - "scripts/update_pubmed_intake.py"
   schedule:
     - cron: "15 22 * * *"
 
