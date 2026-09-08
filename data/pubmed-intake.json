@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-07T06:31:04.321966+00:00",
+  "updated_at": "2026-09-08T00:24:55.836600+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -33,6 +33,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42703907",
+      "title": "Severe Hemorrhage Requiring Transfusion in Two Dogs Following Right Inferior Alveolar Artery Laceration Secondary to Severe Periodontitis.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-09",
+      "abstract": "To describe the presentation, management, and outcome of two dogs with severe hemorrhage after laceration of the inferior alveolar artery (IAA) caused by advanced periodontitis. A 9-year-old neutered female Jack Russell Terrier (Case 1) and a 12-year-old intact female Bearded Collie (Case 2) were referred for further investigation of stomatorrhagia, melena, and hematemesis. Both cases were anemic (PCV 21% and 20%, respectively) on presentation, with Case 1 exhibiting signs of hemorrhagic shock. Profuse hemorrhage from the right mandibular quadrant originating at the first molar and severe periodontitis were identified on oral examination. Platelet count, activated partial thromboplastin time (aPTT), and prothrombin time (PT) were normal in both cases. Hyperfibrinolysis was identified in Case 1 on viscoelastic testing. Initial management included fluid resuscitation, tranexamic acid, and packed RBC transfusions (28 and 14 mL/kg for Cases 1 and 2, respectively). Both cases required anesthesia and surgical arteriolar ligation for hemostatic control. In both dogs, a laceration of the right IAA was identified, and dental extractions and ligation of the IAA were performed. Intraoperative dental radiographs confirmed periodontitis as the underlying cause for hemorrhage in Case 1; in Case 2, a preoperative computed tomography scan of the head was used. Surgery was curative for the oral hemorrhage in both cases; however, Case 1 died secondary to comorbidities. This is the first published report of severe anemia and hemorrhagic shock secondary to IAA hemorrhage due to advanced periodontitis in any species. This case series demonstrates that IAA erosion needs to be considered as a differential diagnosis for severe oral hemorrhage and should be recognized as a condition that may require emergency surgery in veterinary medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703907/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "42698121",
