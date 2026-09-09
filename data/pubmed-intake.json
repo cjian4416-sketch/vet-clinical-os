@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-08T00:24:55.836600+00:00",
+  "updated_at": "2026-09-09T00:14:03.480072+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -33,6 +33,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42709479",
+      "title": "Ingestion of high-pressure hose fragments and their possible association with a suspected toxic syndrome in two African lions (Panthera leo).",
+      "journal": "Acta veterinaria Hungarica",
+      "publication_date": "2026-09",
+      "abstract": "Foreign body ingestion is a commonly observed condition in domestic felines and, to a lesser extent, in captive wild felids. This report describes two cases of high-pressure hose ingestion in African lions (Panthera leo) and explores a possible association with a toxic syndrome. Two African lions, a three-year-old male (Case 1) and a ten-year-old female (Case 2), housed in the same enclosure, exhibited neurological signs suggestive of toxic syndrome. The male (Case 1) initially presented with ataxia, loss of pelvic limb tone and sialorrhea, showing only a mild response to clinical treatment. Diagnostic imaging (radiography) revealed a radiopaque object consistent with a gastric foreign body, and chewed fragments of a high-pressure hose were identified upon inspection of the enclosure. Four fragments were removed via endoscopy. One week later, the female (Case 2) developed similar neurological signs, including head tilt, muscle tremors and auricular asymmetry. Laboratory findings revealed leukocytosis with neutrophilia and radiographic evidence of a gastric foreign body. Three hose fragments were endoscopically removed. Both animals made a full recovery within approximately one month. These cases suggest the importance of thoroughly inspecting items used as environmental enrichment, particularly those made of potentially toxic or poorly digestible material, such as high-pressure rubber.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709479/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "42703907",
