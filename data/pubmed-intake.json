@@ -1,9 +1,19 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-09T00:14:03.480072+00:00",
+  "updated_at": "2026-09-10T00:14:19.783407+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "42713863",
+      "title": "Removal of a Posteriorly Luxated Lens Using Pars Plana Vitrectomy and Perfluorocarbon Liquid: A Case Report.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "To report a case of canine posterior lens luxation in which the intact lens was successfully floated using perfluorocarbon liquid (PFCL) combined with pars plana vitrectomy (PPV) and subsequently removed. A client-owned 7-year-old castrated female Italian Greyhound presented with rapidly progressive bilateral posterior lens luxation. In the right eye, via a three-port 25-gauge pars plana approach, the vitreous was removed and PFCL was injected beneath the luxated lens to float the intact lens from the retinal surface to the pupillary plane. The lens was subsequently removed by intracapsular lens extraction through a limbal incision using a cryoprobe. At the final 6-month follow-up examination, vision was preserved, and no retinal detachment or other significant postoperative complications were observed. In this case, combining PPV and PFCL was an effective technique for managing posterior lens luxation and enabled successful removal of the intact luxated lens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42713863/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "42556180",
       "title": "Histopathological findings and staining performance in cutaneous nodules from a cat with Leishmania amazonensis infection.",
@@ -33,6 +43,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42714672",
+      "title": "Modified scalp block and total intravenous anesthesia for frontal craniotomy in a dog with a meningioma: a technical case report.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-09",
+      "abstract": "Intracranial meningiomas are among the most common primary central nervous system tumors in dogs, and surgical resection is associated with prolonged survival for rostrotentorial lesions. This report describes the anesthetic and surgical management of a dog undergoing frontal craniotomy using a modified scalp block technique. A 9-year-old male Shih Tzu with seizures and forebrain signs was diagnosed with a rostrotentorial intracranial mass compatible with meningioma on computed tomography. Frontal craniotomy was performed under total intravenous anesthesia with propofol target-controlled infusion combined with bilateral frontal and modified zygomaticotemporal scalp block using bupivacaine. The modified technique involved caudal needle insertion along the zygomatic arch with dorsomedial redirection toward the orbital ligament and fractionated anesthetic deposition. Cardiovascular parameters remained stable during the four major nociceptive events analyzed-skin incision, muscle dissection, craniotomy, and durotomy-with no clinically relevant increases beyond approximately 20% of stabilized post-induction baseline values; no rescue analgesia or adjustments in target propofol plasma concentration were required intraoperatively. During cranioplasty, the patient developed hemodynamic instability associated with blood loss, which improved after transfusion therapy. Postoperative recovery was satisfactory, with neurological improvement and no immediate complications. The association of total intravenous anesthesia and modified scalp block may represent a feasible neuroanesthetic strategy for canine craniotomy, contributing to nociceptive control and cardiovascular stability. Further studies are needed to validate the technique and its analgesic efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42714672/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42714271",
+      "title": "Ocular and cutaneous infection due to Curvularia pseudobrachyspora in an immunosuppressed dog: Case report and in vitro antimycotic susceptibilities.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-09",
+      "abstract": "A 3-year-old male Border Collie diagnosed with immune-mediated dermatopathy, managed with tapering prednisolone and cyclosporine, developed rapidly progressive ocular signs and additional cutaneous lesions. Histopathology, mycological culture, polymerase chain reaction and sequencing confirmed intraocular and cutaneous infection due to Curvularia pseudobrachyspora and nasal squamous cell carcinoma. Upon confirmation of cutaneous infection, systemic antifungal therapy was initiated, but the clinical signs worsened and the patient died. Given the lack of guidelines for treatment of C. pseudobrachyspora, this patient's isolates were tested, and the minimum concentration and minimum effective concentration were obtained for selected antifungal drugs commonly used in veterinary medicine and compared to common filamentous and yeast fungal infections in dogs to provide general guidance into the treatment of this fungal species. Commonly utilised antifungal treatments used for common Aspergillus infections may prove ineffective against other filamentous fungi. Therefore, in the absence of standardised guidelines, each isolate should be assessed for appropriate treatment options.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42714271/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42711519",
+      "title": "Persistent estrus signs in a spayed bitch following coexistence of ovarian remnant syndrome and exposure to exogenous estrogen: a case report.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-09",
+      "abstract": "Ovarian remnant syndrome represents the most frequent diagnosis in young bitches that present estrous signs some time after ovariectomy/ovariohysterectomy. However, other differential diagnoses should be considered and ruled out, including exogenous estrogen exposure and hormone-secreting neoplasms. The present paper describes a complex clinical case in which ovarian remnant syndrome associated with bilateral ovarian remnants coexisted with exogenous estrogenic stimulation, highlighting the diagnostic challenges and the importance of considering both endogenous and exogenous causes when evaluating spayed bitches with estrous signs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711519/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "42709479",
