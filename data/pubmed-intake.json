@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-10T00:14:19.783407+00:00",
+  "updated_at": "2026-09-11T00:09:28.873977+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
