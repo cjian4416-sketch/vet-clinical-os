@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-11T00:09:28.873977+00:00",
+  "updated_at": "2026-09-12T00:17:44.080497+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -45,6 +45,26 @@
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     },
     {
+      "pmid": "42726409",
+      "title": "Acute hemodynamic and echocardiographic responses to pimobendan versus levosimendan in a dog with decompensated dilated cardiomyopathy.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-09",
+      "abstract": "Dilated cardiomyopathy (DCM) is a major cause of systolic heart failure in dogs, characterized by ventricular dilation and reduced contractility. During acute decompensation, rapid inodilator therapy is essential to stabilize hemodynamics. This case describes serial changes in non-invasive blood pressure and left ventricular systolic function observed during sequential administration of two inodilator agents via different routes on consecutive days. An Anatolian shepherd dog was presented with acute respiratory distress. Echocardiography revealed severe left ventricular dilation and systolic dysfunction, and DCM was diagnosed using established criteria. Because oral therapy was initially not tolerated, intravenous pimobendan was administered, producing a rapid but transient improvement in systolic indices and global longitudinal strain (GLS). After transition to oral pimobendan the following day, systolic function improved mildly, while GLS remained markedly reduced. Levosimendan was subsequently administered as an intravenous bolus, resulting in only minimal improvement in systolic parameters and GLS. A continuous infusion was then initiated; however, systolic measurements remained largely unchanged during infusion. Serial echocardiographic assessment, particularly GLS, documented temporal changes in myocardial function during sequential inodilator therapy. These findings represent descriptive clinical observations from the management of a single patient and should not be interpreted as evidence of comparative efficacy or superiority of one inodilator over another. Because atrial fibrillation and temporal variation in heart rate may have influenced echocardiographic measurements throughout the monitoring period, the findings should be interpreted within the methodological limitations of this sequential single-case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726409/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42724813",
+      "title": "Dirofilaria immitis  in Panama City: first molecular detection with public health implications.",
+      "journal": "Helminthologia",
+      "publication_date": "2026-09",
+      "abstract": "This report details a fatal case of canine dirofilariasis with concomitant  Ehrlichia canis  infection, emphasizing the role of molecular diagnostics and highlighting diagnostic and epidemiological gaps in Panama, particularly regarding stray dogs as key foci of infection. An 8-year-old mixed-breed dog presented with severe clinical signs, including adult nematode expectoration, lymphocytosis, eosinopenia, anemia, and thrombocytopenia. Rapid immunochromatographic tests confirmed co-infection with  Dirofilaria immitis and Ehrlichia canis , with abundant microfilariae on blood smear. Echocardiography revealed severe right ventricular dilation, tricuspid regurgitation, and  D. immitis  adults in the heart and pulmonary artery. Necropsy confirmed severe right atrial rupture with hemopericardium and extensive parasitic burden, identified as  D. immitis  by molecular analysis (453 bp 16S rRNA product). This case underscores the advanced pathology of dirofilariasis and the aggravating role of co-infection, highlighting Panama's significant epidemiological challenges, including vector prevalence, stray-dog reservoirs, and limited access to therapy. These findings highlight the need for molecular diagnostics, comprehensive control strategies, and robust surveillance programs, especially for stray dog populations, to mitigate impacts on animal and public health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42724813/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42714672",
       "title": "Modified scalp block and total intravenous anesthesia for frontal craniotomy in a dog with a meningioma: a technical case report.",
       "journal": "Veterinary research communications",
@@ -81,6 +101,16 @@
       "publication_date": "2026-09",
       "abstract": "Foreign body ingestion is a commonly observed condition in domestic felines and, to a lesser extent, in captive wild felids. This report describes two cases of high-pressure hose ingestion in African lions (Panthera leo) and explores a possible association with a toxic syndrome. Two African lions, a three-year-old male (Case 1) and a ten-year-old female (Case 2), housed in the same enclosure, exhibited neurological signs suggestive of toxic syndrome. The male (Case 1) initially presented with ataxia, loss of pelvic limb tone and sialorrhea, showing only a mild response to clinical treatment. Diagnostic imaging (radiography) revealed a radiopaque object consistent with a gastric foreign body, and chewed fragments of a high-pressure hose were identified upon inspection of the enclosure. Four fragments were removed via endoscopy. One week later, the female (Case 2) developed similar neurological signs, including head tilt, muscle tremors and auricular asymmetry. Laboratory findings revealed leukocytosis with neutrophilia and radiographic evidence of a gastric foreign body. Three hose fragments were endoscopically removed. Both animals made a full recovery within approximately one month. These cases suggest the importance of thoroughly inspecting items used as environmental enrichment, particularly those made of potentially toxic or poorly digestible material, such as high-pressure rubber.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42709479/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42723075",
+      "title": "Feline cutaneous histoplasmosis in a non-endemic region: diagnostic challenges and molecular confirmation of Histoplasma capsulatum in Latvia.",
+      "journal": "Acta veterinaria Scandinavica",
+      "publication_date": "2026-09",
+      "abstract": "Feline histoplasmosis can have variable clinical presentations, it is rarely diagnosed in Europe and has not been diagnosed in Northern Europe and Baltics. We encountered a cluster of autochthonous cases of feline histoplasmosis in Latvia-a non-endemic region. In this paper we describe the diagnostic pathways, challenges and outcomes in three cats. We also report the first molecular confirmation of Histoplasma capsulatum in the Baltic region. Three domestic shorthaired cats presented with ulcerative or erosive skin lesions and were initially evaluated by cytology. Diagnostic follow-up included histopathology, immunohistochemistry (IHC), serology and in one case a polymerase chain reaction (PCR), with DNA sequencing and phylogenetic analysis. We outlined several practical challenges of performing fungal diagnostics in Europe, these can be valuable to our colleagues. All three cases showed organisms consistent with Histoplasma species on cytological examination. Case 1: a feline immunodeficiency virus positive shelter cat with multiple ulcerative cutaneous lesions. Histopathology and IHC confirmed fungal infection suggestive of Histoplasma species. The cat was lost to follow-up. Case 2: A 3-year-old male cat with a single erosive facial lesion. The cat fully recovered with antifungal treatment. Case 3: A 6-year-old neutered male with multiple erosive skin lesions. The cat was humanely euthanized. Diagnosis was supported by cytology while results of histopathology and IHC were suggestive of Histoplasma species. Serology (urine and serum) were positive for H. capsulatum antigen and the diagnosis was confirmed by PCR. Sequencing and phylogenetic analysis of the isolate provided the first molecular confirmation of feline histoplasmosis in the Baltic region. We report the occurrence of clustered autochthonous feline histoplasmosis in Latvia and expand the recognized geographic range of molecularly confirmed disease in Europe. Our cases show the advantages of cytology as an initial diagnostic tool and highlight the utility of serology and molecular methods in regions with limited access to well-established diagnostic methods for non-endemic fungal diseases. Our findings suggest that histoplasmosis may be underdiagnosed in non-endemic areas and reinforce the need for heightened clinical awareness among veterinarians across Europe.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723075/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
