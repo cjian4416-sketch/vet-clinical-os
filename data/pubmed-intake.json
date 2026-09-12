@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-12T00:17:44.080497+00:00",
+  "updated_at": "2026-09-12T23:59:29.939816+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -43,6 +43,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "41906864",
+      "title": "Successful Treatment of Idiopathic Follicular Mucinosis in a Golden Retriever: Clinical, Dermoscopic and Histopathological Findings.",
+      "journal": "Veterinary dermatology",
+      "publication_date": "2026-03",
+      "abstract": "Follicular mucinosis is a rare form of alopecia in dogs characterised by deposition of mural mucin, leading to hair loss, favouring the face, neck and limbs. This report documents its histopathological features, dermoscopic findings, clinical course and successful treatment in a golden retriever dog with follicular mucinosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41906864/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "41889221",
+      "title": "Canine Sarcoidosis Treated Successfully With Oclacitinib: A Case Report.",
+      "journal": "Veterinary dermatology",
+      "publication_date": "2026-03",
+      "abstract": "A male Finnish Lapphund presented with widespread papular skin lesions, which were diagnosed as cutaneous sarcoidosis based on histopathological results. Multiple diagnostic techniques, including bacterial and fungal culture, special staining, electron microscopy and in situ hybridisation, failed to identify a specific causative agent. Remission was achieved with oral oclacitinib.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41889221/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "42726409",
