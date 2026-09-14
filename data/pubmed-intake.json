@@ -1,9 +1,19 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-12T23:59:29.939816+00:00",
+  "updated_at": "2026-09-14T00:11:35.956116+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "42685523",
+      "title": "Sex steroids in animals absent gonads: A case series.",
+      "journal": "Theriogenology",
+      "publication_date": "2026-08",
+      "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "42713863",
       "title": "Removal of a Posteriorly Luxated Lens Using Pars Plana Vitrectomy and Perfluorocarbon Liquid: A Case Report.",
@@ -351,6 +361,16 @@
       "publication_date": "2026-Sep",
       "abstract": "A 4-year-old, male-neutered Savannah cat (Case 1) and a 3-year-old female-neutered British shorthair cat (Case 2) were each investigated for chronic coughing, lethargy and weight loss. Thoracic imaging revealed diffuse broncho-interstitial changes and multifocal soft-tissue nodules (Case 1), and two cavitating masses in the left lung (Case 2). Bronchoalveolar lavage cytology (BAL) in both cases identified macrophagic inflammation with acid-fast bacilli and was culture (Case 1) or PCR (Case 2) positive for Mycobacterium caprae. The cats were treated with 11 months (Case 1) and 9 months (Case 2) of triple antimicrobial therapy comprising pradofloxacin (5 mg/kg orally once every 24 h), rifampicin (10 mg/kg orally once every 24 h) and azithromycin (15 mg/kg orally once every 24 h). Both made complete clinical recoveries and radiographic improvement in the thoracic changes were static for 2 months prior to cessation of therapy. Both cats remain clinically well 12 and 10 months after cessation of treatment, respectively.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42675021/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42673721",
+      "title": "T-wave over sensing in a pacemaker-dependent dog under general anesthesia caused by a change in T-wave morphology during infusion of dopamine and norepinephrine.",
+      "journal": "Veterinary anaesthesia and analgesia",
+      "publication_date": "2026-07",
+      "abstract": "A 13-year-old intact male mixed-breed dog with a left-sided adrenal gland mass presented for an anesthetized computed tomography scan to aid with surgical planning. The dog had previously undergone transvenous implantation of a single-chamber, right-sided permanent pacemaker placed for treatment of a high-grade second-degree atrioventricular block. The pacemaker mode was changed from variable rate response (ventricular pacing, ventricular sensing, inhibited response, and rate modulation) to fixed demand (ventricular pacing, ventricular sensing, and inhibited response) in preparation for anesthesia, and the rate was set to 95 beats minute -1 . The dog was premedicated with intravenous (IV) butorphanol tartrate (0.3 mg kg -1 ) and anesthesia was induced with propofol (1.25 mg kg -1 , IV) and midazolam (0.3 mg kg -1 , IV). Anesthesia was maintained with isoflurane delivered in oxygen. Following induction of anesthesia, there was a decrease in the mean arterial blood pressure from 108 mmHg to 45 mmHg, which was effectively treated with a bolus of lactated Ringer's solution (5 mL kg -1 , IV) and infusions of dopamine (12 μg kg -1  minute -1 ) and norepinephrine (0.1 μg kg -1  minute -1 ). After starting dopamine and norepinephrine infusions, mean arterial blood pressure increased to 80 mmHg, and the ventricular rate decreased to 60 beats minute -1 . Interrogation of the pacemaker revealed a change in T-wave morphology, which resulted in T-wave oversensing. Decreasing the lead sensitivity of the pacemaker corrected oversensing and restored the paced ventricular rate to 95 beats minute -1 .",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673721/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
