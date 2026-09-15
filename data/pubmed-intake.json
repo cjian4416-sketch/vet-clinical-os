@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-14T00:11:35.956116+00:00",
+  "updated_at": "2026-09-15T00:37:25.709114+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -21,16 +21,6 @@
       "publication_date": "2026-Nov",
       "abstract": "To report a case of canine posterior lens luxation in which the intact lens was successfully floated using perfluorocarbon liquid (PFCL) combined with pars plana vitrectomy (PPV) and subsequently removed. A client-owned 7-year-old castrated female Italian Greyhound presented with rapidly progressive bilateral posterior lens luxation. In the right eye, via a three-port 25-gauge pars plana approach, the vitreous was removed and PFCL was injected beneath the luxated lens to float the intact lens from the retinal surface to the pupillary plane. The lens was subsequently removed by intracapsular lens extraction through a limbal incision using a cryoprobe. At the final 6-month follow-up examination, vision was preserved, and no retinal detachment or other significant postoperative complications were observed. In this case, combining PPV and PFCL was an effective technique for managing posterior lens luxation and enabled successful removal of the intact luxated lens.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42713863/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42556180",
-      "title": "Histopathological findings and staining performance in cutaneous nodules from a cat with Leishmania amazonensis infection.",
-      "journal": "Veterinary parasitology",
-      "publication_date": "2026-08",
-      "abstract": "Cutaneous leishmaniasis (CL) is a zoonotic disease with wide geographic distribution and significant public health impact. In Brazil, the main etiological agents are Leishmania braziliensis and Leishmania amazonensis. In animals, the disease usually presents as a chronic condition characterized by poorly healing skin lesions, oral and ocular involvement, and cutaneous nodules, most commonly affecting the head and neck regions. Diagnosis may be achieved using molecular techniques, immunohistochemistry, cytology, histopathology, and culture. Despite the endemic nature of CL in several regions, histopathological descriptions of the disease in felines remain scarce. This study aimed to describe the histopathological features of cutaneous nodular tissue parasitized by amastigote forms of Leishmania amazonensis in a domestic cat, using different histological staining protocols to compare the performance of different histological staining protocols in this case. A fragment of cutaneous nodular tissue was subjected to routine histological processing and stained with hematoxylin and eosin (H&E), periodic acid-Schiff (PAS), fast green, Fontana-Masson, and Mallory's trichrome. Histological evaluation was performed using photomicrographs obtained from five microscopic fields. Among the evaluated staining techniques, hematoxylin and eosin appeared to provide the best visualization and differentiation of amastigote forms from surrounding tissue structures in the evaluated tissue. The evaluated sections showed moderate lymphoplasmacytic dermal infiltrates and numerous macrophages with cytoplasm filled with amastigotes. Special stains yielded variable contrast, with fast green and Mallory's trichrome allowing reasonable differentiation, while Fontana-Masson showed limited diagnostic utility.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556180/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -411,6 +401,16 @@
       "publication_date": "2026-Sep",
       "abstract": "A young Blue Heeler presented for abdominal distension and weight gain, without a history of raw feeding or travel outside the western suburbs of Melbourne, Victoria, Australia. Abdominal ultrasound noted innumerable small anechoic oval cystic structures scattered throughout the peritoneal cavity and suspended in a large volume of echogenic peritoneal effusion. Subsequent diagnostics, including computed tomography, exploratory laparotomy, histopathology and molecular testing, confirmed the structures were Spirometra mansoni plerocercoids, and the patient was diagnosed with proliferative sparganosis. Despite treatment, the animal's health rapidly declined and was euthanised three weeks later. The postmortem revealed extensive diffuse severe granulomatous peritonitis with fibrinous adhesions throughout the peritoneal cavity. Proliferative sparganosis is a rare and devastating parasitic condition resulting from asexual replication of Spirometra spp. larvae within body cavities or organs. This article provides a detailed diagnostic picture of canine peritoneal proliferative sparganosis and is the first report describing the ultrasonographic findings of this condition.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42667636/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42556180",
+      "title": "Histopathological findings and staining performance in cutaneous nodules from a cat with Leishmania amazonensis infection.",
+      "journal": "Veterinary parasitology",
+      "publication_date": "2026-08",
+      "abstract": "Cutaneous leishmaniasis (CL) is a zoonotic disease with wide geographic distribution and significant public health impact. In Brazil, the main etiological agents are Leishmania braziliensis and Leishmania amazonensis. In animals, the disease usually presents as a chronic condition characterized by poorly healing skin lesions, oral and ocular involvement, and cutaneous nodules, most commonly affecting the head and neck regions. Diagnosis may be achieved using molecular techniques, immunohistochemistry, cytology, histopathology, and culture. Despite the endemic nature of CL in several regions, histopathological descriptions of the disease in felines remain scarce. This study aimed to describe the histopathological features of cutaneous nodular tissue parasitized by amastigote forms of Leishmania amazonensis in a domestic cat, using different histological staining protocols to compare the performance of different histological staining protocols in this case. A fragment of cutaneous nodular tissue was subjected to routine histological processing and stained with hematoxylin and eosin (H&E), periodic acid-Schiff (PAS), fast green, Fontana-Masson, and Mallory's trichrome. Histological evaluation was performed using photomicrographs obtained from five microscopic fields. Among the evaluated staining techniques, hematoxylin and eosin appeared to provide the best visualization and differentiation of amastigote forms from surrounding tissue structures in the evaluated tissue. The evaluated sections showed moderate lymphoplasmacytic dermal infiltrates and numerous macrophages with cytoplasm filled with amastigotes. Special stains yielded variable contrast, with fast green and Mallory's trichrome allowing reasonable differentiation, while Fontana-Masson showed limited diagnostic utility.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556180/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
