@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-15T00:37:25.709114+00:00",
+  "updated_at": "2026-09-16T00:18:52.131687+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -125,6 +125,26 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42738598",
+      "title": "Primary Tracheal Leiomyoma in a Dog: A Case Report.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "Primary tracheal neoplasia is uncommon in domestic animals and humans, and most reported tracheal tumours are malignant. To the authors' knowledge, this case represents the third confirmed case of tracheal leiomyoma reported in dogs. In human medicine, tracheal leiomyomas have also only been reported sporadically and account for approximately 1% of tracheal tumours. A 12-year-old spayed female Pit Bull was presented as an emergency because of an acute worsening of recurrent respiratory signs that were refractory to medical treatment. On initial evaluation, reduced mobility of both arytenoid cartilages was observed, and left arytenoid lateralisation was therefore performed. However, four days after the procedure, the dog continued to experience severe episodes of respiratory distress requiring orotracheal intubation. Subsequent bronchoscopy revealed an intraluminal tracheal mass occupying approximately 90% of the airway lumen. Because of this obstruction, an emergency temporary tracheostomy was performed caudal to the mass. Once the dog had been clinically stabilised, computed tomography was performed for surgical planning. Surgical treatment consisted of segmental tracheal resection and end-to-end anastomosis, with removal of a segment corresponding to 24% of the total tracheal length. Histopathological examination confirmed the diagnosis of tracheal leiomyoma. Complete surgical excision was achieved, supporting a favourable prognosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738598/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42738594",
+      "title": "Doppler Ultrasonography for Assessing Uterine Viability and Fetal Vitality in Uterine Torsion in a Domestic Cat ( Felis catus ): A Case Report.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "Uterine torsion is rare in domestic cats and, when diagnosis is delayed, is associated with high maternal and fetal mortality. Conventional B-mode ultrasonography cannot reliably distinguish viable from devitalised uterine tissue, and Doppler ultrasonography, despite its capacity to assess uterine, ovarian, and fetal perfusion, has not been systematically applied to feline uterine torsion. A 4-year-old queen in late gestation presented with acute abdominal pain, lethargy, abdominal distension, and tachypnoea. B-mode imaging showed an enlarged, fluid-distended uterine segment with thickened walls. Colour, spectral, and power Doppler revealed an absent to markedly reduced arterial flow distal to the torsion, elevated resistive and pulsatility indices in the uterine and ovarian arteries, and the loss of peripheral perfusion. The absence of fetal heartbeats and umbilical flow confirmed fetal nonviability. Laparotomy confirmed the torsion of a congested, devitalised uterine horn, with asymmetric fetal loading (two kittens in the torted horn, one fetal resorption in the contralateral horn) as the likely biomechanical cause. Ovariohysterectomy was performed without derotation. Histopathology confirmed haemorrhagic necrosis, and haematology showed severe regenerative anaemia and marked leucocytosis, which resolved progressively after surgery. Doppler ultrasonography supplied vascular and fetal viability information unavailable from B-mode imaging alone, supporting ovariohysterectomy over conservative detorsion. Based on the feline case reports identified during the preparation of this report, this appears to be among the first descriptions of a systematic, multi-vessel Doppler protocol combining colour, power, and spectral modalities with resistive and pulsatility index measurements in feline uterine torsion; as this observation derives from a single case, it should be regarded as preliminary.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738594/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42723075",
       "title": "Feline cutaneous histoplasmosis in a non-endemic region: diagnostic challenges and molecular confirmation of Histoplasma capsulatum in Latvia.",
       "journal": "Acta veterinaria Scandinavica",
@@ -141,6 +161,16 @@
       "publication_date": "2026-09",
       "abstract": "To describe the presentation, management, and outcome of two dogs with severe hemorrhage after laceration of the inferior alveolar artery (IAA) caused by advanced periodontitis. A 9-year-old neutered female Jack Russell Terrier (Case 1) and a 12-year-old intact female Bearded Collie (Case 2) were referred for further investigation of stomatorrhagia, melena, and hematemesis. Both cases were anemic (PCV 21% and 20%, respectively) on presentation, with Case 1 exhibiting signs of hemorrhagic shock. Profuse hemorrhage from the right mandibular quadrant originating at the first molar and severe periodontitis were identified on oral examination. Platelet count, activated partial thromboplastin time (aPTT), and prothrombin time (PT) were normal in both cases. Hyperfibrinolysis was identified in Case 1 on viscoelastic testing. Initial management included fluid resuscitation, tranexamic acid, and packed RBC transfusions (28 and 14 mL/kg for Cases 1 and 2, respectively). Both cases required anesthesia and surgical arteriolar ligation for hemostatic control. In both dogs, a laceration of the right IAA was identified, and dental extractions and ligation of the IAA were performed. Intraoperative dental radiographs confirmed periodontitis as the underlying cause for hemorrhage in Case 1; in Case 2, a preoperative computed tomography scan of the head was used. Surgery was curative for the oral hemorrhage in both cases; however, Case 1 died secondary to comorbidities. This is the first published report of severe anemia and hemorrhagic shock secondary to IAA hemorrhage due to advanced periodontitis in any species. This case series demonstrates that IAA erosion needs to be considered as a differential diagnosis for severe oral hemorrhage and should be recognized as a condition that may require emergency surgery in veterinary medicine.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42703907/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42738569",
+      "title": "Surgical Management of Extensive Urine Extravasation Resulting in Urethrocutaneous Fistulation and Soft Tissue Necrosis of the Femoral Region Secondary to Pelvic Urethral Rupture in Two Cats.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "Pelvic urethral rupture is an uncommon but serious injury in cats that may result in extensive urine extravasation and severe soft tissue damage. This report describes the surgical management of two cats with pelvic urethral rupture complicated by urine extravasation extending into the femoral region, resulting in urethrocutaneous fistulation and extensive soft tissue necrosis. Two 2-year-old male domestic shorthairs presented with similar injuries, one undergoing retrograde urethrography, the other additional CT scan as well to define the extent of injury. In Case 1, transpelvic urethrostomy was performed following surgical debridement of necrotic tissue, and tension-relieving mesh incisions were subsequently made in the surrounding skin of the left thigh to reduce tension on the primary closure and facilitate closure of the skin defect created by debridement. In Case 2, prepubic urethrostomy and surgical debridement were performed following confirmation of pelvic urethral rupture, with contrast accumulation identified at the dorsal aspect of the ischiatic arch on CT. In both cases, the soft tissue wounds were managed by second-intention healing. Both cats recovered without major postoperative complications, and the soft tissue injuries had resolved successfully during follow-up. Both cases demonstrate that prompt surgical intervention combined with appropriate wound management can result in favorable outcomes in cats with pelvic urethral rupture complicated by extensive urine extravasation into the femoral region.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738569/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -205,6 +235,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42738559",
+      "title": "Clinical and Nutritional Management of Gallbladder Mucocele in Dogs: A Four-Case Series.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "Gallbladder mucocele is a common extrahepatic biliary condition in dogs, traditionally managed with cholecystectomy, while conservative approaches combining clinical and nutritional strategies remain underexplored. This case series reports four dogs diagnosed with gallbladder mucocele, all presenting with hyperlipidemia, three with overweight or obesity, and one with hypothyroidism. The dogs were treated using a multimodal protocol combining pharmacological therapy with nutritional strategies. The pharmacological protocol included ursodeoxycholic acid, silymarin, S-adenosyl-L-methionine, bezafibrate, and omega-3 fatty acids, with doses adjusted according to body weight. Nutritional interventions were individualized and included weight-loss diets and a low-fat gastrointestinal diet. Clinical and ultrasonographic outcomes varied among cases, with partial or complete resolution observed over different follow-up periods. These findings suggest that clinical management combined with individualized nutritional protocols may be a potential approach for asymptomatic dogs with gallbladder mucocele, particularly when surgery is not feasible, and could inform future investigations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738559/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42693554",
       "title": "Two Cases of Feline Hepatosplenic Cytotoxic T-Cell Lymphoma With Hemophagocytosis.",
       "journal": "Veterinary clinical pathology",
@@ -215,12 +255,62 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42738521",
+      "title": "Feline Cutaneous Mycobacteriosis Caused by  Mycobacterium farcinogenes : The First Case Report from Asia.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "A 4-year-old spayed female domestic shorthair cat was referred with history of 8 months of chronic, non-healing draining wounds on the left lateral thigh and left inguinal region. The initial lesions arose from a cat bite wound on the thigh and a concurrent inguinal subcutaneous mass, both of which had failed to respond to empirical antimicrobial therapy. Prior to referral, cytology of the inguinal mass suggested a spindle cell tumor; however, histopathology following surgical excision revealed severe necrotizing pyogranulomatous mastitis and dermatitis, with no evidence of neoplasia. At the initial referral visit, bacterial cultures from both lesions yielded  Mycobacterium farcinogenes , identified via matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS). The cat was treated with pradofloxacin, topical amikacin gel, and azithromycin despite in vitro resistance, resulting in complete clinical remission after 24 weeks without adverse effects. To our knowledge, this is the first reported case of feline cutaneous mycobacteriosis caused by  M. farcinogenes  in Asia. This case expands the limited veterinary literature on  M. farcinogenes  infection, highlights the diagnostic challenges of atypical mycobacterial infections, emphasizes the critical role of species-level identification, and demonstrates the efficacy of prolonged, multidrug therapy in managing chronic non-healing wounds in cats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738521/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42687429",
       "title": "Serum Baclofen Concentrations in Four Dogs With Baclofen Toxicosis Treated With In-Series Carbon Hemoperfusion and Hemodialysis.",
       "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
       "publication_date": "2026-09",
       "abstract": "To report serum baclofen concentrations before, during, and after in-series carbon hemoperfusion (cHP) and hemodialysis (HD) in four dogs with severe baclofen toxicosis. This series involves four dogs with serum samples collected before, during, and after in-series cHP/HD. The extraction ratio (ER, %) of cHP and HD, half-life during cHP/HD, and total extracorporeal elimination constant were calculated. Posttreatment samples were collected to determine endogenous half-life and intrinsic elimination constant. Two dogs received both cHP/HD and mechanical ventilation, while the other two received cHP/HD alone. The range of ingested dosages was 4-24 mg/kg. The median time from suspected ingestion to cHP/HD initiation was 7 h (range: 5-15 h). Extracorporeal therapy was performed using an intermittent hemodialysis platform in two cases and a continuous renal replacement therapy platform in two cases. The median duration of cHP/HD was 3 h (range: 2.2-4 h), with a median total blood volume processed of 1.3 L/kg (range: 1-1.5 L/kg), equating to 15 times (range: 12-18.2 times) the estimated blood volume (80 mL/kg) in dogs. Serum baclofen concentration was reduced during cHP/HD by a median 69% (range: 46%-80%). The median ER for cHP was 61% (range: 60%-81%) and for HD was 4% (range: -0.5% to 11.5%). The calculated half-life during cHP/HD was 1.9 h (range: 1.1-2.5 h), compared with 5.8 h (range: 3.1-13.6 h) after cHP/HD. The median extracorporeal elimination constant was 0.34 (range: 0.08-0.37), which was 2.8 times faster than the intrinsic elimination constant of 0.12 (range: 0.05-0.23). In-series cHP/HD reduced serum baclofen concentrations in this small series of dogs, highlighting its potential role in the treatment of severe baclofen intoxication.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42687429/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42738496",
+      "title": "Computed Tomographic Findings and Clinical Manifestations of Acute Severe Hypersensitivity to a Non-Ionic Iodinated Contrast Agent in a Castrated Male Dog: A Case Report.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "Severe adverse reactions induced by non-ionic contrast media remain an uncommon complication in veterinary medicine. This report describes the clinical manifestations and sequential computed tomography alterations indicative of acute shock captured during 2 min and 4 min delayed phases in a 10-year-old, castrated male Maltese dog. The patient, previously diagnosed with a cutaneous mast cell tumor on the lip exhibiting incomplete histopathological margins, underwent CT for metastatic evaluation. The patient had no clinical evidence of systemic disease, and no anesthetic adverse events were observed during past patellar luxation surgery. However, the 2 min delayed CT scan revealed suspected hepatic congestion, vascular collapse, marked esophageal wall edema, and intense intestinal mucosal contrast enhancement. Subsequently, the 4 min delayed CT scan demonstrated diffuse contrast medium stagnation within the cardiac chambers and renal parenchyma, accompanied by the absence of the renal excretory phase. During anesthetic recovery, severe hypotension and respiratory failure emerged, suggesting the development of hypersensitivity. Following immediate intervention with cardiopulmonary resuscitation, epinephrine, and dexamethasone, the patient temporarily exhibited facial edema, hematochezia, diarrhea, and transient ataxia. However, dobutamine administration successfully restored systemic blood pressure and tissue perfusion, returning the patient to a normal clinical status. Consequently, this case highlights potential pathophysiological mechanisms, key CT findings, and emergency management considerations for contrast-induced hypersensitivity. Notably, sequential CT imaging documented evolving shock-related changes before the onset of overt clinical deterioration, suggesting that these findings may represent early imaging indicators of contrast-induced hypersensitivity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738496/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42736007",
+      "title": "Detection of Spirometra sp. (Cestoda: Diphyllobothriidae) eggs and morphological characterization of adult specimens from free-living wild carnivores in Paraguay.",
+      "journal": "Veterinary parasitology, regional studies and reports",
+      "publication_date": "2026-08",
+      "abstract": "Pseudophilid cestodes the genus Spirometra can infect a wide range of intermediate hosts in larval stages, while adult stages parasitize domestic animals, wildlife, and humans. In South America, descriptions of adults in wildlife are scarce. This study reports the presence of Spirometra sp. eggs in three species of wild carnivores from Paraguay (Chrysocyon brachyurus, Leopardus geoffroyi and Procyon cancrivorus), and microscopic characterization of a recovered adult specimen from L. geoffroyi. Fecal samples were examined using conventional methods, revealing eggs compatible with Spirometra sp., in all three hosts. The adult cestode was processed by basic fuchsin staining for morphological analysis of the complete preparation. General characteristics confirmed the identification at a genus level. These findings represent the first microscopic description of adult Spirometra from wild carnivores in Paraguay and provide baseline anatomical data for future taxonomic and epidemiological studies, highlighting the relevance of wildlife reservoirs within the One Health framework.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736007/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42736004",
+      "title": "Canine leishmaniosis: An atypical presentation on the tongue.",
+      "journal": "Veterinary parasitology, regional studies and reports",
+      "publication_date": "2026-08",
+      "abstract": "Canine leishmaniosis (CanL) is a vector-borne disease caused mainly by the protozoan parasite Leishmania infantum, transmitted to its vertebrate hosts by phlebotomine sand fly insects. Clinical disease and a higher proportion of subclinical infections are endemic in several countries, with a high prevalence in the Mediterranean basin. The clinical signs and lesions of CanL are diverse, but oral manifestations have only been reported occasionally. Here we present an atypical case of Leishmania infection on the tongue of a domestic dog. A 12-year-old neutered male mongrel dog was presented to the University of Trás-os-Montes e Alto Douro Veterinary Teaching Hospital with intermittent lameness of the left pelvic limb and a cutaneous lesion on the nose. Physical examination revealed generalized lymphadenopathy, as well as the presence of an oral mass on the ventral surface of the tongue. Histological examination of this oral lesion showed extensive mucosal ulcerations with granulomatous inflammation in the submucosa. Large macrophages were found, containing intracytoplasmic structures compatible with Leishmania spp. amastigotes. Immunohistochemistry identified several leishmanial amastigote forms both inside macrophages and in the surrounding tissue. In the present case, parasites were unexpectedly identified in the histopathological examination of a tongue mass. Histopathology complemented by immunohistochemistry were fundamental tools for detecting Leishmania parasites and making a definitive diagnosis of CanL in this case. It is also important to conduct a systematic and thorough physical examination, including oral cavity and its floor, for any mass lesions that may be present in dogs with leishmaniosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736004/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42736002",
+      "title": "Canine cholecystitis in the presence of Hammondia spp. infection.",
+      "journal": "Veterinary parasitology, regional studies and reports",
+      "publication_date": "2026-08",
+      "abstract": "Biliary protozoal infections are becoming increasingly recognized in dogs. Sarcocystidae protozoal infections (i.e Toxoplasma, Neospora, Hammondia, Besnoitia, and Sarcocystis spp.) are uncommon and host-specific. Diagnosis is traditionally dependent on tissue or serologic evaluation; sensitivity and specificity for these techniques can vary. PCR amplification and genetic sequencing provide a technique to expedite diagnosis and species identification in clinical biliary protozoal infections. Bile samples were collected percutaneously from two dogs presented to a referral hospital with mixed hepatopathies and hyperbilirubinemia. Diagnostic imaging revealed changes consistent with hepatobiliary inflammation, and tachyzoites were identified via bile cytology. Sera were positive for anti-Toxoplasma sp. (n = 1/2) and anti-Neospora sp. (n = 2/2) antibodies. Genomic isolation from bile and pan-Sarcocystidae (18S rRNA) PCR amplification were consistent with Hammondia spp. Additional 28S rRNA (LSU), alpha-tubulin (aTUB) and cytochrome b (CytB) gene-specific fragments were PCR amplified and sequenced. Phylogenetic analysis of LSU DNA fragment (584 bp) suggested both patients were infected with Hammondia spp. closely related to H. heydorni. Sequencing of aTUB (234 bp) and CytB (344 bp) revealed Patient 1 Hammondia spp. was more closely related to H. triffittae, while Patient 2 was more similar to H. heydorni. Treatment with clindamycin, and in one case additional enrofloxacin, resolved clinical and clinicopathologic changes in both dogs. This report highlights the importance of multilocus sequencing in protozoal identification in atypical infections, clinical manifestations of canine hepatobiliary hammondiasis, and need for regional Sarcocystidae prevalence studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736002/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
