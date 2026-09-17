@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-16T00:18:52.131687+00:00",
+  "updated_at": "2026-09-17T00:31:51.893347+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -61,6 +61,16 @@
       "publication_date": "2026-03",
       "abstract": "A male Finnish Lapphund presented with widespread papular skin lesions, which were diagnosed as cutaneous sarcoidosis based on histopathological results. Multiple diagnostic techniques, including bacterial and fungal culture, special staining, electron microscopy and in situ hybridisation, failed to identify a specific causative agent. Remission was achieved with oral oclacitinib.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41889221/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42671893",
+      "title": "Malignant adenomyoepithelioma with papillary arrangement in the mammary papilla of a dog: Case report.",
+      "journal": "Acta veterinaria Hungarica",
+      "publication_date": "2026-08",
+      "abstract": "Mammary gland tumours are the most frequently diagnosed neoplasms in female dogs, involving either the mammary gland parenchyma or the mammary papilla. This is a case report of a malignant adenomyoepithelioma with papillary arrangement in the mammary papilla of a 13-year-old female Lhasa Apso, highlighting the histopathological and immunohistochemical characteristics of the tumour. Grossly, the sample consisted of a exophytic, soft to firm nodule measuring 1.0 × 1.0 cm. On the cut surface, the sample presented an irregular pattern and a cystic cavity. The cut surface of the sentinel lymph node showed a solid and heterogeneous aspect. Histologically, the mammary gland presented a neoplastic proliferation of epithelial and myoepithelial cells in a mostly papillary pattern. Myoepithelial cells exhibited elongated, manly vacuolated cytoplasm, with indistinct boundaries, moderate anisocytosis, anisokaryosis and moderate cellular and nuclear pleomorphism, with seven mitotic figures per 10 high-power fields (i.e., 2.37 mm2). The lymph node presented follicular hyperplasia. Immunohistochemical analysis of the primary tumour revealed neoplastic cells positive for pan-cytokeratin and p63, presented a Ki-67 index of 20% and were negative (score 0) for cyclooxygenase-2. Based on histomorphological and immunophenotypic findings, the mammary tumour was diagnosed as a malignant adenomyoepithelioma with a papillary pattern.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671893/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -271,6 +281,36 @@
       "publication_date": "2026-09",
       "abstract": "To report serum baclofen concentrations before, during, and after in-series carbon hemoperfusion (cHP) and hemodialysis (HD) in four dogs with severe baclofen toxicosis. This series involves four dogs with serum samples collected before, during, and after in-series cHP/HD. The extraction ratio (ER, %) of cHP and HD, half-life during cHP/HD, and total extracorporeal elimination constant were calculated. Posttreatment samples were collected to determine endogenous half-life and intrinsic elimination constant. Two dogs received both cHP/HD and mechanical ventilation, while the other two received cHP/HD alone. The range of ingested dosages was 4-24 mg/kg. The median time from suspected ingestion to cHP/HD initiation was 7 h (range: 5-15 h). Extracorporeal therapy was performed using an intermittent hemodialysis platform in two cases and a continuous renal replacement therapy platform in two cases. The median duration of cHP/HD was 3 h (range: 2.2-4 h), with a median total blood volume processed of 1.3 L/kg (range: 1-1.5 L/kg), equating to 15 times (range: 12-18.2 times) the estimated blood volume (80 mL/kg) in dogs. Serum baclofen concentration was reduced during cHP/HD by a median 69% (range: 46%-80%). The median ER for cHP was 61% (range: 60%-81%) and for HD was 4% (range: -0.5% to 11.5%). The calculated half-life during cHP/HD was 1.9 h (range: 1.1-2.5 h), compared with 5.8 h (range: 3.1-13.6 h) after cHP/HD. The median extracorporeal elimination constant was 0.34 (range: 0.08-0.37), which was 2.8 times faster than the intrinsic elimination constant of 0.12 (range: 0.05-0.23). In-series cHP/HD reduced serum baclofen concentrations in this small series of dogs, highlighting its potential role in the treatment of severe baclofen intoxication.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42687429/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42746951",
+      "title": "Computed Tomographic and Ultrasonographic Characteristics of Presumed Traumatic Unilateral Cavernositis of the Penis in a 2-Year-Old Dog.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Sep",
+      "abstract": "A 2-year-old male entire Samoyed presented with 2 weeks of suspected lumbar pain, following an episode of compulsive hypersexual behavior towards other dogs. Computed tomography revealed a lobulated, enlarged left corpus cavernosum with a central non-enhancing, hypoattenuating region (-20 to 40 HU) and rim enhancement, surrounding ischiocavernosus muscle swelling, and left-sided bulbus penis hyperenhancement. Ultrasound showed an enlarged heterogeneous hyperechoic left corpus cavernosum. Ultrasound-guided needle aspiration for cytology, interpreted by a board-certified clinical pathologist, revealed mesenchymal proliferation and mild macrophagic inflammation, supporting a diagnosis of cavernositis. The dog was treated with anti-inflammatories and antibiotics with clinical resolution at a 4-week follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746951/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42746947",
+      "title": "Atypical Inflammatory Laryngopharyngeal Web With Concurrent Nasopharyngeal Stenosis in an Older Cat.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Sep",
+      "abstract": "An older neutered male Korean Shorthair cat was evaluated for chronic respiratory distress, stertor, dysphagia, and severe weight loss. Radiography and computed tomography revealed nasopharyngeal narrowing and a thin membranous web-like obstructive structure at the laryngopharynx, resulting in near-complete airway obstruction, with concurrent fluid-to-soft tissue attenuating material within the frontal sinus and tympanic bulla. Surgical exploration confirmed a membranous lesion, and histopathology demonstrated chronic ulcerative palatitis without evidence of neoplasia. This case suggests that feline nasopharyngeal stenosis may be associated with a more complex inflammatory laryngopharyngeal web, potentially broadening the currently recognized morphologic spectrum of this condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746947/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42745849",
+      "title": "Glycogen storage disease type VII (Tarui disease): a case report presenting a  PFKM  variant previously described only in canine models.",
+      "journal": "Frontiers in genetics",
+      "publication_date": "2026-09",
+      "abstract": "Glycogen storage disease type VII (GSD-VII), or Tarui disease, is a rare autosomal recessive disorder caused by biallelic loss-of-function variants in the  PFKM  gene encoding the muscle isoform of phosphofructokinase (PFK), a key enzyme of the glycolytic pathway. PFK deficiency impairs glycogen and glucose metabolism in skeletal muscle and erythrocytes, causing exercise intolerance, exertional myalgia, and myoglobinuria, and, in some cases, fixed proximal muscle weakness, as well as haemolytic anaemia. We report the case of an Italian woman with genetically confirmed GSD-VII harbouring a homozygous missense variant in  PFKM  (NM_000289.6:c.550C>T, p.Arg184Trp). This variant was previously identified in Wachtelhund dogs, a spontaneous animal model of PFK deficiency, but never reported in patients so far. PFK activity in skeletal muscle (PFKM) was found severely decreased and ultrastructural analysis revealed glycogen accumulation and mitochondrial alteration, supporting the pathogenetic role of the identified variant.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745849/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
