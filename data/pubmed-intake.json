@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-17T00:31:51.893347+00:00",
+  "updated_at": "2026-09-18T00:17:48.481136+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -61,6 +61,26 @@
       "publication_date": "2026-03",
       "abstract": "A male Finnish Lapphund presented with widespread papular skin lesions, which were diagnosed as cutaneous sarcoidosis based on histopathological results. Multiple diagnostic techniques, including bacterial and fungal culture, special staining, electron microscopy and in situ hybridisation, failed to identify a specific causative agent. Remission was achieved with oral oclacitinib.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41889221/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42750106",
+      "title": "Management of Severe Bromethalin Toxicosis in a Dog, Including the Use of Prolonged Hemodiafiltration Therapy.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-09",
+      "abstract": "To describe the management of severe bromethalin intoxication in a dog, including the use of extracorporeal therapies and their effects on serum desmethylbromethalin levels. A 13-year-old neutered male miniature Australian Shepherd presented after suspected ingestion of bromethalin rodenticide. Despite intravenous fluids and activated charcoal, the dog progressively declined neurologically in a 24-h period, ultimately developing a Cushing reflex. Medical management included hyperosmotic therapies, antiepileptics, intralipids, and warm water enemas. Hemodiafiltration (HDF) was attempted due to the dog's continued decline and a persistently lipemic serum, which precluded repeated doses of intralipids. Serum desmethylbromethalin concentrations were measured before, during, and after HDF, and no clearance was noted across the filter or in the effluent. Regardless, the dog improved with a total hospitalization duration of 5 days and a complete return of neurologic function. This case describes the rapid and successful clinical recovery of a dog with the highest reported levels of desmethylbromethalin, with serum desmethylbromethalin concentrations decreasing faster than the expected half-life. HDF was attempted but was found to be unsuccessful in the clearance of bromethalin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42750106/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42749341",
+      "title": "Stroke due to penetrating neck injury inflicted by tiger attack.",
+      "journal": "BMJ case reports",
+      "publication_date": "2026-09",
+      "abstract": "Animal attack related penetrating injuries of the neck are important causes of stroke due to carotid artery dissection and subsequent watershed infarcts. Early vascular imaging, timely antithrombotic therapy and multidisciplinary management are critical to optimising better outcomes. A female in her fourth decade presenting with altered sensorium, hemiplegia and hypotension following a tiger attack on the neck and subsequent carotid dissection. In this case report, we discuss the clinical state, work-up and follow-up outcome of this rare stroke case due to tiger attack. Clinicians should maintain a high index of suspicion of vascular injury in penetrating neck trauma for early recognition and prompt management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749341/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
