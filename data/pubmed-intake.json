@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-18T00:17:48.481136+00:00",
+  "updated_at": "2026-09-19T00:20:24.147908+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42754831",
+      "title": "Corneal Sequestration and Bilateral Distichiasis in a Binturong (Arctictis binturong).",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "To report the first documented case of corneal sequestration and distichiasis in a binturong (Arctictis binturong), discuss implications of disease prevalence in a non-domestic feliform, and hypothesize on potential etiology and predisposing factors for corneal sequestration. A 15-year-old intact male binturong. Anesthetized physical examination and ophthalmic assessment were performed by board-certified specialists. Corneal cytology, culture and sensitivity, debridement of the sequestra in lieu of keratectomy, histopathology, and cryoepilation were performed, followed by 4 weeks of topical therapy. The patient was euthanized 3 years later for unrelated reasons, and a necropsy was performed. Examination found bilateral distichiasis. In the left cornea, two brown, ovoid lesions flanked an area of yellow infiltrate, all overlying a raised, ulcerated granulation bed. Corneal cytology identified neutrophils, cocci, and rare rods. Histopathology of the debrided tissue showed coagulative to lytic necrosis with intralesional gram-positive cocci, indicating sequestration and secondary infection. Aerobic culture yielded Staphylococcus delphini and Streptococcus acidominimus. Photo updates 4 weeks post-operation showed resolution of clinical signs. Later, necropsy and histology showed chronic ocular changes without recurrence of sequestra. Clinical and histopathologic findings identified corneal sequestration, with chronic irritation secondary to distichiasis as a suspected factor. Surgical debridement and cryoepilation achieved long-term clinical resolution, with only mild distichiae regrowth and no sequestration recurrence after 3 years. Corneal sequestration is thought to predominantly affect domestic cats (Felis catus); this report expands the clinical relevance of corneal sequestration to an exotic species and supports chronic corneal irritation as a predisposing factor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754831/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -261,6 +271,16 @@
       "publication_date": "2026-07",
       "abstract": "A captive male Japanese raccoon dog died after self-mutilation by biting its tail and developing anorexia. At necropsy, ulceration of the tail root and pelvic region, an abdominal mass, multifocal nodules in the lungs, and thrombi in the heart were observed. Histopathological examinations revealed multifocal pyogranulomatous inflammation in the lungs, abdominal mass, spleen, brain, liver, and kidneys. Gram-positive bacterial aggregates were observed in the lungs, abdominal mass, and spleen. These organisms were partially acid-fast and periodic acid-Schiff-positive, and branching filaments were observed on Grocott's methenamine silver staining. Nocardia aobensis was identified in the abdominal mass by PCR and sequence analysis. These findings suggest that N. aobensis should be considered a potential cause of disseminated pyogranulomatous disease in animals.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42457553/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42757221",
+      "title": "Hydrocolpos in a mixed-breed dog: a case report.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "A 3.5-year-old, 5.2-kg mixed-breed dog was presented with persistent stranguria after being neutered due to dystocia 6 months ago. Plain abdominal radiographs revealed an intrapelvic soft-tissue attenuating mass that displaced the urinary bladder cranially and constricted the descending colon. Abdominal ultrasonography yielded inconclusive results. Computed tomography revealed the mass as a tubular, hypodense structure compressing the urethra and the descending colon. This finding was defined as hydrocolpos induced by an imperforate hymen, segmental vaginal aplasia, or a vestibulovaginal disorder. Vaginoscopy revealed vaginal atresia and a stem-shaped mass obscuring the ostium urethrae externum. Retrograde cystography showed a significantly dilated urethra behind the obscured ostium urethrae externum. A pedunculated mass (polyp) was suspected to hinder the urinary outflow. A minimal invasive resection of the polyp and widening of the urethra were performed. Normal micturition was observed for 2 months. In the 9th week, the patient returned with tenesmus. An invasive procedure involving episiotomy, evacuation of the hydrocolpos, and creation of a stoma between the mucous membrane of the hydrocolpos and the vaginal mucosa led to permanent resolution of the clinical signs. Only a few case reports exist regarding congenital hydrocolpos. As the history indicates, a traumatic origin is considered likely; therefore, we assume that this is the first case report of secondary, trauma-induced vaginal atresia, and the resulting hydrocolpos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757221/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,16 +801,6 @@
       "publication_date": "2026-Aug-11",
       "abstract": "Tremorgenic mycotoxicosis is a well-recognized cause of acute neurotoxicosis in dogs, most commonly associated with penitrem A (PTA), which is mainly produced by Penicillium crustosum. However, analytical confirmation of such cases is rare. This study describes five clinical cases of canine tremorgenic mycotoxicosis in Germany, together with comprehensive analytical confirmation. All dogs had been presented at the veterinary clinic of Justus-Liebig-University because of acute-onset generalized tremors. Clinical findings, therapeutic measures and final outcome were documented. Samples of gastric content (induced emesis or gastric lavage) and blood serum (if available) were analyzed for several neurotoxic mycotoxins, penitrems A-F, paxilline (PAX), α-cyclopiazonic acid (CPA), and ergoline alkaloids. Analysis was done by enzyme immunoassay (EIA), and by HPLC-MS/MS. EIA of gastric content was positive for PTA in all samples, and for PAX, CPA, and ergoline alkaloids in some. HPLC-MS/MS analysis confirmed the presence of penitrems A-F, PAX, and CPA. Trace levels of PTA, PAX and CPA were also detected in serum samples. Penitrem producing P. crustosum was isolated from gastric content of all animals. This is the first full analytical study on acute canine tremorgenic mycotoxicoses in Germany, and presents comprehensive results along the causal chain of tremorgenic mycotoxicosis. In addition to the penitrems, several other neurotoxic mycotoxins (PAX, CPA, ergoline alkaloids) may play a role in canine mycotoxicosis. While immediate stabilisation and symptomatic treatment are paramount, prompt mycotoxin testing can help identify the source of poisoning during differential diagnosis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42579237/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42576538",
-      "title": "Pituitary tumour shrinkage and diabetic remission in two cats with Cushing syndrome treated with cabergoline.",
-      "journal": "The Journal of small animal practice",
-      "publication_date": "2026-Aug-10",
-      "abstract": "We describe two cats with diabetes mellitus and Cushing's syndrome. Diabetes mellitus was initially managed with insulin glargine (Lantus; Sanofi-Aventis, Paris, France), nutritional therapy and continuous glucose monitoring. Hypercortisolism was suspected based on severe hypertension (Case 1), and insulin resistance in combination with typical clinical features of Cushing's syndrome (Case 2). Endocrine testing revealed non-suppressible cortisol concentrations on low-dose-dexamethasone suppression test, elevated endogenous adenocorticotrophic hormone (ACTH) concentration and pituitary enlargement on computed tomography. Cabergoline (Holiday®, Holliday-Scott S.A., Buenos Aires, Argentina) was initiated at a dose of 10 μg/kg po every 48 hours targeting both the pituitary tumour and hypercortisolism. In Case 2, the cabergoline dosage was gradually increased to a final dose of 10 μg/kg po every 12 hours. Both cats achieved diabetic remission within 1 and 6 months of treatment, respectively. Serial monitoring demonstrated a decrease in endogenous ACTH concentrations and a reduction in pituitary volume of 29% of baseline (Case 1) and of 52% of baseline (Case 2) after 8 months of treatment. These findings suggest that cabergoline may be a potential medical treatment option in cats with pituitary-dependent hypercortisolism.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576538/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
