@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-21T00:15:55.570593+00:00",
+  "updated_at": "2026-09-22T00:49:35.576122+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -71,6 +71,16 @@
       "publication_date": "2026-03",
       "abstract": "A male Finnish Lapphund presented with widespread papular skin lesions, which were diagnosed as cutaneous sarcoidosis based on histopathological results. Multiple diagnostic techniques, including bacterial and fungal culture, special staining, electron microscopy and in situ hybridisation, failed to identify a specific causative agent. Remission was achieved with oral oclacitinib.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41889221/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42764151",
+      "title": "Successful Treatment of Onchocerca lupi Auricular Infestation Causing Severe Otitis Externa in a Dog.",
+      "journal": "Veterinary dermatology",
+      "publication_date": "2026-09",
+      "abstract": "We report the first successfully treated case of auricular Onchocerca lupi infection in a dog in Switzerland, causing severe unilateral otitis externa. Diagnosis was confirmed by molecular analysis after nematode extraction. Combined therapy led to complete remission within 6 weeks, highlighting O. lupi as a differential for chronic otitis with mass formation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764151/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026",
       "abstract": "A cat with bilateral ureteral obstruction and long-term urolithiasis that had been medically managed for a year was presented to the emergency department of our hospital. Severe azotemia and metabolic acidosis were identified. Ultrasonography and computed tomography supported a diagnosis of ureteral calculi, with no evidence of other underlying abnormalities. During exploratory laparotomy, irreversible renal failure secondary to bilateral ureteral obstruction was suspected, and euthanasia was elected. Histopathological and immunohistochemical examination of the ureters revealed tubulopapillary urothelial carcinoma (transitional cell carcinoma). This case is noteworthy because it represents only the second reported case of feline ureteral transitional cell carcinoma associated with ureteral calculi causing bilateral ureteral obstruction. It also highlights that ureteral calculi may coexist with ureteral transitional cell carcinoma in cats, potentially masking the underlying neoplasm and delaying its diagnosis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42592278/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42579237",
-      "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-Aug-11",
-      "abstract": "Tremorgenic mycotoxicosis is a well-recognized cause of acute neurotoxicosis in dogs, most commonly associated with penitrem A (PTA), which is mainly produced by Penicillium crustosum. However, analytical confirmation of such cases is rare. This study describes five clinical cases of canine tremorgenic mycotoxicosis in Germany, together with comprehensive analytical confirmation. All dogs had been presented at the veterinary clinic of Justus-Liebig-University because of acute-onset generalized tremors. Clinical findings, therapeutic measures and final outcome were documented. Samples of gastric content (induced emesis or gastric lavage) and blood serum (if available) were analyzed for several neurotoxic mycotoxins, penitrems A-F, paxilline (PAX), α-cyclopiazonic acid (CPA), and ergoline alkaloids. Analysis was done by enzyme immunoassay (EIA), and by HPLC-MS/MS. EIA of gastric content was positive for PTA in all samples, and for PAX, CPA, and ergoline alkaloids in some. HPLC-MS/MS analysis confirmed the presence of penitrems A-F, PAX, and CPA. Trace levels of PTA, PAX and CPA were also detected in serum samples. Penitrem producing P. crustosum was isolated from gastric content of all animals. This is the first full analytical study on acute canine tremorgenic mycotoxicoses in Germany, and presents comprehensive results along the causal chain of tremorgenic mycotoxicosis. In addition to the penitrems, several other neurotoxic mycotoxins (PAX, CPA, ergoline alkaloids) may play a role in canine mycotoxicosis. While immediate stabilisation and symptomatic treatment are paramount, prompt mycotoxin testing can help identify the source of poisoning during differential diagnosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42579237/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
