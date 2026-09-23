@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-22T00:49:35.576122+00:00",
+  "updated_at": "2026-09-23T00:32:20.662293+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42768449",
+      "title": "Bilateral Third Eyelid Ectopic Cilia in a Maine Coon Cat.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "To describe a case of a Maine Coon cat diagnosed with bilateral aberrant hairs consistent with ectopic cilia arising from the third eyelid. The history, clinical signs, examination findings, surgical procedures, and case outcome were reviewed. An eleven-month-old Maine Coon cat presented with a chronic history of bilateral epiphora and right blepharospasm. The left eye previously underwent upper and lower eyelid wedge excision to shorten the palpebral fissure and a partial Celsus-Hotz procedure to correct lower eyelid entropion. The right eye developed lower eyelid entropion shortly after and was surgically treated using the Read and Broun technique. Examination revealed a bilateral ocular discharge and follicular conjunctivitis; macroblepharon, permanent lower eyelid entropion associated with trichiasis, and non-ulcerative keratitis were present in the right eye. The upper and lower eyelid position was normal in the left eye. The right eye was treated with the Stades Diabolo technique and a partial Celsus-Hotz procedure. Inspection under general anesthesia revealed bilateral single aberrant hairs consistent with ectopic cilia on the palpebral surface of the third eyelid. A focal conjunctivectomy, including the ectopic cilium, was performed in each eye. Eyelid and conjunctival wounds healed uneventfully. Differential diagnoses for aberrant hair arising from the third eyelid conjunctiva include dermoid, choristoma, or ectopic cilium. Histology was declined due to financial constraints. Although not previously reported in the literature, given the clinical appearance, an ectopic cilium is the most likely diagnosis. Surgical excision was curative, with no recurrence of epiphora, conjunctivitis, or the entropion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768449/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -75,12 +85,32 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42770669",
+      "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-09",
+      "abstract": "To describe staged pre-renal caudal vena cava (CVC) occlusion before en bloc right divisional hepatectomy with segmental caval resection in two dogs with right divisional hepatocellular carcinoma (HCC) involving the CVC. Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu). Short case series. Dog 1 (Siberian Husky) had prior hemoperitoneum and biopsy-confirmed HCC; dog 2 (Shih Tzu) had persistent liver enzyme elevations and a suspected hepatic tumor. Computed tomography (CT) showed right divisional masses (91.8 × 122.3 × 101.4 mm; 77.0 × 94.8 × 70.2 mm) with CVC compression or involvement and no pre-existing collateral venous return. A percutaneously controlled hydraulic occluder was placed around the pre-renal CVC. Gradual outpatient occlusion was performed over 79 and 44 days while monitoring saphenous venous pressure, renal values, and hindlimb edema. Complete CVC occlusion and collateralization were confirmed by CT before en bloc right divisional hepatectomy with segmental CVC resection. Macroscopically complete resection was achieved in both dogs. Complete HCC resection was confirmed histopathologically. Morbidity was limited to transient wound exudation in dog 1 and transient ascites in dog 2. No recurrence or metastasis was identified in dog 1 during follow-up. In dog 2, no clinical signs suggestive of recurrence or metastasis were reported. Survival after hepatectomy was 352 and 2467 days. Staged pre-renal CVC occlusion may establish collateral venous return and permit planned en bloc right divisional hepatectomy with segmental CVC resection in carefully selected dogs with right divisional HCC involving the CVC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42764151",
       "title": "Successful Treatment of Onchocerca lupi Auricular Infestation Causing Severe Otitis Externa in a Dog.",
       "journal": "Veterinary dermatology",
       "publication_date": "2026-09",
       "abstract": "We report the first successfully treated case of auricular Onchocerca lupi infection in a dog in Switzerland, causing severe unilateral otitis externa. Diagnosis was confirmed by molecular analysis after nematode extraction. Combined therapy led to complete remission within 6 weeks, highlighting O. lupi as a differential for chronic otitis with mass formation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42764151/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "41965316",
+      "title": "Encephalitic rabies following cat bites: two cases in northern Uganda.",
+      "journal": "Practical neurology",
+      "publication_date": "2026-09",
+      "abstract": "Although rabies continues to exert a major global health impact, only a very small minority of UK neurologists will ever have encountered cases, and many remain unfamiliar with its diagnosis and management. The recent death of a UK national, in Yorkshire, emphasises the importance of general neurologists having familiarity with the manifestations of rabies. Here, we describe two cases of Ugandan males who developed rapidly fatal encephalitic rabies following cat bites. We outline their clinical features and summarise current diagnostic and management approaches.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41965316/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-Aug-14",
       "abstract": "Feline pulmonary Langerhans cell histiocytosis (FPLCH) is a rare histiocytic disorder in cats, usually diagnosed post-mortem following natural death or euthanasia for severe respiratory distress. Antemortem diagnosis has been reported only once, achieved by cytologic examination of bronchoalveolar lavage fluid combined with immunocytochemistry, whereas fine-needle aspiration (FNA) of lung nodules was previously reported as non-diagnostic. Here we describe two cases of FPLCH in which cytology of ultrasound-guided lung-nodule FNA yielded diagnostic material, including from one cat with an atypical clinical presentation. Whereas case 1 presented with severe respiratory distress, case 2 had no respiratory signs. Both specimens were highly cellular and composed of atypical cells morphologically most consistent with histiocytes showing moderate atypia. A combination of postmortem gross, histopathologic, immunophenotypic, and ultrastructural findings confirmed the cytologic suspicion of FPLCH. To our knowledge, this is the first cytologic description of FPLCH in FNA samples from lung nodules and the first report of a confirmed case without respiratory signs.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42596859/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42593565",
-      "title": "Case Report: Detection of a Caprine Coccidian Parasite in a Neonatal Bengal Tiger Cub (Panthera tigris tigris) at Grand Taman Safari Prigen, Indonesia.",
-      "journal": "Acta parasitologica",
-      "publication_date": "2026-Aug-13",
-      "abstract": "The Bengal tiger (Panthera tigris tigris), a large carnivorous felid housed at Grand Taman Safari Prigen, Indonesia, poses considerable conservation and veterinary challenges in captivity. The present study investigated fecal parasitological findings in a neonatal Bengal tiger cub with acute diarrhea; however, the etiology of the diarrhea could not be determined. Coproparasitological examination was conducted on a neonatal Bengal tiger cub fecal sample immediately after defecation, followed by oocyst purification and molecular analysis with universal primers targeting mainly Eimeria. Microscopic evaluation identified oocysts containing four sporocysts, consistent with Eimeria species, and revealed considerable morphological and size variation, suggesting a possible mixed-species infection. By molecular analysis, one species among them could be successfully identified. Sequencing analysis demonstrated high similarity to Eimeria species commonly infecting ruminants, particularly goats, Eimeria sp. Yakushima, suggesting potential cross-species transmission to a non-typical carnivorous host. Based on morphological characteristics, some oocysts also matched those of other goat Eimeria species (E. alijevi, E. arloingi, E. christenseni, and an unknown species). This transmission may have resulted from contaminated, reused bedding materials previously exposed to herbivorous animals. Notably, oocysts of Eimeria spp. are recognized for their environmental resistance and persistence against disinfectants. Although the parasite was confirmed, infection of carnivores by caprine coccidian is considered atypical, and its role in disease manifestation remains unclear. These findings illustrate the complexity of diagnosing enteric disorders in captive wildlife and emphasize the necessity for integrated parasitological and environmental management strategies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593565/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42592381",
-      "title": "Cushing's Syndrome associated with diabetes mellitus in a Persian cat: clinical features, diagnosis, and therapeutic management.",
-      "journal": "Brazilian journal of veterinary medicine",
-      "publication_date": "2026",
-      "abstract": "The association between Cushing's syndrome (CS) and diabetes mellitus (DM) in cats is rarely reported. Complications related to hypercortisolism and persistent hyperglycemia may occur, which may complicate the control of both endocrinopathies. This report describes the case of a 10-year-old Persian cat diagnosed with CS and DM. The patient presented with polyuria, polydipsia, chronic dry seborrhea on the dorsal region and flanks, and lack of hair regrowth on the abdomen. Through the dexamethasone suppression test (0.1 mg/kg) and the presence of persistent hyperglycemia with elevated fructosamine levels and glycosuria, diagnoses of Cushing's syndrome and DM were established. Treatment was initiated with trilostane (2 mg/kg PO BID) for CS and insulin glargine (2 IU/animal SC BID) for DM, resulting in stabilization of blood glucose, cortisol concentrations, and the patient's clinical condition, although cutaneous fragility persisted for a prolonged period. Diagnostic investigation for hypercortisolism should be considered in cats with DM to allow earlier diagnosis, reduce underdiagnosis, and improve the availability of epidemiological and clinical data on this association. The diagnostic approach and clinical management described may aid veterinarians in recognizing this coexistence and anticipating therapeutic challenges, such as persistent cutaneous fragility despite cortisol control.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592381/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42592278",
-      "title": "Approach to the diagnosis of bilateral ureteral transitional cell carcinoma in a cat.",
-      "journal": "Brazilian journal of veterinary medicine",
-      "publication_date": "2026",
-      "abstract": "A cat with bilateral ureteral obstruction and long-term urolithiasis that had been medically managed for a year was presented to the emergency department of our hospital. Severe azotemia and metabolic acidosis were identified. Ultrasonography and computed tomography supported a diagnosis of ureteral calculi, with no evidence of other underlying abnormalities. During exploratory laparotomy, irreversible renal failure secondary to bilateral ureteral obstruction was suspected, and euthanasia was elected. Histopathological and immunohistochemical examination of the ureters revealed tubulopapillary urothelial carcinoma (transitional cell carcinoma). This case is noteworthy because it represents only the second reported case of feline ureteral transitional cell carcinoma associated with ureteral calculi causing bilateral ureteral obstruction. It also highlights that ureteral calculi may coexist with ureteral transitional cell carcinoma in cats, potentially masking the underlying neoplasm and delaying its diagnosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592278/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
