@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-23T00:32:20.662293+00:00",
+  "updated_at": "2026-09-24T00:29:43.829110+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -361,6 +361,16 @@
       "publication_date": "2026-09",
       "abstract": "To report serum baclofen concentrations before, during, and after in-series carbon hemoperfusion (cHP) and hemodialysis (HD) in four dogs with severe baclofen toxicosis. This series involves four dogs with serum samples collected before, during, and after in-series cHP/HD. The extraction ratio (ER, %) of cHP and HD, half-life during cHP/HD, and total extracorporeal elimination constant were calculated. Posttreatment samples were collected to determine endogenous half-life and intrinsic elimination constant. Two dogs received both cHP/HD and mechanical ventilation, while the other two received cHP/HD alone. The range of ingested dosages was 4-24 mg/kg. The median time from suspected ingestion to cHP/HD initiation was 7 h (range: 5-15 h). Extracorporeal therapy was performed using an intermittent hemodialysis platform in two cases and a continuous renal replacement therapy platform in two cases. The median duration of cHP/HD was 3 h (range: 2.2-4 h), with a median total blood volume processed of 1.3 L/kg (range: 1-1.5 L/kg), equating to 15 times (range: 12-18.2 times) the estimated blood volume (80 mL/kg) in dogs. Serum baclofen concentration was reduced during cHP/HD by a median 69% (range: 46%-80%). The median ER for cHP was 61% (range: 60%-81%) and for HD was 4% (range: -0.5% to 11.5%). The calculated half-life during cHP/HD was 1.9 h (range: 1.1-2.5 h), compared with 5.8 h (range: 3.1-13.6 h) after cHP/HD. The median extracorporeal elimination constant was 0.34 (range: 0.08-0.37), which was 2.8 times faster than the intrinsic elimination constant of 0.12 (range: 0.05-0.23). In-series cHP/HD reduced serum baclofen concentrations in this small series of dogs, highlighting its potential role in the treatment of severe baclofen intoxication.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42687429/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42772022",
+      "title": "Cone reconstruction for severe tricuspid valve dysplasia in a dog.",
+      "journal": "Journal of veterinary cardiology : the official journal of the European Society of Veterinary Cardiology",
+      "publication_date": "2026-09",
+      "abstract": "Tricuspid valve dysplasia (TVD) is a congenital cardiac malformation in dogs characterized by abnormal tricuspid valve morphology, leaflet tethering, impaired leaflet coaptation, and right atrial and ventricular remodelling. This report describes cone reconstruction for severe TVD in a dog. A three-year-and-10-month-old female Labrador retriever presented with a grade IV/VI systolic murmur and exercise intolerance. Echocardiography revealed severe tricuspid regurgitation, a right atrial-to-left atrial ratio of 1.57, malformed and tethered tricuspid valve leaflets, impaired leaflet coaptation, and marked right-sided cardiac enlargement, consistent with severe TVD. Surgery involved tricuspid valve leaflet mobilization, delamination of adherent leaflet tissue and abnormal subvalvular attachments, annular reduction, and reconstruction of the available leaflet tissue into a cone-like valve with leaflet rotation and reattachment. A small, thin, dysplastic portion of the right ventricular free wall was also excluded from the functional right ventricular cavity by longitudinal plication. The dog was discharged on postoperative day seven without other major complications. On postoperative day 294, echocardiography showed a reduction in the colour Doppler tricuspid regurgitant jet, a decrease in the right atrial-to-left atrial ratio to 0.50, and a reduction in right atrial size. Exercise intolerance resolved, although a grade III/VI systolic murmur persisted. Cone reconstruction, adapted from the technique used in human patients with Ebstein's anomaly, may improve tricuspid valve function and clinical signs in selected dogs with severe TVD. However, its indications, reproducibility, and long-term durability in dogs remain unestablished. Further studies are needed to evaluate patient selection, long-term benefits, and potential complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42772022/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-Sep",
       "abstract": "Oronasal fistula formation, associated with maxillary canine teeth, is a frequent sequela to untreated periodontal disease, and extraction has traditionally been regarded as the primary treatment. A 10-year-old spayed female miniature Dachshund was presented with an oronasal fistula involving the left maxillary canine tooth. After initial non-surgical management with minimally invasive non-surgical technique (MINST) failed to resolve the periodontal pocket and fistula, microscope-assisted periodontal regenerative therapy combined with an Er:YAG laser was performed. The treatment achieved complete closure of the fistula together with reduction of the periodontal pocket. Cone beam computed tomography at 8 months post-surgery confirmed new bone formation. This case demonstrates that the integration of microsurgical visualization and Er:YAG laser therapy can enable preservation of maxillary canine teeth with oronasal fistula, providing a minimally invasive alternative to extraction.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41719179/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42596859",
-      "title": "Fine-Needle Aspirate Cytology of Feline Pulmonary Langerhans Cell Histiocytosis in Two Cats.",
-      "journal": "Veterinary clinical pathology",
-      "publication_date": "2026-Aug-14",
-      "abstract": "Feline pulmonary Langerhans cell histiocytosis (FPLCH) is a rare histiocytic disorder in cats, usually diagnosed post-mortem following natural death or euthanasia for severe respiratory distress. Antemortem diagnosis has been reported only once, achieved by cytologic examination of bronchoalveolar lavage fluid combined with immunocytochemistry, whereas fine-needle aspiration (FNA) of lung nodules was previously reported as non-diagnostic. Here we describe two cases of FPLCH in which cytology of ultrasound-guided lung-nodule FNA yielded diagnostic material, including from one cat with an atypical clinical presentation. Whereas case 1 presented with severe respiratory distress, case 2 had no respiratory signs. Both specimens were highly cellular and composed of atypical cells morphologically most consistent with histiocytes showing moderate atypia. A combination of postmortem gross, histopathologic, immunophenotypic, and ultrastructural findings confirmed the cytologic suspicion of FPLCH. To our knowledge, this is the first cytologic description of FPLCH in FNA samples from lung nodules and the first report of a confirmed case without respiratory signs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42596859/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
