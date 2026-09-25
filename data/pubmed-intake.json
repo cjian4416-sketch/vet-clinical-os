@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-24T00:29:43.829110+00:00",
+  "updated_at": "2026-09-25T00:32:53.363056+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -41,6 +41,16 @@
       "publication_date": "2026-Nov",
       "abstract": "To report a case of canine posterior lens luxation in which the intact lens was successfully floated using perfluorocarbon liquid (PFCL) combined with pars plana vitrectomy (PPV) and subsequently removed. A client-owned 7-year-old castrated female Italian Greyhound presented with rapidly progressive bilateral posterior lens luxation. In the right eye, via a three-port 25-gauge pars plana approach, the vitreous was removed and PFCL was injected beneath the luxated lens to float the intact lens from the retinal surface to the pupillary plane. The lens was subsequently removed by intracapsular lens extraction through a limbal incision using a cryoprobe. At the final 6-month follow-up examination, vision was preserved, and no retinal detachment or other significant postoperative complications were observed. In this case, combining PPV and PFCL was an effective technique for managing posterior lens luxation and enabled successful removal of the intact luxated lens.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42713863/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42636554",
+      "title": "Corneal stromal metastasis of urothelial carcinoma in a dog.",
+      "journal": "Research in veterinary science",
+      "publication_date": "2026-08",
+      "abstract": "A 15-year-old intact male Miniature Dachshund presented with severe hematuria. Clinical evaluations of this dog raised the suspicion of a malignant bladder tumor, and corneal stromal opacity was observed in the left eye. Because of the critical condition, the dog died on the day of presentation, after which a necropsy was performed. Necropsy and histopathological examinations confirmed urothelial carcinoma (UC) in the bladder. Moreover, the corneal stromal opacity represented a metastatic lesion of UC, and similar metastatic lesions were identified at 13 other sites. The UC in this dog was considered clinically highly malignant based on its rapid clinical course and the presence of multiple metastatic sites. This highly malignant nature may have contributed to the corneal stromal metastasis. This is an extremely rare case of corneal stromal metastasis from canine UC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636554/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -161,6 +171,16 @@
       "publication_date": "2026-09",
       "abstract": "This report details a fatal case of canine dirofilariasis with concomitant  Ehrlichia canis  infection, emphasizing the role of molecular diagnostics and highlighting diagnostic and epidemiological gaps in Panama, particularly regarding stray dogs as key foci of infection. An 8-year-old mixed-breed dog presented with severe clinical signs, including adult nematode expectoration, lymphocytosis, eosinopenia, anemia, and thrombocytopenia. Rapid immunochromatographic tests confirmed co-infection with  Dirofilaria immitis and Ehrlichia canis , with abundant microfilariae on blood smear. Echocardiography revealed severe right ventricular dilation, tricuspid regurgitation, and  D. immitis  adults in the heart and pulmonary artery. Necropsy confirmed severe right atrial rupture with hemopericardium and extensive parasitic burden, identified as  D. immitis  by molecular analysis (453 bp 16S rRNA product). This case underscores the advanced pathology of dirofilariasis and the aggravating role of co-infection, highlighting Panama's significant epidemiological challenges, including vector prevalence, stray-dog reservoirs, and limited access to therapy. These findings highlight the need for molecular diagnostics, comprehensive control strategies, and robust surveillance programs, especially for stray dog populations, to mitigate impacts on animal and public health.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42724813/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42781373",
+      "title": "Case Report: Repeated imaging and surgical treatment of a vascular hamartoma arising from the cervical vertebral column of a cat.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "A 3-year-old male neutered Domestic Shorthair cat was presented with a 1-year history of progressive right-lateralized proprioceptive ataxia, ambulatory tetraparesis and cervical spinal pain, with sudden deterioration shortly before presentation. Neurological examination was consistent with a right-sided C6-T2 myelopathy. Magnetic resonance imaging (MRI) revealed a right-sided extradural myelocompressive lesion at the level of the C5 vertebra, associated with osseous proliferation arising from the right lamina and vertebral body, causing severe spinal cord compression and leftward deviation of the spinal cord. The mass was surgically resected, and histopathology confirmed a vertebral vascular hamartoma. Clinical signs improved after a brief period of postoperative worsening. One year later, neurological deficits recurred. MRI and computed tomography (CT) confirmed regrowth of the vertebral lesion. A second surgical excision was performed, and histopathology again confirmed a vertebral vascular hamartoma. To the authors' knowledge, this is the first report describing follow-up imaging and repeated surgical intervention, with histopathological confirmation at both procedures, in a cat with recurrent cervical vertebral vascular hamartoma. It highlights vertebral vascular hamartoma as an important differential diagnosis for young cats with progressive myelopathy, extradural spinal cord compression and vertebral osseous proliferation, and suggests that surgical intervention can result in meaningful clinical improvement despite possible regrowth after incomplete resection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781373/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -361,6 +381,16 @@
       "publication_date": "2026-09",
       "abstract": "To report serum baclofen concentrations before, during, and after in-series carbon hemoperfusion (cHP) and hemodialysis (HD) in four dogs with severe baclofen toxicosis. This series involves four dogs with serum samples collected before, during, and after in-series cHP/HD. The extraction ratio (ER, %) of cHP and HD, half-life during cHP/HD, and total extracorporeal elimination constant were calculated. Posttreatment samples were collected to determine endogenous half-life and intrinsic elimination constant. Two dogs received both cHP/HD and mechanical ventilation, while the other two received cHP/HD alone. The range of ingested dosages was 4-24 mg/kg. The median time from suspected ingestion to cHP/HD initiation was 7 h (range: 5-15 h). Extracorporeal therapy was performed using an intermittent hemodialysis platform in two cases and a continuous renal replacement therapy platform in two cases. The median duration of cHP/HD was 3 h (range: 2.2-4 h), with a median total blood volume processed of 1.3 L/kg (range: 1-1.5 L/kg), equating to 15 times (range: 12-18.2 times) the estimated blood volume (80 mL/kg) in dogs. Serum baclofen concentration was reduced during cHP/HD by a median 69% (range: 46%-80%). The median ER for cHP was 61% (range: 60%-81%) and for HD was 4% (range: -0.5% to 11.5%). The calculated half-life during cHP/HD was 1.9 h (range: 1.1-2.5 h), compared with 5.8 h (range: 3.1-13.6 h) after cHP/HD. The median extracorporeal elimination constant was 0.34 (range: 0.08-0.37), which was 2.8 times faster than the intrinsic elimination constant of 0.12 (range: 0.05-0.23). In-series cHP/HD reduced serum baclofen concentrations in this small series of dogs, highlighting its potential role in the treatment of severe baclofen intoxication.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42687429/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42777784",
+      "title": "Palliative Debulking of an Aortic Body Tumour With Right Atrial Invasion in a Dog Under Partial Cardiopulmonary Bypass.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Sep",
+      "abstract": "Aortic body tumours are uncommon heart-base neoplasms in dogs, and intracardiac extension causing clinically significant right atrial obstruction is rarely described. A 7-year-1-month-old, 15.2-kg, castrated male French Bulldog was evaluated for 2 weeks of lethargy, hyporexia, exercise intolerance, abdominal distension, and polydipsia. Transthoracic echocardiography revealed severe right-sided cardiac enlargement and a heterogeneous right atrial intracavitary mass (3.2 × 3.1 cm) suspected to arise from the heart base, with tricuspid regurgitation (maximal velocity 4.03 m/s). Abdominal ultrasonography showed hepatic venous congestion and marked ascites; fluid was a modified transudate. Medical therapy failed to resolve ascites, and surgical debulking was performed on Day 7 under partial cardiopulmonary bypass. The mass was firmly adherent to the atrial septal aspect and could not be completely excised. Postoperatively, ascites and clinical signs resolved, right-sided cardiac enlargement decreased, and tricuspid regurgitation was no longer detectable; the dog was discharged on Day 14. A recurrent right atrial mass was documented on Day 360 without recurrence of right-sided heart failure. The dog died on Day 390 from pancreatitis-associated biliary obstruction and multiple organ failure. Necropsy confirmed an aortic body tumour with intracardiac extension into the right atrium and pulmonary metastasis with tumour emboli. Partial cardiopulmonary bypass-assisted palliative debulking may temporarily relieve life-limiting intracardiac obstruction in carefully selected dogs; however, this approach is high-risk and non-curative, and its contribution to long-term survival remains uncertain because postoperative toceranib therapy and the natural behaviour of the tumour may also have influenced the clinical course.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777784/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-Sep",
       "abstract": "To report the first case of chronic papillary conjunctivitis caused by Rickettsia felis infection. A 27-year-old man presented with a 4-year history of unilateral papillary conjunctivitis refractory to multiple antibiotic courses. Examination revealed tarsal conjunctival injection, papillary hypertrophy, mucopurulent discharge, and eyelid laxity with entropion. The patient had a history of cat ownership for 5-6 years, suggesting possible exposure to the cat flea, and remained systemically asymptomatic without fever, rash, or lymphadenopathy. Metagenomic next-generation sequencing, serology, and histopathology confirmed R. felis infection. Given the chronic intracellular nature of the infection, the patient received an extended 2-month course of oral doxycycline (100 mg twice daily) combined with topical therapy, with marked improvement observed by week 8 and subsequent entropion repair surgery. This represents the first reported case of chronic, isolated rickettsial conjunctivitis without systemic involvement or Parinaud's oculoglandular syndrome features. This case highlights the importance of considering rickettsial infection in chronic, treatment-refractory conjunctivitis and demonstrates the value of metagenomic sequencing for diagnosis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42248407/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42127721",
-      "title": "Peripheral neurological involvement due to Bartonella henselae in an immunocompetent adolescent: a case report and literature review.",
-      "journal": "Diagnostic microbiology and infectious disease",
-      "publication_date": "2026-Sep",
-      "abstract": "This report describes a rare case of post-infectious meningoradiculitis caused by Bartonella henselae in a healthy 17-year-old male. The patient presented with bilateral peripheral facial palsy, paresthesia and absent deep tendon reflexes, following axillary lymphadenopathy related to cat scratches. Lumbar puncture showed lymphocytic pleocytosis, and serological results showed high titers of both IgG and IgM for Bartonella henselae. Electroneuromyography revealed prolonged F waves. Treatment included intravenous immunoglobulins and doxycycline, with gradual clinical improvement. A systematic literature review identified 20 cases of peripheral neurological involvement associated with Bartonella henselae, highlighting the diversity of neurological manifestations beyond encephalitis and neuroretinitis. This case illustrates the importance of considering Bartonella henselae in the differential diagnosis of inflammatory radiculopathies, especially in individuals who have had contact with cats and when more common causes are ruled out.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42127721/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "41789638",
-      "title": "Oral Neuroma in a Dog: A Case Report.",
-      "journal": "Journal of veterinary dentistry",
-      "publication_date": "2026-Sep",
-      "abstract": "A neuroma is a tangled, circumscribed, non-neoplastic mass of neuronal tissue formed after axonal injury and consists of a mixture of fibroblasts, Schwann cells and axons. Traumatic neuroma is the most commonly recognized neuroma lesion in humans and can occur at any site in the body where a nerve is traumatized. A 15-year-old female Miniature Pinscher was presented with periodontal disease. A lump on the right side of the face was found, corresponding to a solitary cylindrical mass on the mucosal surface of the lower lip. Dental radiographs showed no lysis of the mandibular bone. After an inconclusive cytological examination, the mass was surgically removed, fixed in 10% formalin, embedded in paraffin, and routinely stained for light microscopy. Macroscopically, a whitish, firm, filiform mass measuring 2.5 × 0.5 × 0.3 cm was found. Microscopically, the mass was poorly defined and consisted of spindle-shaped cells forming bands, bundles, and sometimes coiled structures, resembling nerves, surrounded by fibrosis. The cells were monomorphic, but an area of increased cellularity and nuclear atypia was observed. Mitotic figures, Verocay bodies, or Antoni A and B patterns were not found. The mass was surrounded by oral epithelium, mucinous glands, and skeletal muscle. There is much confusion in veterinary medicine regarding the nomenclature of peripheral nerve sheath tumors, that is, schwannomas, neurofibromas, perineuromas, traumatic neuroma, and malignant tumors of the peripheral nerve sheath. This lesion had histological features consistent with a neuroma, an unusual entity in the canine oral cavity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41789638/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "41719179",
-      "title": "Management of an Oronasal Fistula Using Microscope-Assisted Er:YAG Laser Periodontal Regenerative Therapy in a Dog.",
-      "journal": "Journal of veterinary dentistry",
-      "publication_date": "2026-Sep",
-      "abstract": "Oronasal fistula formation, associated with maxillary canine teeth, is a frequent sequela to untreated periodontal disease, and extraction has traditionally been regarded as the primary treatment. A 10-year-old spayed female miniature Dachshund was presented with an oronasal fistula involving the left maxillary canine tooth. After initial non-surgical management with minimally invasive non-surgical technique (MINST) failed to resolve the periodontal pocket and fistula, microscope-assisted periodontal regenerative therapy combined with an Er:YAG laser was performed. The treatment achieved complete closure of the fistula together with reduction of the periodontal pocket. Cone beam computed tomography at 8 months post-surgery confirmed new bone formation. This case demonstrates that the integration of microsurgical visualization and Er:YAG laser therapy can enable preservation of maxillary canine teeth with oronasal fistula, providing a minimally invasive alternative to extraction.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41719179/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
