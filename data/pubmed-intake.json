@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-25T00:32:53.363056+00:00",
+  "updated_at": "2026-09-26T00:37:23.939190+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -95,6 +95,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42785426",
+      "title": "Successful management of nesidioblastosis in a dog with persistent hyperinsulinemic hypoglycemia following staged bilateral partial pancreatectomies.",
+      "journal": "Topics in companion animal medicine",
+      "publication_date": "2026-09",
+      "abstract": "Nesidioblastosis is a rare but important differential diagnosis for hyperinsulinemic hypoglycemia in dogs, a condition most commonly associated with insulinoma. A nine-year-old spayed female dog was presented with recurrent episodes of collapse and documented hyperinsulinemic hypoglycemia. Diagnostic imaging failed to identify a pancreatic mass, prompting exploratory laparotomy with left partial pancreatectomy and regional lymphadenectomy. Histopathological examination excluded insulinoma and established a diagnosis of nesidioblastosis. Although clinical signs initially resolved following surgery, hypoglycemia recurred 45 days later, prompting a right partial pancreatectomy. Following the second procedure, the patient remained euglycemic and free of clinical signs, without evidence of clinical diabetes mellitus or exocrine pancreatic insufficiency throughout an eight-month follow-up period. This case underscores the importance of considering nesidioblastosis in dogs with hyperinsulinemic hypoglycemia when a pancreatic mass is not identified. Furthermore, this case suggests that recurrence after unilateral partial pancreatectomy may occur because of the diffuse nature of nesidioblastosis. In this patient, staged bilateral partial pancreatectomy was associated with sustained glycemic control and clinical remission, without clinically apparent endocrine or exocrine pancreatic dysfunction during an eight-month follow-up period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785426/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42770669",
       "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
       "journal": "Veterinary surgery : VS",
@@ -161,6 +171,26 @@
       "publication_date": "2026-09",
       "abstract": "Dilated cardiomyopathy (DCM) is a major cause of systolic heart failure in dogs, characterized by ventricular dilation and reduced contractility. During acute decompensation, rapid inodilator therapy is essential to stabilize hemodynamics. This case describes serial changes in non-invasive blood pressure and left ventricular systolic function observed during sequential administration of two inodilator agents via different routes on consecutive days. An Anatolian shepherd dog was presented with acute respiratory distress. Echocardiography revealed severe left ventricular dilation and systolic dysfunction, and DCM was diagnosed using established criteria. Because oral therapy was initially not tolerated, intravenous pimobendan was administered, producing a rapid but transient improvement in systolic indices and global longitudinal strain (GLS). After transition to oral pimobendan the following day, systolic function improved mildly, while GLS remained markedly reduced. Levosimendan was subsequently administered as an intravenous bolus, resulting in only minimal improvement in systolic parameters and GLS. A continuous infusion was then initiated; however, systolic measurements remained largely unchanged during infusion. Serial echocardiographic assessment, particularly GLS, documented temporal changes in myocardial function during sequential inodilator therapy. These findings represent descriptive clinical observations from the management of a single patient and should not be interpreted as evidence of comparative efficacy or superiority of one inodilator over another. Because atrial fibrillation and temporal variation in heart rate may have influenced echocardiographic measurements throughout the monitoring period, the findings should be interpreted within the methodological limitations of this sequential single-case report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726409/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42787421",
+      "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6 Gy × 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with diffuse large B-cell lymphoma. Hypofractionated palliative radiation therapy (6 Gy × 6 fractions; total dose 36 Gy) was initiated to address the obstructive mass. Progressive tumor shrinkage was observed during treatment, and by the fourth fraction the tracheostomy tube was successfully removed without recurrence of airway obstruction. Follow-up CT 17 days after radiation therapy initiation showed no visible laryngeal lesion, and no respiratory signs or airway obstruction recurred before the cat died on day 27 following clinically suspected systemic disease progression. This case suggests that hypofractionated radiation therapy, in combination with temporary tracheostomy, may provide rapid and effective relief of tumor-induced upper airway obstruction in cats with laryngeal B-cell lymphoma progressing during chemotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787421/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42787174",
+      "title": "Case Report: Multiple mammary carcinomas in a young dog with estrus-associated hyperglycemia: clinicopathological findings and glycemic normalization after ovariohysterectomy.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "Mammary tumors are among the most common neoplasms affecting female dogs and are typically diagnosed in middle-aged or older animals. The occurrence of malignant mammary tumors in very young dogs is uncommon and may present diagnostic and clinical management challenges. This case report describes a young female dog presenting with multiple mammary nodules accompanied by persistent hyperglycemia detected approximately one to 2 weeks before the onset of estrus. Clinical examination, hematological and biochemical testing, cytological evaluation, surgical excision of the mammary lesions, and histopathological analysis were performed. Histopathology confirmed the presence of multiple mammary carcinomas with different histological patterns. Despite surgical removal of the tumors, blood glucose concentrations remained elevated. Two weeks later, the patient underwent ovariohysterectomy, after which glycemic values gradually decreased and returned to normal within the following weeks. The temporal association between reproductive hormonal status and the observed metabolic alteration suggests a possible hormone-related insulin resistance rather than a direct metabolic effect of the tumors themselves. This case highlights the potential interaction between mammary neoplasia, reproductive hormonal status, and glucose metabolism in dogs and emphasizes the importance of comprehensive clinical and metabolic evaluation in young patients presenting with mammary tumors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787174/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-Sep",
       "abstract": "We describe a cystic duct neuroendocrine carcinoma in a dog evaluated with CEUS and multiphasic CT. The lesion was initially suspected to be hepatic but was reclassified as an intraluminal biliary mass on imaging. CEUS showed arterial hyperenhancement with early washout, and CT demonstrated a strongly enhancing intraluminal mass with progressive washout and biliary dilation. These findings enabled accurate localization and supported surgical management. Histopathology confirmed neuroendocrine carcinoma. Neoplasia of the canine gallbladder and biliary tract is uncommon, and tumors arising from the biliary ducts are rarely reported. Differentiating between hepatic and biliary origin can be challenging, particularly when intraductal lesions cause disproportionate biliary dilation relative to their size. Contrast-enhanced ultrasonography and multiphasic CT enable assessment of vascular characteristics and lesion localization, which may aid in distinguishing intraluminal biliary lesions from hepatic masses. This report describes a cystic duct neuroendocrine carcinoma characterized using CEUS, multiphasic CT, and histopathology, highlighting the role of multimodal imaging in accurate lesion localization.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42522406/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42456220",
-      "title": "Intra-house circulation and persistence of methicillin-resistant Staphylococcus pseudintermedius in Brazil: Evidence of transmission between a dog and its family.",
-      "journal": "Veterinary microbiology",
-      "publication_date": "2026-07",
-      "abstract": "We investigated a case of postoperative osteomyelitis in a dog caused by methicillin-resistant Staphylococcus pseudintermedius (MRSP) at a veterinary teaching hospital in Brazil, and screened the cohabiting dog, five household members and the attending surgeon for MRSP and other methicillin-resistant staphylococci (MRS) during infection (2021) and two years later (2023). Nasal and skin swabs were cultured on oxacillin-supplemented media. Isolates were identified as MRSP by PCR and characterized by PFGE and whole-genome sequencing, including MLST, SCCmec typing, resistance gene profiling and core-genome SNP analysis. The index infection was caused by MRSP ST71-SCCmec II-III displaying multidrug resistance but amikacin susceptible; the dog was successfully treated with prolonged amikacin therapy combined with surgical revision. During infection, MRSP ST71-SCCmec II-III was recovered from the patient, four owners and the surgeon (6/8 colonized with MRSP), while the cohabiting dog carried methicillin-resistant S. epidermidis. Two years later, MRSP carriage was identified in the cohabiting dog and two owners (3/7), with co-existence of MRSP ST71-SCCmec II-III (cohabiting dog skin) and the emerging lineage ST1095-CC551-SCCmec V (cohabiting dog nares; two owners), while the patient and two other owners carried other MRS. Within each lineage, pairwise SNP distances were ≤ 8, consistent with recent transmission. Overall, this case illustrates long-term intra-household circulation and strain replacement of MRSP across dogs and humans, highlighting the importance of hygiene measures in households to reduce the risk of transmission.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456220/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42257705",
-      "title": "Multisystem Detection and Molecular Evidence Linking Dog-Associated Ticks to Two Fatal Human SFTSV Infections in Thailand.",
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
-      "publication_date": "2026-Sep",
-      "abstract": "Severe fever with thrombocytopenia syndrome virus (SFTSV) is an emerging tick-borne pathogen responsible for severe and often fatal disease in East Asia; however, information from Southeast Asia remains limited. We report two fatal human SFTS cases in Thailand confirmed by quantitative reverse transcription polymerase chain reaction, in which viral RNA was detected in multiple specimen types from both patients, including plasma, cerebrospinal fluid, respiratory secretions, urine, and stool, indicating systemic infection. Rhipicephalus sanguineus ticks collected from pet dogs and from the patients' households also tested positive for SFTSV RNA, with cycle threshold values ranging from 15.6 to 30.6. Phylogenetic analyses based on the S, M, and L segments showed that sequences obtained from human and tick samples clustered within genotype B-1 and were closely related to previously reported Thai and related Chinese strains. These findings provide molecular evidence of SFTSV in dog-associated R. sanguineus ticks and suggest a possible epidemiological association with human cases; however, their role in transmission and the direction of transmission remain uncertain. These findings expand the known geographic and ecological context of SFTSV and underscore the importance of heightened clinical awareness and integrated human-animal-vector surveillance in Southeast Asia, particularly in dengue-endemic regions where SFTS may be clinically overlooked.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42257705/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42248407",
-      "title": "Chronic papillary conjunctivitis as a novel ocular manifestation of Rickettsia felis infection: A case report.",
-      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
-      "publication_date": "2026-Sep",
-      "abstract": "To report the first case of chronic papillary conjunctivitis caused by Rickettsia felis infection. A 27-year-old man presented with a 4-year history of unilateral papillary conjunctivitis refractory to multiple antibiotic courses. Examination revealed tarsal conjunctival injection, papillary hypertrophy, mucopurulent discharge, and eyelid laxity with entropion. The patient had a history of cat ownership for 5-6 years, suggesting possible exposure to the cat flea, and remained systemically asymptomatic without fever, rash, or lymphadenopathy. Metagenomic next-generation sequencing, serology, and histopathology confirmed R. felis infection. Given the chronic intracellular nature of the infection, the patient received an extended 2-month course of oral doxycycline (100 mg twice daily) combined with topical therapy, with marked improvement observed by week 8 and subsequent entropion repair surgery. This represents the first reported case of chronic, isolated rickettsial conjunctivitis without systemic involvement or Parinaud's oculoglandular syndrome features. This case highlights the importance of considering rickettsial infection in chronic, treatment-refractory conjunctivitis and demonstrates the value of metagenomic sequencing for diagnosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42248407/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
