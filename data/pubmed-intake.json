@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-26T00:37:23.939190+00:00",
+  "updated_at": "2026-09-27T00:35:31.443412+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -135,6 +135,86 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42791805",
+      "title": "Urothelial Carcinoma in a Cat with Bilateral Ectopic Ureters.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "A 10-year-old neutered female Maine Coon was presented with haematuria, weight loss, polyuria/polydipsia and progressive azotaemia. Diagnostic imaging revealed bilateral renal pelvic dilation, ureteral distension and ectopic ureters. Bacterial pyelonephritis was diagnosed, but the azotaemia progressed despite antibiotic therapy, and suspected ureteral obstruction prompted surgical ureteral reimplantation. The visualisation of omental nodules and thickening of the ectopic right ureterovesicular junction intraoperatively raised suspicion of malignancy, and histopathology revealed urothelial carcinoma with carcinomatosis. The cat was euthanised postoperatively due to clinical deterioration, characterised by persistent oliguria and progressive azotemia. Clinicians should consider malignancy as a differential in cats with ectopic ureters and an atypical or refractory clinical course.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791805/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42798019",
+      "title": "Cytologic and Cytochemical Characterization of Blue-Green Neutrophilic Inclusions in a Dog with Suspected Transfusion-Associated Hemolysis.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "An 11-year-old castrated male Maltese dog presented with acute lethargy and non-regenerative anemia. Despite immunosuppressive therapy and an initial packed red blood cell (pRBC) transfusion, hematocrit levels progressively declined after transient improvement. A second transfusion was administered following compatible crossmatch testing. Within 24 h of the second transfusion, a transfusion-associated hemolytic episode was suspected due to a rapid hematocrit decline, pigmenturia, hyperbilirubinemia, and autoagglutination. Peripheral blood smear revealed neutrophils containing coarse blue-green cytoplasmic inclusions. Special staining and autofluorescence microscopy supported lipid-rich, acid-fast, and autofluorescent properties of the inclusions. Prussian blue staining showed iron-positive granular material in the hemolytic sample, but the intraneutrophilic inclusions did not show distinct Prussian blue reactivity, making hemosiderin-rich sideroleukocytes unlikely to fully explain the findings. Similar inclusions have recently been characterized in dogs, mainly in association with severe hepatocellular injury, pancreatitis, and poor short-term outcomes; however, their occurrence during acute clinical deterioration associated with suspected post-transfusion hemolysis has not been specifically documented. The dog died three days after inclusion detection. This case expands the clinical settings in which blue-green leukocyte cytoplasmic inclusions may be encountered in dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798019/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42798016",
+      "title": "Non-Oliguric IRIS Grade V Acute Kidney Injury Associated with Suspected Leptospirosis in an Urban Dog Unvaccinated Against Leptospirosis from the Republic of Korea: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "Leptospirosis is a zoonotic disease that can cause severe acute kidney injury (AKI) in dogs. A three-year-old intact male Border Collie, unvaccinated against leptospirosis, with a history of exposure to urban stagnant water presented with acute vomiting, diarrhea, and moderate dehydration. Initial evaluation revealed extreme azotemia (blood urea nitrogen, 175.8 mg/dL; creatinine, 11.10 mg/dL) and hyperphosphatemia (13.6 mg/dL), consistent with International Renal Interest Society (IRIS) AKI Grade V; urine output remained within the non-oliguric range (2.15-3.0 mL/kg/h) throughout the catheterized period (Day 0-4). Clinical and imaging findings supported acute intrinsic renal injury over chronic kidney disease. A multiplex real-time PCR targeting the  Leptospira LipL32  gene was positive in urine (Ct 31.10), providing molecular evidence supporting active infection or shedding of pathogenic  Leptospira  spp., without identifying the infecting serovar. Empirical antimicrobial therapy targeting suspected leptospirosis, together with intravenous fluid therapy, was initiated on clinical suspicion prior to the PCR result. Renal and inflammatory biomarkers improved progressively over 22 days without extracorporeal kidney support; the patient's non-oliguric status, hemodynamic stability, and objective clinical improvement supported this management approach. This report documents, in detail, the clinicopathological recovery trajectory of a dog with non-oliguric IRIS Grade V AKI associated with suspected leptospirosis, information that may assist clinicians in recognizing and managing similarly severe presentations without assuming that dialysis is always required.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798016/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42798009",
+      "title": "Resolution of Regenerative Anemia, Thrombocytopenia, and Syncope After Cytoreduction of an Infiltrative Angiolipoma in a Dog: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "Angiolipomas are uncommon benign mesenchymal neoplasms composed of mature adipocytes and proliferating vascular channels. In dogs, infiltrative angiolipomas are rarely reported and have primarily been described as localized soft-tissue masses. An 11-year-old, 10.8 kg, castrated male Japanese Spitz was referred for evaluation of regenerative anemia, mild thrombocytopenia, recurrent syncopal episodes, and a 5-year history of a slowly enlarging ventral thoracic mass. Preoperative hematological evaluation demonstrated anemia with a hematocrit of 25.4% and an increased absolute reticulocyte count of 122.7 K/µL, supporting a regenerative erythropoietic response. The platelet count was mildly decreased at 109 × 10 3 /µL. D-dimer concentration was increased (737.61 ng/mL; reference interval, 0-250 ng/mL), whereas prothrombin time (9.5 s; reference interval, 5-15 s) and activated partial thromboplastin time (15.6 s; reference interval, 15-45 s) were within their reference intervals. Referral history indicated that previous infectious and immune-mediated evaluations had not identified a definitive cause, although the original external testing records were unavailable for verification. Computed tomography revealed a heterogeneous subcutaneous mass with mixed fat- and soft-tissue-attenuating components, suspected infiltration of the superficial pectoral muscle, and focal rather than diffuse contrast enhancement. Surgical cytoreduction, including partial myectomy, was performed because complete excision was not considered feasible owing to deep muscular infiltration. Histopathological examination confirmed an infiltrative angiolipoma characterized by mature adipocytes, numerous vascular channels, skeletal muscle infiltration, and frequent intravascular fibrin thrombi. Following surgery, the hematological abnormalities progressively improved without blood transfusion or long-term immunosuppressive therapy. The platelet count increased from 109 × 10 3 /µL preoperatively to 153 × 10 3 /µL by postoperative day 16 and 202 × 10 3 /µL by postoperative day 56. During the same period, the hematocrit increased from 25.4% to 45.0%, and the absolute reticulocyte count subsequently returned to the reference interval. The syncopal episodes ceased after surgery and did not recur during the available 12-month follow-up. Fibrinogen concentration and peripheral blood smear evaluation were unavailable, and serial postoperative coagulation testing was not performed. Accordingly, the temporal association between tumor cytoreduction and hematological improvement raises the possibility of a tumor-associated process, but neither the underlying mechanism nor a causal relationship could be established.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798009/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42797638",
+      "title": "Rapid Clinical Improvement Temporally Associated with Off-Label LetiFend ®  Vaccination in Canine Leishmaniasis: A Case Report.",
+      "journal": "Vaccines",
+      "publication_date": "2026-09",
+      "abstract": "Canine leishmaniasis (CanL), caused by  Leishmania infantum , can be difficult to manage in dogs with severe clinical disease, particularly when established treatments are impractical or poorly tolerated. We report an approximately 3-year-old mixed-breed dog from Sardinia with clinically manifest CanL, anemia, thrombocytopenia, marked hyperglobulinemia, and an immunofluorescence antibody test titer of 1:4000. The dog's condition deteriorated during allopurinol treatment, with profound lethargy, vomiting, diarrhea, and complete refusal of food and water. Because escalation to combination leishmanicidal therapy (meglumine antimoniate or miltefosine) was considered clinically unsuitable in the severely debilitated patient, allopurinol monotherapy was discontinued after 18 days without clinical improvement, and one full commercial dose of the recombinant vaccine LetiFend ®  was administered subcutaneously off-label. No immediate adverse reaction was observed. Clinical improvement became apparent within approximately 10 days, and near-normal activity returned within three weeks. During follow-up, hematological parameters normalized and serum protein electrophoresis showed an increased albumin/globulin ratio and a reduced gamma-globulin fraction. Domperidone was subsequently introduced as long-term immunomodulatory follow-up, and allopurinol was temporarily reintroduced after transient laboratory deterioration in 2024; the dog remained clinically healthy through July 2026. The close temporal association is clinically noteworthy but cannot establish causality. This hypothesis-generating observation supports controlled investigation of therapeutic vaccination as a potential complementary approach in canine leishmaniasis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797638/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42791776",
+      "title": "Three-Dimensional Planning and Surgical Correction of Bilateral Developmental Valgus Deformity of the Manus in a Dog.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "A one-year-old, 48 kg, male neutered, Great Dane presented for bilateral thoracic limb lameness ascribed to an apparent developmental valgus deformity of both manus. Corrective radial-shaped osteotomies of the four weight-bearing metacarpal bones (II-V) were virtually planned based on CT scan data, and bone models of each corrected manus were three-dimensionally (3D)-printed, sterilized, and used intra-operatively to facilitate the procedure. Corrective radial-shaped osteotomies of metacarpals II-V were performed on the right and then left manus, nine weeks apart. In the right manus, metacarpal bones II, IV, and V were individually stabilized with bone plates and screws, while metacarpal bone III was stabilized with an intramedullary pin. Bone plates and screws were used to stabilize metacarpal bones II-V in the left manus. Postoperative alignment was deemed appropriate following both procedures. A caudally positioned splint was maintained for four weeks following each surgery, and all osteotomies obtained union within eight weeks of surgery. The dog was examined 79 weeks after the initial procedure and thoracic limb posture and gait were markedly improved. Virtual surgical planning (VSP) and printed bone models facilitated successful correction of this dog's deformities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791776/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42798003",
+      "title": "Salvage Surgery Including Rectal Wall Vas Deferens Pexy for Recurrent Bilateral Perineal Hernia with Bladder Retroflexion in a Dog: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "Bladder retroflexion associated with perineal hernia may cause urinary dysfunction, and surgical correction can be challenging after repeated procedures because of extensive adhesions and altered anatomy. An 11-year-old, 7.5 kg, castrated male Pomeranian was referred for recurrent bilateral perineal hernia, bladder retroflexion, and persistent urinary dysfunction after multiple perineal and abdominal surgeries. A previous attempt at abdominal bladder reduction and cystopexy had failed because adhesions prevented adequate mobilization of the bladder. During salvage surgery, bilateral perineal adhesiolysis was performed first to release the displaced urinary tract structures, followed by an abdominal approach to restore the bladder to its normal intra-abdominal position. Modified bilateral vas deferens pexy was then performed by fixing the residual vasa deferentia to the rectal wall, and each side of the pelvic diaphragm was reconstructed according to the available tissues and defect configuration. Retrograde urethrocystography performed 8 days postoperatively demonstrated short-term anatomical correction, with restoration of the normal positions of the bladder, bladder neck, and urethra. Urinary function gradually improved but had not completely normalized by 150 days. Without further objective imaging, long-term mechanical stability and prevention of recurrence could not be established. This case describes a multimodal salvage strategy for recurrent bilateral perineal hernia with markedly altered anatomy after repeated surgery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798003/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42797862",
+      "title": "Clinical Course, Laboratory Findings, and Tissue Distribution of Highly Pathogenic Avian Influenza A(H5N1) Virus in a Naturally Infected Domestic Cat.",
+      "journal": "Viruses",
+      "publication_date": "2026-09",
+      "abstract": "In June 2023, Poland experienced an unprecedented outbreak of highly pathogenic avian influenza (HPAI) H5N1 virus infections in cats, raising concerns about the role of cats in HPAI H5N1 virus ecology and potential public health implications. We describe the clinical course and molecular findings in a cat designated as cat No. 14 during this outbreak, with emphasis on the viral load detected in various organs and tissues. The cat was initially examined for recurrent dermatological problems, although the owner also reported reduced activity. Over the following five days, the disease rapidly progressed, with systemic and neurological signs unresponsive to treatment. Blood analyses revealed no major haematological abnormalities, whereas serial serum biochemistry showed progressive abnormalities. Due to the poor prognosis, the cat was humanely euthanized five days after the initial veterinary examination. Tissue samples from major internal organs and lymph nodes, together with tracheal and rectal swabs and bile, were collected for real-time RT-PCR. Viral RNA was detected in all analysed samples except the intestines, mesenteric lymph nodes, rectal swab, and bile, with the highest viral loads observed in the cerebellum and brain. This case provides molecular evidence of widespread HPAI H5N1 viral RNA distribution across tissues, complemented by detailed haematological and biochemical findings, further characterizing the systemic nature of infection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797862/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42750106",
       "title": "Management of Severe Bromethalin Toxicosis in a Dog, Including the Use of Prolonged Hemodiafiltration Therapy.",
       "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
@@ -165,12 +245,62 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42797983",
+      "title": "Teeth as a Post-Mortem DNA Source for Forensic Parentage Verification in Dogs: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "In  post-mortem  genetic identification, teeth represent one of the most reliable sources of nuclear DNA when other biological samples are unavailable, owing to their ability to protect genetic material from autolysis, microbial degradation, and environmental insults. The present study describes a forensic veterinary case report involving a Staffordshire Bull Terrier litter in which the appearance of blue-coated offspring from a phenotypically black sire and a blue dam prompted parentage verification. The sire died before formal  ante-mortem  sampling could be carried out. In accordance with Regulation (EC) No. 1069/2009, Article 15, the carcass was interred in the owner's garden. Before burial, two teeth were collected as the sole biological material available for identification by the official veterinarian, ensuring an unambiguous chain of custody from death certification to laboratory analysis. DNA extraction was performed using two independent protocols: Method A, a silica-membrane-based purification (QIAamp DNA Kit, Qiagen), applied to dental pulp, and Method B, a decalcification-based workflow (T-Bone Ex Kit) followed by DNA extraction using EZ2 Connect Instruments (Qiagen). Quantification of the DNA samples obtained were done by fluorometry. Short Tandem Repeat (STR) genotyping was performed using the Canine Genotypes™ Panel 1.1 by Applied Biosystems (Thermo Fisher Scientific, Waltham, MA, USA) targeting the 18 autosomal ISAG-recommended microsatellite loci. Parentage assignments were carried out against reference STR profiles obtained from peripheral blood of the dam and offspring. The two methods, considering a different biological matrix and different operating conditions, allowed us to obtain the STR profile, but Method B showed quality electropherograms, improving the confidence and interpretation of all the markers analyzed. The differences observed between the two approaches may reflect a combination of factors, including the different dental matrices analysed, the quantity and quality of the starting material, tooth identity and tissue preservation, and differences inherent to the extraction procedures themselves; therefore, in this case, the more complete and clearer STR profile obtained with Method B should be considered a case-specific observation rather than evidence of a direct effect of the extraction method. Overall, regardless of the DNA extraction method used, the results did not exclude the biological paternity of the blue-mantled offspring. Furthermore, this case report provides practical methodological guidance for DNA recovery from canine teeth and supports their use as a reliable source of  post-mortem  DNA for STR-based parentage testing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797983/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42797981",
+      "title": "Mesenteric Abscess Complicated by Septic Peritonitis in a Dog: Multimodal Diagnosis, Surgical Management, and Serial Quantitative Bacterial Load Monitoring.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "Mesenteric abscesses are an uncommon cause of septic peritonitis in dogs, and serial quantitative monitoring of bacterial load in peritoneal exudate has rarely been reported. This case report describes the diagnostic work-up and treatment response of a 14-month-old, 33 kg intact male Cane Corso with a mesenteric abscess complicated by septic peritonitis, two weeks after treatment for babesiosis. The dog presented with a 72 h history of anorexia, vomiting, and abdominal pain. Abdominal radiography revealed decreased peritoneal serosal contrast and findings suggestive of foreign material ingestion. Serial ultrasonography identified a mesenteric abscess with peritoneal effusion. Exploratory laparotomy confirmed the diagnosis; the abscess was excised, and the abdominal lavage was performed. Histopathology confirmed a mesenteric abscess with marked neutrophilic infiltration. Bacterial culture isolated  Escherichia coli  and  Enterococcus faecium , with antimicrobial therapy guided by susceptibility testing. Serial quantitative bacterial counts of the peritoneal exudate on three postoperative occasions showed a progressive decline, paralleling clinical and hematological improvement. The dog fully recovered, with complete clinical and laboratory normalization confirmed at the 60-day reassessment. This case suggests that a multimodal diagnostic approach may assist in guiding management and confirming treatment response in canine mesenteric abscess with septic peritonitis, although the role of serial quantitative monitoring requires further evaluation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797981/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42791713",
+      "title": "Non-Oncological Progression of an Aneurysmal Bone Cyst (ABC) in a Puppy Following Surgical Treatment.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09",
+      "abstract": "Aneurysmal bone cysts (ABCs) are benign but locally aggressive osteolytic lesions that are rarely reported in dogs and may progress or recur following surgical treatment. This case report describes the diagnosis, surgical management, postoperative progression, and long-term outcome of an ABC affecting the left ulna of a four-month-old Labrador Retriever. Radiography and computed tomography revealed a rapidly progressive, expansile osteolytic lesion with marked cortical thinning. Histopathological examination supported the diagnosis of ABC, with no evidence of malignancy. Initial treatment consisted of corticotomy, intralesional curettage, autologous bone grafting, and stabilization of the cortical segment with lag screws. Despite complete clinical resolution of lameness, surveillance radiographs six weeks postoperatively demonstrated progression of the lesion proximal to the original surgical site. Revision surgery involving a larger cortical window and more extensive curettage was subsequently performed, followed by bone grafting. Histopathology again confirmed ABC without malignant transformation. The dog regained normal limb function, and serial radiographic and computed tomographic examinations demonstrated progressive osseous remodeling with no evidence of further progression or recurrence through 35 months of follow-up. This case highlights the importance of adequate surgical excision and scheduled postoperative imaging, as ABC progression may occur despite apparent clinical recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791713/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42726409",
       "title": "Acute hemodynamic and echocardiographic responses to pimobendan versus levosimendan in a dog with decompensated dilated cardiomyopathy.",
       "journal": "Veterinary research communications",
       "publication_date": "2026-09",
       "abstract": "Dilated cardiomyopathy (DCM) is a major cause of systolic heart failure in dogs, characterized by ventricular dilation and reduced contractility. During acute decompensation, rapid inodilator therapy is essential to stabilize hemodynamics. This case describes serial changes in non-invasive blood pressure and left ventricular systolic function observed during sequential administration of two inodilator agents via different routes on consecutive days. An Anatolian shepherd dog was presented with acute respiratory distress. Echocardiography revealed severe left ventricular dilation and systolic dysfunction, and DCM was diagnosed using established criteria. Because oral therapy was initially not tolerated, intravenous pimobendan was administered, producing a rapid but transient improvement in systolic indices and global longitudinal strain (GLS). After transition to oral pimobendan the following day, systolic function improved mildly, while GLS remained markedly reduced. Levosimendan was subsequently administered as an intravenous bolus, resulting in only minimal improvement in systolic parameters and GLS. A continuous infusion was then initiated; however, systolic measurements remained largely unchanged during infusion. Serial echocardiographic assessment, particularly GLS, documented temporal changes in myocardial function during sequential inodilator therapy. These findings represent descriptive clinical observations from the management of a single patient and should not be interpreted as evidence of comparative efficacy or superiority of one inodilator over another. Because atrial fibrillation and temporal variation in heart rate may have influenced echocardiographic measurements throughout the monitoring period, the findings should be interpreted within the methodological limitations of this sequential single-case report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726409/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42797974",
+      "title": "Successful Intensive Management and Serial Clinical Progression of Severe Non-Exertional Heatstroke in a Cat Following Clothes Dryer Entrapment.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "Heatstroke is a life-threatening veterinary emergency that is rarely reported in cats, particularly when secondary to household hazards such as clothes dryer entrapment. This report details the successful intensive management and clinical progression of a single feline patient presenting with severe non-exertional heatstroke and concurrent blunt force trauma following approximately 20 min of entrapment in an operating dryer. Upon presentation, the cat exhibited severe hyperthermia (43.0 °C), circulatory shock, oral hemorrhage, and generalized seizures. The rapid initiation of active cooling and aggressive hemodynamic resuscitation prevented further life-threatening complications beyond the initial day of seizures, leading to clinical stabilization and discharge on day 6 at the owner's request, with a full recovery confirmed at a recheck appointment on day 11. Furthermore, serial biomarker tracking during hospitalization revealed a continuous elevation in feline serum amyloid A (fSAA) accompanied by intermittent hyperthermia. This sustained inflammatory response suggests that feline heatstroke shares a pathophysiological mechanism with systemic inflammatory response syndrome (SIRS). Ultimately, this case highlights the hidden but severe dangers of household appliances and suggests that early recognition and the immediate initiation of targeted therapy are critical for achieving favorable outcomes in feline non-exertional heatstroke.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797974/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42797972",
+      "title": "Use of the Combination Therapy of Recombinant Feline Interferon-Omega Injection and Oral Prednisolone for Canine Aural Hematoma: A Retrospective Case Series.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "This retrospective study described clinical outcomes of combining local recombinant feline interferon-omega (rFeIFN-ω) injection with oral prednisolone in the management of canine aural hematoma. The medical records of dogs presented to a private veterinary hospital between January 2019 and January 2026 were reviewed. Thirty-one dogs underwent the treatment protocol, of which five were lost to follow-up, leaving a final cohort of 26 dogs. The protocol involved a local intralesional injection of 10.0 MU of rFeIFN-ω without fluid evacuation alongside concurrent oral prednisolone (1.0 mg/kg once daily) without anesthesia at 1-week intervals. Complete initial resolution was achieved in 21 dogs (80.8%) with a mean of 2.37 ± 1.14 treatment sessions, whereas 5 dogs discontinued therapy prematurely prior to complete resolution because the owners declined further treatment visits, leaving their final outcomes undetermined. Recurrence was documented in five of the 21 complete resolution cases (23.8%), spanning from 2 weeks to 1 year post-resolution. Two of these dogs underwent re-treatment and achieved complete clinical resolution during the available follow-up period. No clinically relevant adverse effects occurred. While the independent therapeutic efficacy of rFeIFN-ω remains unproven, these preliminary findings suggest that the combination protocol may represent a feasible, non-surgical outpatient option for managing canine aural hematoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797972/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -251,6 +381,16 @@
       "publication_date": "2026-09",
       "abstract": "Foreign body ingestion is a commonly observed condition in domestic felines and, to a lesser extent, in captive wild felids. This report describes two cases of high-pressure hose ingestion in African lions (Panthera leo) and explores a possible association with a toxic syndrome. Two African lions, a three-year-old male (Case 1) and a ten-year-old female (Case 2), housed in the same enclosure, exhibited neurological signs suggestive of toxic syndrome. The male (Case 1) initially presented with ataxia, loss of pelvic limb tone and sialorrhea, showing only a mild response to clinical treatment. Diagnostic imaging (radiography) revealed a radiopaque object consistent with a gastric foreign body, and chewed fragments of a high-pressure hose were identified upon inspection of the enclosure. Four fragments were removed via endoscopy. One week later, the female (Case 2) developed similar neurological signs, including head tilt, muscle tremors and auricular asymmetry. Laboratory findings revealed leukocytosis with neutrophilia and radiographic evidence of a gastric foreign body. Three hose fragments were endoscopically removed. Both animals made a full recovery within approximately one month. These cases suggest the importance of thoroughly inspecting items used as environmental enrichment, particularly those made of potentially toxic or poorly digestible material, such as high-pressure rubber.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42709479/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42797953",
+      "title": "Carcinoma of Unknown Primary Origin Presenting as Rapidly Progressive Multifocal Skeletal Lesions and Fatal Systemic Thrombosis in a Dog: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-09",
+      "abstract": "Carcinoma of unknown primary origin (CUP) involving the skeletal system is rare in dogs and may closely mimic primary bone neoplasia or multicentric lymphoma, creating substantial diagnostic challenges. A 15-year-old spayed female Jindo-mix dog was referred for rapidly progressive tetralimb lameness and inability to stand following a 2-week history of worsening forelimb lameness. Computed tomography revealed aggressive multifocal osteolytic and osteoproliferative lesions involving the pelvis, distal femur, and lumbar vertebra, accompanied by generalized lymphadenopathy, raising differential diagnoses including osteosarcoma, lymphoma, and metastatic neoplasia. Serial CT examinations demonstrated rapid progression of the dominant left ischial lesion, which was considered most consistent with a primary bone neoplasm and was surgically excised for definitive diagnosis. MRI failed to identify clinically significant neurologic disease. Histopathologic examination of a surgically excised ischial lesion favored poorly differentiated epithelial malignancy, although lymphoma could not initially be excluded. During hospitalization, serial thromboelastography (TEG) and coagulation testing demonstrated a predominantly hypercoagulable profile despite antithrombotic therapy. Following acute clinical deterioration, contrast-enhanced CT identified thrombosis involving the splenic vein and caudal vena cava, pulmonary thromboembolism (PTE), and concurrent multi-organ infarction. Cytology of an enlarged peripheral lymph node suggested metastatic carcinoma, and postmortem immunohistochemistry supported epithelial differentiation, and in the absence of an identifiable primary tumor despite comprehensive diagnostic evaluation, the case was clinically classified as carcinoma of unknown primary origin. This case highlights an unusual diagnostic presentation of skeletal CUP mimicking osteosarcoma or lymphoma and complicated by fatal cancer-associated thrombosis. Rapidly progressive multifocal bone lesions accompanied by hypercoagulability should prompt consideration of metastatic carcinoma, including carcinoma of unknown origin, even in the absence of an identifiable primary tumor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797953/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -663,146 +803,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42667639/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42667638",
-      "title": "A Rare Case of Cutaneous Infection by Corynascus verrucosus in a Shih Tzu Dog: Molecular Identification and Phylogenetic Analysis.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "Fungal infections are important causes of dermatological disease in companion animals and may involve a diverse range of clinically relevant fungal pathogens. Accurate identification of the causative agent is essential for appropriate diagnosis, treatment and assessment of potential zoonotic risks. This study aimed to characterize a fungal isolate from a canine cutaneous lesion in Tehran, Iran, using morphological, molecular and phylogenetic analyses. Skin scrapings were aseptically collected from a dog presenting with pruritus and scaling, using sterile techniques microscopic examination and fungal culture. Microbiological observations were inconclusive for species-level identification. Hence, target isolate was subjected to PCR amplification of the internal transcribed spacer (ITS) region using ITS1 and ITS4 universal primers. The ITS1-5.8S rDNA-ITS2 region was successfully amplified and sequenced using the universal ITS1 and ITS4 primers, and the sequence was deposited in the NCBI GenBank (PV082530). BLAST analysis showed 99.36% nucleotide similarity to a reference sequence of Corynascus verrucosus. In the maximum likelihood analysis placed the Iranian isolate within the broader Corynascus lineage, clustering closely with C. verrucosus reference sequences from different geographic regions. Morphological findings, particularly large, round, verrucose conidia, supported the molecular identification. Overall, the combined morphological, molecular and phylogenetic findings supported identification as C. verrucosus. This case highlights the occurrence of an uncommon C. verrucosus isolate in a canine cutaneous lesion and demonstrates the value of integrating morphological, molecular, and phylogenetic approaches for fungal identification. The findings also emphasize the importance of cautious interpretation of molecular data when closely related fungal taxa show high sequence similarity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667638/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42667636",
-      "title": "Proliferative Sparganosis Due to Spirometra mansoni in a Dog: A Detailed Diagnostic Picture.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "A young Blue Heeler presented for abdominal distension and weight gain, without a history of raw feeding or travel outside the western suburbs of Melbourne, Victoria, Australia. Abdominal ultrasound noted innumerable small anechoic oval cystic structures scattered throughout the peritoneal cavity and suspended in a large volume of echogenic peritoneal effusion. Subsequent diagnostics, including computed tomography, exploratory laparotomy, histopathology and molecular testing, confirmed the structures were Spirometra mansoni plerocercoids, and the patient was diagnosed with proliferative sparganosis. Despite treatment, the animal's health rapidly declined and was euthanised three weeks later. The postmortem revealed extensive diffuse severe granulomatous peritonitis with fibrinous adhesions throughout the peritoneal cavity. Proliferative sparganosis is a rare and devastating parasitic condition resulting from asexual replication of Spirometra spp. larvae within body cavities or organs. This article provides a detailed diagnostic picture of canine peritoneal proliferative sparganosis and is the first report describing the ultrasonographic findings of this condition.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667636/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42556180",
-      "title": "Histopathological findings and staining performance in cutaneous nodules from a cat with Leishmania amazonensis infection.",
-      "journal": "Veterinary parasitology",
-      "publication_date": "2026-08",
-      "abstract": "Cutaneous leishmaniasis (CL) is a zoonotic disease with wide geographic distribution and significant public health impact. In Brazil, the main etiological agents are Leishmania braziliensis and Leishmania amazonensis. In animals, the disease usually presents as a chronic condition characterized by poorly healing skin lesions, oral and ocular involvement, and cutaneous nodules, most commonly affecting the head and neck regions. Diagnosis may be achieved using molecular techniques, immunohistochemistry, cytology, histopathology, and culture. Despite the endemic nature of CL in several regions, histopathological descriptions of the disease in felines remain scarce. This study aimed to describe the histopathological features of cutaneous nodular tissue parasitized by amastigote forms of Leishmania amazonensis in a domestic cat, using different histological staining protocols to compare the performance of different histological staining protocols in this case. A fragment of cutaneous nodular tissue was subjected to routine histological processing and stained with hematoxylin and eosin (H&E), periodic acid-Schiff (PAS), fast green, Fontana-Masson, and Mallory's trichrome. Histological evaluation was performed using photomicrographs obtained from five microscopic fields. Among the evaluated staining techniques, hematoxylin and eosin appeared to provide the best visualization and differentiation of amastigote forms from surrounding tissue structures in the evaluated tissue. The evaluated sections showed moderate lymphoplasmacytic dermal infiltrates and numerous macrophages with cytoplasm filled with amastigotes. Special stains yielded variable contrast, with fast green and Mallory's trichrome allowing reasonable differentiation, while Fontana-Masson showed limited diagnostic utility.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556180/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42661154",
-      "title": "Transconjunctival Orbitotomy as Surgical Management of an Orbital Lipoma in a Dog.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Sep",
-      "abstract": "Orbital lipomas are rare in dogs and may pose diagnostic and surgical challenges. This report describes the case of a 14-year-old female Border Collie presenting chronic exophthalmos caused by a retrobulbar mass. On ophthalmic examination, the animal maintained bilateral vision despite chronic exposure of the right ocular surface. Computed tomography revealed a retrobulbar mass with density compatible with adipose tissue. Cytological examination was performed as a screening test and supported the diagnostic suspicion. An anterior subconjunctival orbitotomy was performed, ensuring preservation of the dog's eye and vision. Cytology and histopathological examination, correlated with the clinical history, confirmed the diagnosis of an orbital lipoma. This case highlights the importance of advanced imaging for surgical planning and supports the use of minimally invasive orbitotomy techniques for selected benign orbital lesions, prioritizing functional and aesthetic preservation of the eye.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661154/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42656136",
-      "title": "Clinical Case and Follow-Up of Babesia banethi Infection in a Red Fox.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "Red foxes play an important role in the circulation of ticks and tick-borne pathogens, including Babesia spp. While for Babesia vulpes many studies are available on its epidemiology in fox populations as well as pathogenicity in dogs, no data are reported for the recently described Babesia banethi infecting red foxes. Here we describe the clinical and parasitological follow-up of a naturally occurring B. banethi infection in a red fox from southern Italy. An adult male fox presented with severe debilitation, weight loss, pale mucous membranes, brown discolouration of urine and sarcoptic mange. Haematological examination revealed regenerative anaemia associated with left-shift neutrophilia and lymphocytosis. Blood smear examination showed intraerythrocytic inclusions morphologically consistent with small piroplasmids, and PCR amplification and sequencing of the 18S rDNA gene confirmed infection with B. banethi. Screening for other vector-borne pathogens scored negative. Treatment with imidocarb dipropionate resulted in temporary clinical and haematological improvement but persistence of PCR positivity and later relapse of parasitaemia and clinical signs. Subsequently, treatment with atovaquone/proguanil combined with azithromycin led to marked clinical recovery and disappearance of parasites at blood smear examination, although PCR positivity persisted for several months. A second therapeutic course resulted in both cytological and molecular negativity. This longitudinal case report provides the first detailed account of the clinical course, therapeutic response and long-term parasitological follow-up of B. banethi infection in a red fox, suggesting that this piroplasm might cause clinically relevant and persistent infection, yet further validation of this hypothesis on a larger number of clinical cases is advocated. Not applicable.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42656136/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42642988",
-      "title": "Head and Neck CT Lymphangiography in a Dog With Cutaneous Lymphangiosarcoma.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Sep",
-      "abstract": "A 9-year-old neutered male Australian Cattle Dog presented for severe, extensive, and progressive swelling of the neck and face. CT lymphangiography (CTL) of the head and neck demonstrated cervical lymphedema with imaging features of mid-cervical lymphatic obstruction, regional lymphatic leakage, and local lymphadenopathy. A final diagnosis of lymphangiosarcoma was obtained by histopathology, postulated to be the origin of the lymphatic obstruction. To the author's knowledge, this is the first description of a head and neck CTL as an aid in the diagnosis of lymphangiosarcoma in a dog.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42642988/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42625559",
-      "title": "Zygomatic Sialadenitis as a Rare Cause of Exophthalmos in a Dog.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Sep",
-      "abstract": "To describe the clinical presentation, diagnostic findings, and surgical management of zygomatic sialadenitis associated with retrobulbar disease in a dog following extensive dental extractions. A 10-year-old spayed female Cavalier King Charles Spaniel. The dog was evaluated for acute-onset right-sided exophthalmos that developed after a recent dental procedure involving 15 extractions. Ophthalmic examination identified marked exophthalmos, pain on opening of the mouth, lagophthalmos, and a superficial corneal ulcer. Computed tomography (CT) of the head was performed and revealed a tubular fluid-filled structure likely consistent with a retrobulbar abscess and right-sided zygomatic sialadenitis. Samples for cytology and culture were obtained. Initial medical management included intravenous fluids, broad-spectrum systemic antibiotics, analgesics, topical antibiotics, and ocular antihypertensive medications. Cytology revealed septic suppurative inflammation. Microbial culture identified Bacteroides pyogenes , an anaerobic organism not typically associated with antimicrobial resistance. Histopathology confirmed subacute zygomatic sialadenitis with associated cellulitis. Due to progressive clinical deterioration and vision loss, transpalpebral exenteration with zygomatic sialoadenectomy was performed. Postoperative recovery was uneventful, with complete resolution of periocular swelling and pain on follow-up examination. Zygomatic sialadenitis should be considered a differential diagnosis for retrobulbar disease in dogs, particularly when cases are refractory to medical management. In this case, persistent salivary secretions likely contributed to ongoing inflammation and clinical signs. Advanced imaging facilitated accurate diagnosis, and surgical removal of the affected gland was necessary for definitive resolution.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42625559/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42621794",
-      "title": "Multimodal Advanced Imaging and Long-Term Follow-Up of Peters Anomaly Type 2, With Presumed Lenticular Material in the Cornea, in a Scottish Terrier.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Sep",
-      "abstract": "To describe the clinical findings and advanced in vivo imaging features of a bilateral case of peters anomaly type 2 in a dog. An 8-week-old male scottish terrier presented with bilateral central corneal leukomas and was followed clinically for 3 years. Complete ophthalmic examination was performed at multiple time points. Ocular ultrasonography, optical coherence tomography (OCT), and in vivo confocal microscopy (IVCM) were performed under sedation at 37 weeks of age to further evaluate anterior segment structures obscured by corneal opacity. Both eyes displayed central leukoma and iridocorneal adhesions consistent with anterior segment dysgenesis. The left eye had a keratolenticular adhesion, progressive cataract formation, microphthalmia, goniodysgenesis, and secondary glaucoma. A defect involving the posterior corneal stroma, descemet's membrane, and endothelium, with extension of the keratolenticular adhesion into the mid-stroma was demonstrated in detail with OCT. Endothelial cell loss, endothelial polymegathism and pleomorphism, stromal fibrosis, vascularization, and multiple highly refractile structures within the mid-stroma consistent with presumed lenticular material were visualized with IVCM. The right eye had a mild central corneal leukoma and incipient cataract, with spontaneous separation of the keratolenticular adhesion and no further clinically significant abnormalities. This report documents peters anomaly type 2 in a dog using OCT and IVCM. Advanced imaging allowed detailed evaluation of anterior segment abnormalities that were not fully appreciable on clinical examination and revealed presumed lenticular remnants within the corneal stroma, a finding not previously described in veterinary medicine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42621794/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42599763",
-      "title": "Giant Hepatobiliary Cystadenoma Requiring Biliary Reconstruction in a Cat: A Case Report.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "Hepatobiliary cystadenoma is an uncommon benign biliary tumour in domestic cats (Felis catus) that may mimic cystadenocarcinoma. Although imaging provides important diagnostic information, histopathological examination is required for confirmation. This case was notable for the exceptionally large lesion and the need for biliary reconstruction following surgical excision. A 7-year-old neutered male domestic shorthair cat weighing 8 kg was presented with several weeks of vomiting, inappetence and abdominal distension. Serum biochemistry demonstrated a cholestatic pattern with increased alkaline phosphatase and gamma-glutamyl transferase activities. Abdominal radiographs revealed a cranial abdominal mass, and ultrasonography identified a multiloculated cyst with thin septa and no mural nodules. Contrast-enhanced computed tomography confirmed a 163 × 148 × 136 mm cystic hepatic mass with homogeneous fluid attenuation, non-enhancing septa and no solid components. Exploratory laparotomy enabled complete excision with preservation of hepatic tissue. Partial resection of the common bile duct followed by end-to-end anastomosis was performed to restore bile flow. Histopathological examination confirmed hepatobiliary cystadenoma. Recovery was uncomplicated, and at the 3-month follow-up the cat was clinically normal, with no ultrasonographic evidence of recurrence. Large multiloculated hepatic cystic lesions with homogeneous fluid contents and no enhancing mural nodules should prompt consideration of hepatobiliary cystadenoma in cats. Complete surgical excision with preservation or reconstruction of biliary structures may result in a favourable short-term outcome. Longer clinical, biochemical, and imaging follow-up is recommended.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42599763/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42581334",
-      "title": "Sequential Photodynamic Therapy and Electrochemotherapy for Bilateral Palpebral Squamous Cell Carcinoma in a Cat: A Case Report.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Sep",
-      "abstract": "To report the clinical outcomes of photodynamic therapy (PDT), alone and in combination with electrochemotherapy (ECT), in the conservative treatment of bilateral palpebral squamous cell carcinoma (SCC) in a cat, involving the right and left eyelids, with functional preservation and local tumor control. A domestic shorthair cat with histologically confirmed squamous cell carcinoma affecting both eyelid margins underwent different therapeutic protocols. The left eye received a single PDT session with topical a lipophilic methyl ester derivative of 5-aminolevulinic acid (160 mg/g) and red LED light, while the right eye received two sessions, followed by adjuvant ECT with intravenous bleomycin. The lesion in the left eye presented with pallor associated with mild inflammation after the PDT session, with complete resolution in the following days and recovery of its normal clinical appearance. In the right eye, the first two PDT sessions resulted in significant regression of the neoplastic lesions. However, a lesion in the medial canthus showed partial response, requiring adjuvant treatment with ECT, which led to complete clinical resolution, despite the presence of mild eyelid deformity. In this single case report, PDT was associated with clinical regression of superficial lesions, while adjuvant ECT was followed by complete clinical resolution of the residual lesion. The combination of these modalities represents a viable conservative alternative to extensive surgical excision, enabling the tumor remission while preserving the aesthetic appearance and functional integrity of the eyelid.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581334/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42541109",
-      "title": "Canine dermatophytosis due to  Arthroderma uncinatum : case report and diagnostic considerations.",
-      "journal": "Medical mycology case reports",
-      "publication_date": "2026-07",
-      "abstract": "This report describes a molecularly confirmed case of canine dermatophytosis caused by  Arthroderma uncinatum  in an 11-month-old English Setter from Southern Italy. The dog presented with two alopecic, erythematous, scaling lesions on the metacarpal and metatarsal regions. While routine microscopic examinations were inconclusive, dermatophyte culture yielded a fungal isolate identified as  A. uncinatum  by ITS sequencing. Topical 1% clotrimazole administered for three weeks resulted in complete clinical and mycological cure. This case documents an uncommon infection by a geophilic dermatophyte and expands veterinary knowledge of  A. uncinatum -associated canine disease.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541109/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42522416",
-      "title": "Occipital Bone Angiomatosis and Chronic Subdural Hematoma Causing Severe Cerebellar and Brainstem Compression and Obstructive Hydrocephalus in a Young Adult Cat.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Sep",
-      "abstract": "A 2-year-old cat was presented for a 1-month history of cautious ambulation, head shaking, and lethargy, with severe spinal pain on neurologic examination. MRI and CT demonstrated marked endophytic thickening of the occipital bone diploe with widened intertrabecular spaces, irregular internal cortical margins, relative preservation of the outer cortex, and strong internal and perilesional contrast enhancement. Histopathology revealed an anomalous blood vessel proliferation consistent with angiomatosis. An associated chronic subdural hematoma caused severe cerebellar and brainstem compression, foramen magnum herniation, and obstructive hydrocephalus. This represents the first report of occipital bone angiomatosis with concomitant subdural hematoma in a cat.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522416/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42522410",
-      "title": "Computed Tomographic Findings of Primary Hepatic Extraskeletal Osteosarcoma With Peritoneal Metastasis via Periportal Space in a Dog.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Sep",
-      "abstract": "A 15-year-old castrated male Shih Tzu presented with anorexia and lethargy. Computed tomography (CT) revealed a hepatic mass with extensive central mineralization and an ill-defined hypoattenuating peripheral zone. The periportal halo sign extending to the lesser omentum was compatible with neoplastic infiltration of the periportal space, suggesting a potential metastatic pathway via this anatomical route. Whole-body CT excluded primary skeletal involvement, and histopathology confirmed extraskeletal osteosarcoma of hepatic origin. This case illustrates the value of CT in characterizing mineralized hepatic neoplasia and identifying potential routes of intra-abdominal dissemination.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522410/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42522406",
-      "title": "Imaging Characterization of a Cystic Duct Neuroendocrine Carcinoma in a Dog Using Contrast-Enhanced Ultrasonography and Multiphasic Computed Tomography.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Sep",
-      "abstract": "We describe a cystic duct neuroendocrine carcinoma in a dog evaluated with CEUS and multiphasic CT. The lesion was initially suspected to be hepatic but was reclassified as an intraluminal biliary mass on imaging. CEUS showed arterial hyperenhancement with early washout, and CT demonstrated a strongly enhancing intraluminal mass with progressive washout and biliary dilation. These findings enabled accurate localization and supported surgical management. Histopathology confirmed neuroendocrine carcinoma. Neoplasia of the canine gallbladder and biliary tract is uncommon, and tumors arising from the biliary ducts are rarely reported. Differentiating between hepatic and biliary origin can be challenging, particularly when intraductal lesions cause disproportionate biliary dilation relative to their size. Contrast-enhanced ultrasonography and multiphasic CT enable assessment of vascular characteristics and lesion localization, which may aid in distinguishing intraluminal biliary lesions from hepatic masses. This report describes a cystic duct neuroendocrine carcinoma characterized using CEUS, multiphasic CT, and histopathology, highlighting the role of multimodal imaging in accurate lesion localization.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522406/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
   ]
 }
