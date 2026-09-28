@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-27T00:35:31.443412+00:00",
+  "updated_at": "2026-09-28T00:45:10.843021+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42799346",
+      "title": "Idiopathic Granulomatous Inflammation of the Periocular Structures in Four Dogs: Clinical, Histopathological, and Imaging Findings and Therapeutic Outcome.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "To describe cases of canine idiopathic periocular granulomatous inflammation. Clinical records were reviewed. At the time of presentation, the four patients (German Shepherd dog, mixed breed, Magyar Vizsla, Hovawart) were 1.5-5 (mean 3.75) years old. All dogs were female; two were spayed. Lesions were unilateral in 3/4 cases. Dogs presented with ulcerated (1) or non-ulcerated (3) mass lesions affecting the periocular skin (3/4), medial canthal area (2/4), or third eyelid (1/4). Incisional biopsies revealed pyogranulomatous inflammation in three and granulomatous inflammation in one case. There was no evidence of microbial infection in the specimens. Patients received anti-inflammatory or immunosuppressive dosages of systemic corticosteroids. Three dogs also received systemic cyclosporin (5 mg/kg, sid), and one dog received topical cyclosporin (0.1%, bid). One dog underwent surgical debulking of a circumscribed mass within the left lower eyelid prior to immunosuppressive therapy and developed an additional swelling on the left upper eyelid. Remission of clinical signs was achieved in all patients. Dogs were treated for 5 to 11 months (mean 8.7). No recurrence was reported in 4/4 patients during a mean follow-up period of 17.3 months. In 3/4patients, there was no recurrence within an average of 11 months after discontinuation of therapy. One dog was lost to follow-up. Idiopathic granulomatous inflammation is a differential diagnosis for periocular mass lesions. Its diagnosis is based on histopathology and the exclusion of other causes of granulomatous inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799346/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -241,6 +251,16 @@
       "publication_date": "2026-08",
       "abstract": "Mammary gland tumours are the most frequently diagnosed neoplasms in female dogs, involving either the mammary gland parenchyma or the mammary papilla. This is a case report of a malignant adenomyoepithelioma with papillary arrangement in the mammary papilla of a 13-year-old female Lhasa Apso, highlighting the histopathological and immunohistochemical characteristics of the tumour. Grossly, the sample consisted of a exophytic, soft to firm nodule measuring 1.0 × 1.0 cm. On the cut surface, the sample presented an irregular pattern and a cystic cavity. The cut surface of the sentinel lymph node showed a solid and heterogeneous aspect. Histologically, the mammary gland presented a neoplastic proliferation of epithelial and myoepithelial cells in a mostly papillary pattern. Myoepithelial cells exhibited elongated, manly vacuolated cytoplasm, with indistinct boundaries, moderate anisocytosis, anisokaryosis and moderate cellular and nuclear pleomorphism, with seven mitotic figures per 10 high-power fields (i.e., 2.37 mm2). The lymph node presented follicular hyperplasia. Immunohistochemical analysis of the primary tumour revealed neoplastic cells positive for pan-cytokeratin and p63, presented a Ki-67 index of 20% and were negative (score 0) for cyclooxygenase-2. Based on histomorphological and immunophenotypic findings, the mammary tumour was diagnosed as a malignant adenomyoepithelioma with a papillary pattern.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42671893/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42798635",
+      "title": "Case Report: Topical imiquimod (Aldara®) as a palliative option for extensive canine facial cutaneous melanocytoma.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "Cutaneous melanocytic neoplasms in dogs generally present as benign lesions, unlike their oral or digital counterparts, but treatment can be challenging when complete surgical excision is restricted by anatomical location. A 5-year-old neutered male Shiba Inu was evaluated for a firm, well-circumscribed, black-pigmented nodule measuring 4 × 3.8 cm on the left facial region, with surrounding pigmented papules. Histopathological examination of punch biopsy specimens confirmed cutaneous melanocytoma with superficial subcutaneous involvement observed in two samples. Complete surgical excision was not feasible due to the broad facial distribution of the nodule and surrounding papules. Consequently, topical immunotherapy with 5% imiquimod cream (Aldara®; 3 M Pharmaceuticals, St Paul, MN, USA) was initiated as a palliative treatment. After 5 months of treatment, the nodule decreased in size to 3.3 × 3.0 cm, became subjectively softer on palpation, and the number of surrounding papules decreased, with no observed adverse effects. Following discontinuation of treatment during a planned washout period before follow-up biopsy, the nodule increased in size, and histopathological findings remained consistent with the initial diagnosis. This case suggests that topical imiquimod may provide temporary clinical improvement and may be considered as a palliative or maintenance option for canine cutaneous melanocytoma when complete surgical excision is challenging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798635/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-07",
       "abstract": "A 13-year-old intact male mixed-breed dog with a left-sided adrenal gland mass presented for an anesthetized computed tomography scan to aid with surgical planning. The dog had previously undergone transvenous implantation of a single-chamber, right-sided permanent pacemaker placed for treatment of a high-grade second-degree atrioventricular block. The pacemaker mode was changed from variable rate response (ventricular pacing, ventricular sensing, inhibited response, and rate modulation) to fixed demand (ventricular pacing, ventricular sensing, and inhibited response) in preparation for anesthesia, and the rate was set to 95 beats minute -1 . The dog was premedicated with intravenous (IV) butorphanol tartrate (0.3 mg kg -1 ) and anesthesia was induced with propofol (1.25 mg kg -1 , IV) and midazolam (0.3 mg kg -1 , IV). Anesthesia was maintained with isoflurane delivered in oxygen. Following induction of anesthesia, there was a decrease in the mean arterial blood pressure from 108 mmHg to 45 mmHg, which was effectively treated with a bolus of lactated Ringer's solution (5 mL kg -1 , IV) and infusions of dopamine (12 μg kg -1  minute -1 ) and norepinephrine (0.1 μg kg -1  minute -1 ). After starting dopamine and norepinephrine infusions, mean arterial blood pressure increased to 80 mmHg, and the ventricular rate decreased to 60 beats minute -1 . Interrogation of the pacemaker revealed a change in T-wave morphology, which resulted in T-wave oversensing. Decreasing the lead sensitivity of the pacemaker corrected oversensing and restored the paced ventricular rate to 95 beats minute -1 .",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42673721/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42671147",
-      "title": "Segmental Aplasia and Right Azygos Continuation of the Caudal Vena Cava in a Cat (Felis catus).",
-      "journal": "Anatomia, histologia, embryologia",
-      "publication_date": "2026-Sep",
-      "abstract": "Segmental aplasia of the caudal vena cava is a rare variant, primarily reported in dogs. We describe herein a cat with this anomaly. The caudal vena cava was formed by confluence of the right and left common iliac veins and a common trunk of the right and left renal veins. The caudal vena cava continued to the right azygos vein and joined into the cranial vena cava. A confluence of hepatic veins drained into the right atrium as in the normal caudal vena cava. Detailed reports of venous variations are important for providing appropriate veterinary care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671147/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42667639",
-      "title": "Blue‒Green Neutrophilic Inclusions in a Cat With Severe Hepatocellular Injury.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "A 5-year-old female spayed domestic long-haired cat presented with fever, lethargy and inappetence. Haematologic evaluation revealed mild neutrophilia with a regenerative left shift and moderate thrombocytopenia. A review of a peripheral blood smear identified a moderate number of blue‒green neutrophilic inclusions. Further characterisation revealed that these inclusions exhibited broad-spectrum autofluorescence, were negative for Prussian blue staining, and were positive for Sudan Black staining. Biochemical analysis demonstrated severe acute hepatocellular injury characterised by markedly increased alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activities with mild hyperbilirubinemia. Following hospitalisation and supportive care, the cat showed clinical improvement. The cat was alive on Day 279 follow-up with normal ALT and AST values.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667639/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
