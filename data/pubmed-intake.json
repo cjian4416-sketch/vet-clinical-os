@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-09-29T01:56:28.616679+00:00",
+  "updated_at": "2026-09-30T01:17:32.047479+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,36 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42806563",
+      "title": "Anterior Segment OCT Diagnosis of Descemet's Membrane Detachment in a Cat With Suspected FIP-Associated Uveitis.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "Persistent corneal edema in cats with anterior uveitis is often attributed to endothelial dysfunction; however, the underlying structural cause may not be apparent without advanced imaging. Descemet's membrane detachment (DMD) is rarely reported in cats and has not been well described in suspected feline infectious peritonitis (FIP)-associated uveitis. A 4-month-old intact male Norwegian Forest cat presented with severe unilateral granulomatous uveitis, mutton-fat keratic precipitates, diffuse stromal edema, and a 2+ aqueous flare. Aqueous humor PCR detected feline coronavirus RNA, although biotype testing did not confirm a mutation consistent with that associated with feline infectious peritonitis virus. As ocular inflammation progressed despite anti-inflammatory treatment, the nucleoside analog GS-441524 was administered along with anti-inflammatory and supportive ophthalmic treatment. Intraocular inflammation improved, but corneal edema persisted, prompting anterior segment optical coherence tomography (AS-OCT), which revealed planar DMD. Serial AS-OCT monitored posterior corneal structural changes. Corneal edema gradually decreased, and Descemet's membrane reapposition was documented by AS-OCT approximately one year after the initial presentation. Corneal clarity and stability were maintained without clinically evident recurrence for 18 months after reapposition was confirmed. This case describes the AS-OCT diagnosis and serial documentation of DMD and subsequent Descemet's membrane reapposition in a cat with suspected FIP-associated uveitis. These findings highlight the value of AS-OCT for identifying and monitoring posterior corneal abnormalities, including DMD, in cats with severe anterior uveitis and persistent corneal edema. The relationships among suspected FIP-associated uveitis, treatment, and DMD could not be determined from this single case.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806563/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42806532",
+      "title": "Meibomian Gland Epithelioma Mimicking Eyelid Squamous Cell Carcinoma in a Hereford-Cross Steer.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "To describe the clinical presentation and histopathology of a meibomian gland epithelioma that clinically resembled squamous cell carcinoma in a steer. A 15 year-old Hereford-Lowline cross steer presented for evaluation of an approximately 2 × 4 cm ulcerated, pedunculated eyelid mass arising from the right inferior eyelid margin. Excision of the mass followed by adjunctive cryotherapy was performed. The mass was submitted for histopathologic analysis. Histopathologic evaluation revealed the mass to be consistent with a meibomian gland epithelioma, a neoplastic proliferation of the basal/reserve cells of the meibomian gland. The steer recovered routinely from the procedure with no evidence of regrowth of the mass at 13 months post-operatively. Meibomian gland epitheliomas are one of the most common eyelid tumors of dogs; however, this is the first known report of a histologically confirmed meibomian gland epithelioma in cattle. Clinically, the mass resembled the appearance of squamous cell carcinoma, a common eyelid tumor in Hereford cattle. The clinical misclassification of a benign eyelid mass as squamous cell carcinoma could lead to unnecessary aggressive management such as enucleation, exenteration, or culling. This case confirms the importance of histopathologic analysis of excised tissues to reach an accurate diagnosis and appropriate treatment and follow-up plans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806532/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42806436",
+      "title": "Computed Tomographic Findings of Ischemic Necrosis of the Accessory Carpal Bone in a Dog.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Nov",
+      "abstract": "A 1-year-and-9-month-old Golden Retriever presented with a 9-month history of right thoracic limb lameness. Radiographs revealed a monostotic, expansile lesion of the right accessory carpal bone (ACB). A computed tomography (CT) confirmed the aggressive nature of the lesion, demonstrating multifocal moth-eaten osteolysis, sclerosis, periosteal reaction, and flexor carpi ulnaris tendinopathy. Differential diagnoses included the ischemic necrosis of the ACB, osteomyelitis, and primary bone neoplasia. Histopathology confirmed osteonecrosis. This case highlights the value of CT in evaluating aggressive carpal lesions and identifies ischemic necrosis as an important differential diagnosis. This case represents the first CT description of this disease in dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806436/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -111,6 +141,16 @@
       "publication_date": "2026-09",
       "abstract": "Nesidioblastosis is a rare but important differential diagnosis for hyperinsulinemic hypoglycemia in dogs, a condition most commonly associated with insulinoma. A nine-year-old spayed female dog was presented with recurrent episodes of collapse and documented hyperinsulinemic hypoglycemia. Diagnostic imaging failed to identify a pancreatic mass, prompting exploratory laparotomy with left partial pancreatectomy and regional lymphadenectomy. Histopathological examination excluded insulinoma and established a diagnosis of nesidioblastosis. Although clinical signs initially resolved following surgery, hypoglycemia recurred 45 days later, prompting a right partial pancreatectomy. Following the second procedure, the patient remained euglycemic and free of clinical signs, without evidence of clinical diabetes mellitus or exocrine pancreatic insufficiency throughout an eight-month follow-up period. This case underscores the importance of considering nesidioblastosis in dogs with hyperinsulinemic hypoglycemia when a pancreatic mass is not identified. Furthermore, this case suggests that recurrence after unilateral partial pancreatectomy may occur because of the diffuse nature of nesidioblastosis. In this patient, staged bilateral partial pancreatectomy was associated with sustained glycemic control and clinical remission, without clinically apparent endocrine or exocrine pancreatic dysfunction during an eight-month follow-up period.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785426/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42807950",
+      "title": "Total ear canal ablation for the treatment of auricular hemangiosarcoma in a cat: case report.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "publication_date": "2026-09",
+      "abstract": "Ear neoplasms are growths that commonly affect light-coated, unpigmented felines exposed to prolonged sunlight. Another factor associated with these growths is the constant tissue trauma caused by intense pruritus in cases of chronic otitis. Any tissue making up the structure of the pinna can undergo changes and initiate pathogenic cell proliferation. In this context, cutaneous hemangiosarcomas may arise from alterations in the ear's vascular endothelium, albeit less frequently. This report describes the case of a 12-year-old, white, mixed-breed cat with a history of prior pinnectomy and local recurrence. To treat the new lesion, total ear canal ablation combined with cryotherapy of the surgical bed was selected to maximize recurrence-free survival. Histopathological analysis of the surgical specimen confirmed a moderate grade hemangiosarcoma associated with chronic otitis, with clear margins. The patient was referred to for oncological follow-up and remains free of recurrence one year after the procedure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807950/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -761,46 +801,6 @@
       "publication_date": "2026-Sep",
       "abstract": "A 7-month-old intact male Cavalier King Charles Spaniel was presented for persistent glucosuria despite normoglycemia, failure to thrive, chronic diarrhea, and cerebellar ataxia. Fanconi syndrome was diagnosed, but the neurologic abnormalities were not fully explained. As a consequence of the early onset Fanconi syndrome, a hereditary process was suspected. Whole genome sequencing identified a private hemizygous SINE-like insertion into the ATP7A gene, at the end of intron 13, near the start of exon 14. In humans, variants in ATP7A are associated with Menkes disease, a disorder of copper metabolism associated with a spectrum of clinical signs including progressive neurodegeneration and connective tissue abnormalities. Clinically affected dogs with variants in ATP7A have not been reported previously. Although this case appears to represent a mild phenotypic presentation of Menkes-like disease, it raises the possibility that copper disorders aside from copper-associated hepatitis might exist in dogs. Further genetic screening and phenotypic characterization of rare genetic variants associated with copper metabolism would be beneficial to expand our knowledge of copper disorders in dogs and allow potential early intervention and modeling for metabolic diseases in humans.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685339/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42679799",
-      "title": "H5N1 Clade 2.3.4.4b Infections in Domestic Cats During an Avian Influenza Outbreak in Italy: Implications for One Health Surveillance.",
-      "journal": "Influenza and other respiratory viruses",
-      "publication_date": "2026-Sep",
-      "abstract": "H5Nx goose/Guangdong (Gs/GD) lineage highly pathogenic avian influenza (HPAI) viruses pose a significant public health threat due to their global spread, mutation accumulation, and expanding host range. The descendant clade 2.3.4.4b has been causing widespread infections in birds and increasing spillover events in mammals. This report documents the first fatal case of highly pathogenic avian influenza virus (HPAIV) H5N1 clade 2.3.4.4b infection in a domestic cat in Italy, detected in early January 2025. The cat (CAT 1) resided on a backyard poultry farm experiencing a high pathogenicity avian influenza outbreak and succumbed rapidly following the onset of respiratory signs. A second exposed cat (CAT 2) developed clinical disease without fatal outcome. Comprehensive outbreak investigations were conducted, including pathological, serological, molecular analyses, and genomic characterization. Pathological examination of CAT 1 revealed acute necrotizing bronchointerstitial pneumonia, non-suppurative meningoencephalitis, and disseminated foci of hepatic necrosis. Interestingly, the PB2-E627K mutation associated with mammalian virus adaptation was observed in the feline viral isolate compared to avian isolates. Such polymerase complex mutations are key determinants of host range and increase pathogenicity in mammals. CAT 2 from the same farm tested negative for AIV genome detection but subsequently seroconverted for antibodies against NPA, H5, and N1. Sharing these findings is crucial for surveillance aimed at enabling early identification of increased risks to human and animal health, preventing cross-species viral transmission and mitigating the risk of potential spillover events.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42679799/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42678295",
-      "title": "Non-rim-enhancing intracranial abscess in a cat confirmed by MRI and histopathology.",
-      "journal": "The Journal of small animal practice",
-      "publication_date": "2026-09",
-      "abstract": "PubMed 未提供摘要。",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42678295/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42675021",
-      "title": "Successful Treatment of Mycobacterium caprae Infection in Two UK Cats.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "A 4-year-old, male-neutered Savannah cat (Case 1) and a 3-year-old female-neutered British shorthair cat (Case 2) were each investigated for chronic coughing, lethargy and weight loss. Thoracic imaging revealed diffuse broncho-interstitial changes and multifocal soft-tissue nodules (Case 1), and two cavitating masses in the left lung (Case 2). Bronchoalveolar lavage cytology (BAL) in both cases identified macrophagic inflammation with acid-fast bacilli and was culture (Case 1) or PCR (Case 2) positive for Mycobacterium caprae. The cats were treated with 11 months (Case 1) and 9 months (Case 2) of triple antimicrobial therapy comprising pradofloxacin (5 mg/kg orally once every 24 h), rifampicin (10 mg/kg orally once every 24 h) and azithromycin (15 mg/kg orally once every 24 h). Both made complete clinical recoveries and radiographic improvement in the thoracic changes were static for 2 months prior to cessation of therapy. Both cats remain clinically well 12 and 10 months after cessation of treatment, respectively.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42675021/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42673721",
-      "title": "T-wave over sensing in a pacemaker-dependent dog under general anesthesia caused by a change in T-wave morphology during infusion of dopamine and norepinephrine.",
-      "journal": "Veterinary anaesthesia and analgesia",
-      "publication_date": "2026-07",
-      "abstract": "A 13-year-old intact male mixed-breed dog with a left-sided adrenal gland mass presented for an anesthetized computed tomography scan to aid with surgical planning. The dog had previously undergone transvenous implantation of a single-chamber, right-sided permanent pacemaker placed for treatment of a high-grade second-degree atrioventricular block. The pacemaker mode was changed from variable rate response (ventricular pacing, ventricular sensing, inhibited response, and rate modulation) to fixed demand (ventricular pacing, ventricular sensing, and inhibited response) in preparation for anesthesia, and the rate was set to 95 beats minute -1 . The dog was premedicated with intravenous (IV) butorphanol tartrate (0.3 mg kg -1 ) and anesthesia was induced with propofol (1.25 mg kg -1 , IV) and midazolam (0.3 mg kg -1 , IV). Anesthesia was maintained with isoflurane delivered in oxygen. Following induction of anesthesia, there was a decrease in the mean arterial blood pressure from 108 mmHg to 45 mmHg, which was effectively treated with a bolus of lactated Ringer's solution (5 mL kg -1 , IV) and infusions of dopamine (12 μg kg -1  minute -1 ) and norepinephrine (0.1 μg kg -1  minute -1 ). After starting dopamine and norepinephrine infusions, mean arterial blood pressure increased to 80 mmHg, and the ventricular rate decreased to 60 beats minute -1 . Interrogation of the pacemaker revealed a change in T-wave morphology, which resulted in T-wave oversensing. Decreasing the lead sensitivity of the pacemaker corrected oversensing and restored the paced ventricular rate to 95 beats minute -1 .",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673721/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
