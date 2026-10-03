@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-02T01:41:14.195934+00:00",
+  "updated_at": "2026-10-03T01:11:30.934644+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -95,6 +95,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42538318",
+      "title": "Adjunctive Huperzine A for owner-directed aggression associated with hypersensitivity-hyperactivity syndrome in a dog: a case report.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-07",
+      "abstract": "A 7-month-old female Golden Retriever was referred for owner-directed aggression occurring during intense emotional arousal and characterised by a limited ability to down-regulate arousal and inhibit impulsive motor patterns. Episodes were most frequently triggered by restraint or physical contact (including during vehicle entry/exit) and by attempts to remove acquired objects and had resulted in grade-3 bites per the Dunbar bite scale. Clinical assessment was consistent with hypersensitivity-hyperactivity syndrome (HSHA), an ADHD-like neurodevelopmental condition described in dogs and associated with hyperactivity, impulsivity and reduced behavioural inhibition. A multimodal treatment plan including environmental management and structured behaviour modification was implemented. Fluoxetine was initiated at approximately 0.9 mg/kg/day and was associated with a marked reduction in aggressive incidents and improved arousal regulation. A subsequent attempt to increase the fluoxetine dose to improve residual impulsivity resulted in a 50% reduction of appetite (approximately), necessitating a return to the prior dose. Huperzine A, a Chinese club moss alkaloid and centrally acting acetylcholinesterase inhibitor with additional neuroprotective effects, was then added at 200 μg orally every 12 h. Following adjunctive huperzine A, the dog showed further improvement in behavioural inhibition and impulse control with additional reductions in arousal-linked impulsive behaviour and aggression and no reported adverse effects. This case highlights HSHA-associated owner-directed aggression and suggests that adjunctive huperzine A may be a useful option when dose-limiting adverse effects prevent optimisation of SSRI therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538318/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42264194",
       "title": "Clinical manifestations and management of Androctonus bicolor envenomation in a dog: A previously undescribed clinical case.",
       "journal": "Toxicon : official journal of the International Society on Toxinology",
@@ -113,6 +123,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42012404",
+      "title": "The benefits of multidisciplinary collaboration in the successful management of two complex feline cases.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-04",
+      "abstract": "Despite a frequent misconception that behavioural concerns are diagnoses of exclusion, medical conditions and behavioural disorders are frequently inter-related. In human medicine, the 'multidisciplinary team' approach (MDTA) is considered the most efficacious way of managing patients with complex and chronic health conditions. The case series illustrates how the MDTA for complex veterinary cases improves diagnosis, treatment and management for positive long-term outcomes in feline patients' health and welfare. Feline patient 1, a 2-year-old spayed domestic shorthair cat, presented for repeated episodes of self-trauma to her face and other areas. Detailed diagnostics explored dermatological, behavioural and neurological differential diagnoses. No single diagnosis could completely explain the feline patient's clinical signs or behaviour. A treatment plan involving medication, environmental management and behaviour modification was implemented to improve her health and welfare. Feline patient 2, a 3-year-old spayed domestic long-haired cat, presented after surgical removal of a trichobezoar (second surgery). The diagnostic work-up considered dermatological, behavioural and gastrointestinal causes. A working diagnosis was made of anxiety disorder with possible compounding factors of gastrointestinal and dermatological conditions. The treatment plan included medication, environmental management and behaviour modification. The overgrooming and fur ingestion behaviours resolved, and long-term strategies maintained physical and emotional health and welfare. Without the MDTA, neither feline patient would have received effective care. Using the MDTA for managing complex veterinary cases provides skilful assessment in determining aetiologies, treatment of complex conditions, and identification and management of contributing factors, which may affect and predict flare-ups. The MDTA improves outcomes for owners, feline patients and the veterinary teams who care for them.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42012404/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "41906864",
@@ -201,6 +221,16 @@
       "publication_date": "2026-09",
       "abstract": "An 11-year-old castrated male Maltese dog presented with acute lethargy and non-regenerative anemia. Despite immunosuppressive therapy and an initial packed red blood cell (pRBC) transfusion, hematocrit levels progressively declined after transient improvement. A second transfusion was administered following compatible crossmatch testing. Within 24 h of the second transfusion, a transfusion-associated hemolytic episode was suspected due to a rapid hematocrit decline, pigmenturia, hyperbilirubinemia, and autoagglutination. Peripheral blood smear revealed neutrophils containing coarse blue-green cytoplasmic inclusions. Special staining and autofluorescence microscopy supported lipid-rich, acid-fast, and autofluorescent properties of the inclusions. Prussian blue staining showed iron-positive granular material in the hemolytic sample, but the intraneutrophilic inclusions did not show distinct Prussian blue reactivity, making hemosiderin-rich sideroleukocytes unlikely to fully explain the findings. Similar inclusions have recently been characterized in dogs, mainly in association with severe hepatocellular injury, pancreatitis, and poor short-term outcomes; however, their occurrence during acute clinical deterioration associated with suspected post-transfusion hemolysis has not been specifically documented. The dog died three days after inclusion detection. This case expands the clinical settings in which blue-green leukocyte cytoplasmic inclusions may be encountered in dogs.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42798019/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42824097",
+      "title": "Case report: Long-term local control of recurrent lymphatic malformations using minocycline sclerotherapy following surgical resection in a dog.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "Lymphatic malformation is a benign congenital vascular anomaly that is rarely reported in veterinary medicine. Complete surgical excision is extremely challenging because the boundary between the abnormal and normal tissues is poorly defined, which frequently results in recurrence. A 3-year-6-month-old castrated male mixed-breed dog (Chihuahua × Miniature Dachshund) presented with recurrent lymphatic malformations in the left inguinal and peripenile regions. The lesion had previously been surgically excised at another hospital but recurred shortly after surgery. Despite long-term prednisolone therapy, the lesion gradually enlarged, resulting in gait disturbance and decreased activity. Extensive surgical excision was performed at our hospital; however, early postoperative recurrence was observed. Repeat sclerotherapy with minocycline was subsequently administered for the recurrent cystic lesions. The large cystic lesions resolved or remained controlled after treatment, and long-term suppression of lesion progression was achieved. Although small residual lesions persisted, the dog maintained good activity and gait without marked progression at 535 days postoperatively. In addition, amplicon-based targeted deep sequencing of the PIK3CA hotspot regions did not identify any pathogenic variants. This case suggests that repeated minocycline sclerotherapy may represent a potential minimally invasive treatment option for canine lymphatic malformations that are difficult to control with surgical excision alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824097/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "There is a lack of consistently effective noninvasive treatments for idiopathic renal hematuria (IRH) in dogs. This report describes a dog with IRH that had complete resolution of clinical signs after a 6-week treatment with the antifibrinolytic agent tranexamic acid (TXA). In this dog, macroscopic and microscopic hematuria remained absent after TXA was discontinued. Further, 16 mo later, the owner reported no noted recurrence of macroscopic hematuria. This report provides evidence that oral TXA therapy is a viable, noninvasive treatment option that may help manage some dogs with IRH. Key clinical message: Oral TXA therapy is a potential treatment option for dogs with IRH when other treatment modalities are unsuccessful or not possible.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42699376/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699370",
-      "title": "Single cortical positional screw for fixation of fibular head instability.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "Fibular head instability is a rare, isolated injury in veterinary medicine, with no previous case reports in the veterinary literature. The fibular head is secured proximo-distally by the lateral collateral ligament and craniocaudally by the cranial and caudal fibular head ligaments. A 1-year-old, 26-kg, spayed female border collie mix dog was referred for chronic bilateral Salter Harris-II tibial tuberosity avulsion fractures. The dog was non-weight-bearing on the right pelvic limb, with pain and mobility localized to the right fibular head. Preoperative radiographs showed no fibular pathology. Intraoperatively, the cranial and caudal fibular head ligaments were completely torn, whereas the lateral collateral ligament remained intact. Open reduction and stabilization with a cortical positional screw was conducted. At the 8-week follow-up, the dog was sound at a walk, with a mild intermittent \"hitch\" at a trot. At 7 mo following surgery, the owner reported a return to high-energy activity. Key clinical message: This report documents the successful surgical repair of fibular head instability using a single cortical positional screw.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699370/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42689384",
-      "title": "Severe Hypernatraemia Secondary to Adipsia Associated With a Pituitary Macroadenoma in a Dog: A Case Report.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "Adipsia is a rare disorder characterised by absence of thirst despite hyperosmolality, resulting from dysfunction of the hypothalamic thirst centre. In veterinary medicine, most reported cases of adipsia are associated with congenital forebrain abnormalities, whereas acquired causes in adult dogs are uncommon. This report describes a 9-year-old neutered male mixed-breed dog presented with lethargy, anorexia, vomiting, recumbency, complete absence of voluntary water intake (adipsia) and intermittent tremors. Severe hypernatraemia (192 mmol/L) and hyperchloremia were identified on initial evaluation. Plasma aldosterone concentration was within the reference interval, excluding hyperaldosteronism. An ACTH stimulation test revealed hypercortisolemia, and abdominal ultrasonography demonstrated bilateral adrenal enlargement. Following controlled correction of hypernatraemia with intravenous fluid therapy, magnetic resonance imaging identified a pituitary macroadenoma occupying the sellar and suprasellar regions with mass effect toward the hypothalamus. Secondary adipsia due to hypothalamic compression was considered the most likely cause of hypernatraemia. Medical management with trilostane and cabergoline was initiated. Follow-up imaging demonstrated mild tumour reduction, and serum sodium concentrations remained stable with assisted water supplementation during nine months of follow-up. This case expands the recognised neurological manifestations of pituitary-dependent hyperadrenocorticism and highlights pituitary macroadenoma as a potential cause of acquired adipsia and severe hypernatraemia in geriatric dogs. Not applicable.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689384/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42685339",
-      "title": "A SINE-like insertion in intron 13 of the ATP7A gene is associated with a mild form of Menkes-like disease in a Cavalier King Charles Spaniel.",
-      "journal": "Journal of veterinary internal medicine",
-      "publication_date": "2026-Sep",
-      "abstract": "A 7-month-old intact male Cavalier King Charles Spaniel was presented for persistent glucosuria despite normoglycemia, failure to thrive, chronic diarrhea, and cerebellar ataxia. Fanconi syndrome was diagnosed, but the neurologic abnormalities were not fully explained. As a consequence of the early onset Fanconi syndrome, a hereditary process was suspected. Whole genome sequencing identified a private hemizygous SINE-like insertion into the ATP7A gene, at the end of intron 13, near the start of exon 14. In humans, variants in ATP7A are associated with Menkes disease, a disorder of copper metabolism associated with a spectrum of clinical signs including progressive neurodegeneration and connective tissue abnormalities. Clinically affected dogs with variants in ATP7A have not been reported previously. Although this case appears to represent a mild phenotypic presentation of Menkes-like disease, it raises the possibility that copper disorders aside from copper-associated hepatitis might exist in dogs. Further genetic screening and phenotypic characterization of rare genetic variants associated with copper metabolism would be beneficial to expand our knowledge of copper disorders in dogs and allow potential early intervention and modeling for metabolic diseases in humans.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685339/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
