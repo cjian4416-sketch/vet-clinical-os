@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-03T01:11:30.934644+00:00",
+  "updated_at": "2026-10-04T00:36:43.824011+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42827409",
+      "title": "Bilateral Keratouveitis and Secondary Glaucoma in a Young Dog With Immune-Mediated Polyarthritis and Systemic Inflammatory Response Syndrome.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "A 7-month-old intact female mixed-breed dog presented emergently for inability to walk, lethargy, and vomiting. The patient was diagnosed with immune-mediated polyarthritis (IMPA) and secondary systemic inflammatory response syndrome (SIRS). Bilateral keratouveitis and secondary glaucoma developed within 24 h of presentation. Thorough diagnostic testing failed to identify an underlying etiology. Despite aggressive medical management, the patient developed rapid vision loss. Due to poor visual prognosis and anticipated need for long-term medical management, both eyes were enucleated. Histopathological evaluation of both globes revealed severe corneal endothelial injury most consistent with endotheliitis with associated uveitis and endophthalmitis. Testing of ocular tissue with PCR and immunohistochemistry for canine adenovirus was negative, and comprehensive infectious disease screening, joint cultures, and ocular histopathology identified no other causative agents. Following enucleation, the dog systemically improved with anti-inflammatory and antimicrobial medical management. This report highlights a unique and severe case of bilateral keratouveitis with glaucoma following a systemic inflammatory event.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827409/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A 9-month-old female mixed-breed dog weighing 3.25 kg was referred for elective ovariohysterectomy. A previous attempt had been aborted when the abdominal organs appeared to be enclosed within an abnormal membranous structure. At surgery, the abdominal viscera visible within the operative field were covered by a thin, translucent membrane that could be bluntly dissected from the organ surfaces without hemorrhage. The excised membrane was submitted for histopathological analysis. Postoperative non-contrast computed tomography did not identify abnormal soft-tissue densities or displacement of abdominal organs. Histopathological analysis revealed coarse, fibro-collagenous tissue composed of interspersed, flattened spindle cells without a mesothelial lining and without inflammation. These findings supported a presumptive diagnosis of congenital peritoneal encapsulation, an extremely rare developmental anomaly. This case highlights the need to recognize this condition as a potential incidental finding during routine abdominal procedures in dogs. Key clinical message: Congenital peritoneal encapsulation should be considered when an unexpected membranous covering of abdominal viscera is encountered during routine abdominal surgery in a young dog. Recognition of this rare developmental anomaly may prevent unnecessary surgical intervention or premature abandonment of the procedure.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42699384/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699376",
-      "title": "Tranexamic acid resolved idiopathic renal hematuria in a dog.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "There is a lack of consistently effective noninvasive treatments for idiopathic renal hematuria (IRH) in dogs. This report describes a dog with IRH that had complete resolution of clinical signs after a 6-week treatment with the antifibrinolytic agent tranexamic acid (TXA). In this dog, macroscopic and microscopic hematuria remained absent after TXA was discontinued. Further, 16 mo later, the owner reported no noted recurrence of macroscopic hematuria. This report provides evidence that oral TXA therapy is a viable, noninvasive treatment option that may help manage some dogs with IRH. Key clinical message: Oral TXA therapy is a potential treatment option for dogs with IRH when other treatment modalities are unsuccessful or not possible.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699376/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
