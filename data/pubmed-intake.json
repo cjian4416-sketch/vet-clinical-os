@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-04T00:36:43.824011+00:00",
+  "updated_at": "2026-10-05T00:54:47.783813+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42828758",
+      "title": "Left Medial Liver Lobe Torsion Associated With Hepatocellular Carcinoma in a Pembroke Welsh Corgi: A Case Report.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Liver lobe torsion (LLT) is a rare, potentially life-threatening condition in dogs and is reported most often in medium- to large-breed dogs. Neoplasia-associated LLT is unusual, and detailed descriptions of LLT associated with hepatocellular carcinoma (HCC) are scarce. A 12-year-old spayed female Pembroke Welsh Corgi (9.5 kg) presented with acute collapse after several months of progressive lethargy and inappetence. Laboratory abnormalities included increased alanine aminotransferase and aspartate aminotransferase activities and C-reactive protein concentration. Computed tomography (CT) identified a 7.2 × 6.7 × 6.5 cm mass arising from the left medial liver lobe, a whirl sign at the base of the mass and a non-enhancing hypoattenuating region consistent with necrosis. Midline celiotomy and left medial liver lobectomy were performed without detorsion. Cytology of abdominal effusion was consistent with a culture-negative inflammatory exudate. Histopathology confirmed HCC with extensive necrosis, and the examined surgical margin was free of neoplastic cells. The dog recovered uneventfully, was discharged on postoperative Day 4 and had no recurrence of clinical abnormalities at 1-year follow-up. This case highlights the apparent association between HCC and LLT and the unusual location of the torsion axis at the base of the mass rather than at the hepatic hilus, although causality cannot be established from a single case. CT visualisation of the whirl sign at this atypical site was instrumental in establishing the preoperative diagnosis and guiding surgical planning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828758/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -221,6 +231,16 @@
       "publication_date": "2026-09",
       "abstract": "A 10-year-old neutered female Maine Coon was presented with haematuria, weight loss, polyuria/polydipsia and progressive azotaemia. Diagnostic imaging revealed bilateral renal pelvic dilation, ureteral distension and ectopic ureters. Bacterial pyelonephritis was diagnosed, but the azotaemia progressed despite antibiotic therapy, and suspected ureteral obstruction prompted surgical ureteral reimplantation. The visualisation of omental nodules and thickening of the ectopic right ureterovesicular junction intraoperatively raised suspicion of malignancy, and histopathology revealed urothelial carcinoma with carcinomatosis. The cat was euthanised postoperatively due to clinical deterioration, characterised by persistent oliguria and progressive azotemia. Clinicians should consider malignancy as a differential in cats with ectopic ureters and an atypical or refractory clinical course.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791805/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42828236",
+      "title": "Case Report: Clinical and magnetic resonance imaging findings in intracranial hemangiosarcoma in a cat.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "Hemangiosarcoma (HSA) is a highly malignant tumor of endothelial origin that is infrequently reported in cats, accounting for less than 2% of nonhematopoietic neoplasms. Feline HSA is typically classified into dermal and visceral subtypes, both of which exhibit metastatic potential. While HSA is the tumor most commonly reported to metastasize to the brain in dogs, intracranial involvement in cats remains rare, with only one previously documented metastatic case. This case report details the clinical presentation, magnetic resonance imaging (MRI) features, histopathological findings, and gross post-mortem brain changes in a cat diagnosed with intracranial hemangiosarcoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828236/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A 3-month-old intact male domestic shorthair kitten was evaluated for progressive, recurrent pericardial effusion. Computed tomography (CT) showed marked pericardial effusion with diffuse pericardial thickening and an apparent incomplete pericardial closure. Portions of the left medial and quadrate liver lobes and the gallbladder protruded cranially into the pericardial space and were encased by a thick, contrast-enhancing fibrous layer. These findings were initially interpreted as atypical peritoneopericardial diaphragmatic hernia (PPDH). Due to acute clinical deterioration, the kitten was euthanized. Necropsy and histology confirmed severe necrotizing pericarditis and epicarditis, incomplete pericardial closure, and ventral midline diaphragmatic eventration with intrapericardial protrusion of liver and gallbladder. This collection of findings supported a diagnosis of diaphragmatic eventration, forming a fibrous cupola contiguous with the pericardium, which can mimic PPDH on imaging. Key clinical message: To the authors' knowledge, the combination of CT findings and histologic confirmation of diaphragmatic eventration with incomplete closure of the pericardium has not been previously reported. When CT shows a pericardium continuous with the diaphragm and a fibrous cupola encasing intrapericardial protruded abdominal organs, eventration should be included in the differential diagnosis, in addition to PPDH.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42699809/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699405",
-      "title": "Primary vaginal T-cell lymphoma involving the cervix in 2 dogs.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "This report describes 2 cases of extremely rare primary vaginal T-cell lymphoma involving the cervix in dogs, diagnosed through comprehensive imaging, histopathological, and immunophenotypic evaluations. Case 1 involved a 12-year-old spayed female Shiba Inu dog that was presented with dyschezia and vulvar bleeding. Cytologic evaluation of fine-needle aspirates was nondiagnostic, necessitating tissue biopsy for definitive diagnosis. Computed tomography revealed a large vaginal mass with poor contrast enhancement and a uniformly hypodense internal structure. Chemotherapy with prednisolone, L-asparaginase, and lomustine resulted in temporary tumor regression; however, disease progression was noted by Day 50, and the dog died on Day 56. Case 2 involved a 10-year-old spayed female mixed-breed dog that was presented with dyschezia, dysuria, and hematuria. A CT scan revealed a large mass extending from the vaginal canal into the pelvic cavity. Cytologic evaluation was inconclusive. Surgical excision of the mass and urinary diversion was done, followed by chemotherapy with L-asparaginase, prednisolone, and lomustine. Despite these interventions, the clinical condition rapidly deteriorated, and the dog died on Day 44. Necropsy revealed widespread systemic dissemination of lymphoma and findings consistent with disseminated intravascular coagulation. These cases highlight the aggressive clinical behavior of this disease and underscore the importance of early histopathological diagnosis for appropriate therapeutic intervention. Key clinical message: Lymphoma should be considered as a differential diagnosis in dogs with primary vaginal masses.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699405/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699384",
-      "title": "Presumptive congenital peritoneal encapsulation in a young mixed-breed dog.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "A 9-month-old female mixed-breed dog weighing 3.25 kg was referred for elective ovariohysterectomy. A previous attempt had been aborted when the abdominal organs appeared to be enclosed within an abnormal membranous structure. At surgery, the abdominal viscera visible within the operative field were covered by a thin, translucent membrane that could be bluntly dissected from the organ surfaces without hemorrhage. The excised membrane was submitted for histopathological analysis. Postoperative non-contrast computed tomography did not identify abnormal soft-tissue densities or displacement of abdominal organs. Histopathological analysis revealed coarse, fibro-collagenous tissue composed of interspersed, flattened spindle cells without a mesothelial lining and without inflammation. These findings supported a presumptive diagnosis of congenital peritoneal encapsulation, an extremely rare developmental anomaly. This case highlights the need to recognize this condition as a potential incidental finding during routine abdominal procedures in dogs. Key clinical message: Congenital peritoneal encapsulation should be considered when an unexpected membranous covering of abdominal viscera is encountered during routine abdominal surgery in a young dog. Recognition of this rare developmental anomaly may prevent unnecessary surgical intervention or premature abandonment of the procedure.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699384/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
