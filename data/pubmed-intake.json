@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-05T00:54:47.783813+00:00",
+  "updated_at": "2026-10-06T02:17:43.097224+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42830486",
+      "title": "Spontaneous Reduction in Mitral Valve Regurgitation in Three Dogs With Severe Myxomatous Mitral Valve Disease: An Unusual Case Report.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Myxomatous mitral valve disease (MMVD), the most common heart disease in small-breed dogs, is characterized by mitral regurgitation (MR) resulting from valvular degeneration, which may progress to left-sided heart failure. This report describes the cases of three dogs with severe MMVD (American College of Veterinary Internal Medicine Stages C or D) who exhibited an unexpected spontaneous reduction in MR despite continued valve degeneration. Three dogs initially presented with symptoms of heart failure and left atrial and ventricular enlargement. Standard treatment, including diuretics, improved their conditions; however, further monitoring revealed that the coaptation gap decreased due to mitral valve thickening, leading to a reduction in MR. This was accompanied by a significant decrease in heart size. As a result, diuretics were discontinued, and all dogs were successfully managed with pimobendan alone. To our knowledge, this is the first report of spontaneous MR reduction in MMVD, where coaptation gap narrowing played a role in clinical improvement. These cases may broaden the current understanding of MMVD progression, suggesting that, in rare instances, changes in cardiac remodelling and clinical status can occur. Further research is warranted to better understand the underlying mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42830486/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -115,12 +125,62 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42572323",
+      "title": "A case of feline aspergillosis with central nervous system involvement: clinical utility of cerebrospinal fluid PCR testing.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-08",
+      "abstract": "A 5-year-old cat presented with exophthalmos and neurological signs. Aspergillus udagawae was identified by histopathological examination and polymerase chain reaction (PCR) analysis of an orbital mass. Although magnetic resonance imaging suggested intracranial infection, cerebrospinal fluid (CSF) analysis and fungal culture were not clear. Serial CSF PCR detected Aspergillus sp., leading to diagnosis of central nervous system (CNS) infection and monitoring of treatment response. Following surgical debulking and administration of antifungal agents including voriconazole, the clinical signs resolved and CSF PCR reverted to negative. This case suggests that CSF PCR is a sensitive adjunctive tool for diagnosing and monitoring CNS aspergillosis in cats when conventional methods are inconclusive.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572323/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42557042",
+      "title": "Atypical angiomatous meningioma with E-cadherin-positive inclusion bodies in a dog.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-08",
+      "abstract": "An 11-year-old toy poodle presented with abnormal gait. Magnetic resonance imaging revealed a demarcated intradural extramedullary mass at the dorsal medulla oblongata, which was surgically removed. Histopathologically, a well-demarcated tumor was composed of small nests of meningothelial neoplastic cells separated by abundant fibrovascular tissue. The nuclei of neoplastic cells were often eccentric due to eosinophilic cytoplasmic inclusion bodies. Immunohistochemically, the neoplastic cells were positive for E-cadherin and vimentin, and endothelial cells were positive for CD31, von Willebrand factor, and vimentin. The cytoplasmic inclusion bodies of the neoplastic cells were E-cadherin-positive and, by electron microscopy, composed of folded membrane-like structures. The tumor was diagnosed as an angiomatous meningioma with cytoplasmic inclusion bodies, which were likely cell membranes containing E-cadherin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557042/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42543680",
+      "title": "Gap junction protein gamma 2 (GJC2) gene frameshift deletion in Toy Poodles with hypomyelinating leukodystrophy resembling human Pelizaeus-Merzbacher-like disease 1.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-08",
+      "abstract": "Pelizaeus-Merzbacher-like disease type 1 (PMLD1), also known as hypomyelinating dystrophy 2, is a typical slowly progressive hypomyelinating leukodystrophy (HLD) that manifests in the neonatal period or early infancy. In humans, PMLD1 is inherited as an autosomal recessive trait, with genetic variants identified in the gap junction protein gamma 2 (GJC2) gene. Six juvenile-age Toy Poodle dogs exhibited coarse, vertical head and trunk tremors from immediately after birth. Conventional magnetic resonance imaging revealed uniform signal hyperintensities throughout the subcortical white matter in all dogs. All dogs were euthanized. Subsequent histopathological examination revealed vacuolar changes and demyelination in the cerebral and cerebellar white matter, leading to a diagnosis of HLD. Genetic analysis of five affected dogs identified a shared homozygous 14-base pair deletion in the GJC2 gene, XM_038556433.1:c.920_933del. To the best of our knowledge, this is the first report of a pathogenic GJC2 variant in dogs or any other domestic animal species. The results will enable genetic testing and provide a spontaneous large animal model for the homologous human disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42543680/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42486645",
+      "title": "Transient high-output heart failure documented by echocardiographic cardiac index measurement in a pregnant cat.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-07",
+      "abstract": "A female cat (approximately 3 weeks of gestation) was referred for respiratory distress and pleural effusion. Echocardiography revealed dilation of the left atrium and left ventricle, and the cardiac index was markedly elevated (0.39 L/kg/min), raising suspicion for high-output heart failure (HOHF). The cat was treated with furosemide and enrofloxacin. Pleural effusion completely resolved in late pregnancy, and 45 days after delivery the cardiac index decreased to 0.22 L/kg/min. To our knowledge, this is the first report describing a transient HOHF associated with pregnancy in a cat, highlighting the clinical utility of echocardiographic cardiac index measurement for identifying this condition. Further accumulation of cases is needed to better characterise this condition in feline patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486645/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42538318",
       "title": "Adjunctive Huperzine A for owner-directed aggression associated with hypersensitivity-hyperactivity syndrome in a dog: a case report.",
       "journal": "Australian veterinary journal",
       "publication_date": "2026-07",
       "abstract": "A 7-month-old female Golden Retriever was referred for owner-directed aggression occurring during intense emotional arousal and characterised by a limited ability to down-regulate arousal and inhibit impulsive motor patterns. Episodes were most frequently triggered by restraint or physical contact (including during vehicle entry/exit) and by attempts to remove acquired objects and had resulted in grade-3 bites per the Dunbar bite scale. Clinical assessment was consistent with hypersensitivity-hyperactivity syndrome (HSHA), an ADHD-like neurodevelopmental condition described in dogs and associated with hyperactivity, impulsivity and reduced behavioural inhibition. A multimodal treatment plan including environmental management and structured behaviour modification was implemented. Fluoxetine was initiated at approximately 0.9 mg/kg/day and was associated with a marked reduction in aggressive incidents and improved arousal regulation. A subsequent attempt to increase the fluoxetine dose to improve residual impulsivity resulted in a 50% reduction of appetite (approximately), necessitating a return to the prior dose. Huperzine A, a Chinese club moss alkaloid and centrally acting acetylcholinesterase inhibitor with additional neuroprotective effects, was then added at 200 μg orally every 12 h. Following adjunctive huperzine A, the dog showed further improvement in behavioural inhibition and impulse control with additional reductions in arousal-linked impulsive behaviour and aggression and no reported adverse effects. This case highlights HSHA-associated owner-directed aggression and suggests that adjunctive huperzine A may be a useful option when dose-limiting adverse effects prevent optimisation of SSRI therapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42538318/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42338289",
+      "title": "CT-confirmed complete duplication of the renal pelvis and ureter in a dog.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-06",
+      "abstract": "PubMed 未提供摘要。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42338289/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -133,6 +193,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42264194/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
+    },
+    {
+      "pmid": "42210038",
+      "title": "Severe post-GDV gastroparesis managed with sleeve-type gastrectomy in a dog.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-05",
+      "abstract": "A Belgian Malinois dog developed advanced gastroparesis with gastric atony and progressive dilatation following surgical correction of gastric dilatation-volvulus. Following gastric dilatation-volvulus, the dog developed recurrent gastric distension, vomiting of undigested food and progressive weight loss. Imaging and endoscopy demonstrated a markedly enlarged, static stomach with a patent pylorus, refractory to prokinetic therapy. Exploratory laparotomy revealed global gastric atony, and a radical sleeve-type gastrectomy was performed. Histopathology identified interstitial fibrosis and sparsely distributed nerve plexuses. Although delayed gastric emptying persisted postoperatively on barium contrast study, the dog regained weight, tolerated liquid meals and remained clinically stable without further vomiting or dilatation at 12 months follow-up. Severe gastroparesis with chronic gastric dilatation can occur as a delayed complication of gastric dilatation-volvulus, likely related to truncal vagal injury. Sleeve-type gastrectomy might represent a salvage option for dogs with end-stage, medically refractory gastric atony.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42210038/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
       "pmid": "42086106",
@@ -731,76 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "Severe adverse reactions induced by non-ionic contrast media remain an uncommon complication in veterinary medicine. This report describes the clinical manifestations and sequential computed tomography alterations indicative of acute shock captured during 2 min and 4 min delayed phases in a 10-year-old, castrated male Maltese dog. The patient, previously diagnosed with a cutaneous mast cell tumor on the lip exhibiting incomplete histopathological margins, underwent CT for metastatic evaluation. The patient had no clinical evidence of systemic disease, and no anesthetic adverse events were observed during past patellar luxation surgery. However, the 2 min delayed CT scan revealed suspected hepatic congestion, vascular collapse, marked esophageal wall edema, and intense intestinal mucosal contrast enhancement. Subsequently, the 4 min delayed CT scan demonstrated diffuse contrast medium stagnation within the cardiac chambers and renal parenchyma, accompanied by the absence of the renal excretory phase. During anesthetic recovery, severe hypotension and respiratory failure emerged, suggesting the development of hypersensitivity. Following immediate intervention with cardiopulmonary resuscitation, epinephrine, and dexamethasone, the patient temporarily exhibited facial edema, hematochezia, diarrhea, and transient ataxia. However, dobutamine administration successfully restored systemic blood pressure and tissue perfusion, returning the patient to a normal clinical status. Consequently, this case highlights potential pathophysiological mechanisms, key CT findings, and emergency management considerations for contrast-induced hypersensitivity. Notably, sequential CT imaging documented evolving shock-related changes before the onset of overt clinical deterioration, suggesting that these findings may represent early imaging indicators of contrast-induced hypersensitivity.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738496/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42736007",
-      "title": "Detection of Spirometra sp. (Cestoda: Diphyllobothriidae) eggs and morphological characterization of adult specimens from free-living wild carnivores in Paraguay.",
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publication_date": "2026-08",
-      "abstract": "Pseudophilid cestodes the genus Spirometra can infect a wide range of intermediate hosts in larval stages, while adult stages parasitize domestic animals, wildlife, and humans. In South America, descriptions of adults in wildlife are scarce. This study reports the presence of Spirometra sp. eggs in three species of wild carnivores from Paraguay (Chrysocyon brachyurus, Leopardus geoffroyi and Procyon cancrivorus), and microscopic characterization of a recovered adult specimen from L. geoffroyi. Fecal samples were examined using conventional methods, revealing eggs compatible with Spirometra sp., in all three hosts. The adult cestode was processed by basic fuchsin staining for morphological analysis of the complete preparation. General characteristics confirmed the identification at a genus level. These findings represent the first microscopic description of adult Spirometra from wild carnivores in Paraguay and provide baseline anatomical data for future taxonomic and epidemiological studies, highlighting the relevance of wildlife reservoirs within the One Health framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736007/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42736004",
-      "title": "Canine leishmaniosis: An atypical presentation on the tongue.",
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publication_date": "2026-08",
-      "abstract": "Canine leishmaniosis (CanL) is a vector-borne disease caused mainly by the protozoan parasite Leishmania infantum, transmitted to its vertebrate hosts by phlebotomine sand fly insects. Clinical disease and a higher proportion of subclinical infections are endemic in several countries, with a high prevalence in the Mediterranean basin. The clinical signs and lesions of CanL are diverse, but oral manifestations have only been reported occasionally. Here we present an atypical case of Leishmania infection on the tongue of a domestic dog. A 12-year-old neutered male mongrel dog was presented to the University of Trás-os-Montes e Alto Douro Veterinary Teaching Hospital with intermittent lameness of the left pelvic limb and a cutaneous lesion on the nose. Physical examination revealed generalized lymphadenopathy, as well as the presence of an oral mass on the ventral surface of the tongue. Histological examination of this oral lesion showed extensive mucosal ulcerations with granulomatous inflammation in the submucosa. Large macrophages were found, containing intracytoplasmic structures compatible with Leishmania spp. amastigotes. Immunohistochemistry identified several leishmanial amastigote forms both inside macrophages and in the surrounding tissue. In the present case, parasites were unexpectedly identified in the histopathological examination of a tongue mass. Histopathology complemented by immunohistochemistry were fundamental tools for detecting Leishmania parasites and making a definitive diagnosis of CanL in this case. It is also important to conduct a systematic and thorough physical examination, including oral cavity and its floor, for any mass lesions that may be present in dogs with leishmaniosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736004/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42736002",
-      "title": "Canine cholecystitis in the presence of Hammondia spp. infection.",
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publication_date": "2026-08",
-      "abstract": "Biliary protozoal infections are becoming increasingly recognized in dogs. Sarcocystidae protozoal infections (i.e Toxoplasma, Neospora, Hammondia, Besnoitia, and Sarcocystis spp.) are uncommon and host-specific. Diagnosis is traditionally dependent on tissue or serologic evaluation; sensitivity and specificity for these techniques can vary. PCR amplification and genetic sequencing provide a technique to expedite diagnosis and species identification in clinical biliary protozoal infections. Bile samples were collected percutaneously from two dogs presented to a referral hospital with mixed hepatopathies and hyperbilirubinemia. Diagnostic imaging revealed changes consistent with hepatobiliary inflammation, and tachyzoites were identified via bile cytology. Sera were positive for anti-Toxoplasma sp. (n = 1/2) and anti-Neospora sp. (n = 2/2) antibodies. Genomic isolation from bile and pan-Sarcocystidae (18S rRNA) PCR amplification were consistent with Hammondia spp. Additional 28S rRNA (LSU), alpha-tubulin (aTUB) and cytochrome b (CytB) gene-specific fragments were PCR amplified and sequenced. Phylogenetic analysis of LSU DNA fragment (584 bp) suggested both patients were infected with Hammondia spp. closely related to H. heydorni. Sequencing of aTUB (234 bp) and CytB (344 bp) revealed Patient 1 Hammondia spp. was more closely related to H. triffittae, while Patient 2 was more similar to H. heydorni. Treatment with clindamycin, and in one case additional enrofloxacin, resolved clinical and clinicopathologic changes in both dogs. This report highlights the importance of multilocus sequencing in protozoal identification in atypical infections, clinical manifestations of canine hepatobiliary hammondiasis, and need for regional Sarcocystidae prevalence studies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736002/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699830",
-      "title": "Systemic sterile nodular panniculitis associated with an intra-abdominal mass in a dog.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "A 12-year-old spayed female dog was referred because of recurrent febrile syndrome and palpable abdominal mass. Ultrasonography and contrast-enhanced computed tomography showed a non-parenchymal abdominal mass. Multiple deep subcutaneous nodules with mixed fluid- and fat-attenuating centers were identified on computed tomography. Surgical exploration revealed that the mass was located near the tip of the left uterine horn. The mass was removed and the subcutaneous nodules were sampled for analysis. Histology together with negative microbial cultures indicated sterile pyogranulomatous steatitis of both subcutaneous and intra-abdominal lesions. The dog was diagnosed with a sterile nodular panniculitis with atypical involvement of intra-abdominal fat and was managed with long-term glucocorticoid treatment. Key clinical message: Computed tomography can be helpful for detecting clinically non-palpable subcutaneous nodules in dogs that are presented with recurrent febrile syndrome. These nodules may correspond to sterile nodular panniculitis, particularly if exhibiting a fluid and fat component. Detection should prompt sampling. This disease may not be limited to the subcutaneous tissues, and a systemic form should be considered, especially when additional clinical abnormalities are present.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699830/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699822",
-      "title": "Endoscopic diode laser lysis of dorsal acquired glottic web and custom-made Silastic keel placement in a dog.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "Laryngeal web is a rare condition in dogs that can cause upper airway obstruction. Surgery is the treatment of choice to remove the glottic obstruction. In veterinary medicine, ventral laryngotomy has been described for resection of laryngeal webs. In humans, the endolaryngeal surgical approach consists of laser ablation of the glottic obstruction, followed by temporary placement of a protective keel onto the exposed arytenoid mucosa to prevent excessive granulation tissue formation and recurrence. In the present case, a dog with a dorsal acquired glottic web associated with obstructive dyspnea was successfully treated  via  transoral endoscopic lysis using a diode laser and temporary keel placement. The favorable outcome suggests the potential for broader application of this technique. Key clinical message: Diode laser ablation represents a minimally invasive technique for treatment of laryngeal web, a rare cause of laryngeal obstruction in dogs. Temporary keel placement may help prevent recurrence, which is frequently reported following web resection.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699822/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699814",
-      "title": "Soft tissue sarcoma invasion of the humerus  via  the nutrient foramen in a dog.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "A 7-year-old castrated male dachshund dog was presented because of non-weight-bearing right thoracic limb lameness with a soft tissue mass of the proximal humerus. Orthogonal radiographs of the affected limb showed a region of geographic lysis and variable cortical thinning centered in the proximal humeral metaphysis. Differential diagnoses for these lesions included benign and malignant processes, including primary osseous neoplasia. Right forelimb amputation was conducted, and histopathologic assessment facilitated diagnosis of a grade II/intermediate-grade soft tissue sarcoma invading the proximal humerus  via  the nutrient foramen. No evidence of metastasis was present at the time of surgery. The dog recovered uneventfully following amputation and maintained a good quality of life for 15 mo after surgery. This report describes a unique presentation of a soft tissue sarcoma with osseous invasion, offering an alternative differential diagnosis for monostotic aggressive bone lesions. Key clinical message: This case report describes a unique presentation of a common canine neoplasm. Associated with a more positive prognosis than other primary osseous neoplasms, a soft tissue sarcoma could be considered a differential diagnosis for osseous lesions with soft tissue masses.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699814/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42699809",
-      "title": "Pericardial-diaphragmatic malformation with intrapericardial diaphragmatic eventration in a cat.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-09",
-      "abstract": "A 3-month-old intact male domestic shorthair kitten was evaluated for progressive, recurrent pericardial effusion. Computed tomography (CT) showed marked pericardial effusion with diffuse pericardial thickening and an apparent incomplete pericardial closure. Portions of the left medial and quadrate liver lobes and the gallbladder protruded cranially into the pericardial space and were encased by a thick, contrast-enhancing fibrous layer. These findings were initially interpreted as atypical peritoneopericardial diaphragmatic hernia (PPDH). Due to acute clinical deterioration, the kitten was euthanized. Necropsy and histology confirmed severe necrotizing pericarditis and epicarditis, incomplete pericardial closure, and ventral midline diaphragmatic eventration with intrapericardial protrusion of liver and gallbladder. This collection of findings supported a diagnosis of diaphragmatic eventration, forming a fibrous cupola contiguous with the pericardium, which can mimic PPDH on imaging. Key clinical message: To the authors' knowledge, the combination of CT findings and histologic confirmation of diaphragmatic eventration with incomplete closure of the pericardium has not been previously reported. When CT shows a pericardium continuous with the diaphragm and a fibrous cupola encasing intrapericardial protruded abdominal organs, eventration should be included in the differential diagnosis, in addition to PPDH.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699809/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
