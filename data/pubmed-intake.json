@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-06T02:17:43.097224+00:00",
+  "updated_at": "2026-10-07T01:31:36.050632+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -125,6 +125,26 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42521054",
+      "title": "Oxidative stress and immunomarkers in equine dermal melanomatosis: single-case comparison with healthy individual.",
+      "journal": "Journal of equine veterinary science",
+      "publication_date": "2026-07",
+      "abstract": "Dermal melanomatosis is a common tumor in grey horses, characterized by cutaneous/subcutaneous lesions with metastatic potential. While clinically well-described, oxidative stress involvement remains poorly understood. This case report compared oxidative stress markers and antioxidant enzymes' activities in total protein extracts from melanomatosis lesions (grey horse) versus healthy control skin (black horse), alongside histopathology and immunohistochemistry, to correlate oxidative imbalance and tumor behavior. Melanomatosis tissue exhibited decreased antioxidant defenses confirmed by catalase (CAT) and superoxide dismutase (SOD) reduced activities, with 29% lower glutathione (GSH) levels. Oxidative damage markers increased in melanomatosis tissue: malondialdehyde (MDA) rising by 73% and advanced oxidation protein products (AOPP) by 56%. Histology confirmed melanocytic proliferation, supported by moderate positive S100 (highly sensitive melanocytic marker) and low proliferation rate (8% positive to proliferation marker Ki-67). These findings suggest oxidative stress was involved in melanomatosis pathophysiology in this case, highlighting the potential relevance of these markers for further investigation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521054/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42836885",
+      "title": "Mammary secretory carcinoma in a female domestic rabbit (Oryctolagus cuniculus): histopathological and immunohistochemical features.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-10",
+      "abstract": "Secretory carcinoma of the breast is a rare histological subtype in women and is uncommon in female dogs and cats, with only two cases described in female dogs and one case described in a cat. This report describes the histopathological and immunohistochemical features of secretory carcinoma of the mammary gland in a domestic rabbit (Oryctolagus cuniculus). Microscopic evaluation revealed a non-encapsulated, well-demarcated neoplastic proliferation composed of epithelial cells arranged in solid and tubular patterns, supported by a delicate fibrous connective tissue stroma. The neoplastic cells had slightly eosinophilic cytoplasm, frequently containing large, well-demarcated vacuoles that displaced the nucleus to the periphery, giving the cells a signet-ring-like appearance. Periodic acid-Schiff (PAS) histochemical staining, performed with and without diastase digestion, showed positivity in the intracellular and extracellular secretory material in both approaches. Immunohistochemical evaluation was performed for the markers α-lactalbumin, Ki-67, estrogen receptor, progesterone receptor, and COX-2. Positive cytoplasmic immunolabeling for α-lactalbumin was observed in neoplastic cells and in intracellular and extracellular secretory material, confirming their secretory nature. The diagnosis of secretory carcinoma was established based on the association of histopathological, histochemical, and immunohistochemical features. Considering the secretory features of the mammary gland in rabbits, secretory carcinoma should be included in the differential diagnosis of mammary carcinomas with prominent secretory activity in this species.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836885/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42572323",
       "title": "A case of feline aspergillosis with central nervous system involvement: clinical utility of cerebrospinal fluid PCR testing.",
       "journal": "The Journal of veterinary medical science",
@@ -161,6 +181,16 @@
       "publication_date": "2026-07",
       "abstract": "A female cat (approximately 3 weeks of gestation) was referred for respiratory distress and pleural effusion. Echocardiography revealed dilation of the left atrium and left ventricle, and the cardiac index was markedly elevated (0.39 L/kg/min), raising suspicion for high-output heart failure (HOHF). The cat was treated with furosemide and enrofloxacin. Pleural effusion completely resolved in late pregnancy, and 45 days after delivery the cardiac index decreased to 0.22 L/kg/min. To our knowledge, this is the first report describing a transient HOHF associated with pregnancy in a cat, highlighting the clinical utility of echocardiographic cardiac index measurement for identifying this condition. Further accumulation of cases is needed to better characterise this condition in feline patients.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42486645/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42834632",
+      "title": "Percutaneous balloon valvuloplasty in a small cat with pulmonary valve stenosis and concomitant tricuspid valve dysplasia.",
+      "journal": "Schweizer Archiv fur Tierheilkunde",
+      "publication_date": "2026-Oct",
+      "abstract": "A 14-month-old, male castrated, 3,9-kg Singapura cat was referred for treatment of severe pulmonary valve stenosis associated with tricuspid valve dysplasia. The cat was pretreated with atenolol and scheduled for pulmonary balloon valvuloplasty. Because the right femoral vein could not accommodate a 5 Fr introducer, vascular access was obtained via the left external jugular vein, followed by right ventricular catheterisation, pressure measurement and angiography. A 10 mm low pressure balloon catheter was advanced over a guidewire to the level of the pulmonary valve and inflated once, resulting in complete loss of the balloon waist. During the procedure, the cat was severely hypotensive for 30 minutes, lasting from the time of ca-theterisation of the right ventricular outflow tract until nearly the end of anaesthesia. Postoperative tachypnoea was attributed to congestive heart failure, although aspiration pneumonia could not be excluded. The patient was discharged the day after the intervention following a single dose of furosemide and received amoxicillin-clavulanate for ten days. Echocardiography after eleven days, three months and 16 months demonstrated a marked and sustained reduction of the transvalvular pressure gradient. The cat showed an improved activity level after the procedure, which persisted over the 16-month follow-up period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834632/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-Sep",
       "abstract": "A 2-year-old male entire Samoyed presented with 2 weeks of suspected lumbar pain, following an episode of compulsive hypersexual behavior towards other dogs. Computed tomography revealed a lobulated, enlarged left corpus cavernosum with a central non-enhancing, hypoattenuating region (-20 to 40 HU) and rim enhancement, surrounding ischiocavernosus muscle swelling, and left-sided bulbus penis hyperenhancement. Ultrasound showed an enlarged heterogeneous hyperechoic left corpus cavernosum. Ultrasound-guided needle aspiration for cytology, interpreted by a board-certified clinical pathologist, revealed mesenchymal proliferation and mild macrophagic inflammation, supporting a diagnosis of cavernositis. The dog was treated with anti-inflammatories and antibiotics with clinical resolution at a 4-week follow-up.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42746951/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42746947",
-      "title": "Atypical Inflammatory Laryngopharyngeal Web With Concurrent Nasopharyngeal Stenosis in an Older Cat.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Sep",
-      "abstract": "An older neutered male Korean Shorthair cat was evaluated for chronic respiratory distress, stertor, dysphagia, and severe weight loss. Radiography and computed tomography revealed nasopharyngeal narrowing and a thin membranous web-like obstructive structure at the laryngopharynx, resulting in near-complete airway obstruction, with concurrent fluid-to-soft tissue attenuating material within the frontal sinus and tympanic bulla. Surgical exploration confirmed a membranous lesion, and histopathology demonstrated chronic ulcerative palatitis without evidence of neoplasia. This case suggests that feline nasopharyngeal stenosis may be associated with a more complex inflammatory laryngopharyngeal web, potentially broadening the currently recognized morphologic spectrum of this condition.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746947/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42745849",
-      "title": "Glycogen storage disease type VII (Tarui disease): a case report presenting a  PFKM  variant previously described only in canine models.",
-      "journal": "Frontiers in genetics",
-      "publication_date": "2026-09",
-      "abstract": "Glycogen storage disease type VII (GSD-VII), or Tarui disease, is a rare autosomal recessive disorder caused by biallelic loss-of-function variants in the  PFKM  gene encoding the muscle isoform of phosphofructokinase (PFK), a key enzyme of the glycolytic pathway. PFK deficiency impairs glycogen and glucose metabolism in skeletal muscle and erythrocytes, causing exercise intolerance, exertional myalgia, and myoglobinuria, and, in some cases, fixed proximal muscle weakness, as well as haemolytic anaemia. We report the case of an Italian woman with genetically confirmed GSD-VII harbouring a homozygous missense variant in  PFKM  (NM_000289.6:c.550C>T, p.Arg184Trp). This variant was previously identified in Wachtelhund dogs, a spontaneous animal model of PFK deficiency, but never reported in patients so far. PFK activity in skeletal muscle (PFKM) was found severely decreased and ultrastructural analysis revealed glycogen accumulation and mitochondrial alteration, supporting the pathogenetic role of the identified variant.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745849/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42738496",
-      "title": "Computed Tomographic Findings and Clinical Manifestations of Acute Severe Hypersensitivity to a Non-Ionic Iodinated Contrast Agent in a Castrated Male Dog: A Case Report.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "Severe adverse reactions induced by non-ionic contrast media remain an uncommon complication in veterinary medicine. This report describes the clinical manifestations and sequential computed tomography alterations indicative of acute shock captured during 2 min and 4 min delayed phases in a 10-year-old, castrated male Maltese dog. The patient, previously diagnosed with a cutaneous mast cell tumor on the lip exhibiting incomplete histopathological margins, underwent CT for metastatic evaluation. The patient had no clinical evidence of systemic disease, and no anesthetic adverse events were observed during past patellar luxation surgery. However, the 2 min delayed CT scan revealed suspected hepatic congestion, vascular collapse, marked esophageal wall edema, and intense intestinal mucosal contrast enhancement. Subsequently, the 4 min delayed CT scan demonstrated diffuse contrast medium stagnation within the cardiac chambers and renal parenchyma, accompanied by the absence of the renal excretory phase. During anesthetic recovery, severe hypotension and respiratory failure emerged, suggesting the development of hypersensitivity. Following immediate intervention with cardiopulmonary resuscitation, epinephrine, and dexamethasone, the patient temporarily exhibited facial edema, hematochezia, diarrhea, and transient ataxia. However, dobutamine administration successfully restored systemic blood pressure and tissue perfusion, returning the patient to a normal clinical status. Consequently, this case highlights potential pathophysiological mechanisms, key CT findings, and emergency management considerations for contrast-induced hypersensitivity. Notably, sequential CT imaging documented evolving shock-related changes before the onset of overt clinical deterioration, suggesting that these findings may represent early imaging indicators of contrast-induced hypersensitivity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738496/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
