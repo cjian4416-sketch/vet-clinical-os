@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-07T01:31:36.050632+00:00",
+  "updated_at": "2026-10-08T01:54:56.298389+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -195,6 +195,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42603145",
+      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-08",
+      "abstract": "To describe the technique and outcome of a rostral labial pivot flap variant in dogs. Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap. Short case series. Rostral lip and paranasal defects with concurrent nasal mucosal involvement resulting from tumor resection were reconstructed using the rostral labial pivot flap and its variants, including incorporation of a mucosal island flap ± nasal rotation flap for modification of lip heights. Medical records were reviewed for all dogs that underwent tumor resection followed by reconstruction with a rostral labial pivot flap technique and its modifications. The rostral labial pivot flap and its variants provided acceptable outcomes in four dogs for reconstruction of rostral lip and paranasal defects. Incorporation of a mucosal island flap was effective for nasal mucosal reconstruction, and use of a nasal rotation flap to reduce tension and address lip height discrepancy resulted in acceptable outcomes. Two dogs experienced minor complications, including an oronasal fistula and mild narial stenosis, neither of which was associated with clinical signs. All dogs were considered to have normal function and quality of life at follow-up. The rostral labial pivot flap can be a reasonable and adaptable option for reconstruction of rostral lip and paranasal defects in dogs. Acceptable cosmetic and functional outcomes with low morbidity were observed in this series; however, additional cases are needed to better define success rates and complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42538318",
       "title": "Adjunctive Huperzine A for owner-directed aggression associated with hypersensitivity-hyperactivity syndrome in a dog: a case report.",
       "journal": "Australian veterinary journal",
@@ -281,6 +291,16 @@
       "publication_date": "2026-09",
       "abstract": "Nesidioblastosis is a rare but important differential diagnosis for hyperinsulinemic hypoglycemia in dogs, a condition most commonly associated with insulinoma. A nine-year-old spayed female dog was presented with recurrent episodes of collapse and documented hyperinsulinemic hypoglycemia. Diagnostic imaging failed to identify a pancreatic mass, prompting exploratory laparotomy with left partial pancreatectomy and regional lymphadenectomy. Histopathological examination excluded insulinoma and established a diagnosis of nesidioblastosis. Although clinical signs initially resolved following surgery, hypoglycemia recurred 45 days later, prompting a right partial pancreatectomy. Following the second procedure, the patient remained euglycemic and free of clinical signs, without evidence of clinical diabetes mellitus or exocrine pancreatic insufficiency throughout an eight-month follow-up period. This case underscores the importance of considering nesidioblastosis in dogs with hyperinsulinemic hypoglycemia when a pancreatic mass is not identified. Furthermore, this case suggests that recurrence after unilateral partial pancreatectomy may occur because of the diffuse nature of nesidioblastosis. In this patient, staged bilateral partial pancreatectomy was associated with sustained glycemic control and clinical remission, without clinically apparent endocrine or exocrine pancreatic dysfunction during an eight-month follow-up period.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785426/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42840741",
+      "title": "Surgical management of an unstable occipital condyle fracture in a dog using a patient-specific CNC-milled titanium implant: a case report.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-09",
+      "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the medulla oblongata was left  in situ  owing to the potential risk of severe complications from removal. Occipitocervical stabilization surgery was performed to prevent further damage from instability. A patient-specific titanium implant was designed by CAD and fabricated by CNC milling, and screws were applied to the occiput and C1 vertebra using standard techniques, whereas a screw was inserted transversely into the C2 spinous process to minimize the risk of implant failure from neck flexion. Postoperative computed tomography (CT) confirmed proper implant placement without neural injury. Over time, the patient showed improvements in hypoglossal dysfunction and gait, and was discharged on postoperative day five. Occipital condyle fractures are rare in both veterinary and human medicine, with most cases classified as type 1 or 2, and typically do not require surgical intervention. To the best of our knowledge, this is the first peer-reviewed description of surgical stabilization of an occipital condyle fracture in a dog using a patient-specific, CNC-milled titanium implant. Conservative management of occipital condyle fracture and surgical stabilization of craniocervical junction fractures have been described previously, and the contribution of the present report lies in the implant design and fabrication workflow rather than in the surgical management of craniocervical injury  per se .",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840741/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-Sep",
       "abstract": "Aortic body tumours are uncommon heart-base neoplasms in dogs, and intracardiac extension causing clinically significant right atrial obstruction is rarely described. A 7-year-1-month-old, 15.2-kg, castrated male French Bulldog was evaluated for 2 weeks of lethargy, hyporexia, exercise intolerance, abdominal distension, and polydipsia. Transthoracic echocardiography revealed severe right-sided cardiac enlargement and a heterogeneous right atrial intracavitary mass (3.2 × 3.1 cm) suspected to arise from the heart base, with tricuspid regurgitation (maximal velocity 4.03 m/s). Abdominal ultrasonography showed hepatic venous congestion and marked ascites; fluid was a modified transudate. Medical therapy failed to resolve ascites, and surgical debulking was performed on Day 7 under partial cardiopulmonary bypass. The mass was firmly adherent to the atrial septal aspect and could not be completely excised. Postoperatively, ascites and clinical signs resolved, right-sided cardiac enlargement decreased, and tricuspid regurgitation was no longer detectable; the dog was discharged on Day 14. A recurrent right atrial mass was documented on Day 360 without recurrence of right-sided heart failure. The dog died on Day 390 from pancreatitis-associated biliary obstruction and multiple organ failure. Necropsy confirmed an aortic body tumour with intracardiac extension into the right atrium and pulmonary metastasis with tumour emboli. Partial cardiopulmonary bypass-assisted palliative debulking may temporarily relieve life-limiting intracardiac obstruction in carefully selected dogs; however, this approach is high-risk and non-curative, and its contribution to long-term survival remains uncertain because postoperative toceranib therapy and the natural behaviour of the tumour may also have influenced the clinical course.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777784/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42772022",
-      "title": "Cone reconstruction for severe tricuspid valve dysplasia in a dog.",
-      "journal": "Journal of veterinary cardiology : the official journal of the European Society of Veterinary Cardiology",
-      "publication_date": "2026-09",
-      "abstract": "Tricuspid valve dysplasia (TVD) is a congenital cardiac malformation in dogs characterized by abnormal tricuspid valve morphology, leaflet tethering, impaired leaflet coaptation, and right atrial and ventricular remodelling. This report describes cone reconstruction for severe TVD in a dog. A three-year-and-10-month-old female Labrador retriever presented with a grade IV/VI systolic murmur and exercise intolerance. Echocardiography revealed severe tricuspid regurgitation, a right atrial-to-left atrial ratio of 1.57, malformed and tethered tricuspid valve leaflets, impaired leaflet coaptation, and marked right-sided cardiac enlargement, consistent with severe TVD. Surgery involved tricuspid valve leaflet mobilization, delamination of adherent leaflet tissue and abnormal subvalvular attachments, annular reduction, and reconstruction of the available leaflet tissue into a cone-like valve with leaflet rotation and reattachment. A small, thin, dysplastic portion of the right ventricular free wall was also excluded from the functional right ventricular cavity by longitudinal plication. The dog was discharged on postoperative day seven without other major complications. On postoperative day 294, echocardiography showed a reduction in the colour Doppler tricuspid regurgitant jet, a decrease in the right atrial-to-left atrial ratio to 0.50, and a reduction in right atrial size. Exercise intolerance resolved, although a grade III/VI systolic murmur persisted. Cone reconstruction, adapted from the technique used in human patients with Ebstein's anomaly, may improve tricuspid valve function and clinical signs in selected dogs with severe TVD. However, its indications, reproducibility, and long-term durability in dogs remain unestablished. Further studies are needed to evaluate patient selection, long-term benefits, and potential complications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42772022/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42746951",
-      "title": "Computed Tomographic and Ultrasonographic Characteristics of Presumed Traumatic Unilateral Cavernositis of the Penis in a 2-Year-Old Dog.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Sep",
-      "abstract": "A 2-year-old male entire Samoyed presented with 2 weeks of suspected lumbar pain, following an episode of compulsive hypersexual behavior towards other dogs. Computed tomography revealed a lobulated, enlarged left corpus cavernosum with a central non-enhancing, hypoattenuating region (-20 to 40 HU) and rim enhancement, surrounding ischiocavernosus muscle swelling, and left-sided bulbus penis hyperenhancement. Ultrasound showed an enlarged heterogeneous hyperechoic left corpus cavernosum. Ultrasound-guided needle aspiration for cytology, interpreted by a board-certified clinical pathologist, revealed mesenchymal proliferation and mild macrophagic inflammation, supporting a diagnosis of cavernositis. The dog was treated with anti-inflammatories and antibiotics with clinical resolution at a 4-week follow-up.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746951/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
