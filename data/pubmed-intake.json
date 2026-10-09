@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-08T01:54:56.298389+00:00",
+  "updated_at": "2026-10-09T02:08:45.238318+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -135,6 +135,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42844917",
+      "title": "Wound myiasis caused by Lucilia spp. (Diptera: Calliphoridae) in a dog and a cat in Korea.",
+      "journal": "Parasites, hosts and diseases",
+      "publication_date": "2026-10",
+      "abstract": "This study presents 2 cases of wound myiasis in a dog and a cat involving morphological and molecular identification in Korea. A 7-year-old male Jindo mix dog, Canis familiaris, was admitted to a veterinary clinic in Yangsan-si, Gyeongsangnam-do, Korea, in July 2024. The bite wound near the right rib was infected with maggots. We carefully removed the 5 maggots using forceps. The wound healed without any subsequent complications. A Korean Shorthair stray cat, Felis catus, was brought to the same clinic in October 2024 after being hit by a car. The maggot-infected wounds were found in the anus and perianal regions. We removed all 10 maggots from the wounds. After treatment, no living maggots were observed; however, the cat was euthanized due to trauma-related complications. The maggots from the dog and the cat were third instars with 12 body segments and posterior spiracles containing 3 distinct slits. Compared with the dog-derived larvae, the cat-derived larvae had a more dorsally positioned posterior process of the mouth hook, reduced dorsal papillae distances, and distinctly sclerotized ventral cornua. Complete cox1 gene analysis confirmed the dog- and cat-derived larvae as Lucilia sericata (Meigen, 1826) and Lucilia illustris (Meigen, 1826), respectively, whereas 18S rRNA gene analysis showed limited species-level resolution. In the present study, wound myiasis caused by L. sericata and L. illustris is described in a dog and a cat in Korea based on morphological and molecular findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844917/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42836885",
       "title": "Mammary secretory carcinoma in a female domestic rabbit (Oryctolagus cuniculus): histopathological and immunohistochemical features.",
       "journal": "Veterinary research communications",
@@ -181,6 +191,96 @@
       "publication_date": "2026-07",
       "abstract": "A female cat (approximately 3 weeks of gestation) was referred for respiratory distress and pleural effusion. Echocardiography revealed dilation of the left atrium and left ventricle, and the cardiac index was markedly elevated (0.39 L/kg/min), raising suspicion for high-output heart failure (HOHF). The cat was treated with furosemide and enrofloxacin. Pleural effusion completely resolved in late pregnancy, and 45 days after delivery the cardiac index decreased to 0.22 L/kg/min. To our knowledge, this is the first report describing a transient HOHF associated with pregnancy in a cat, highlighting the clinical utility of echocardiographic cardiac index measurement for identifying this condition. Further accumulation of cases is needed to better characterise this condition in feline patients.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42486645/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846602",
+      "title": "Unusually long-term survival in a feline with Fibrodysplasia ossificans progressiva (FOP-like) disease without  ACVR1  gene mutations.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "publication_date": "2026-10",
+      "abstract": "Fibrodysplasia ossificans progressiva (FOP) is a rare genetic disorder characterized by heterotopic ossification within the connective tissues that affects the muscles, tendons, and joint capsules. It is an autosomal inherited condition caused by mutations in ACVR1, which is associated with ectopic bone formation. A 5-year-old neutered male outdoor cat, clinically diagnosed with FOP-like disease three years prior, presented for follow-up evaluation owing to an unusually long survival. New blood samples and radiographs were obtained to assess disease progression and investigate the patient's genetic background, with the aim of describing this case's clinical evolution and new genetic findings, and sharing the patient's exceptionally rare long-term survival with peers. Radiographic evaluation revealed severe progression of osteoarticular disease, partial to total resorption of previously deposited mineralized tissue, marked hypertrophy of the limb musculature, and an overall increase in radiographic muscular density. Genetic analysis confirmed the absence of the ACVR1 mutation. This is the first reported case of FOP-like disease in a cat in Uruguay, with no ACVR1 mutation detected and an unusually long survival of more than three years after diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846602/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846592",
+      "title": "Anatomopathological features of uterine tube adenoma in a female dog.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "publication_date": "2026-10",
+      "abstract": "The uterine tube is part of the female reproductive system responsible for connecting the ovary to the uterus. Neoplasms originating from the uterine tube are rare in both animals and humans, with few reports available in the veterinary literature. A 7-year-old mixed-breed bitch was presented with clinical signs of lethargy, weight gain, and abdominal distension. Ultrasonography and computed tomography revealed a large abdominal mass. The patient underwent exploratory laparotomy for surgical excision of the mass, which was found adhered to the right ovary. Grossly, the mass measured 27.5 × 22.5 × 5.5 cm, had a soft consistency, irregular contours, reddish coloration, and a papillary appearance. Histopathological evaluation revealed well-differentiated papillary projections lined by ciliated columnar epithelial cells, with positive expression of estrogen and progesterone receptors and low Ki-67 labeling index, supporting the diagnosis of uterine tube adenoma. Although these tumors may reach considerable dimensions, they are generally associated with a favorable prognosis. In the present case, the diagnosis was established based on the correlation of clinical, morphological, and histopathological findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846592/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846879",
+      "title": "Successful treatment of multidrug-resistant granulomatous colitis and rectal stricture in a French bulldog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "A young French bulldog was presented with persistent hemorrhagic diarrhea and suspected rectal stricture unresponsive to previous medical management. Comprehensive diagnostic tests, including blood work, colonoscopy, biopsy, antimicrobial susceptibility testing, and fluorescence  in situ  hybridization analysis, confirmed granulomatous colitis with invasive  Escherichia coli . Culture testing identified a multidrug-resistant strain susceptible to meropenem. Concurrently, a rectal stricture was confirmed and managed with 3 repeat endoscopic balloon dilations. Systemic improvement was noted mid-treatment, and the stricture resolved at subsequent follow-up. Key clinical message: This case report highlights the successful diagnosis and management of multidrug-resistant granulomatous colitis in a French bulldog, including the use of meropenem for targeted antimicrobial therapy and repeat endoscopic balloon dilations for rectal stricture resolution. It underscores the importance of accurate diagnosis, appropriate antimicrobial selection, and structural intervention in the management of complex cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846879/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846829",
+      "title": "Non-epitheliotropic cutaneous T-cell lymphoma in a 5-week-old golden retriever puppy.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "A 5-week-old male golden retriever puppy was presented with multiple, rapidly progressive skin masses. One of the masses had been present since birth; the duration of the other 2 masses was unknown. Fine-needle aspiration cytology of the lesions revealed a monomorphic population of round cells, raising suspicion for a round cell neoplasm. Two representative masses were submitted for histologic examination and immunohistochemical analysis. Histologically, the neoplasm was composed of dense, non-epitheliotropic infiltrates of atypical lymphoid cells within the dermis and subcutis. Immunophenotyping confirmed a T-cell origin, establishing a diagnosis of non-epitheliotropic cutaneous T-cell lymphoma. In the postoperative period, the puppy's health declined and humane euthanasia was elected. A postmortem examination did not occur, precluding assessment for systemic involvement. To the authors' knowledge this is the first case of non-epitheliotropic cutaneous T-cell lymphoma in a dog of this age documented in the veterinary literature. This report underscores the importance of including cutaneous lymphoma in the differential diagnosis of rapidly progressive skin masses in a dog, irrespective of age, and highlights the utility of histopathology and immunohistochemistry for achieving a diagnosis. Key clinical message: Lymphoma can occur in dogs of any age and should not be excluded as a differential diagnosis, even in very young puppies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846829/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846432",
+      "title": "Soft tissue sarcoma formation following partial tarsal arthrodesis in dogs: Report of 2 cases.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "This case report describes the occurrence of soft tissue sarcoma at the surgical site of partial tarsal arthrodesis in 2 dogs within 8 mo after surgery. Surgical correction was uncomplicated in both cases, and the dogs did clinically well postoperatively, until masses were noted over the surgical sites. Each dog underwent amputation of the affected leg, as the masses were deemed unresectable. This report describes an uncommon potential complication of partial tarsal arthrodesis in dogs. Key clinical message: The cases reported herein are apparently the first descriptions of soft tissue sarcoma as a possible surgical complication related to partial tarsal arthrodesis in the dog. They highlight soft tissue sarcoma as a differential diagnosis to consider for surgical site swellings of the tarsus; however, further studies are needed to confirm these findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846432/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846404",
+      "title": "Sequential thoracoscopic thoracic duct occlusion and intra-abdominal lymphatic intervention for feline refractory idiopathic chylothorax.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "Surgical management of feline idiopathic chylothorax remains unpredictable, with reported success rates varying widely despite combined procedures. We report a case of refractory idiopathic chylothorax in a cat that was successfully managed through a strategic, sequential surgical approach guided by indocyanine green (ICG) fluorescence. Initially, the cat underwent thoracoscopic thoracic duct occlusion (TDO)  via  clipping, but chylous effusion persisted. A 2nd surgery was conducted to achieve definitive thoracic duct ligation using sutures combined with additional clipping, yet the effusion remained refractory. Computed tomography after the 2nd surgery revealed a focal convergence of lymphatic vessels within the abdominal cavity. Based on this, a 3rd intervention was undertaken, combining thoracoscopic TDO with laparoscopic intra-abdominal lymphatic vessel occlusion and a cisterna chyli incision. Real-time ICG fluorescence imaging allowed precise identification and addressing of complex lymphatic collaterals. Chylothorax completely resolved ~1 mo after this 3rd surgery. The cat remained complication-free with no recurrence for 324 d after surgery. This case demonstrated the efficacy of a multimodal, sequential strategy for refractory feline chylothorax, integrating computed tomography-based diagnostic evaluation with combined thoracoscopic and laparoscopic lymphatic interventions. This comprehensive, minimally invasive approach, enhanced by real-time ICG visualization, offers a potent therapeutic option when conventional, single-cavity treatments fail. Key clinical message: This report describes for the first time a sequential and minimally invasive surgical approach to treat feline idiopathic chylothorax, by combining completely endoscopic (thoracoscopic and laparoscopic), ICG-guided TDO, intra-abdominal lymphatic vessel occlusion, and cisterna chyli incision. Moreover, this case showed that ICG can be effectively and noninvasively administered to the paw pads, obviating the need for invasive abdominal surgery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846404/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846400",
+      "title": "Bilateral cranial polyneuropathy associated with an intracranial mass in a cat with concurrent tonsillar lymphoma.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "A 14-year-old spayed female Siamese cat was presented with signs consistent with a rapidly progressive cranial polyneuropathy. Magnetic resonance imaging of the brain revealed an extra-axial mass at the calvarial floor, extending caudally to involve bilateral trigeminal nerves and rostrally to involve the pituitary gland and optic chiasm. Additional findings included contrast-enhancing content within the bilateral tympanic bullae, mild mandibular and medial retropharyngeal lymphadenopathy, and a left tonsillar mass. Cytologic and histopathologic findings confirmed tonsillar lymphoma. The concurrent intracranial mass and the middle ear content were presumed to represent the same disease process, but the diagnosis was not confirmed. Oral glucocorticoid and lomustine were effective in resolving the dropped jaw and facial hypoesthesia. Neurogenic dry eye and corneal hypoesthesia also improved gradually, leading to complete resolution of secondary bilateral corneal ulcers by 20 wk after initiation of the oral chemotherapy. The cat remained in clinical remission throughout this period and survived for 166 d after the diagnosis. This is the first report of tonsillar lymphoma without oropharyngeal clinical signs in a cat presented with signs suggestive of concurrent intracranial involvement, leading to a rapidly progressive bilateral cranial polyneuropathy. Key clinical message: Lymphoma should be considered as an important differential diagnosis in cats with cranial polyneuropathy. Feline tonsillar lymphoma can exhibit concurrent central nervous system involvement without detectable disease in other organs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846400/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846313",
+      "title": "A rare case of aphakia associated with anterior segment malformation in a cocker spaniel puppy.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "This report describes a rare case of bilateral congenital aphakia with anterior segment malformation in a 12-week-old male cocker spaniel puppy. The puppy was initially suspected of having glaucoma and was subsequently diagnosed with anterior segment dysgenesis and aphakia resulting in blindness. Ophthalmic examination showed corneal opacity, absence of pupillary openings, and negative pupillary light reflexes. B-mode and high-frequency ultrasonography showed absence of the lens, poorly defined anterior chambers, and hyperechoic tissue adherent to the cornea, consistent with anterior segment dysgenesis. Unlike in similar cases in other species, enucleation was not indicated due to ocular stability and absence of discomfort. The puppy demonstrated functional adaptation to blindness and remained under close ophthalmic monitoring. This case underscores the diagnostic value of ultrasonography in identifying congenital aphakia and associated anterior segment abnormalities in dogs, facilitating early diagnosis and management. Key clinical message: Congenital aphakia is a rare developmental ocular abnormality that may occur with other anterior segment defects. Ocular ultrasonography is a valuable, noninvasive, diagnostic tool for evaluating intraocular structures when direct intraocular examination is not possible.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846313/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42846286",
+      "title": "Laryngeal rhabdomyosarcoma in a dog treated with surgery and palliative-intent radiation therapy.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-10",
+      "abstract": "Primary laryngeal tumors are rare in dogs and may cause severe airway obstruction. Euthanasia is frequently elected because of the severity of clinical signs and the challenges associated with surgical treatment. A 3-year-old spayed female Italian greyhound dog was referred because of recurrence of a laryngeal rhabdomyosarcoma following incomplete surgical removal of a laryngeal mass. Residual tumor progression was identified 15 d after surgery and the dog was referred for further evaluation. Computed tomography revealed a soft-tissue mass within the right laryngopharyngeal wall, showing central contrast enhancement. The owner declined additional aggressive surgery and radiation therapy was delivered. A total radiation dose of 24 Gy was delivered in 4 weekly fractions. Clinical signs improved following treatment and tumor reduction was observed 168 d after initiation of radiation therapy. The dog remained clinically stable with sustained tumor reduction at the last follow-up, 742 d after initiation of radiation therapy. This case suggests that limited surgical management followed by radiation therapy may represent a viable treatment option and may lead to favorable long-term clinical outcomes in dogs with laryngeal rhabdomyosarcoma. Key clinical message: Limited surgical removal followed by radiation therapy may represent a treatment option for dogs with laryngeal rhabdomyosarcoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846286/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -701,106 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A 5-year-old male entire domestic shorthair cat presented with a firm dermal mass on the dorsal left metatarsal region. Diagnostic investigations included haematology, biochemistry, urinalysis, biopsy, histopathology and computed tomography staging. Histopathology of the tissue biopsy, including immunohistochemistry, confirmed a dermal chondrosarcoma (CSA), and computed tomography supported an extraskeletal origin. Pretreatment staging did not identify metastatic disease. Curative-intent limb amputation was therefore performed, resulting in tumour-free surgical margins. No adjuvant treatment was used. The cat underwent regular reevaluation for 3 years and remained free of local recurrence or metastatic disease. Dermal CSA is rarely reported in cats, and information regarding biological behaviour and outcome is limited. This patient experienced long-term control, demonstrating that with complete surgical excision alone, extraskeletal CSAs can have a favourable outcome.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42697729/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42697716",
-      "title": "Airway leakage due to intratracheal malpositioning of an oesophageal temperature probe in an anaesthetised dog.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-09",
-      "abstract": "A 10-year-old, 16.2-kg male neutered Beagle under general anaesthesia developed an airway leak following blind insertion of an oesophageal temperature probe. Before probe placement, anaesthesia was uneventful. Intubation was performed with a high-volume, low-pressure cuffed endotracheal tube. Immediately after probe placement, capnographic morphology transitioned from a normal rectangular waveform to a low-amplitude, triangular trace consistent with airway leakage. Repeated cuff inflation did not resolve the capnographic abnormalities. Reintubation revealed inadvertent tracheal placement of the temperature probe, which had presumably disrupted the cuff seal. Capnography normalised following reintubation and the procedure was completed uneventfully. This case report describes the malpositioning of an oesophageal temperature probe intratracheally, resulting in airway leakage in an anaesthetised dog. Sudden changes in capnographic waveform or a marked reduction in expected temperature following probe insertion should prompt consideration for oesophageal temperature probe malposition.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697716/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42696223",
-      "title": "Noninvasive malignant mammary adenomyoepithelioma in a male cat.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-09",
-      "abstract": "This report describes the histopathological and immunohistochemical findings of a noninvasive malignant mammary adenomyoepithelioma in a seven-year-old neutered male mixed-breed cat. The animal was euthanized due to an extensive mandibular fracture caused by squamous cell carcinoma. Macroscopically, a 3 × 1.5 cm, elevated, well-defined, ulcerated, lobulated, reddish-white, solid - occasionally cystic - and firm nodule was observed in the right inguinal mammary gland. Microscopically, an expansive neoplastic proliferation composed of myoepithelial and epithelial cells arranged predominantly in a papillary pattern was observed. Immunohistochemistry was performed for the markers C-Kit, pan-cytokeratin (CK-AE1/AE3), cytokeratin 7 (CK7), P63, estrogen receptor (ER), progesterone receptor (PR), Ki67, cyclooxygenase-2 (Cox-2), and GATA3. The neoplastic cells were positive for CK AE1/AE3 and 7 (epithelial cells), P63 (myoepithelial cells), Cox-2 (epithelial and myoepithelial cells), and PR (epithelial cells). Positive results for CK-AE1/AE3, CK7, and P63 confirmed the epithelial and myoepithelial nature of the tumor, the mitotic index and elevated Ki-67 expression supported the interpretation of a malignant proliferative phenotype and contributed to the classification of the lesion as a noninvasive malignant adenomyoepithelioma. Based on the macroscopic, microscopic, and immunohistochemical findings, a diagnosis of noninvasive malignant mammary adenomyoepithelioma was established.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696223/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42696055",
-      "title": "First case of Brucella suis biovar 1 infection in a dog in Switzerland.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-09",
-      "abstract": "As one of the most common zoonoses globally, brucellosis threatens not only animals but also humans with Brucella (B.) melitensis, B. abortus and B. suis biovar 1&3, being more virulent for humans than B. canis, B. ovis and B. suis biovar 2. Canine brucellosis is caused mainly by B. canis, however, B. suis infections in dogs have been reported sporadically in Europe and more frequently in Australia. B. suis infection in dogs is mainly associated with hunting or wild-animal exposure and rarely with consumption of commercial raw meat products. In Switzerland, B. canis is sporadically diagnosed in dogs and B. suis biovar 2 is present in wild boar and brown hare. We report a case of brucellosis in a dog from Switzerland, neither having a history of hunting nor travel-associated risk of exposure. The intact male dog showed clinical signs (fever and epididymitis) consistent with brucellosis, which was confirmed by culture and molecular methods in urine and by serological methods. Culture and subsequent whole genome sequencing revealed the isolate as B. suis biovar 1, ST-14. The most closely related strain was shown to be a strain isolated in 2021 from a dog in Germany. Based on the lack of any previous report, infection by B. suis in dogs has not previously been diagnosed in Switzerland. This case highlights the need for vigilance regarding this less expected pathogen of high zoonotic importance in dogs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696055/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42457553",
-      "title": "Disseminated nocardiosis in a Japanese raccoon dog (Nyctereutes procyonoides viverrinus).",
-      "journal": "The Journal of veterinary medical science",
-      "publication_date": "2026-07",
-      "abstract": "A captive male Japanese raccoon dog died after self-mutilation by biting its tail and developing anorexia. At necropsy, ulceration of the tail root and pelvic region, an abdominal mass, multifocal nodules in the lungs, and thrombi in the heart were observed. Histopathological examinations revealed multifocal pyogranulomatous inflammation in the lungs, abdominal mass, spleen, brain, liver, and kidneys. Gram-positive bacterial aggregates were observed in the lungs, abdominal mass, and spleen. These organisms were partially acid-fast and periodic acid-Schiff-positive, and branching filaments were observed on Grocott's methenamine silver staining. Nocardia aobensis was identified in the abdominal mass by PCR and sequence analysis. These findings suggest that N. aobensis should be considered a potential cause of disseminated pyogranulomatous disease in animals.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42457553/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42757221",
-      "title": "Hydrocolpos in a mixed-breed dog: a case report.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "A 3.5-year-old, 5.2-kg mixed-breed dog was presented with persistent stranguria after being neutered due to dystocia 6 months ago. Plain abdominal radiographs revealed an intrapelvic soft-tissue attenuating mass that displaced the urinary bladder cranially and constricted the descending colon. Abdominal ultrasonography yielded inconclusive results. Computed tomography revealed the mass as a tubular, hypodense structure compressing the urethra and the descending colon. This finding was defined as hydrocolpos induced by an imperforate hymen, segmental vaginal aplasia, or a vestibulovaginal disorder. Vaginoscopy revealed vaginal atresia and a stem-shaped mass obscuring the ostium urethrae externum. Retrograde cystography showed a significantly dilated urethra behind the obscured ostium urethrae externum. A pedunculated mass (polyp) was suspected to hinder the urinary outflow. A minimal invasive resection of the polyp and widening of the urethra were performed. Normal micturition was observed for 2 months. In the 9th week, the patient returned with tenesmus. An invasive procedure involving episiotomy, evacuation of the hydrocolpos, and creation of a stoma between the mucous membrane of the hydrocolpos and the vaginal mucosa led to permanent resolution of the clinical signs. Only a few case reports exist regarding congenital hydrocolpos. As the history indicates, a traumatic origin is considered likely; therefore, we assume that this is the first case report of secondary, trauma-induced vaginal atresia, and the resulting hydrocolpos.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42757221/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42738559",
-      "title": "Clinical and Nutritional Management of Gallbladder Mucocele in Dogs: A Four-Case Series.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "Gallbladder mucocele is a common extrahepatic biliary condition in dogs, traditionally managed with cholecystectomy, while conservative approaches combining clinical and nutritional strategies remain underexplored. This case series reports four dogs diagnosed with gallbladder mucocele, all presenting with hyperlipidemia, three with overweight or obesity, and one with hypothyroidism. The dogs were treated using a multimodal protocol combining pharmacological therapy with nutritional strategies. The pharmacological protocol included ursodeoxycholic acid, silymarin, S-adenosyl-L-methionine, bezafibrate, and omega-3 fatty acids, with doses adjusted according to body weight. Nutritional interventions were individualized and included weight-loss diets and a low-fat gastrointestinal diet. Clinical and ultrasonographic outcomes varied among cases, with partial or complete resolution observed over different follow-up periods. These findings suggest that clinical management combined with individualized nutritional protocols may be a potential approach for asymptomatic dogs with gallbladder mucocele, particularly when surgery is not feasible, and could inform future investigations.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738559/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42693554",
-      "title": "Two Cases of Feline Hepatosplenic Cytotoxic T-Cell Lymphoma With Hemophagocytosis.",
-      "journal": "Veterinary clinical pathology",
-      "publication_date": "2026-09",
-      "abstract": "This report describes the clinical courses of two cats with hepatosplenic cytotoxic T-cell lymphoma (TCL) with tumor-cell hemophagocytosis (THP). Both cats presented with pancytopenia and marked splenomegaly with a honeycomb pattern on ultrasonography. Cytology of splenic aspirates revealed large atypical lymphocytes with phagocytosis of erythrocytes and leukocytes. Immunohistochemical analysis revealed positive staining for CD3 and granzyme B. Bone marrow analysis revealed preserved trilineage hematopoiesis without apparent evidence of neoplastic infiltration. In Case 1, the cat was treated with prednisolone, L-asparaginase, and a CHOP-based chemotherapy protocol, resulting in temporary improvement. However, the cat died suddenly on day 88, with necropsy revealing pulmonary fibrosis. In Case 2, early splenectomy followed by CHOP chemotherapy led to sustained clinical improvement and longer-term disease control. Despite relapse on day 65, the cat responded to rescue therapy with L-asparaginase and ACNU and survived until day 278. These cases highlight the clinical and pathological features of 2 cases of feline hepatosplenic cytotoxic TCL with THP and suggest that splenectomy may play a role in improving clinical stability by suppressing hemophagocytic activity. A multimodal approach incorporating surgery and chemotherapy may be considered as a therapeutic option for hepatosplenic cytotoxic TCL with THP.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693554/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42738521",
-      "title": "Feline Cutaneous Mycobacteriosis Caused by  Mycobacterium farcinogenes : The First Case Report from Asia.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "A 4-year-old spayed female domestic shorthair cat was referred with history of 8 months of chronic, non-healing draining wounds on the left lateral thigh and left inguinal region. The initial lesions arose from a cat bite wound on the thigh and a concurrent inguinal subcutaneous mass, both of which had failed to respond to empirical antimicrobial therapy. Prior to referral, cytology of the inguinal mass suggested a spindle cell tumor; however, histopathology following surgical excision revealed severe necrotizing pyogranulomatous mastitis and dermatitis, with no evidence of neoplasia. At the initial referral visit, bacterial cultures from both lesions yielded  Mycobacterium farcinogenes , identified via matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS). The cat was treated with pradofloxacin, topical amikacin gel, and azithromycin despite in vitro resistance, resulting in complete clinical remission after 24 weeks without adverse effects. To our knowledge, this is the first reported case of feline cutaneous mycobacteriosis caused by  M. farcinogenes  in Asia. This case expands the limited veterinary literature on  M. farcinogenes  infection, highlights the diagnostic challenges of atypical mycobacterial infections, emphasizes the critical role of species-level identification, and demonstrates the efficacy of prolonged, multidrug therapy in managing chronic non-healing wounds in cats.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738521/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42687429",
-      "title": "Serum Baclofen Concentrations in Four Dogs With Baclofen Toxicosis Treated With In-Series Carbon Hemoperfusion and Hemodialysis.",
-      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
-      "publication_date": "2026-09",
-      "abstract": "To report serum baclofen concentrations before, during, and after in-series carbon hemoperfusion (cHP) and hemodialysis (HD) in four dogs with severe baclofen toxicosis. This series involves four dogs with serum samples collected before, during, and after in-series cHP/HD. The extraction ratio (ER, %) of cHP and HD, half-life during cHP/HD, and total extracorporeal elimination constant were calculated. Posttreatment samples were collected to determine endogenous half-life and intrinsic elimination constant. Two dogs received both cHP/HD and mechanical ventilation, while the other two received cHP/HD alone. The range of ingested dosages was 4-24 mg/kg. The median time from suspected ingestion to cHP/HD initiation was 7 h (range: 5-15 h). Extracorporeal therapy was performed using an intermittent hemodialysis platform in two cases and a continuous renal replacement therapy platform in two cases. The median duration of cHP/HD was 3 h (range: 2.2-4 h), with a median total blood volume processed of 1.3 L/kg (range: 1-1.5 L/kg), equating to 15 times (range: 12-18.2 times) the estimated blood volume (80 mL/kg) in dogs. Serum baclofen concentration was reduced during cHP/HD by a median 69% (range: 46%-80%). The median ER for cHP was 61% (range: 60%-81%) and for HD was 4% (range: -0.5% to 11.5%). The calculated half-life during cHP/HD was 1.9 h (range: 1.1-2.5 h), compared with 5.8 h (range: 3.1-13.6 h) after cHP/HD. The median extracorporeal elimination constant was 0.34 (range: 0.08-0.37), which was 2.8 times faster than the intrinsic elimination constant of 0.12 (range: 0.05-0.23). In-series cHP/HD reduced serum baclofen concentrations in this small series of dogs, highlighting its potential role in the treatment of severe baclofen intoxication.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687429/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42777784",
-      "title": "Palliative Debulking of an Aortic Body Tumour With Right Atrial Invasion in a Dog Under Partial Cardiopulmonary Bypass.",
-      "journal": "Veterinary medicine and science",
-      "publication_date": "2026-Sep",
-      "abstract": "Aortic body tumours are uncommon heart-base neoplasms in dogs, and intracardiac extension causing clinically significant right atrial obstruction is rarely described. A 7-year-1-month-old, 15.2-kg, castrated male French Bulldog was evaluated for 2 weeks of lethargy, hyporexia, exercise intolerance, abdominal distension, and polydipsia. Transthoracic echocardiography revealed severe right-sided cardiac enlargement and a heterogeneous right atrial intracavitary mass (3.2 × 3.1 cm) suspected to arise from the heart base, with tricuspid regurgitation (maximal velocity 4.03 m/s). Abdominal ultrasonography showed hepatic venous congestion and marked ascites; fluid was a modified transudate. Medical therapy failed to resolve ascites, and surgical debulking was performed on Day 7 under partial cardiopulmonary bypass. The mass was firmly adherent to the atrial septal aspect and could not be completely excised. Postoperatively, ascites and clinical signs resolved, right-sided cardiac enlargement decreased, and tricuspid regurgitation was no longer detectable; the dog was discharged on Day 14. A recurrent right atrial mass was documented on Day 360 without recurrence of right-sided heart failure. The dog died on Day 390 from pancreatitis-associated biliary obstruction and multiple organ failure. Necropsy confirmed an aortic body tumour with intracardiac extension into the right atrium and pulmonary metastasis with tumour emboli. Partial cardiopulmonary bypass-assisted palliative debulking may temporarily relieve life-limiting intracardiac obstruction in carefully selected dogs; however, this approach is high-risk and non-curative, and its contribution to long-term survival remains uncertain because postoperative toceranib therapy and the natural behaviour of the tumour may also have influenced the clinical course.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42777784/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
