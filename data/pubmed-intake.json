@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-09T02:08:45.238318+00:00",
+  "updated_at": "2026-10-10T01:45:02.850182+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -131,6 +131,46 @@
       "publication_date": "2026-07",
       "abstract": "Dermal melanomatosis is a common tumor in grey horses, characterized by cutaneous/subcutaneous lesions with metastatic potential. While clinically well-described, oxidative stress involvement remains poorly understood. This case report compared oxidative stress markers and antioxidant enzymes' activities in total protein extracts from melanomatosis lesions (grey horse) versus healthy control skin (black horse), alongside histopathology and immunohistochemistry, to correlate oxidative imbalance and tumor behavior. Melanomatosis tissue exhibited decreased antioxidant defenses confirmed by catalase (CAT) and superoxide dismutase (SOD) reduced activities, with 29% lower glutathione (GSH) levels. Oxidative damage markers increased in melanomatosis tissue: malondialdehyde (MDA) rising by 73% and advanced oxidation protein products (AOPP) by 56%. Histology confirmed melanocytic proliferation, supported by moderate positive S100 (highly sensitive melanocytic marker) and low proliferation rate (8% positive to proliferation marker Ki-67). These findings suggest oxidative stress was involved in melanomatosis pathophysiology in this case, highlighting the potential relevance of these markers for further investigation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42521054/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42015578",
+      "title": "Canine Maxillofacial Parosteal Osteosarcoma: A Retrospective Case Evaluation in 10 Dogs.",
+      "journal": "Journal of veterinary dentistry",
+      "publication_date": "2026-04",
+      "abstract": "Parosteal osteosarcoma (OSA) is a subtype of surface OSA that is considered slow growing with a less aggressive biological behavior compared to central OSA and, therefore, carries a better prognosis with surgical excision. Parosteal OSA has a predilection for the skull in dogs with documented more frequent occurrences on the zygoma, maxilla, or coronoid process of the mandible, all of which present unique challenges to the oral surgeon. Ten cases of parosteal OSA of the canine maxillofacial bones are summarized and discussed in this report. The most common bone of origin was the caudal maxilla and/or zygoma in 50% of tumors. Exophthalmos was a prominent clinical sign noted in 40% of dogs. Median survival time was 14 months, with a one-year survival rate of 60%. Metastasis to the lungs was suspected in three cases. The histopathological diagnosis of parosteal OSA is crucially dependent on diagnostic imaging. When a primary bone tumor of the maxillofacial bones is suspected, it is essential for the oral surgeon and pathologist to collaborate to provide informed guidance on surgical planning, anticipated long-term outcomes, and clinical monitoring for these patients. The goals of this retrospective study are to identify key clinical and radiographic features, improve recognition for accurate diagnosis, and establish treatment recommendations for canine maxillofacial parosteal OSA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42015578/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "41925701",
+      "title": "A Rare Case of a Concurrent Mandibular Odontogenic Keratocyst and Oral Rhabdomyosarcoma in a Young Cat.",
+      "journal": "Journal of veterinary dentistry",
+      "publication_date": "2026-04",
+      "abstract": "A 3-year-old neutered male domestic shorthair cat was presented with acute pain during feeding and with hypersalivation, without any history of trauma. Oral examination revealed a lateral deviation of the left mandible and a soft, painful swelling at the site of the missing left mandibular canine tooth (304). Intraoral radiographs and computed tomography (CT) demonstrated extensive bone lysis of the left mandible and a cystic lesion extending from the mandibular symphysis to the level of the mandibular fourth premolar tooth (308), within which the embedded canine tooth was located. Regional lymph nodes appeared normal on clinical and CT examination, and fine-needle aspiration of the left mandibular node showed reactive changes. A left-sided segmental mandibulectomy, from the mandibular symphysis to the mandibular first molar tooth (309), was performed to remove the cyst and the affected bone. Histopathological evaluation identified features consistent with an odontogenic keratocyst and concurrently confirmed the presence of a rhabdomyosarcoma. Three months after surgery, the cat was presented with a rapidly enlarging mass firmly attached to the soft tissues of the mandibulectomy site and it was euthanized a few days later. This case represents the first reported coexistence of an odontogenic keratocyst with a malignant neoplasm, specifically rhabdomyosarcoma, in a cat. The findings highlight the importance of thorough investigation of cystic oral lesions, as they may be associated with severe bone destruction and concurrent malignancy, even in young animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41925701/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "41906387",
+      "title": "Porcupine Quill Migration Into the Temporomandibular Joint Causing Trismus in a Dog.",
+      "journal": "Journal of veterinary dentistry",
+      "publication_date": "2026-03",
+      "abstract": "Porcupine quill injuries have been reported in the veterinary literature as the source of a wide range of complications affecting separate body regions and organ systems, particularly in dogs from specific geographic locations. However, migration of porcupine quills involving the temporomandibular joint and its clinical consequences have not been previously reported. This report describes the first documented case of a dog presenting with trismus and a draining tract in the area of the left zygomatic arch several weeks following a porcupine encounter. The dog was referred as a consequence of the unsuccessful initial management of the injuries and the associated clinical signs. For this reason, advanced diagnostic imaging, including ultrasonography and computed tomography, was performed to investigate the possible cause. Surgical management for resolution of the clinical signs involved resection of the zygomatic arch, followed by partial resection of the lateral aspect of the mandibular condylar process for retrieval of the quill fragments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41906387/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42853324",
+      "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-10",
+      "abstract": "This case report describes the management of a complex volumetric muscle loss (VML) injury in a 3-year-old mixed-breed dog following severe trauma to the right forelimb, which resulted in extensive multi-muscle defects that were unsuitable for primary closure. After initial stabilization and surgical debridement, reconstruction was achieved using a transpositional flap, while a gold nanoparticles-bioactive glass-alginate-cellulose (BGAuSP-Alg-MCC) composite was implanted to fill the dead space and support tissue regeneration. Postoperative healing was evaluated through clinical follow-up, computed tomography performed immediately and at 1 and 3 months postoperatively, as well as histological and immunohistochemical analyses. Imaging demonstrated progressive integration of the biomaterial, restoration of tissue density comparable to adjacent muscle, and absence of major complications. Histological evaluation demonstrated moderate inflammation and granulation tissue formation, containing numerous blood capillaries (neoangiogenesis), confirmed by CD31 and α-Smooth muscle actin (SMA) immunolabelling. Functional recovery was favorable, with preserved limb mobility and normal gait. These findings provide preliminary evidence of local biocompatibility and support the feasibility of incorporating the BGAuSP-Alg-MCC composite into a multimodal surgical management approach for extensive volumetric muscle loss in canine patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853324/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -295,16 +335,6 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
-      "pmid": "42603145",
-      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
-      "journal": "Veterinary surgery : VS",
-      "publication_date": "2026-08",
-      "abstract": "To describe the technique and outcome of a rostral labial pivot flap variant in dogs. Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap. Short case series. Rostral lip and paranasal defects with concurrent nasal mucosal involvement resulting from tumor resection were reconstructed using the rostral labial pivot flap and its variants, including incorporation of a mucosal island flap ± nasal rotation flap for modification of lip heights. Medical records were reviewed for all dogs that underwent tumor resection followed by reconstruction with a rostral labial pivot flap technique and its modifications. The rostral labial pivot flap and its variants provided acceptable outcomes in four dogs for reconstruction of rostral lip and paranasal defects. Incorporation of a mucosal island flap was effective for nasal mucosal reconstruction, and use of a nasal rotation flap to reduce tension and address lip height discrepancy resulted in acceptable outcomes. Two dogs experienced minor complications, including an oronasal fistula and mild narial stenosis, neither of which was associated with clinical signs. All dogs were considered to have normal function and quality of life at follow-up. The rostral labial pivot flap can be a reasonable and adaptable option for reconstruction of rostral lip and paranasal defects in dogs. Acceptable cosmetic and functional outcomes with low morbidity were observed in this series; however, additional cases are needed to better define success rates and complications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
       "pmid": "42538318",
       "title": "Adjunctive Huperzine A for owner-directed aggression associated with hypersensitivity-hyperactivity syndrome in a dog: a case report.",
       "journal": "Australian veterinary journal",
@@ -371,6 +401,16 @@
       "publication_date": "2026-03",
       "abstract": "Follicular mucinosis is a rare form of alopecia in dogs characterised by deposition of mural mucin, leading to hair loss, favouring the face, neck and limbs. This report documents its histopathological features, dermoscopic findings, clinical course and successful treatment in a golden retriever dog with follicular mucinosis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41906864/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42603145",
+      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-08",
+      "abstract": "To describe the technique and outcome of a rostral labial pivot flap variant in dogs. Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap. Short case series. Rostral lip and paranasal defects with concurrent nasal mucosal involvement resulting from tumor resection were reconstructed using the rostral labial pivot flap and its variants, including incorporation of a mucosal island flap ± nasal rotation flap for modification of lip heights. Medical records were reviewed for all dogs that underwent tumor resection followed by reconstruction with a rostral labial pivot flap technique and its modifications. The rostral labial pivot flap and its variants provided acceptable outcomes in four dogs for reconstruction of rostral lip and paranasal defects. Incorporation of a mucosal island flap was effective for nasal mucosal reconstruction, and use of a nasal rotation flap to reduce tension and address lip height discrepancy resulted in acceptable outcomes. Two dogs experienced minor complications, including an oronasal fistula and mild narial stenosis, neither of which was associated with clinical signs. All dogs were considered to have normal function and quality of life at follow-up. The rostral labial pivot flap can be a reasonable and adaptable option for reconstruction of rostral lip and paranasal defects in dogs. Acceptable cosmetic and functional outcomes with low morbidity were observed in this series; however, additional cases are needed to better define success rates and complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -761,46 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "Feline histoplasmosis can have variable clinical presentations, it is rarely diagnosed in Europe and has not been diagnosed in Northern Europe and Baltics. We encountered a cluster of autochthonous cases of feline histoplasmosis in Latvia-a non-endemic region. In this paper we describe the diagnostic pathways, challenges and outcomes in three cats. We also report the first molecular confirmation of Histoplasma capsulatum in the Baltic region. Three domestic shorthaired cats presented with ulcerative or erosive skin lesions and were initially evaluated by cytology. Diagnostic follow-up included histopathology, immunohistochemistry (IHC), serology and in one case a polymerase chain reaction (PCR), with DNA sequencing and phylogenetic analysis. We outlined several practical challenges of performing fungal diagnostics in Europe, these can be valuable to our colleagues. All three cases showed organisms consistent with Histoplasma species on cytological examination. Case 1: a feline immunodeficiency virus positive shelter cat with multiple ulcerative cutaneous lesions. Histopathology and IHC confirmed fungal infection suggestive of Histoplasma species. The cat was lost to follow-up. Case 2: A 3-year-old male cat with a single erosive facial lesion. The cat fully recovered with antifungal treatment. Case 3: A 6-year-old neutered male with multiple erosive skin lesions. The cat was humanely euthanized. Diagnosis was supported by cytology while results of histopathology and IHC were suggestive of Histoplasma species. Serology (urine and serum) were positive for H. capsulatum antigen and the diagnosis was confirmed by PCR. Sequencing and phylogenetic analysis of the isolate provided the first molecular confirmation of feline histoplasmosis in the Baltic region. We report the occurrence of clustered autochthonous feline histoplasmosis in Latvia and expand the recognized geographic range of molecularly confirmed disease in Europe. Our cases show the advantages of cytology as an initial diagnostic tool and highlight the utility of serology and molecular methods in regions with limited access to well-established diagnostic methods for non-endemic fungal diseases. Our findings suggest that histoplasmosis may be underdiagnosed in non-endemic areas and reinforce the need for heightened clinical awareness among veterinarians across Europe.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42723075/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42703907",
-      "title": "Severe Hemorrhage Requiring Transfusion in Two Dogs Following Right Inferior Alveolar Artery Laceration Secondary to Severe Periodontitis.",
-      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
-      "publication_date": "2026-09",
-      "abstract": "To describe the presentation, management, and outcome of two dogs with severe hemorrhage after laceration of the inferior alveolar artery (IAA) caused by advanced periodontitis. A 9-year-old neutered female Jack Russell Terrier (Case 1) and a 12-year-old intact female Bearded Collie (Case 2) were referred for further investigation of stomatorrhagia, melena, and hematemesis. Both cases were anemic (PCV 21% and 20%, respectively) on presentation, with Case 1 exhibiting signs of hemorrhagic shock. Profuse hemorrhage from the right mandibular quadrant originating at the first molar and severe periodontitis were identified on oral examination. Platelet count, activated partial thromboplastin time (aPTT), and prothrombin time (PT) were normal in both cases. Hyperfibrinolysis was identified in Case 1 on viscoelastic testing. Initial management included fluid resuscitation, tranexamic acid, and packed RBC transfusions (28 and 14 mL/kg for Cases 1 and 2, respectively). Both cases required anesthesia and surgical arteriolar ligation for hemostatic control. In both dogs, a laceration of the right IAA was identified, and dental extractions and ligation of the IAA were performed. Intraoperative dental radiographs confirmed periodontitis as the underlying cause for hemorrhage in Case 1; in Case 2, a preoperative computed tomography scan of the head was used. Surgery was curative for the oral hemorrhage in both cases; however, Case 1 died secondary to comorbidities. This is the first published report of severe anemia and hemorrhagic shock secondary to IAA hemorrhage due to advanced periodontitis in any species. This case series demonstrates that IAA erosion needs to be considered as a differential diagnosis for severe oral hemorrhage and should be recognized as a condition that may require emergency surgery in veterinary medicine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42703907/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42738569",
-      "title": "Surgical Management of Extensive Urine Extravasation Resulting in Urethrocutaneous Fistulation and Soft Tissue Necrosis of the Femoral Region Secondary to Pelvic Urethral Rupture in Two Cats.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "Pelvic urethral rupture is an uncommon but serious injury in cats that may result in extensive urine extravasation and severe soft tissue damage. This report describes the surgical management of two cats with pelvic urethral rupture complicated by urine extravasation extending into the femoral region, resulting in urethrocutaneous fistulation and extensive soft tissue necrosis. Two 2-year-old male domestic shorthairs presented with similar injuries, one undergoing retrograde urethrography, the other additional CT scan as well to define the extent of injury. In Case 1, transpelvic urethrostomy was performed following surgical debridement of necrotic tissue, and tension-relieving mesh incisions were subsequently made in the surrounding skin of the left thigh to reduce tension on the primary closure and facilitate closure of the skin defect created by debridement. In Case 2, prepubic urethrostomy and surgical debridement were performed following confirmation of pelvic urethral rupture, with contrast accumulation identified at the dorsal aspect of the ischiatic arch on CT. In both cases, the soft tissue wounds were managed by second-intention healing. Both cats recovered without major postoperative complications, and the soft tissue injuries had resolved successfully during follow-up. Both cases demonstrate that prompt surgical intervention combined with appropriate wound management can result in favorable outcomes in cats with pelvic urethral rupture complicated by extensive urine extravasation into the femoral region.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738569/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42698121",
-      "title": "Eosinophilic Cerebrospinal Fluid Pleocytosis in A Dog With Hypertrophic Pachymeningitis and Generalized Eosinophilic Disease.",
-      "journal": "Veterinary clinical pathology",
-      "publication_date": "2026-09",
-      "abstract": "An 8-year-old Whippet crossbreed was presented with a month's history of collapsing episodes and altered mentation. Clinical improvement was noted upon administration of prednisolone prior to referral. Neurologic examination was compatible with a multifocal intracranial disease. Magnetic resonance imaging revealed thickening of the dura mater around the left parietal and temporal cerebral cortex, left piriform lobe, and cerebellar hemispheres. Cerebrospinal fluid (CSF) analysis revealed marked eosinophilic pleocytosis with increased protein concentration. Infectious diseases were ruled out. Thoracic and abdominal imaging did not reveal any significant abnormalities. The dog was euthanized 4 days after diagnosis. Post-mortem examination revealed diffuse, severe, subacute to chronic eosinophilic pachymeningitis and generalized eosinophilic disease. Eosinophilic CSF pleocytosis has been reported in a number of inflammatory (sterile and infectious) and neoplastic canine encephalopathies. To the best of our knowledge, eosinophilic pleocytosis has not been reported in cases of hypertrophic pachymeningitis in dogs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698121/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42697729",
-      "title": "Dermal chondrosarcoma in a cat with prolonged survival after limb amputation.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-09",
-      "abstract": "A 5-year-old male entire domestic shorthair cat presented with a firm dermal mass on the dorsal left metatarsal region. Diagnostic investigations included haematology, biochemistry, urinalysis, biopsy, histopathology and computed tomography staging. Histopathology of the tissue biopsy, including immunohistochemistry, confirmed a dermal chondrosarcoma (CSA), and computed tomography supported an extraskeletal origin. Pretreatment staging did not identify metastatic disease. Curative-intent limb amputation was therefore performed, resulting in tumour-free surgical margins. No adjuvant treatment was used. The cat underwent regular reevaluation for 3 years and remained free of local recurrence or metastatic disease. Dermal CSA is rarely reported in cats, and information regarding biological behaviour and outcome is limited. This patient experienced long-term control, demonstrating that with complete surgical excision alone, extraskeletal CSAs can have a favourable outcome.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697729/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
