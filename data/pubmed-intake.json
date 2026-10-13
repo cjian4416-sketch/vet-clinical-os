@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-12T01:19:16.288659+00:00",
+  "updated_at": "2026-10-13T03:02:56.744911+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -125,12 +125,62 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42625303",
+      "title": "Feline cutaneous mast cell tumor with extensive macrophage-associated cell-in-cell structures.",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "publication_date": "2026-08",
+      "abstract": "An 8-y-old, castrated male Korean Shorthair cat was presented to a veterinary clinic for evaluation of a cutaneous mass on the left inner thigh. Microscopic examination revealed a poorly circumscribed dermal neoplasm composed of poorly granulated, pleomorphic neoplastic mast cells with frequent cell-in-cell structures. Notably, viable neoplastic mast cells were engulfed by large macrophages, indicating a specific form of the cell-in-cell phenomenon. Immunohistochemistry for c-KIT, IBA1, and cleaved caspase-3 was used to support the diagnosis. To our knowledge, cell-in-cell phenomenon has not been previously described in feline cutaneous mast cell tumors, nor has the clinical outcome of such cases been reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625303/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42528363",
+      "title": "Diagnosis of feline platynosomosis: case series and literature review.",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "publication_date": "2026-07",
+      "abstract": "Platynosomosis is a parasitic disease of cats and other animal species, caused by trematodes of the genus  Platynosomum . These flukes can infect the liver parenchyma, biliary ducts, and gallbladder. In cats, this parasite is most commonly associated with inapparent infections; however, clinical infections with cholangiohepatitis have also been described.  Platynosomum  spp. are also related to the development of cholangiocarcinoma. Here, we describe 6 cases of cats parasitized by  Platynosomum illiciens . Four of these cats were also infected with feline leukemia virus; 5 were parasitized with  Spirometra mansoni , 4 with  Ancylostoma  sp., and 1 with  Dirofilaria immitis.  Clinical and coprologic evaluations were performed on all individuals. Five cats had severe clinical decline, which prompted euthanasia. On autopsy, these 5 animals had diffuse cholangiohepatitis with intralesional trematodes. Gross and microscopic lesions, parasite and egg morphology, PCR, and DNA sequencing with a Bayesian inference phylogenetic tree and haplotype network confirmed a diagnosis of platynosomosis caused by  P. illiciens .",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528363/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42528315",
+      "title": "Clostridium perfringens  gas gangrene in a canine splenic liposarcoma.",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "publication_date": "2026-07",
+      "abstract": "Histotoxic clostridial infections occur when clostridial spores germinate in anaerobic tissue environments and release a variety of extracellular toxins, causing necrosis, secondary inflammation, and often death. These infections are seen in humans and animals, especially ruminants and horses, but are rare in dogs. An 11-y-old, intact male Border Collie-cross dog was inappetent and lethargic after abdominal blunt-force trauma. Clinical examination and imaging revealed a splenic mass containing gas and an abdominal effusion, identified cytologically as a neutrophilic exudate. At splenectomy, an area on the anti-hilar surface of the mass was abscessed, with inspissated material on the mass surface and in the omentum. Histopathology identified a splenic liposarcoma with areas of necrosis, suppuration, emphysema, and colonization by large gram-positive bacilli. These were identified as  Clostridium perfringens  by immunohistochemistry. The bacteria are presumed to have translocated from the bowel and germinated in a region of tumor necrosis secondary to traumatic ischemia. To our knowledge, gas gangrene has not been reported previously within a visceral tumor in a dog.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528315/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42521054",
       "title": "Oxidative stress and immunomarkers in equine dermal melanomatosis: single-case comparison with healthy individual.",
       "journal": "Journal of equine veterinary science",
       "publication_date": "2026-07",
       "abstract": "Dermal melanomatosis is a common tumor in grey horses, characterized by cutaneous/subcutaneous lesions with metastatic potential. While clinically well-described, oxidative stress involvement remains poorly understood. This case report compared oxidative stress markers and antioxidant enzymes' activities in total protein extracts from melanomatosis lesions (grey horse) versus healthy control skin (black horse), alongside histopathology and immunohistochemistry, to correlate oxidative imbalance and tumor behavior. Melanomatosis tissue exhibited decreased antioxidant defenses confirmed by catalase (CAT) and superoxide dismutase (SOD) reduced activities, with 29% lower glutathione (GSH) levels. Oxidative damage markers increased in melanomatosis tissue: malondialdehyde (MDA) rising by 73% and advanced oxidation protein products (AOPP) by 56%. Histology confirmed melanocytic proliferation, supported by moderate positive S100 (highly sensitive melanocytic marker) and low proliferation rate (8% positive to proliferation marker Ki-67). These findings suggest oxidative stress was involved in melanomatosis pathophysiology in this case, highlighting the potential relevance of these markers for further investigation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42521054/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42415694",
+      "title": "Characterization of  Escherichia marmotae , a novel pathogen causing urinary tract infection in a dog.",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "publication_date": "2026-07",
+      "abstract": "Escherichia  is one of the most studied bacterial genera and includes several clinically significant pathogenic species. Unique strategies have evolved in members of this genus to allow their survival within different niches. Although initially the  Escherichia  cryptic clades (CCs) I-VIII were identified as environmental bacteria, they have been found as commensals and opportunistic pathogens in animals and humans. Notably, members of the  Escherichia  CCs are commonly mistaken for  E. coli  when using standard microbiologic techniques for species identification. We used whole-genome sequencing to correctly identify  E. marmotae -a member of the  Escherichia  CCs-that was initially misidentified as  E. coli  as the causative agent of a urinary tract infection (UTI) in a female dog. The isolate had phenotypic and genotypic resistance to cefalexin-an antibiotic used commonly for the treatment of uncomplicated UTIs-and carried a set of virulence factors also present in uropathogenic  E. coli , which would explain the capacity of the organism to colonize the urinary tract. As a relatively new species that is phenotypically very similar to  E. coli , it is quite possible that  E. marmotae  infections may be underreported or misidentified. We hope that our work alerts veterinarians to consider  E. marmotae  as a possible cause of UTIs in dogs, especially because this could affect treatment decisions. Additionally, our findings broaden the current understanding of the  E. marmotae  ecology and host range.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42415694/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42310831",
+      "title": "Disseminated histiocytic sarcoma in 2 FeLV-positive cats in Brazil.",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "publication_date": "2026-06",
+      "abstract": "Histiocytic sarcomas (HSs) are uncommon malignant neoplasms in cats, typically affecting older animals and not previously associated with feline leukemia virus (FeLV). Here, we describe 2 cases of disseminated HS in young FeLV-positive domestic shorthair cats that clinically and grossly mimicked lymphoma. Case 1, a 1-y-old female cat, was presented with hemiplegia and dysuria and was euthanized because of the clinical suspicion of spinal lymphoma. Case 2, a 4-y-old male cat, had hyporexia, ocular abnormalities, and bilateral renal enlargement and was euthanized because of the clinical suspicion of renal and ocular lymphoma. Both cases tested positive for feline leukemia virus (FeLV) infection with a SNAP test. At autopsy, case 1 had a white, irregular, intradural spinal cord mass at the C6-C7 segment, and case 2 had coalescing, unencapsulated, white nodules that effaced both renal cortices, along with uveal thickening in the left eye with hyphema. Both cases had highly pleomorphic neoplastic round-cell proliferation in neoplastic masses, with strong cytoplasmic labeling for vimentin and IBA1 on immunohistochemistry and no CD20 or CD3 labeling, confirming disseminated HS. The neoplastic cells also had strong cytoplasmic immunolabeling for FeLV, suggesting a possible oncogenic role of FeLV in feline HSs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42310831/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -751,56 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "Ovarian remnant syndrome represents the most frequent diagnosis in young bitches that present estrous signs some time after ovariectomy/ovariohysterectomy. However, other differential diagnoses should be considered and ruled out, including exogenous estrogen exposure and hormone-secreting neoplasms. The present paper describes a complex clinical case in which ovarian remnant syndrome associated with bilateral ovarian remnants coexisted with exogenous estrogenic stimulation, highlighting the diagnostic challenges and the importance of considering both endogenous and exogenous causes when evaluating spayed bitches with estrous signs.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42711519/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42709479",
-      "title": "Ingestion of high-pressure hose fragments and their possible association with a suspected toxic syndrome in two African lions (Panthera leo).",
-      "journal": "Acta veterinaria Hungarica",
-      "publication_date": "2026-09",
-      "abstract": "Foreign body ingestion is a commonly observed condition in domestic felines and, to a lesser extent, in captive wild felids. This report describes two cases of high-pressure hose ingestion in African lions (Panthera leo) and explores a possible association with a toxic syndrome. Two African lions, a three-year-old male (Case 1) and a ten-year-old female (Case 2), housed in the same enclosure, exhibited neurological signs suggestive of toxic syndrome. The male (Case 1) initially presented with ataxia, loss of pelvic limb tone and sialorrhea, showing only a mild response to clinical treatment. Diagnostic imaging (radiography) revealed a radiopaque object consistent with a gastric foreign body, and chewed fragments of a high-pressure hose were identified upon inspection of the enclosure. Four fragments were removed via endoscopy. One week later, the female (Case 2) developed similar neurological signs, including head tilt, muscle tremors and auricular asymmetry. Laboratory findings revealed leukocytosis with neutrophilia and radiographic evidence of a gastric foreign body. Three hose fragments were endoscopically removed. Both animals made a full recovery within approximately one month. These cases suggest the importance of thoroughly inspecting items used as environmental enrichment, particularly those made of potentially toxic or poorly digestible material, such as high-pressure rubber.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709479/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42797953",
-      "title": "Carcinoma of Unknown Primary Origin Presenting as Rapidly Progressive Multifocal Skeletal Lesions and Fatal Systemic Thrombosis in a Dog: A Case Report.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "Carcinoma of unknown primary origin (CUP) involving the skeletal system is rare in dogs and may closely mimic primary bone neoplasia or multicentric lymphoma, creating substantial diagnostic challenges. A 15-year-old spayed female Jindo-mix dog was referred for rapidly progressive tetralimb lameness and inability to stand following a 2-week history of worsening forelimb lameness. Computed tomography revealed aggressive multifocal osteolytic and osteoproliferative lesions involving the pelvis, distal femur, and lumbar vertebra, accompanied by generalized lymphadenopathy, raising differential diagnoses including osteosarcoma, lymphoma, and metastatic neoplasia. Serial CT examinations demonstrated rapid progression of the dominant left ischial lesion, which was considered most consistent with a primary bone neoplasm and was surgically excised for definitive diagnosis. MRI failed to identify clinically significant neurologic disease. Histopathologic examination of a surgically excised ischial lesion favored poorly differentiated epithelial malignancy, although lymphoma could not initially be excluded. During hospitalization, serial thromboelastography (TEG) and coagulation testing demonstrated a predominantly hypercoagulable profile despite antithrombotic therapy. Following acute clinical deterioration, contrast-enhanced CT identified thrombosis involving the splenic vein and caudal vena cava, pulmonary thromboembolism (PTE), and concurrent multi-organ infarction. Cytology of an enlarged peripheral lymph node suggested metastatic carcinoma, and postmortem immunohistochemistry supported epithelial differentiation, and in the absence of an identifiable primary tumor despite comprehensive diagnostic evaluation, the case was clinically classified as carcinoma of unknown primary origin. This case highlights an unusual diagnostic presentation of skeletal CUP mimicking osteosarcoma or lymphoma and complicated by fatal cancer-associated thrombosis. Rapidly progressive multifocal bone lesions accompanied by hypercoagulability should prompt consideration of metastatic carcinoma, including carcinoma of unknown origin, even in the absence of an identifiable primary tumor.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797953/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42738598",
-      "title": "Primary Tracheal Leiomyoma in a Dog: A Case Report.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "Primary tracheal neoplasia is uncommon in domestic animals and humans, and most reported tracheal tumours are malignant. To the authors' knowledge, this case represents the third confirmed case of tracheal leiomyoma reported in dogs. In human medicine, tracheal leiomyomas have also only been reported sporadically and account for approximately 1% of tracheal tumours. A 12-year-old spayed female Pit Bull was presented as an emergency because of an acute worsening of recurrent respiratory signs that were refractory to medical treatment. On initial evaluation, reduced mobility of both arytenoid cartilages was observed, and left arytenoid lateralisation was therefore performed. However, four days after the procedure, the dog continued to experience severe episodes of respiratory distress requiring orotracheal intubation. Subsequent bronchoscopy revealed an intraluminal tracheal mass occupying approximately 90% of the airway lumen. Because of this obstruction, an emergency temporary tracheostomy was performed caudal to the mass. Once the dog had been clinically stabilised, computed tomography was performed for surgical planning. Surgical treatment consisted of segmental tracheal resection and end-to-end anastomosis, with removal of a segment corresponding to 24% of the total tracheal length. Histopathological examination confirmed the diagnosis of tracheal leiomyoma. Complete surgical excision was achieved, supporting a favourable prognosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738598/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42738594",
-      "title": "Doppler Ultrasonography for Assessing Uterine Viability and Fetal Vitality in Uterine Torsion in a Domestic Cat ( Felis catus ): A Case Report.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "Uterine torsion is rare in domestic cats and, when diagnosis is delayed, is associated with high maternal and fetal mortality. Conventional B-mode ultrasonography cannot reliably distinguish viable from devitalised uterine tissue, and Doppler ultrasonography, despite its capacity to assess uterine, ovarian, and fetal perfusion, has not been systematically applied to feline uterine torsion. A 4-year-old queen in late gestation presented with acute abdominal pain, lethargy, abdominal distension, and tachypnoea. B-mode imaging showed an enlarged, fluid-distended uterine segment with thickened walls. Colour, spectral, and power Doppler revealed an absent to markedly reduced arterial flow distal to the torsion, elevated resistive and pulsatility indices in the uterine and ovarian arteries, and the loss of peripheral perfusion. The absence of fetal heartbeats and umbilical flow confirmed fetal nonviability. Laparotomy confirmed the torsion of a congested, devitalised uterine horn, with asymmetric fetal loading (two kittens in the torted horn, one fetal resorption in the contralateral horn) as the likely biomechanical cause. Ovariohysterectomy was performed without derotation. Histopathology confirmed haemorrhagic necrosis, and haematology showed severe regenerative anaemia and marked leucocytosis, which resolved progressively after surgery. Doppler ultrasonography supplied vascular and fetal viability information unavailable from B-mode imaging alone, supporting ovariohysterectomy over conservative detorsion. Based on the feline case reports identified during the preparation of this report, this appears to be among the first descriptions of a systematic, multi-vessel Doppler protocol combining colour, power, and spectral modalities with resistive and pulsatility index measurements in feline uterine torsion; as this observation derives from a single case, it should be regarded as preliminary.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738594/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42723075",
-      "title": "Feline cutaneous histoplasmosis in a non-endemic region: diagnostic challenges and molecular confirmation of Histoplasma capsulatum in Latvia.",
-      "journal": "Acta veterinaria Scandinavica",
-      "publication_date": "2026-09",
-      "abstract": "Feline histoplasmosis can have variable clinical presentations, it is rarely diagnosed in Europe and has not been diagnosed in Northern Europe and Baltics. We encountered a cluster of autochthonous cases of feline histoplasmosis in Latvia-a non-endemic region. In this paper we describe the diagnostic pathways, challenges and outcomes in three cats. We also report the first molecular confirmation of Histoplasma capsulatum in the Baltic region. Three domestic shorthaired cats presented with ulcerative or erosive skin lesions and were initially evaluated by cytology. Diagnostic follow-up included histopathology, immunohistochemistry (IHC), serology and in one case a polymerase chain reaction (PCR), with DNA sequencing and phylogenetic analysis. We outlined several practical challenges of performing fungal diagnostics in Europe, these can be valuable to our colleagues. All three cases showed organisms consistent with Histoplasma species on cytological examination. Case 1: a feline immunodeficiency virus positive shelter cat with multiple ulcerative cutaneous lesions. Histopathology and IHC confirmed fungal infection suggestive of Histoplasma species. The cat was lost to follow-up. Case 2: A 3-year-old male cat with a single erosive facial lesion. The cat fully recovered with antifungal treatment. Case 3: A 6-year-old neutered male with multiple erosive skin lesions. The cat was humanely euthanized. Diagnosis was supported by cytology while results of histopathology and IHC were suggestive of Histoplasma species. Serology (urine and serum) were positive for H. capsulatum antigen and the diagnosis was confirmed by PCR. Sequencing and phylogenetic analysis of the isolate provided the first molecular confirmation of feline histoplasmosis in the Baltic region. We report the occurrence of clustered autochthonous feline histoplasmosis in Latvia and expand the recognized geographic range of molecularly confirmed disease in Europe. Our cases show the advantages of cytology as an initial diagnostic tool and highlight the utility of serology and molecular methods in regions with limited access to well-established diagnostic methods for non-endemic fungal diseases. Our findings suggest that histoplasmosis may be underdiagnosed in non-endemic areas and reinforce the need for heightened clinical awareness among veterinarians across Europe.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723075/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
