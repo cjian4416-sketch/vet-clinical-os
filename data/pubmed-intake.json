@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-13T03:02:56.744911+00:00",
+  "updated_at": "2026-10-14T01:12:52.157046+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -391,6 +391,16 @@
       "publication_date": "2026-07",
       "abstract": "A 7-month-old female Golden Retriever was referred for owner-directed aggression occurring during intense emotional arousal and characterised by a limited ability to down-regulate arousal and inhibit impulsive motor patterns. Episodes were most frequently triggered by restraint or physical contact (including during vehicle entry/exit) and by attempts to remove acquired objects and had resulted in grade-3 bites per the Dunbar bite scale. Clinical assessment was consistent with hypersensitivity-hyperactivity syndrome (HSHA), an ADHD-like neurodevelopmental condition described in dogs and associated with hyperactivity, impulsivity and reduced behavioural inhibition. A multimodal treatment plan including environmental management and structured behaviour modification was implemented. Fluoxetine was initiated at approximately 0.9 mg/kg/day and was associated with a marked reduction in aggressive incidents and improved arousal regulation. A subsequent attempt to increase the fluoxetine dose to improve residual impulsivity resulted in a 50% reduction of appetite (approximately), necessitating a return to the prior dose. Huperzine A, a Chinese club moss alkaloid and centrally acting acetylcholinesterase inhibitor with additional neuroprotective effects, was then added at 200 μg orally every 12 h. Following adjunctive huperzine A, the dog showed further improvement in behavioural inhibition and impulse control with additional reductions in arousal-linked impulsive behaviour and aggression and no reported adverse effects. This case highlights HSHA-associated owner-directed aggression and suggests that adjunctive huperzine A may be a useful option when dose-limiting adverse effects prevent optimisation of SSRI therapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42538318/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42425879",
+      "title": "[Pasteurella multocida septic arthritis in a native joint: Management dilemmas in a penicillin-allergic patient].",
+      "journal": "La Revue de medecine interne",
+      "publication_date": "2026-07",
+      "abstract": "Pasteurella multocida is a common zoonotic, but it can also lead to invasive forms such as septic arthritis, particularly in immunocompromised patients. We report a 53-year-old man with well-controlled HIV, who presented with acute wrist arthritis following a cat scratch. He had a documented history of penicillin anaphylaxis, leading clinicians to avoid β-lactam antibiotics in the acute setting in the absence of immediate allergological evaluation. Synovial fluid culture grew P. multocida susceptible to several alternative antibiotics. After failure of doxycycline and intolerance to trimethoprim-sulfamethoxazole, treatment with levofloxacin led to a favorable outcome. The absence of a drainable collection allowed conservative management, with complete recovery after six weeks of antibiotic therapy. This case highlights the therapeutic challenges of P. multocida arthritis in a penicillin-allergic patient living with well-controlled HIV infection. Despite universal susceptibility to β-lactams, sequential alternative regimens were required due to drug intolerance. The favorable outcome without surgery underscores the importance of individualized antibiotic strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425879/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A 3-year-old male Border Collie diagnosed with immune-mediated dermatopathy, managed with tapering prednisolone and cyclosporine, developed rapidly progressive ocular signs and additional cutaneous lesions. Histopathology, mycological culture, polymerase chain reaction and sequencing confirmed intraocular and cutaneous infection due to Curvularia pseudobrachyspora and nasal squamous cell carcinoma. Upon confirmation of cutaneous infection, systemic antifungal therapy was initiated, but the clinical signs worsened and the patient died. Given the lack of guidelines for treatment of C. pseudobrachyspora, this patient's isolates were tested, and the minimum concentration and minimum effective concentration were obtained for selected antifungal drugs commonly used in veterinary medicine and compared to common filamentous and yeast fungal infections in dogs to provide general guidance into the treatment of this fungal species. Commonly utilised antifungal treatments used for common Aspergillus infections may prove ineffective against other filamentous fungi. Therefore, in the absence of standardised guidelines, each isolate should be assessed for appropriate treatment options.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42714271/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42711519",
-      "title": "Persistent estrus signs in a spayed bitch following coexistence of ovarian remnant syndrome and exposure to exogenous estrogen: a case report.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-09",
-      "abstract": "Ovarian remnant syndrome represents the most frequent diagnosis in young bitches that present estrous signs some time after ovariectomy/ovariohysterectomy. However, other differential diagnoses should be considered and ruled out, including exogenous estrogen exposure and hormone-secreting neoplasms. The present paper describes a complex clinical case in which ovarian remnant syndrome associated with bilateral ovarian remnants coexisted with exogenous estrogenic stimulation, highlighting the diagnostic challenges and the importance of considering both endogenous and exogenous causes when evaluating spayed bitches with estrous signs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42711519/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
