@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-14T01:12:52.157046+00:00",
+  "updated_at": "2026-10-15T00:31:09.743402+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,26 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42873078",
+      "title": "Rare Feline Gingival Extramedullary Plasmacytoma: Clinical Application of Electrochemotherapy for Local Control.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Feline extramedullary plasmacytoma (EMP) is an uncommon plasma cell neoplasm typically regarded as biologically benign; however, its clinical behaviour may be heterogeneous. This case report describes an aggressive gingival EMP in a 14-year-old neutered male Turkish Angora cat, characterised by alveolar bone lysis and cytologically confirmed regional lymph node metastasis in the absence of systemic features consistent with multiple myeloma. Histopathological examination revealed an infiltrative round cell neoplasm with high mitotic index, and strong diffuse MUM-1 immunoreactivity confirmed the diagnosis. As complete surgical excision was declined, and tumour regrowth occurred after repeated radiation therapy, electrochemotherapy (ECT) was selected for local tumour control. Bleomycin (15,000 IU/m 2  IV) was administered before pulse delivery, and three ECT sessions were performed at weekly intervals. The tumour volume decreased by more than 70%, which was consistent with a partial response, and only mild self-limiting local adverse effects were observed. No systemic toxicity was observed. To the best of our knowledge, this is the first report describing the use of ECT for feline gingival EMP. This case highlights the potential biological heterogeneity of feline EMP and suggests that ECT may provide short-term local tumour reduction and palliation when complete surgical excision is not feasible.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873078/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42870581",
+      "title": "Computed Tomographic Findings of Hepatic Rupture Associated With Amyloidosis in a Young Siamese Cat.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Nov",
+      "abstract": "A 3-year-old neutered male Siamese cat with chronic anorexia showed anemia and elevated liver enzyme levels. Ultrasonography disclosed multiple diffusely heterogeneous hepatic lesions and peritoneal effusion, which was identified as hemoabdomen upon fluid analysis. Computed tomography showed finger-like hypoattenuation extending from the left hepatic margin with focal margin loss in the delayed phase, suggesting hepatic rupture. Infiltrative hepatic diseases were considered, and amyloidosis was the top differential diagnosis given the patient's young age, breed predisposition, and suspected hepatic rupture. Blood oozing was confirmed via laparotomy, and Congo red staining established hepatic amyloidosis, though amyloid typing was not pursued.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870581/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -185,16 +205,6 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
-      "pmid": "42015578",
-      "title": "Canine Maxillofacial Parosteal Osteosarcoma: A Retrospective Case Evaluation in 10 Dogs.",
-      "journal": "Journal of veterinary dentistry",
-      "publication_date": "2026-04",
-      "abstract": "Parosteal osteosarcoma (OSA) is a subtype of surface OSA that is considered slow growing with a less aggressive biological behavior compared to central OSA and, therefore, carries a better prognosis with surgical excision. Parosteal OSA has a predilection for the skull in dogs with documented more frequent occurrences on the zygoma, maxilla, or coronoid process of the mandible, all of which present unique challenges to the oral surgeon. Ten cases of parosteal OSA of the canine maxillofacial bones are summarized and discussed in this report. The most common bone of origin was the caudal maxilla and/or zygoma in 50% of tumors. Exophthalmos was a prominent clinical sign noted in 40% of dogs. Median survival time was 14 months, with a one-year survival rate of 60%. Metastasis to the lungs was suspected in three cases. The histopathological diagnosis of parosteal OSA is crucially dependent on diagnostic imaging. When a primary bone tumor of the maxillofacial bones is suspected, it is essential for the oral surgeon and pathologist to collaborate to provide informed guidance on surgical planning, anticipated long-term outcomes, and clinical monitoring for these patients. The goals of this retrospective study are to identify key clinical and radiographic features, improve recognition for accurate diagnosis, and establish treatment recommendations for canine maxillofacial parosteal OSA.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42015578/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
       "pmid": "41925701",
       "title": "A Rare Case of a Concurrent Mandibular Odontogenic Keratocyst and Oral Rhabdomyosarcoma in a Young Cat.",
       "journal": "Journal of veterinary dentistry",
@@ -211,6 +221,36 @@
       "publication_date": "2026-03",
       "abstract": "Porcupine quill injuries have been reported in the veterinary literature as the source of a wide range of complications affecting separate body regions and organ systems, particularly in dogs from specific geographic locations. However, migration of porcupine quills involving the temporomandibular joint and its clinical consequences have not been previously reported. This report describes the first documented case of a dog presenting with trismus and a draining tract in the area of the left zygomatic arch several weeks following a porcupine encounter. The dog was referred as a consequence of the unsuccessful initial management of the injuries and the associated clinical signs. For this reason, advanced diagnostic imaging, including ultrasonography and computed tomography, was performed to investigate the possible cause. Surgical management for resolution of the clinical signs involved resection of the zygomatic arch, followed by partial resection of the lateral aspect of the mandibular condylar process for retrieval of the quill fragments.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41906387/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42872590",
+      "title": "A novel 3D-printed patient-specific limb-sparing radial endoprosthesis for treatment of primary osteosarcoma in a Great Dane.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-10",
+      "abstract": "To describe a novel titanium three-dimensional-printed patient-specific radial endoprosthesis (3D-PSE) for the successful treatment of a primary osteosarcoma in a 7-year-old female Great Dane. Case report. The dog presented with a 10-day history of swelling of the right distal radius. Computed tomography (CT) revealed an osteolytic lesion involving the distal metaphysis and diaphysis of the radius which was highly suspicious for an osteosarcoma (OSA). Thoracic CT showed no metastases. CT data was used to create a virtual 3D-model of the affected limb within computer-aided design software which was used for virtual osteotomy planning and the design of the 3D-PSE. During surgery 3D-printed patient-specific guides were used to execute osteotomies. The 3D-PSE comprised plate sections for attachment to the proximal radius and metacarpals 3, 4 and 5, and an integrated cage for bone graft to replace the radial defect. Histopathology demonstrated OSA, and postoperative adjuvant chemotherapy comprised five IV infusions of carboplatin every 3 weeks. The Liverpool Osteoarthritis in Dogs (LOAD) questionnaires were completed by the owner preoperatively and for each follow-up until the 6-month re-evaluation. No complications occurred intra-/post- or perioperatively. LOAD scores preoperatively, and at 6, 12 and 24 weeks postoperatively were 19, 13, 11 and 10. Ten months after surgery thoracic radiographs revealed multiple pulmonary metastases, but the dog remained asymptomatic for a further 6 weeks when progressive dyspnea and lethargy prompted euthanasia. Lameness was absent at that time. The described novel 3D-PSE provided an effective function-preserving solution as part of a multimodal treatment of a giant breed dog with OSA of the distal radius.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872590/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42870739",
+      "title": "Radiation therapy for persistent or progressive mediastinal lymphoma after chemotherapy in FeLV-positive cats: a retrospective case series of four cats.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-10",
+      "abstract": "Mediastinal lymphoma in feline leukaemia virus (FeLV)-positive cats is associated with a poor prognosis, and therapeutic options may be limited when adequate disease control is not achieved with chemotherapy. The efficacy of radiation therapy in this setting has not been established. Medical records were retrospectively reviewed for FeLV-positive cats diagnosed with mediastinal lymphoma between November 2018 and December 2024 that had persistent or progressive mediastinal disease after chemotherapy and were subsequently treated with radiation therapy. Treatment response was assessed by computed tomography using the Response Evaluation Criteria in Solid Tumours (RECIST). Three of four cats (75%) responded to radiation therapy (two complete responses, one partial response). Respiratory signs improved rapidly in three cats (median 5 days). Local disease control was achieved in most cases; however, three cats developed progression at other sites. Survival times were 45, 150 and 352 days in cats that died, and one cat remained alive for >626 days at the time of last follow-up. No severe radiation-related adverse effects were documented during the available follow-up, although systematic evaluation of late radiation toxicity was not possible. Radiation therapy may provide local control and rapid palliation of respiratory signs in FeLV-positive cats with persistent or progressive mediastinal lymphoma after chemotherapy. Further studies with larger cohorts are warranted.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870739/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42869101",
+      "title": "Diagnosis of acute myeloid leukaemia in a previously diagnosed case of chronic lymphocytic leukaemia in a dog.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-10",
+      "abstract": "A 12-year-old female spayed Irish wolfhound presented with a 6-month history of weight loss, chronic vomiting and diarrhoea and a persistent progressive lymphocytosis with previously diagnosed CD8+ T-cell chronic lymphocytic leukaemia (CLL). CLL was initially diagnosed through flow cytometry of EDTA-preserved peripheral blood. The decision to treat was based on a progressive circulating neoplastic lymphocytic population in the face of clinical deterioration. Progressive clinical decline was identified in the several weeks after commencement of treatment with chlorambucil and pegylated asparaginase for progressive CLL. Repeated haemogram and blood smear were suggestive of a second morphologically distinct circulating neoplastic population. Repeated flow cytometry of peripheral blood was consistent with a concurrent acute myeloid leukaemia (AML) to previously identified CD8+ CLL. Emergence of AML coincided with development of upwards of five cutaneous lesions, with concern for leukaemia cutis. High-dose chemotherapy with vincristine (0.7 mg/m 2 ) was commenced. Despite more aggressive treatment, rapid clinical deterioration ensued, and euthanasia was elected. To the author's knowledge, this is the first report of diagnosis of concurrent AML and CLL in a dog.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869101/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -361,6 +401,16 @@
       "publication_date": "2026-10",
       "abstract": "This report describes a rare case of bilateral congenital aphakia with anterior segment malformation in a 12-week-old male cocker spaniel puppy. The puppy was initially suspected of having glaucoma and was subsequently diagnosed with anterior segment dysgenesis and aphakia resulting in blindness. Ophthalmic examination showed corneal opacity, absence of pupillary openings, and negative pupillary light reflexes. B-mode and high-frequency ultrasonography showed absence of the lens, poorly defined anterior chambers, and hyperechoic tissue adherent to the cornea, consistent with anterior segment dysgenesis. Unlike in similar cases in other species, enucleation was not indicated due to ocular stability and absence of discomfort. The puppy demonstrated functional adaptation to blindness and remained under close ophthalmic monitoring. This case underscores the diagnostic value of ultrasonography in identifying congenital aphakia and associated anterior segment abnormalities in dogs, facilitating early diagnosis and management. Key clinical message: Congenital aphakia is a rare developmental ocular abnormality that may occur with other anterior segment defects. Ocular ultrasonography is a valuable, noninvasive, diagnostic tool for evaluating intraocular structures when direct intraocular examination is not possible.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42846313/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42015578",
+      "title": "Canine Maxillofacial Parosteal Osteosarcoma: A Retrospective Case Evaluation in 10 Dogs.",
+      "journal": "Journal of veterinary dentistry",
+      "publication_date": "2026-04",
+      "abstract": "Parosteal osteosarcoma (OSA) is a subtype of surface OSA that is considered slow growing with a less aggressive biological behavior compared to central OSA and, therefore, carries a better prognosis with surgical excision. Parosteal OSA has a predilection for the skull in dogs with documented more frequent occurrences on the zygoma, maxilla, or coronoid process of the mandible, all of which present unique challenges to the oral surgeon. Ten cases of parosteal OSA of the canine maxillofacial bones are summarized and discussed in this report. The most common bone of origin was the caudal maxilla and/or zygoma in 50% of tumors. Exophthalmos was a prominent clinical sign noted in 40% of dogs. Median survival time was 14 months, with a one-year survival rate of 60%. Metastasis to the lungs was suspected in three cases. The histopathological diagnosis of parosteal OSA is crucially dependent on diagnostic imaging. When a primary bone tumor of the maxillofacial bones is suspected, it is essential for the oral surgeon and pathologist to collaborate to provide informed guidance on surgical planning, anticipated long-term outcomes, and clinical monitoring for these patients. The goals of this retrospective study are to identify key clinical and radiographic features, improve recognition for accurate diagnosis, and establish treatment recommendations for canine maxillofacial parosteal OSA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42015578/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -751,56 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with diffuse large B-cell lymphoma. Hypofractionated palliative radiation therapy (6 Gy × 6 fractions; total dose 36 Gy) was initiated to address the obstructive mass. Progressive tumor shrinkage was observed during treatment, and by the fourth fraction the tracheostomy tube was successfully removed without recurrence of airway obstruction. Follow-up CT 17 days after radiation therapy initiation showed no visible laryngeal lesion, and no respiratory signs or airway obstruction recurred before the cat died on day 27 following clinically suspected systemic disease progression. This case suggests that hypofractionated radiation therapy, in combination with temporary tracheostomy, may provide rapid and effective relief of tumor-induced upper airway obstruction in cats with laryngeal B-cell lymphoma progressing during chemotherapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42787421/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42787174",
-      "title": "Case Report: Multiple mammary carcinomas in a young dog with estrus-associated hyperglycemia: clinicopathological findings and glycemic normalization after ovariohysterectomy.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "Mammary tumors are among the most common neoplasms affecting female dogs and are typically diagnosed in middle-aged or older animals. The occurrence of malignant mammary tumors in very young dogs is uncommon and may present diagnostic and clinical management challenges. This case report describes a young female dog presenting with multiple mammary nodules accompanied by persistent hyperglycemia detected approximately one to 2 weeks before the onset of estrus. Clinical examination, hematological and biochemical testing, cytological evaluation, surgical excision of the mammary lesions, and histopathological analysis were performed. Histopathology confirmed the presence of multiple mammary carcinomas with different histological patterns. Despite surgical removal of the tumors, blood glucose concentrations remained elevated. Two weeks later, the patient underwent ovariohysterectomy, after which glycemic values gradually decreased and returned to normal within the following weeks. The temporal association between reproductive hormonal status and the observed metabolic alteration suggests a possible hormone-related insulin resistance rather than a direct metabolic effect of the tumors themselves. This case highlights the potential interaction between mammary neoplasia, reproductive hormonal status, and glucose metabolism in dogs and emphasizes the importance of comprehensive clinical and metabolic evaluation in young patients presenting with mammary tumors.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42787174/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42724813",
-      "title": "Dirofilaria immitis  in Panama City: first molecular detection with public health implications.",
-      "journal": "Helminthologia",
-      "publication_date": "2026-09",
-      "abstract": "This report details a fatal case of canine dirofilariasis with concomitant  Ehrlichia canis  infection, emphasizing the role of molecular diagnostics and highlighting diagnostic and epidemiological gaps in Panama, particularly regarding stray dogs as key foci of infection. An 8-year-old mixed-breed dog presented with severe clinical signs, including adult nematode expectoration, lymphocytosis, eosinopenia, anemia, and thrombocytopenia. Rapid immunochromatographic tests confirmed co-infection with  Dirofilaria immitis and Ehrlichia canis , with abundant microfilariae on blood smear. Echocardiography revealed severe right ventricular dilation, tricuspid regurgitation, and  D. immitis  adults in the heart and pulmonary artery. Necropsy confirmed severe right atrial rupture with hemopericardium and extensive parasitic burden, identified as  D. immitis  by molecular analysis (453 bp 16S rRNA product). This case underscores the advanced pathology of dirofilariasis and the aggravating role of co-infection, highlighting Panama's significant epidemiological challenges, including vector prevalence, stray-dog reservoirs, and limited access to therapy. These findings highlight the need for molecular diagnostics, comprehensive control strategies, and robust surveillance programs, especially for stray dog populations, to mitigate impacts on animal and public health.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42724813/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42781373",
-      "title": "Case Report: Repeated imaging and surgical treatment of a vascular hamartoma arising from the cervical vertebral column of a cat.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "A 3-year-old male neutered Domestic Shorthair cat was presented with a 1-year history of progressive right-lateralized proprioceptive ataxia, ambulatory tetraparesis and cervical spinal pain, with sudden deterioration shortly before presentation. Neurological examination was consistent with a right-sided C6-T2 myelopathy. Magnetic resonance imaging (MRI) revealed a right-sided extradural myelocompressive lesion at the level of the C5 vertebra, associated with osseous proliferation arising from the right lamina and vertebral body, causing severe spinal cord compression and leftward deviation of the spinal cord. The mass was surgically resected, and histopathology confirmed a vertebral vascular hamartoma. Clinical signs improved after a brief period of postoperative worsening. One year later, neurological deficits recurred. MRI and computed tomography (CT) confirmed regrowth of the vertebral lesion. A second surgical excision was performed, and histopathology again confirmed a vertebral vascular hamartoma. To the authors' knowledge, this is the first report describing follow-up imaging and repeated surgical intervention, with histopathological confirmation at both procedures, in a cat with recurrent cervical vertebral vascular hamartoma. It highlights vertebral vascular hamartoma as an important differential diagnosis for young cats with progressive myelopathy, extradural spinal cord compression and vertebral osseous proliferation, and suggests that surgical intervention can result in meaningful clinical improvement despite possible regrowth after incomplete resection.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781373/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42714672",
-      "title": "Modified scalp block and total intravenous anesthesia for frontal craniotomy in a dog with a meningioma: a technical case report.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-09",
-      "abstract": "Intracranial meningiomas are among the most common primary central nervous system tumors in dogs, and surgical resection is associated with prolonged survival for rostrotentorial lesions. This report describes the anesthetic and surgical management of a dog undergoing frontal craniotomy using a modified scalp block technique. A 9-year-old male Shih Tzu with seizures and forebrain signs was diagnosed with a rostrotentorial intracranial mass compatible with meningioma on computed tomography. Frontal craniotomy was performed under total intravenous anesthesia with propofol target-controlled infusion combined with bilateral frontal and modified zygomaticotemporal scalp block using bupivacaine. The modified technique involved caudal needle insertion along the zygomatic arch with dorsomedial redirection toward the orbital ligament and fractionated anesthetic deposition. Cardiovascular parameters remained stable during the four major nociceptive events analyzed-skin incision, muscle dissection, craniotomy, and durotomy-with no clinically relevant increases beyond approximately 20% of stabilized post-induction baseline values; no rescue analgesia or adjustments in target propofol plasma concentration were required intraoperatively. During cranioplasty, the patient developed hemodynamic instability associated with blood loss, which improved after transfusion therapy. Postoperative recovery was satisfactory, with neurological improvement and no immediate complications. The association of total intravenous anesthesia and modified scalp block may represent a feasible neuroanesthetic strategy for canine craniotomy, contributing to nociceptive control and cardiovascular stability. Further studies are needed to validate the technique and its analgesic efficacy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42714672/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42714271",
-      "title": "Ocular and cutaneous infection due to Curvularia pseudobrachyspora in an immunosuppressed dog: Case report and in vitro antimycotic susceptibilities.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-09",
-      "abstract": "A 3-year-old male Border Collie diagnosed with immune-mediated dermatopathy, managed with tapering prednisolone and cyclosporine, developed rapidly progressive ocular signs and additional cutaneous lesions. Histopathology, mycological culture, polymerase chain reaction and sequencing confirmed intraocular and cutaneous infection due to Curvularia pseudobrachyspora and nasal squamous cell carcinoma. Upon confirmation of cutaneous infection, systemic antifungal therapy was initiated, but the clinical signs worsened and the patient died. Given the lack of guidelines for treatment of C. pseudobrachyspora, this patient's isolates were tested, and the minimum concentration and minimum effective concentration were obtained for selected antifungal drugs commonly used in veterinary medicine and compared to common filamentous and yeast fungal infections in dogs to provide general guidance into the treatment of this fungal species. Commonly utilised antifungal treatments used for common Aspergillus infections may prove ineffective against other filamentous fungi. Therefore, in the absence of standardised guidelines, each isolate should be assessed for appropriate treatment options.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42714271/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
