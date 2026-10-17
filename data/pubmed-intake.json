@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-16T00:24:03.295885+00:00",
+  "updated_at": "2026-10-17T00:28:13.700144+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -265,12 +265,32 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42849845",
+      "title": "Mapping the preclinical therapeutic landscape of cirrhotic portal hypertension: a systematic evidence map.",
+      "journal": "Annals of hepatology",
+      "publication_date": "2026-10",
+      "abstract": "Portal hypertension has a limited pharmacological armamentarium despite decades of preclinical therapeutic research. We mapped the experimental architecture of this literature, independently of reported treatment efficacy. PubMed/MEDLINE was searched from inception to March 31, 2026. Two independent title-and-abstract screening procedures identified 833 records retained by at least one screen; 540 formed a concordant core retained by both. Records were classified using a prespecified taxonomy of therapeutic strategy, intervention modality, animal model, species, sex, treatment schedule and reporting features. Global counts included all records; variable-specific distributions used available-case denominators. Treatment effects were not extracted. Among records with classifiable mechanisms (n=709), vasoactive/neurohumoral (29.1%), NO-cGMP/endothelial (23.8%) and antifibrotic/HSC-extracellular-matrix strategies (20.0%) represented 72.9%. Among records reporting the relevant variable, rats accounted for 82.7% (677/819), males only for 85.9% (548/638), and CCl 4 , bile-duct ligation/cholestatic models and thioacetamide for 45.2%, 30.3% and 10.6% (n=568), respectively. Randomization and blinding were identifiable in indexed information for 5.3% and 0.1% of all records. Principal distributions were preserved in the concordant core. Preclinical portal-hypertension research has generated mechanistic diversity on a narrow experimental foundation. Broader use of both sexes, etiologically diverse models, repeated dosing, rigorous design and complementary human-based platforms may strengthen translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849845/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42844917",
       "title": "Wound myiasis caused by Lucilia spp. (Diptera: Calliphoridae) in a dog and a cat in Korea.",
       "journal": "Parasites, hosts and diseases",
       "publication_date": "2026-10",
       "abstract": "This study presents 2 cases of wound myiasis in a dog and a cat involving morphological and molecular identification in Korea. A 7-year-old male Jindo mix dog, Canis familiaris, was admitted to a veterinary clinic in Yangsan-si, Gyeongsangnam-do, Korea, in July 2024. The bite wound near the right rib was infected with maggots. We carefully removed the 5 maggots using forceps. The wound healed without any subsequent complications. A Korean Shorthair stray cat, Felis catus, was brought to the same clinic in October 2024 after being hit by a car. The maggot-infected wounds were found in the anus and perianal regions. We removed all 10 maggots from the wounds. After treatment, no living maggots were observed; however, the cat was euthanized due to trauma-related complications. The maggots from the dog and the cat were third instars with 12 body segments and posterior spiracles containing 3 distinct slits. Compared with the dog-derived larvae, the cat-derived larvae had a more dorsally positioned posterior process of the mouth hook, reduced dorsal papillae distances, and distinctly sclerotized ventral cornua. Complete cox1 gene analysis confirmed the dog- and cat-derived larvae as Lucilia sericata (Meigen, 1826) and Lucilia illustris (Meigen, 1826), respectively, whereas 18S rRNA gene analysis showed limited species-level resolution. In the present study, wound myiasis caused by L. sericata and L. illustris is described in a dog and a cat in Korea based on morphological and molecular findings.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42844917/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42883105",
+      "title": "Candida albicans  Urinary Tract Infection with Suspected Fungal Hepatobiliary Disease in an Immunosuppressed Dog: A Case Report.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-10",
+      "abstract": "Fungal urinary tract infections (UTIs) are uncommon in dogs and are typically associated with immunocompromised patients or those with other predisposing factors. Fungal hepatobiliary disease is rarely reported in the veterinary literature. This case report describes a dog on dual immunosuppressive therapy for suspected immune-mediated polyarthritis that developed a hepatopathy suspected to represent bacterial hepatobiliary disease and was subsequently treated with prolonged amoxicillin-clavulanate therapy. Following treatment, the dog developed marked hepatocellular enzyme elevations together with a  Candida albicans  UTI. Given the patient's progressive hepatocellular injury, clinical signs, history of immunosuppression and antibiotic therapy, concurrent fungal hepatobiliary involvement was suspected. Following initiation of oral fluconazole, the fungal UTI resolved, and there was marked improvement, with subsequent normalisation of ALT and ALP activities. Although the temporal association between antifungal treatment and clinical and biochemical improvement raised suspicion of concurrent fungal hepatobiliary involvement, simultaneous discontinuation of amoxicillin-clavulanate, substantial reduction in prednisolone dose, and continuation of hepatoprotective therapy precluded attribution of the improvement specifically to antifungal treatment. This case highlights the potential for opportunistic fungal disease in immunosuppressed dogs, particularly following prolonged antimicrobial exposure, and illustrates the diagnostic challenges associated with suspected hepatobiliary involvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883105/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "Heatstroke is a life-threatening veterinary emergency that is rarely reported in cats, particularly when secondary to household hazards such as clothes dryer entrapment. This report details the successful intensive management and clinical progression of a single feline patient presenting with severe non-exertional heatstroke and concurrent blunt force trauma following approximately 20 min of entrapment in an operating dryer. Upon presentation, the cat exhibited severe hyperthermia (43.0 °C), circulatory shock, oral hemorrhage, and generalized seizures. The rapid initiation of active cooling and aggressive hemodynamic resuscitation prevented further life-threatening complications beyond the initial day of seizures, leading to clinical stabilization and discharge on day 6 at the owner's request, with a full recovery confirmed at a recheck appointment on day 11. Furthermore, serial biomarker tracking during hospitalization revealed a continuous elevation in feline serum amyloid A (fSAA) accompanied by intermittent hyperthermia. This sustained inflammatory response suggests that feline heatstroke shares a pathophysiological mechanism with systemic inflammatory response syndrome (SIRS). Ultimately, this case highlights the hidden but severe dangers of household appliances and suggests that early recognition and the immediate initiation of targeted therapy are critical for achieving favorable outcomes in feline non-exertional heatstroke.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42797974/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42797972",
-      "title": "Use of the Combination Therapy of Recombinant Feline Interferon-Omega Injection and Oral Prednisolone for Canine Aural Hematoma: A Retrospective Case Series.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "This retrospective study described clinical outcomes of combining local recombinant feline interferon-omega (rFeIFN-ω) injection with oral prednisolone in the management of canine aural hematoma. The medical records of dogs presented to a private veterinary hospital between January 2019 and January 2026 were reviewed. Thirty-one dogs underwent the treatment protocol, of which five were lost to follow-up, leaving a final cohort of 26 dogs. The protocol involved a local intralesional injection of 10.0 MU of rFeIFN-ω without fluid evacuation alongside concurrent oral prednisolone (1.0 mg/kg once daily) without anesthesia at 1-week intervals. Complete initial resolution was achieved in 21 dogs (80.8%) with a mean of 2.37 ± 1.14 treatment sessions, whereas 5 dogs discontinued therapy prematurely prior to complete resolution because the owners declined further treatment visits, leaving their final outcomes undetermined. Recurrence was documented in five of the 21 complete resolution cases (23.8%), spanning from 2 weeks to 1 year post-resolution. Two of these dogs underwent re-treatment and achieved complete clinical resolution during the available follow-up period. No clinically relevant adverse effects occurred. While the independent therapeutic efficacy of rFeIFN-ω remains unproven, these preliminary findings suggest that the combination protocol may represent a feasible, non-surgical outpatient option for managing canine aural hematoma.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797972/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42787421",
-      "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6 Gy × 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with diffuse large B-cell lymphoma. Hypofractionated palliative radiation therapy (6 Gy × 6 fractions; total dose 36 Gy) was initiated to address the obstructive mass. Progressive tumor shrinkage was observed during treatment, and by the fourth fraction the tracheostomy tube was successfully removed without recurrence of airway obstruction. Follow-up CT 17 days after radiation therapy initiation showed no visible laryngeal lesion, and no respiratory signs or airway obstruction recurred before the cat died on day 27 following clinically suspected systemic disease progression. This case suggests that hypofractionated radiation therapy, in combination with temporary tracheostomy, may provide rapid and effective relief of tumor-induced upper airway obstruction in cats with laryngeal B-cell lymphoma progressing during chemotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42787421/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
