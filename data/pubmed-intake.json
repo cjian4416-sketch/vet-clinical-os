@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-17T00:28:13.700144+00:00",
+  "updated_at": "2026-10-18T00:02:18.166866+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -201,6 +201,16 @@
       "publication_date": "2026-06",
       "abstract": "Histiocytic sarcomas (HSs) are uncommon malignant neoplasms in cats, typically affecting older animals and not previously associated with feline leukemia virus (FeLV). Here, we describe 2 cases of disseminated HS in young FeLV-positive domestic shorthair cats that clinically and grossly mimicked lymphoma. Case 1, a 1-y-old female cat, was presented with hemiplegia and dysuria and was euthanized because of the clinical suspicion of spinal lymphoma. Case 2, a 4-y-old male cat, had hyporexia, ocular abnormalities, and bilateral renal enlargement and was euthanized because of the clinical suspicion of renal and ocular lymphoma. Both cases tested positive for feline leukemia virus (FeLV) infection with a SNAP test. At autopsy, case 1 had a white, irregular, intradural spinal cord mass at the C6-C7 segment, and case 2 had coalescing, unencapsulated, white nodules that effaced both renal cortices, along with uveal thickening in the left eye with hyphema. Both cases had highly pleomorphic neoplastic round-cell proliferation in neoplastic masses, with strong cytoplasmic labeling for vimentin and IBA1 on immunohistochemistry and no CD20 or CD3 labeling, confirming disseminated HS. The neoplastic cells also had strong cytoplasmic immunolabeling for FeLV, suggesting a possible oncogenic role of FeLV in feline HSs.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42310831/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42019545",
+      "title": "Clinical presentation and outcome of bromethalin toxicosis in preweaned kittens: a case series.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "publication_date": "2026-04",
+      "abstract": "To document the clinical signs, diagnosis, and outcomes in preweaned kittens with bromethalin toxicosis, and to determine the duration that desmethylbromethalin (DMB) can be measured in serum after bromethalin exposure in kittens. 5 litters of neonatal kittens with neurologic disease were evaluated. Two litters presented to a veterinary hospital for evaluation, and 3 litters presented for diagnostic investigation following euthanasia. In this retrospective study, physical and neurologic examinations were completed for 5 kittens, with serial follow-up examinations completed for 3 kittens. Autopsies were done in 10 kittens. Tissue (10 kittens) or serial serum samples (3 kittens) were analyzed with LC-MS-MS for DMB. 12 preweaned kittens were diagnosed with bromethalin toxicosis on the basis of clinical signs, autopsy, and measurement of DMB in tissue (n = 10) or serum (2). Ten kittens were tested for and diagnosed with bromethalin exposure on the basis of marked white matter vacuolization on histopathology. Three kittens in 1 litter were diagnosed with bromethalin exposure antemortem directed by autopsy results of 3 littermates. Two of the 3 kittens developed neurologic signs of bromethalin toxicosis that resolved within 6 weeks; the third kitten remained clinically normal. Serum monitoring detected DMB in the surviving kittens for > 30 days after presentation. Bromethalin toxicosis occurs in preweaned kittens, and neurologic signs are not uniformly predictive of a grave prognosis. The laboratory detection of DMB in serum can be a useful method for confirming exposure up to 46 days after exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42019545/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "Dilated cardiomyopathy (DCM) is a major cause of systolic heart failure in dogs, characterized by ventricular dilation and reduced contractility. During acute decompensation, rapid inodilator therapy is essential to stabilize hemodynamics. This case describes serial changes in non-invasive blood pressure and left ventricular systolic function observed during sequential administration of two inodilator agents via different routes on consecutive days. An Anatolian shepherd dog was presented with acute respiratory distress. Echocardiography revealed severe left ventricular dilation and systolic dysfunction, and DCM was diagnosed using established criteria. Because oral therapy was initially not tolerated, intravenous pimobendan was administered, producing a rapid but transient improvement in systolic indices and global longitudinal strain (GLS). After transition to oral pimobendan the following day, systolic function improved mildly, while GLS remained markedly reduced. Levosimendan was subsequently administered as an intravenous bolus, resulting in only minimal improvement in systolic parameters and GLS. A continuous infusion was then initiated; however, systolic measurements remained largely unchanged during infusion. Serial echocardiographic assessment, particularly GLS, documented temporal changes in myocardial function during sequential inodilator therapy. These findings represent descriptive clinical observations from the management of a single patient and should not be interpreted as evidence of comparative efficacy or superiority of one inodilator over another. Because atrial fibrillation and temporal variation in heart rate may have influenced echocardiographic measurements throughout the monitoring period, the findings should be interpreted within the methodological limitations of this sequential single-case report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726409/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42797974",
-      "title": "Successful Intensive Management and Serial Clinical Progression of Severe Non-Exertional Heatstroke in a Cat Following Clothes Dryer Entrapment.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "Heatstroke is a life-threatening veterinary emergency that is rarely reported in cats, particularly when secondary to household hazards such as clothes dryer entrapment. This report details the successful intensive management and clinical progression of a single feline patient presenting with severe non-exertional heatstroke and concurrent blunt force trauma following approximately 20 min of entrapment in an operating dryer. Upon presentation, the cat exhibited severe hyperthermia (43.0 °C), circulatory shock, oral hemorrhage, and generalized seizures. The rapid initiation of active cooling and aggressive hemodynamic resuscitation prevented further life-threatening complications beyond the initial day of seizures, leading to clinical stabilization and discharge on day 6 at the owner's request, with a full recovery confirmed at a recheck appointment on day 11. Furthermore, serial biomarker tracking during hospitalization revealed a continuous elevation in feline serum amyloid A (fSAA) accompanied by intermittent hyperthermia. This sustained inflammatory response suggests that feline heatstroke shares a pathophysiological mechanism with systemic inflammatory response syndrome (SIRS). Ultimately, this case highlights the hidden but severe dangers of household appliances and suggests that early recognition and the immediate initiation of targeted therapy are critical for achieving favorable outcomes in feline non-exertional heatstroke.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797974/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
