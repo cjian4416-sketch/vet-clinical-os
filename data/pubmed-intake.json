@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-19T00:12:15.326863+00:00",
+  "updated_at": "2026-10-20T01:05:06.810669+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -205,16 +205,6 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
-      "pmid": "42019545",
-      "title": "Clinical presentation and outcome of bromethalin toxicosis in preweaned kittens: a case series.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "publication_date": "2026-04",
-      "abstract": "To document the clinical signs, diagnosis, and outcomes in preweaned kittens with bromethalin toxicosis, and to determine the duration that desmethylbromethalin (DMB) can be measured in serum after bromethalin exposure in kittens. 5 litters of neonatal kittens with neurologic disease were evaluated. Two litters presented to a veterinary hospital for evaluation, and 3 litters presented for diagnostic investigation following euthanasia. In this retrospective study, physical and neurologic examinations were completed for 5 kittens, with serial follow-up examinations completed for 3 kittens. Autopsies were done in 10 kittens. Tissue (10 kittens) or serial serum samples (3 kittens) were analyzed with LC-MS-MS for DMB. 12 preweaned kittens were diagnosed with bromethalin toxicosis on the basis of clinical signs, autopsy, and measurement of DMB in tissue (n = 10) or serum (2). Ten kittens were tested for and diagnosed with bromethalin exposure on the basis of marked white matter vacuolization on histopathology. Three kittens in 1 litter were diagnosed with bromethalin exposure antemortem directed by autopsy results of 3 littermates. Two of the 3 kittens developed neurologic signs of bromethalin toxicosis that resolved within 6 weeks; the third kitten remained clinically normal. Serum monitoring detected DMB in the surviving kittens for > 30 days after presentation. Bromethalin toxicosis occurs in preweaned kittens, and neurologic signs are not uniformly predictive of a grave prognosis. The laboratory detection of DMB in serum can be a useful method for confirming exposure up to 46 days after exposure.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42019545/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
       "pmid": "41925701",
       "title": "A Rare Case of a Concurrent Mandibular Odontogenic Keratocyst and Oral Rhabdomyosarcoma in a Young Cat.",
       "journal": "Journal of veterinary dentistry",
@@ -411,6 +401,16 @@
       "publication_date": "2026-10",
       "abstract": "Surgical management of feline idiopathic chylothorax remains unpredictable, with reported success rates varying widely despite combined procedures. We report a case of refractory idiopathic chylothorax in a cat that was successfully managed through a strategic, sequential surgical approach guided by indocyanine green (ICG) fluorescence. Initially, the cat underwent thoracoscopic thoracic duct occlusion (TDO)  via  clipping, but chylous effusion persisted. A 2nd surgery was conducted to achieve definitive thoracic duct ligation using sutures combined with additional clipping, yet the effusion remained refractory. Computed tomography after the 2nd surgery revealed a focal convergence of lymphatic vessels within the abdominal cavity. Based on this, a 3rd intervention was undertaken, combining thoracoscopic TDO with laparoscopic intra-abdominal lymphatic vessel occlusion and a cisterna chyli incision. Real-time ICG fluorescence imaging allowed precise identification and addressing of complex lymphatic collaterals. Chylothorax completely resolved ~1 mo after this 3rd surgery. The cat remained complication-free with no recurrence for 324 d after surgery. This case demonstrated the efficacy of a multimodal, sequential strategy for refractory feline chylothorax, integrating computed tomography-based diagnostic evaluation with combined thoracoscopic and laparoscopic lymphatic interventions. This comprehensive, minimally invasive approach, enhanced by real-time ICG visualization, offers a potent therapeutic option when conventional, single-cavity treatments fail. Key clinical message: This report describes for the first time a sequential and minimally invasive surgical approach to treat feline idiopathic chylothorax, by combining completely endoscopic (thoracoscopic and laparoscopic), ICG-guided TDO, intra-abdominal lymphatic vessel occlusion, and cisterna chyli incision. Moreover, this case showed that ICG can be effectively and noninvasively administered to the paw pads, obviating the need for invasive abdominal surgery.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42846404/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42019545",
+      "title": "Clinical presentation and outcome of bromethalin toxicosis in preweaned kittens: a case series.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "publication_date": "2026-04",
+      "abstract": "To document the clinical signs, diagnosis, and outcomes in preweaned kittens with bromethalin toxicosis, and to determine the duration that desmethylbromethalin (DMB) can be measured in serum after bromethalin exposure in kittens. 5 litters of neonatal kittens with neurologic disease were evaluated. Two litters presented to a veterinary hospital for evaluation, and 3 litters presented for diagnostic investigation following euthanasia. In this retrospective study, physical and neurologic examinations were completed for 5 kittens, with serial follow-up examinations completed for 3 kittens. Autopsies were done in 10 kittens. Tissue (10 kittens) or serial serum samples (3 kittens) were analyzed with LC-MS-MS for DMB. 12 preweaned kittens were diagnosed with bromethalin toxicosis on the basis of clinical signs, autopsy, and measurement of DMB in tissue (n = 10) or serum (2). Ten kittens were tested for and diagnosed with bromethalin exposure on the basis of marked white matter vacuolization on histopathology. Three kittens in 1 litter were diagnosed with bromethalin exposure antemortem directed by autopsy results of 3 littermates. Two of the 3 kittens developed neurologic signs of bromethalin toxicosis that resolved within 6 weeks; the third kitten remained clinically normal. Serum monitoring detected DMB in the surviving kittens for > 30 days after presentation. Bromethalin toxicosis occurs in preweaned kittens, and neurologic signs are not uniformly predictive of a grave prognosis. The laboratory detection of DMB in serum can be a useful method for confirming exposure up to 46 days after exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42019545/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
