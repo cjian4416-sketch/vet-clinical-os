@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-23T00:39:29.398871+00:00",
+  "updated_at": "2026-10-24T00:40:52.913035+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -15,12 +15,12 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
-      "pmid": "42897728",
-      "title": "Contrast-Enhanced Ultrasonography of Orbital and Intraocular Pathologies in 24 Dogs and 6 Cats.",
-      "journal": "Veterinary ophthalmology",
+      "pmid": "42912415",
+      "title": "Persistent Microfilaremia Caused by Dirofilaria asiatica Infection in 2-Year-Old Child, Sri Lanka, 2024.",
+      "journal": "Emerging infectious diseases",
       "publication_date": "2026-Nov",
-      "abstract": "Contrast-enhanced ultrasonography (CEUS) is a noninvasive and relatively safe imaging technique to assess ocular perfusion, showing high sensitivity and specificity for tumor characterization in human oncology, while reports on its application in canine and feline diseased eyes are limited. This study aimed to describe the CEUS features of orbital and intraocular pathologies in dogs and cats in order to evaluate its diagnostic value in detecting and characterizing various lesions. CEUS examinations of 30 animals (24 dogs, 6 cats) were evaluated retrospectively. Following B-mode ultrasonography, CEUS examinations utilizing sulfur hexafluoride were performed. Pathologies were categorized in one of the following groups: orbital neoplastic lesions, orbital inflammatory lesions, intraocular neoplastic lesions, intraocular inflammatory lesions and retinal detachment. Qualitative perfusion parameters, contrast intensity, enhancement pattern, perfusion type and time to wash-in and wash-out were evaluated. CEUS detected vascularization in orbital and intraocular pathologies, with variable enhancement characteristics. Persistent vascularization was observed in all cases of retinal detachment. In orbital and intraocular neoplastic lesions, CEUS improved lesion localization, assessment of interactions with surrounding tissues and tissue perfusion. For inflammatory pathologies such as abscesses, myositis, and steatitis, the additional diagnostic value of CEUS compared to B-mode ultrasonography was limited. Findings indicated that CEUS could identify a variety of orbital and intraocular pathologies and provided additional diagnostic information to B-mode ultrasonography, particularly for assessing neoplastic lesions and retinal detachments. CEUS has the potential to enhance ophthalmic ultrasonography in differentiating specific pathologies. Prospective studies are warranted to further evaluate its clinical use.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897728/",
+      "abstract": "Filarial nematodes cause significant illness worldwide, including lymphatic and subcutaneous filariases in tropical regions. Dirofilaria asiatica is a recently described canine filarioid increasingly implicated in zoonotic human infections. Here, we report a patent infection in a child in Sri Lanka who had persistent microfilaraemia after 2 rounds of diethylcarbamazine treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42912415/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -235,6 +235,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42517212",
+      "title": "From inference to proof: nanopore sequencing confirms zoonotic Neisseria Zoodegmatis peritonitis after cat bite-related contamination in a patient on automated peritoneal dialysis.",
+      "journal": "Journal of nephrology",
+      "publication_date": "2026-Oct",
+      "abstract": "Peritoneal dialysis (PD)-associated peritonitis caused by zoonotic pathogens is uncommon and diagnostically challenging. Neisseria zoodegmatis, a Gram-negative coccobacillus residing in the oral flora of cats and dogs, has been reported only once previously in PD-associated peritonitis, with zoonotic transmission inferred but unproven. We report the case of a 90-year-old patient receiving automated PD who developed peritonitis following cat bite-related transfer-set damage, with partial response to empirical therapy and subsequent relapse. Conventional culture and MALDI-TOF mass spectrometry identified N. zoodegmatis, confirmed by 16S rRNA gene sequencing from colony isolates and PD effluent. Intermediate β-lactam susceptibility prompted escalation to carbapenem-based therapy. Third-generation nanopore sequencing demonstrated N. zoodegmatis as the dominant organism in PD effluent and identified the identical species in feline saliva, establishing molecular concordance. Sustained remission required strict environmental control. This is the second reported case of Neisseria zoodegmatis PD-associated peritonitis and the first one with molecular proof of zoonotic transmission, highlighting the selective role of long-read sequencing in complex or relapsing peritonitis, the need for antimicrobial reassessment after suspicion of pet-related contamination, and the importance of environmental intervention in preventing recurrence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517212/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42900271",
       "title": "First molecular characterization of Echinococcus granulosus sensu stricto genotype G1 from a common chimpanzee (Pan troglodytes) in the Kuwait Zoo.",
       "journal": "Acta parasitologica",
@@ -315,6 +325,26 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42910107",
+      "title": "Case series: Superficial lipomatous hamartoma in dogs and cats is a previously unreported NLCS-like dermal lesion.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-10",
+      "abstract": "In humans nevus lipomatosus cutaneous superficialis (NLCS) is a rare, benign dermal hamartoma characterized by aggregates of adipose tissue within the dermis without any connection to the subcutaneous tissue. Although NLCS is a well-recognized entity, it is considered a rare lesion with limited reports in the human literature. To date, no comparable cases have been reported in dogs and cats. Over the course of one and a half years, six cases (five in dogs, one in a cat), resembling NLCS-like lesions, were examined. In this report, we compare these cases to the human condition regarding macroscopic features, histopathology, sex, and age of the affected patients. In all cases, the dermal lesions were composed of aggregates of well-differentiated adipocytes within the dermis. Given the morphological similarity to the lesion in humans, the term \"nevus lipomatosus superficialis-like lesion\" might be appropriate. However, given the controversial use of the term 'nevus' in veterinary medicine and a potential for confusion with pigmented lesion, we propose the term \"superficial lipomatous hamartoma\" for this entity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910107/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42908898",
+      "title": "Case Report: Concurrent ventricular septal defect, pulmonic stenosis, and intrapulmonary arteriovenous anastomoses in a Korean raccoon dog ( Nyctereutes procyonoides koreensis ).",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-10",
+      "abstract": "A 3-month-old intact male Korean raccoon dog ( Nyctereutes procyonoides koreensis ) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with  Sarcoptes scabiei  infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no distinct structural abnormalities of the pulmonic valve were observed, increased pulmonic flow velocity (3.87 m/s), mild pulmonic regurgitation (1.68 m/s), and post-stenotic dilation of the main pulmonary artery supported a diagnosis of pulmonic stenosis (PS). Agitated saline contrast echocardiography demonstrated intrapulmonary arteriovenous anastomoses (IPAVAs), with microbubbles appearing in the left heart after the fourth cardiac cycle; this shunting decreased following oxygen supplementation. Five weeks later, thoracic radiography demonstrated a reduction in cardiac silhouette size, although cardiomegaly persisted. Echocardiography demonstrated progression of the VSD to bidirectional shunting. Systolic doming of the pulmonic valve, together with increased pulmonic flow velocity (4.39 m/s) and pulmonic regurgitation velocity (2.07 m/s), indicated worsening PS. Repeat agitated saline contrast echocardiography revealed microbubbles in the left heart within four cardiac cycles and in the abdominal aorta, indicating a right-to-left shunt component consistent with bidirectional shunting. These findings were attenuated after oxygen supplementation. The Korean raccoon dog subsequently died during anesthetic induction for further diagnostic imaging. Postmortem examination confirmed a perimembranous VSD and type A valvular PS characterized by fused commissures, with concurrent right ventricular hypertrophy, dilation, and interventricular septal thickening. To our knowledge, this case report is the first to describe the concurrence of VSD, PS, and IPAVAs in a Korean raccoon dog. It suggests that progressive PS may contribute to reversal of shunting across a VSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908898/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42883105",
       "title": "Candida albicans  Urinary Tract Infection with Suspected Fungal Hepatobiliary Disease in an Immunosuppressed Dog: A Case Report.",
       "journal": "Animals : an open access journal from MDPI",
@@ -371,6 +401,16 @@
       "publication_date": "2026-08",
       "abstract": "Pelizaeus-Merzbacher-like disease type 1 (PMLD1), also known as hypomyelinating dystrophy 2, is a typical slowly progressive hypomyelinating leukodystrophy (HLD) that manifests in the neonatal period or early infancy. In humans, PMLD1 is inherited as an autosomal recessive trait, with genetic variants identified in the gap junction protein gamma 2 (GJC2) gene. Six juvenile-age Toy Poodle dogs exhibited coarse, vertical head and trunk tremors from immediately after birth. Conventional magnetic resonance imaging revealed uniform signal hyperintensities throughout the subcortical white matter in all dogs. All dogs were euthanized. Subsequent histopathological examination revealed vacuolar changes and demyelination in the cerebral and cerebellar white matter, leading to a diagnosis of HLD. Genetic analysis of five affected dogs identified a shared homozygous 14-base pair deletion in the GJC2 gene, XM_038556433.1:c.920_933del. To the best of our knowledge, this is the first report of a pathogenic GJC2 variant in dogs or any other domestic animal species. The results will enable genetic testing and provide a spontaneous large animal model for the homologous human disease.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42543680/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42897728",
+      "title": "Contrast-Enhanced Ultrasonography of Orbital and Intraocular Pathologies in 24 Dogs and 6 Cats.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "Contrast-enhanced ultrasonography (CEUS) is a noninvasive and relatively safe imaging technique to assess ocular perfusion, showing high sensitivity and specificity for tumor characterization in human oncology, while reports on its application in canine and feline diseased eyes are limited. This study aimed to describe the CEUS features of orbital and intraocular pathologies in dogs and cats in order to evaluate its diagnostic value in detecting and characterizing various lesions. CEUS examinations of 30 animals (24 dogs, 6 cats) were evaluated retrospectively. Following B-mode ultrasonography, CEUS examinations utilizing sulfur hexafluoride were performed. Pathologies were categorized in one of the following groups: orbital neoplastic lesions, orbital inflammatory lesions, intraocular neoplastic lesions, intraocular inflammatory lesions and retinal detachment. Qualitative perfusion parameters, contrast intensity, enhancement pattern, perfusion type and time to wash-in and wash-out were evaluated. CEUS detected vascularization in orbital and intraocular pathologies, with variable enhancement characteristics. Persistent vascularization was observed in all cases of retinal detachment. In orbital and intraocular neoplastic lesions, CEUS improved lesion localization, assessment of interactions with surrounding tissues and tissue perfusion. For inflammatory pathologies such as abscesses, myositis, and steatitis, the additional diagnostic value of CEUS compared to B-mode ultrasonography was limited. Findings indicated that CEUS could identify a variety of orbital and intraocular pathologies and provided additional diagnostic information to B-mode ultrasonography, particularly for assessing neoplastic lesions and retinal detachments. CEUS has the potential to enhance ophthalmic ultrasonography in differentiating specific pathologies. Prospective studies are warranted to further evaluate its clinical use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897728/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -761,46 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "In June 2023, Poland experienced an unprecedented outbreak of highly pathogenic avian influenza (HPAI) H5N1 virus infections in cats, raising concerns about the role of cats in HPAI H5N1 virus ecology and potential public health implications. We describe the clinical course and molecular findings in a cat designated as cat No. 14 during this outbreak, with emphasis on the viral load detected in various organs and tissues. The cat was initially examined for recurrent dermatological problems, although the owner also reported reduced activity. Over the following five days, the disease rapidly progressed, with systemic and neurological signs unresponsive to treatment. Blood analyses revealed no major haematological abnormalities, whereas serial serum biochemistry showed progressive abnormalities. Due to the poor prognosis, the cat was humanely euthanized five days after the initial veterinary examination. Tissue samples from major internal organs and lymph nodes, together with tracheal and rectal swabs and bile, were collected for real-time RT-PCR. Viral RNA was detected in all analysed samples except the intestines, mesenteric lymph nodes, rectal swab, and bile, with the highest viral loads observed in the cerebellum and brain. This case provides molecular evidence of widespread HPAI H5N1 viral RNA distribution across tissues, complemented by detailed haematological and biochemical findings, further characterizing the systemic nature of infection.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42797862/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42750106",
-      "title": "Management of Severe Bromethalin Toxicosis in a Dog, Including the Use of Prolonged Hemodiafiltration Therapy.",
-      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
-      "publication_date": "2026-09",
-      "abstract": "To describe the management of severe bromethalin intoxication in a dog, including the use of extracorporeal therapies and their effects on serum desmethylbromethalin levels. A 13-year-old neutered male miniature Australian Shepherd presented after suspected ingestion of bromethalin rodenticide. Despite intravenous fluids and activated charcoal, the dog progressively declined neurologically in a 24-h period, ultimately developing a Cushing reflex. Medical management included hyperosmotic therapies, antiepileptics, intralipids, and warm water enemas. Hemodiafiltration (HDF) was attempted due to the dog's continued decline and a persistently lipemic serum, which precluded repeated doses of intralipids. Serum desmethylbromethalin concentrations were measured before, during, and after HDF, and no clearance was noted across the filter or in the effluent. Regardless, the dog improved with a total hospitalization duration of 5 days and a complete return of neurologic function. This case describes the rapid and successful clinical recovery of a dog with the highest reported levels of desmethylbromethalin, with serum desmethylbromethalin concentrations decreasing faster than the expected half-life. HDF was attempted but was found to be unsuccessful in the clearance of bromethalin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42750106/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42749341",
-      "title": "Stroke due to penetrating neck injury inflicted by tiger attack.",
-      "journal": "BMJ case reports",
-      "publication_date": "2026-09",
-      "abstract": "Animal attack related penetrating injuries of the neck are important causes of stroke due to carotid artery dissection and subsequent watershed infarcts. Early vascular imaging, timely antithrombotic therapy and multidisciplinary management are critical to optimising better outcomes. A female in her fourth decade presenting with altered sensorium, hemiplegia and hypotension following a tiger attack on the neck and subsequent carotid dissection. In this case report, we discuss the clinical state, work-up and follow-up outcome of this rare stroke case due to tiger attack. Clinicians should maintain a high index of suspicion of vascular injury in penetrating neck trauma for early recognition and prompt management.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749341/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42671893",
-      "title": "Malignant adenomyoepithelioma with papillary arrangement in the mammary papilla of a dog: Case report.",
-      "journal": "Acta veterinaria Hungarica",
-      "publication_date": "2026-08",
-      "abstract": "Mammary gland tumours are the most frequently diagnosed neoplasms in female dogs, involving either the mammary gland parenchyma or the mammary papilla. This is a case report of a malignant adenomyoepithelioma with papillary arrangement in the mammary papilla of a 13-year-old female Lhasa Apso, highlighting the histopathological and immunohistochemical characteristics of the tumour. Grossly, the sample consisted of a exophytic, soft to firm nodule measuring 1.0 × 1.0 cm. On the cut surface, the sample presented an irregular pattern and a cystic cavity. The cut surface of the sentinel lymph node showed a solid and heterogeneous aspect. Histologically, the mammary gland presented a neoplastic proliferation of epithelial and myoepithelial cells in a mostly papillary pattern. Myoepithelial cells exhibited elongated, manly vacuolated cytoplasm, with indistinct boundaries, moderate anisocytosis, anisokaryosis and moderate cellular and nuclear pleomorphism, with seven mitotic figures per 10 high-power fields (i.e., 2.37 mm2). The lymph node presented follicular hyperplasia. Immunohistochemical analysis of the primary tumour revealed neoplastic cells positive for pan-cytokeratin and p63, presented a Ki-67 index of 20% and were negative (score 0) for cyclooxygenase-2. Based on histomorphological and immunophenotypic findings, the mammary tumour was diagnosed as a malignant adenomyoepithelioma with a papillary pattern.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671893/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42798635",
-      "title": "Case Report: Topical imiquimod (Aldara®) as a palliative option for extensive canine facial cutaneous melanocytoma.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "Cutaneous melanocytic neoplasms in dogs generally present as benign lesions, unlike their oral or digital counterparts, but treatment can be challenging when complete surgical excision is restricted by anatomical location. A 5-year-old neutered male Shiba Inu was evaluated for a firm, well-circumscribed, black-pigmented nodule measuring 4 × 3.8 cm on the left facial region, with surrounding pigmented papules. Histopathological examination of punch biopsy specimens confirmed cutaneous melanocytoma with superficial subcutaneous involvement observed in two samples. Complete surgical excision was not feasible due to the broad facial distribution of the nodule and surrounding papules. Consequently, topical immunotherapy with 5% imiquimod cream (Aldara®; 3 M Pharmaceuticals, St Paul, MN, USA) was initiated as a palliative treatment. After 5 months of treatment, the nodule decreased in size to 3.3 × 3.0 cm, became subjectively softer on palpation, and the number of surrounding papules decreased, with no observed adverse effects. Following discontinuation of treatment during a planned washout period before follow-up biopsy, the nodule increased in size, and histopathological findings remained consistent with the initial diagnosis. This case suggests that topical imiquimod may provide temporary clinical improvement and may be considered as a palliative or maintenance option for canine cutaneous melanocytoma when complete surgical excision is challenging.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798635/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
