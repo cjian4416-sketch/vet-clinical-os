@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-25T00:19:52.520198+00:00",
+  "updated_at": "2026-10-26T00:22:20.816016+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -291,6 +291,16 @@
       "publication_date": "2026-10",
       "abstract": "A 12-year-old female spayed Irish wolfhound presented with a 6-month history of weight loss, chronic vomiting and diarrhoea and a persistent progressive lymphocytosis with previously diagnosed CD8+ T-cell chronic lymphocytic leukaemia (CLL). CLL was initially diagnosed through flow cytometry of EDTA-preserved peripheral blood. The decision to treat was based on a progressive circulating neoplastic lymphocytic population in the face of clinical deterioration. Progressive clinical decline was identified in the several weeks after commencement of treatment with chlorambucil and pegylated asparaginase for progressive CLL. Repeated haemogram and blood smear were suggestive of a second morphologically distinct circulating neoplastic population. Repeated flow cytometry of peripheral blood was consistent with a concurrent acute myeloid leukaemia (AML) to previously identified CD8+ CLL. Emergence of AML coincided with development of upwards of five cutaneous lesions, with concern for leukaemia cutis. High-dose chemotherapy with vincristine (0.7 mg/m 2 ) was commenced. Despite more aggressive treatment, rapid clinical deterioration ensued, and euthanasia was elected. To the author's knowledge, this is the first report of diagnosis of concurrent AML and CLL in a dog.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869101/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42921401",
+      "title": "Case Report: Surgical treatment of feline pituitary apoplexy in 3 cases.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-10",
+      "abstract": "Surgical treatment of feline pituitary apoplexy has not been previously described. To describe the clinical course and follow-up of 3 cases of feline pituitary apoplexy. Cases were selected based on histopathological confirmation of pituitary masses with haemorrhagic lesions, following transsphenoidal hypophysectomy. Details of physical examination, diagnostic test results, treatment and follow-up course were retrospectively acquired by review of medical and imaging records. Two cats were presented with acute onset of neurologic signs (case 1 and 2), and one cat showed subacute endocrinological dysfunction (case 3). All cases underwent successful transsphenoidal hypophysectomy, followed by intensive care hospitalization and successful discharge. Pituitary apoplexy was identified by histopathological examination of the excised pituitary glands in cases 1, 2, and 3. Imaging findings compatible with pituitary apoplexy were present in all 3 cases, although only case 3 was imaged with a hemorrhage-sensitive sequence, providing unequivocal evidence of intralesional hemorrhage. Case 1 had a survival time at least 716 days, underwent a second transsphenoidal surgery because of tumor recurrence and was subsequently lost to follow-up. Case 2 had a survival time of at least 1,098 days and is still alive at the time of writing this manuscript. In case 3, tumor recurrence was identified radiologically (MRI) at 365 days, and it died during a course of radiation therapy 612 days after transsphenoidal hypophysectomy. Pituitary apoplexy is a rare condition that also affects cats with large pituitary adenomas. Overall, the cats experienced acceptable clinical recovery and postoperative survival, supporting the feasibility of transsphenoidal hypophysectomy as a therapeutic option for cats with pituitary tumors affected by apoplexy. Notably, a favorable outcome was observed even in the presence of remnant pituitary tissue, as illustrated by the cat that later developed pituitary tumor recurrence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921401/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "Bladder retroflexion associated with perineal hernia may cause urinary dysfunction, and surgical correction can be challenging after repeated procedures because of extensive adhesions and altered anatomy. An 11-year-old, 7.5 kg, castrated male Pomeranian was referred for recurrent bilateral perineal hernia, bladder retroflexion, and persistent urinary dysfunction after multiple perineal and abdominal surgeries. A previous attempt at abdominal bladder reduction and cystopexy had failed because adhesions prevented adequate mobilization of the bladder. During salvage surgery, bilateral perineal adhesiolysis was performed first to release the displaced urinary tract structures, followed by an abdominal approach to restore the bladder to its normal intra-abdominal position. Modified bilateral vas deferens pexy was then performed by fixing the residual vasa deferentia to the rectal wall, and each side of the pelvic diaphragm was reconstructed according to the available tissues and defect configuration. Retrograde urethrocystography performed 8 days postoperatively demonstrated short-term anatomical correction, with restoration of the normal positions of the bladder, bladder neck, and urethra. Urinary function gradually improved but had not completely normalized by 150 days. Without further objective imaging, long-term mechanical stability and prevention of recurrence could not be established. This case describes a multimodal salvage strategy for recurrent bilateral perineal hernia with markedly altered anatomy after repeated surgery.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42798003/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42797862",
-      "title": "Clinical Course, Laboratory Findings, and Tissue Distribution of Highly Pathogenic Avian Influenza A(H5N1) Virus in a Naturally Infected Domestic Cat.",
-      "journal": "Viruses",
-      "publication_date": "2026-09",
-      "abstract": "In June 2023, Poland experienced an unprecedented outbreak of highly pathogenic avian influenza (HPAI) H5N1 virus infections in cats, raising concerns about the role of cats in HPAI H5N1 virus ecology and potential public health implications. We describe the clinical course and molecular findings in a cat designated as cat No. 14 during this outbreak, with emphasis on the viral load detected in various organs and tissues. The cat was initially examined for recurrent dermatological problems, although the owner also reported reduced activity. Over the following five days, the disease rapidly progressed, with systemic and neurological signs unresponsive to treatment. Blood analyses revealed no major haematological abnormalities, whereas serial serum biochemistry showed progressive abnormalities. Due to the poor prognosis, the cat was humanely euthanized five days after the initial veterinary examination. Tissue samples from major internal organs and lymph nodes, together with tracheal and rectal swabs and bile, were collected for real-time RT-PCR. Viral RNA was detected in all analysed samples except the intestines, mesenteric lymph nodes, rectal swab, and bile, with the highest viral loads observed in the cerebellum and brain. This case provides molecular evidence of widespread HPAI H5N1 viral RNA distribution across tissues, complemented by detailed haematological and biochemical findings, further characterizing the systemic nature of infection.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797862/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
