@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-26T00:22:20.816016+00:00",
+  "updated_at": "2026-10-27T01:28:22.753302+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42928512",
+      "title": "Novel Therapy for Severe Bilateral Pyogranulomatous Blepharitis Secondary to Hyaluronic Acid Filler in a Dog.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2026-Nov",
+      "abstract": "A 9-year-old female spayed mixed breed dog was initially examined for severe bilateral entropion secondary to enophthalmos from chronic oral steroid use for immune-mediated thrombocytopenia as well as potential historic masticatory muscle myositis. Surgical intervention with entropion surgery was pursued; however, trichiasis secondary to laxity of the periocular muscles, eyelid tissues, and tarsal plate developed several months later. Hyaluronic acid (HA) filler (Alayna SG 24 Distinct, BSC Medical Devices GmbH, Munich, Germany) was injected into the superior and inferior eyelids of both eyes to correct recurrent ocular irritation. One month later, the patient developed severe, presumed pyogranulomatous blepharitis in both eyes suspected to be a delayed hypersensitivity reaction to the HA filler. The condition worsened despite medical management. Due to the patient's previous, chronic history of oral steroid use, the owners declined administration of oral steroids at that time. Oral Zenrelia (ilunocitinib) and topical neomycin-polymyxin-dexamethasone ointment were instituted, which resulted in a rapid resolution of the patient's clinical signs. This is the first known report of a dog experiencing a severe hypersensitivity reaction to hyaluronic acid used as an eyelid filler and successful treatment with Zenrelia for this purpose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928512/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A one-year-old, 48 kg, male neutered, Great Dane presented for bilateral thoracic limb lameness ascribed to an apparent developmental valgus deformity of both manus. Corrective radial-shaped osteotomies of the four weight-bearing metacarpal bones (II-V) were virtually planned based on CT scan data, and bone models of each corrected manus were three-dimensionally (3D)-printed, sterilized, and used intra-operatively to facilitate the procedure. Corrective radial-shaped osteotomies of metacarpals II-V were performed on the right and then left manus, nine weeks apart. In the right manus, metacarpal bones II, IV, and V were individually stabilized with bone plates and screws, while metacarpal bone III was stabilized with an intramedullary pin. Bone plates and screws were used to stabilize metacarpal bones II-V in the left manus. Postoperative alignment was deemed appropriate following both procedures. A caudally positioned splint was maintained for four weeks following each surgery, and all osteotomies obtained union within eight weeks of surgery. The dog was examined 79 weeks after the initial procedure and thoracic limb posture and gait were markedly improved. Virtual surgical planning (VSP) and printed bone models facilitated successful correction of this dog's deformities.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791776/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42798003",
-      "title": "Salvage Surgery Including Rectal Wall Vas Deferens Pexy for Recurrent Bilateral Perineal Hernia with Bladder Retroflexion in a Dog: A Case Report.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "Bladder retroflexion associated with perineal hernia may cause urinary dysfunction, and surgical correction can be challenging after repeated procedures because of extensive adhesions and altered anatomy. An 11-year-old, 7.5 kg, castrated male Pomeranian was referred for recurrent bilateral perineal hernia, bladder retroflexion, and persistent urinary dysfunction after multiple perineal and abdominal surgeries. A previous attempt at abdominal bladder reduction and cystopexy had failed because adhesions prevented adequate mobilization of the bladder. During salvage surgery, bilateral perineal adhesiolysis was performed first to release the displaced urinary tract structures, followed by an abdominal approach to restore the bladder to its normal intra-abdominal position. Modified bilateral vas deferens pexy was then performed by fixing the residual vasa deferentia to the rectal wall, and each side of the pelvic diaphragm was reconstructed according to the available tissues and defect configuration. Retrograde urethrocystography performed 8 days postoperatively demonstrated short-term anatomical correction, with restoration of the normal positions of the bladder, bladder neck, and urethra. Urinary function gradually improved but had not completely normalized by 150 days. Without further objective imaging, long-term mechanical stability and prevention of recurrence could not be established. This case describes a multimodal salvage strategy for recurrent bilateral perineal hernia with markedly altered anatomy after repeated surgery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798003/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
