@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-27T01:28:22.753302+00:00",
+  "updated_at": "2026-10-28T01:20:13.951947+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -265,12 +265,102 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42944208",
+      "title": "Primary Ciliary Dyskinesia with Secondary  Pseudomonas aeruginosa  Infection in a Dog: Endoscopic and Diagnostic Findings.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-10",
+      "abstract": "A 7-month-old, 3.6-kg, intact male Dachshund was presented with a lifelong history of chronic respiratory signs. Multiple courses of antimicrobial therapy resulted in partial or complete clinical improvement, followed by recurrence after treatment discontinuation. To investigate the underlying cause of the persistent respiratory disease, rhino-tracheobronchoscopy was performed. Bronchoalveolar lavage (BAL) fluid and respiratory mucosal biopsy specimens were collected for cytological, histopathological, and ultrastructural evaluation. Cytological examination of BAL fluid revealed septic neutrophilic inflammation, and bacterial culture yielded  P. aeruginosa.  Transmission electron microscopy (TEM) identified ultrastructural abnormalities of the ciliary axoneme in 50% of the examined respiratory cilia. Based on these findings, primary ciliary dyskinesia (PCD) was diagnosed. PCD is a rare congenital disorder characterized by structural and functional abnormalities of motile cilia, resulting in impaired mucociliary clearance and recurrent respiratory infections. This case highlights the diagnostic value of a detailed clinical history, endoscopic examination, and TEM in dogs with suspected PCD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944208/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42896698",
       "title": "A case of feline sparganosis caused by Spirometra asiana (Cestoda: Diphyllobothriidae) discovered during left forelimb amputation.",
       "journal": "Parasitology international",
       "publication_date": "2026-10",
       "abstract": "A large plerocercoid was incidentally found and removed during left forelimb amputation performed to treat a refractory wound in a cat rescued in Tokushima Prefecture, Japan. Molecular analysis of the mitochondrial cytochrome c oxidase subunit I gene identified the recovered worm as Spirometra asiana. This represents the first reported case of feline sparganosis caused by this species. Although the association between plerocercoid infection and the clinical signs remains unclear, outdoor cats may potentially harbor plerocercoids.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42896698/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42944205",
+      "title": "Pulmonary Neoplasms with Pleuropulmonary Blastoma-like Features in Two Young Labrador Retrievers: Clinicopathological, Molecular and Comparative Characterisation.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-10",
+      "abstract": "Pleuropulmonary blastoma (PPB) is a rare, paediatric, mesenchymal, pulmonary neoplasm that can be highly aggressive. To date, there are only two reports of PPB in animals. We describe the finding of pulmonary neoplasms with PPB-like features in two unrelated Labrador Retrievers. Both dogs presented with acute dyspnoea, pneumothorax and pulmonary lesions. Treatment consisted of emergency thoracostomy tube placement followed by lung lobectomy. At follow-up, one dog experienced no recurrence 20 months post-surgery, whereas recurrence developed in the second dog 2 years postoperatively. Histopathological examination revealed spindle-shaped neoplastic cells with blastematous-to-sarcomatous appearance, associated with cystic spaces lined by non-neoplastic respiratory epithelium. Immunohistochemistry showed that the neoplastic cells were positive for mesenchymal markers but negative for epithelial and neuroendocrine markers, with some tumour cells showing desmin positivity, supportive of myogenic differentiation, possibly compatible with rhabdomyoblastic differentiation. Genome profiling revealed a heterogeneous somatic landscape. No pathogenic somatic or germline  DICER1  variants were found. We compared these findings with those reported in human PPB. This is the first comprehensive analysis of pulmonary neoplasms with PPB-like features in animals, and reveals parallels with PPB in humans, further supporting the 'One Medicine' approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944205/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42944201",
+      "title": "Perioperative Glycemic Changes Following Partial Pancreatectomy for a Pancreatic Islet Cell Neoplasm in a Dog: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-10",
+      "abstract": "Canine insulinomas are functional pancreatic neuroendocrine tumors that typically cause hypoglycemia, but blood glucose may fluctuate before surgery and increase after resection. This report describes the diagnostic evaluation, surgical treatment, and perioperative glycemic course of a 12-year-old female Miniature Schnauzer with a pancreatic islet cell neoplasm considered clinically consistent with insulinoma. Intermittent low or low-normal blood glucose concentrations ranging from 54 to 72 mg/dL were documented before surgery, and the blood glucose concentration on the day of surgery was 73 mg/dL. Contrast-enhanced computed tomography identified a mass in the left pancreatic limb, and partial pancreatectomy was subsequently performed. Blood glucose reached 416 mg/dL 2 h after pancreatic mass removal while surgery was ongoing, then initially declined without insulin administration. Recurrent postoperative hyperglycemia was treated with regular insulin on postoperative days (PODs) 2 and 3, whereas subsequent decreases in blood glucose were treated with dextrose supplementation. Blood glucose continued to fluctuate on POD 4; no additional insulin was administered after POD 3. Histopathologic examination identified a pancreatic islet cell neoplasm. Although a paired serum insulin concentration during documented hypoglycemia was not available and immunohistochemical staining for insulin or other neuroendocrine markers was not performed, the clinical, imaging, glycemic, and histopathological findings were considered consistent with a clinicopathologic diagnosis of insulinoma. Blood glucose was 150 mg/dL on POD 7; subsequent recorded concentrations through POD 150 ranged from 107 to 133 mg/dL. Serial glucose monitoring helped characterize the perioperative course and guide postoperative insulin and dextrose treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944201/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42944196",
+      "title": "Cytologically Suggested Vulvar Involvement in a Dog with Multicentric Lymphoma After a Nodal Response to CHOP-Based Chemotherapy, with Discordant Clonality Results: A Case Report.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-10",
+      "abstract": "Involvement of the female reproductive tract is rare in canine lymphoma. A 9-year-old spayed female Maltese dog was presented with generalized lymphadenopathy. Cytology of a mandibular lymph node aspirate indicated large cell lymphoma, whereas PCR for antigen receptor rearrangement (PARR) of the same sample was polyclonal. Splenectomy confirmed splenic large cell lymphoma, classified as World Health Organization clinical stage IVa. After 12 cycles of a CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisolone)-based protocol, restaging computed tomography showed a marked reduction in all measurable lymph nodes, whereas gastric and subcutaneous nodules persisted. On Day 181 (168 days after the start of chemotherapy), vulvar swelling was noticed and progressed despite antimicrobial and anti-inflammatory treatment, together with inguinal lymphadenopathy. Disease progression was diagnosed by inguinal lymph node cytology, and rescue chemotherapy was started; however, the dog developed acute dyspnea and died two days later. Results reported after death showed a mixed monoclonal and polyclonal immunoglobulin heavy chain (IgH) pattern in the inguinal lymph node and a clonal IgH rearrangement in the vulvar aspirate, which was cytologically consistent with lymphoma. In dogs treated for lymphoma, vulvar swelling may reflect neoplastic infiltration, and PARR results may differ between samples obtained at different sites and time points.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944196/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42944195",
+      "title": "A Salivary Conglomerate with a Substantial Organic Component Mimicking a Mineral Sialolith in the Mandibular-Sublingual Gland Complex of a Dog.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-10",
+      "abstract": "Solid lesions of the mandibular-sublingual salivary gland complex are rare in dogs. We report the case of an 11-year-old, 5 kg, intact female Maltese dog that presented with a non-painful, 2-3 cm left cervical swelling, soft at the surface and firm in depth. Fine-needle aspiration yielded clear, sero-mucous fluid. Radiographs revealed a well-defined, ovoid radiopaque structure measuring 3.1 × 2.9 cm in the cranial cervical region. Mandibular and monostomatic sublingual sialoadenectomy via a ventral approach revealed a large, heart-shaped, solid conglomerate within the glandular complex. Histopathological examination confirmed glandular atrophy, fibrosis and sialoadenitis. Fourier-transform infrared (FTIR) spectrometry of the submitted fragments indicated a substantial organic, protein- and lipid-rich component, with additional bands suggesting a possible minor mineral component. The dog healed completely, with no recurrence detected at the 2-week examination. Limitations include the absence of cross-sectional imaging and elemental analysis and the limited clinical follow-up. This case shows that protein-rich solid conglomerates should be included in the differential diagnosis of cervical swellings in dogs, that radiopacity alone does not establish mineral composition, and that complete surgical excision was associated with a favourable short-term outcome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944195/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42939195",
+      "title": "Multimodal Postmortem Investigation of Fatal Thoracic Metallic Projectile Trauma in a Jindo Dog: Radiographic, Computed Tomographic, Necropsy, and Histopathological Findings.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-10",
+      "abstract": "Metallic projectile injuries in companion animals present complex diagnostic and evidentiary challenges, especially when comprehensive crime scene data and intact projectiles are absent. This report describes the forensic postmortem investigation of an adult male Jindo dog submitted by law enforcement authorities following fatal penetrating trauma in South Korea. Digital radiography identified multiple radiopaque metallic opacities in the left thoracic region, accompanied by severe pleural effusion and subcutaneous emphysema. Postmortem computed tomography (PMCT; 16-slice MDCT, 0.75-mm slice thickness) precisely delineated clustered hyperattenuating metallic fragments embedded in the left thoracic wall, an oblique displaced fracture of the left fourth rib, marked hemopneumothorax with compression atelectasis, and pneumomediastinum, while excluding cranial or abdominal injury. At necropsy, approximately 100 mL of pleural blood was evacuated, and through-and-through pulmonary transcapsular lacerations were identified traversing the right and left cranial lung lobes. Multiple deformed metallic fragments were recovered adjacent to the fractured rib under strict forensic chain-of-custody protocols. Histopathology of pulmonary laceration margins confirmed acute hemorrhage, fibrin deposition, and early neutrophilic margination, establishing an acute antemortem vital reaction (survival interval < 1 h). Histological examination of the cutaneous entry and exit margins revealed mechanical tearing without thermal coagulation or soot residue, consistent with an intermediate-to-distant discharge. The anatomical convergence of lesions supported a right-to-left projectile trajectory, with the left axillary defect presenting features compatible with a shored exit wound. Death was attributed to fatal acute hemopneumothorax and bilateral pulmonary laceration secondary to perforating metallic projectile injury. This case demonstrates the indispensable diagnostic and prosecutorial value of integrating digital radiography, PMCT virtopsy, forensic necropsy, and histopathology in veterinary medicolegal investigations of non-accidental trauma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939195/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42944191",
+      "title": "Transosseous Suture Fixation of an Inverted Palatal Mucoperiosteal Flap to Residual Buccal Alveolar Bone for Oronasal Fistula Repair in a Dog.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-10",
+      "abstract": "Advanced periodontal disease can compromise the recipient tissues available for flap fixation during oronasal fistula repair. This report describes double-layer repair of an acquired periodontal oronasal fistula in an eight-year-old castrated male Beagle. Radiographs and computed tomography (CT) identified regional bone loss and residual alveolar bone adjacent to the defect. Following extraction of the left maxillary canine and second premolar and debridement of the fistula margins, an inverted hard palatal mucoperiosteal flap was anchored to residual buccal alveolar bone through four transosseous bone holes created with an 18-gauge needle. Transosseous suture fixation used 4-0 polydioxanone simple interrupted sutures. A buccal mucosal advancement flap covered the inverted flap and palatal donor site; no interpositional graft was used. Healing without clinically evident dehiscence was documented on postoperative day 18, and nasal discharge had resolved by day 45. At 555 days, visual oral examination revealed an intact repair, with concordant CT findings obtained for an unrelated otologic indication. This case illustrates the use of residual buccal alveolar bone for palatal flap attachment when periodontal tissue loss limits gingival recipient margins, with maintained closure documented at late clinical and imaging reassessment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944191/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42939165",
+      "title": "Primary Erythrophagocytic Low-Grade Splenic T-Cell Lymphoma in a Cat: Clinical Case and Literature Review.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-10",
+      "abstract": "Lymphoma is a common hematopoietic neoplasm in cats; yet hepatosplenic forms remain rare. This report describes a unique case of low-grade erythrophagocytic splenic T-cell lymphoma with suspected peripheral blood involvement in a six-year-old neutered male domestic shorthair cat. The patient presented with severe non-regenerative macrocytic normochromic anemia and moderate splenomegaly. Blood smears revealed mononucleated cells exhibiting erythrophagocytosis. Splenic cytology and flow cytometry were consistent with a reactive process, leading to a presumptive diagnosis of immune-mediated anemia. The condition proved refractory to immunosuppressive therapy with prednisolone and cyclosporine. After splenectomy, histopathology showed diffuse erythrophagocytosis and white pulp hyperplasia. Definitive diagnosis was achieved only by PARR analysis, which demonstrated a monoclonal T-cell receptor gene rearrangement within a polyclonal background. This confirmed a neoplastic T-cell population despite the mature morphology of the lymphocytes. Treatment with chlorambucil and prednisolone resulted in progressive resolution of the anemia. The cat remains alive 13 months after splenectomy. This case highlights the diagnostic challenges of low-grade lymphomas, in which reactive features can mask neoplasia, and underscores the critical role of PARR analysis in differentiating monoclonal T-cell proliferation from complex reactive processes in feline splenic disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939165/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42939154",
+      "title": "Juvenile Spontaneous Mediastinal Hemorrhage with Suspect Trauma.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-10",
+      "abstract": "A 6-month-old intact female American Pitbull ( Canis lupus familiaris ) underwent forensic evaluation for suspected blunt force trauma. Postmortem computed tomography (PMCT) identified pleural hyperattenuating soft tissue attenuating material, consistent with clotted blood, pleural effusion, a large thymus, and moderate to severe cranial mediastinal expansion with mixed fluid and lower-attenuation, soft tissue attenuating material. Histology confirmed thymic hemorrhage, while autopsy identified hemothorax, pleural blood clots, and hemomediastinum, excluding trauma, most consistent with spontaneous idiopathic thymic hemorrhage. This case highlights the utility of identifying hyperattenuating clot formation on PMCT, like the sentinel clot sign, for localizing antemortem hemorrhage and improving antemortem-postmortem correlation in forensic investigations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939154/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -301,6 +391,16 @@
       "publication_date": "2026-10",
       "abstract": "A 12-year-old female spayed Irish wolfhound presented with a 6-month history of weight loss, chronic vomiting and diarrhoea and a persistent progressive lymphocytosis with previously diagnosed CD8+ T-cell chronic lymphocytic leukaemia (CLL). CLL was initially diagnosed through flow cytometry of EDTA-preserved peripheral blood. The decision to treat was based on a progressive circulating neoplastic lymphocytic population in the face of clinical deterioration. Progressive clinical decline was identified in the several weeks after commencement of treatment with chlorambucil and pegylated asparaginase for progressive CLL. Repeated haemogram and blood smear were suggestive of a second morphologically distinct circulating neoplastic population. Repeated flow cytometry of peripheral blood was consistent with a concurrent acute myeloid leukaemia (AML) to previously identified CD8+ CLL. Emergence of AML coincided with development of upwards of five cutaneous lesions, with concern for leukaemia cutis. High-dose chemotherapy with vincristine (0.7 mg/m 2 ) was commenced. Despite more aggressive treatment, rapid clinical deterioration ensued, and euthanasia was elected. To the author's knowledge, this is the first report of diagnosis of concurrent AML and CLL in a dog.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869101/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42936481",
+      "title": "Fibrostenotic intestinal stenosis associated with chronic enteropathy in two cats: case report.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-10",
+      "abstract": "Two cats presented with acute progressive vomiting. One cat (Case 1) received prednisolone for suspected chronic inflammatory enteropathy for 14 months. The cat showed hypoalbuminemia, hypocobalaminemia, small intestinal thickening, and focal jejunal stricture with severe proximal dilation on ultrasonography. Exploratory laparotomy confirmed the stricture, and histopathology revealed submucosal fibroplasia with mild lymphoplasmacytic enteritis. The cat died on postoperative day 12. Another cat (Case 2) showed proximal small intestinal obstruction on ultrasonography. A wide-margin resection of the obstructed lesion was performed. Histopathology revealed mild intestinal wall fibrosis with mesenteric inflammation. Masson's trichrome staining showed submucosal collagen bundles. Immunohistochemistry and clonality analysis by PCR for antigen receptor rearrangement supported the diagnosis of low-grade intestinal T-cell lymphoma. The cat recovered uneventfully and remained restenosis-free during prednisolone treatment for 12 months after surgery. Intestinal stenoses were identified during long-term medical management of chronic enteropathy. This suggests that the extent of the lesion and the surgical resection strategy could be relevant factors for management and prognosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936481/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -701,106 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "To describe staged pre-renal caudal vena cava (CVC) occlusion before en bloc right divisional hepatectomy with segmental caval resection in two dogs with right divisional hepatocellular carcinoma (HCC) involving the CVC. Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu). Short case series. Dog 1 (Siberian Husky) had prior hemoperitoneum and biopsy-confirmed HCC; dog 2 (Shih Tzu) had persistent liver enzyme elevations and a suspected hepatic tumor. Computed tomography (CT) showed right divisional masses (91.8 × 122.3 × 101.4 mm; 77.0 × 94.8 × 70.2 mm) with CVC compression or involvement and no pre-existing collateral venous return. A percutaneously controlled hydraulic occluder was placed around the pre-renal CVC. Gradual outpatient occlusion was performed over 79 and 44 days while monitoring saphenous venous pressure, renal values, and hindlimb edema. Complete CVC occlusion and collateralization were confirmed by CT before en bloc right divisional hepatectomy with segmental CVC resection. Macroscopically complete resection was achieved in both dogs. Complete HCC resection was confirmed histopathologically. Morbidity was limited to transient wound exudation in dog 1 and transient ascites in dog 2. No recurrence or metastasis was identified in dog 1 during follow-up. In dog 2, no clinical signs suggestive of recurrence or metastasis were reported. Survival after hepatectomy was 352 and 2467 days. Staged pre-renal CVC occlusion may establish collateral venous return and permit planned en bloc right divisional hepatectomy with segmental CVC resection in carefully selected dogs with right divisional HCC involving the CVC.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42764151",
-      "title": "Successful Treatment of Onchocerca lupi Auricular Infestation Causing Severe Otitis Externa in a Dog.",
-      "journal": "Veterinary dermatology",
-      "publication_date": "2026-09",
-      "abstract": "We report the first successfully treated case of auricular Onchocerca lupi infection in a dog in Switzerland, causing severe unilateral otitis externa. Diagnosis was confirmed by molecular analysis after nematode extraction. Combined therapy led to complete remission within 6 weeks, highlighting O. lupi as a differential for chronic otitis with mass formation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764151/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "41965316",
-      "title": "Encephalitic rabies following cat bites: two cases in northern Uganda.",
-      "journal": "Practical neurology",
-      "publication_date": "2026-09",
-      "abstract": "Although rabies continues to exert a major global health impact, only a very small minority of UK neurologists will ever have encountered cases, and many remain unfamiliar with its diagnosis and management. The recent death of a UK national, in Yorkshire, emphasises the importance of general neurologists having familiarity with the manifestations of rabies. Here, we describe two cases of Ugandan males who developed rapidly fatal encephalitic rabies following cat bites. We outline their clinical features and summarise current diagnostic and management approaches.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41965316/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42791805",
-      "title": "Urothelial Carcinoma in a Cat with Bilateral Ectopic Ureters.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "A 10-year-old neutered female Maine Coon was presented with haematuria, weight loss, polyuria/polydipsia and progressive azotaemia. Diagnostic imaging revealed bilateral renal pelvic dilation, ureteral distension and ectopic ureters. Bacterial pyelonephritis was diagnosed, but the azotaemia progressed despite antibiotic therapy, and suspected ureteral obstruction prompted surgical ureteral reimplantation. The visualisation of omental nodules and thickening of the ectopic right ureterovesicular junction intraoperatively raised suspicion of malignancy, and histopathology revealed urothelial carcinoma with carcinomatosis. The cat was euthanised postoperatively due to clinical deterioration, characterised by persistent oliguria and progressive azotemia. Clinicians should consider malignancy as a differential in cats with ectopic ureters and an atypical or refractory clinical course.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791805/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42828236",
-      "title": "Case Report: Clinical and magnetic resonance imaging findings in intracranial hemangiosarcoma in a cat.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "Hemangiosarcoma (HSA) is a highly malignant tumor of endothelial origin that is infrequently reported in cats, accounting for less than 2% of nonhematopoietic neoplasms. Feline HSA is typically classified into dermal and visceral subtypes, both of which exhibit metastatic potential. While HSA is the tumor most commonly reported to metastasize to the brain in dogs, intracranial involvement in cats remains rare, with only one previously documented metastatic case. This case report details the clinical presentation, magnetic resonance imaging (MRI) features, histopathological findings, and gross post-mortem brain changes in a cat diagnosed with intracranial hemangiosarcoma.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828236/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42798019",
-      "title": "Cytologic and Cytochemical Characterization of Blue-Green Neutrophilic Inclusions in a Dog with Suspected Transfusion-Associated Hemolysis.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "An 11-year-old castrated male Maltese dog presented with acute lethargy and non-regenerative anemia. Despite immunosuppressive therapy and an initial packed red blood cell (pRBC) transfusion, hematocrit levels progressively declined after transient improvement. A second transfusion was administered following compatible crossmatch testing. Within 24 h of the second transfusion, a transfusion-associated hemolytic episode was suspected due to a rapid hematocrit decline, pigmenturia, hyperbilirubinemia, and autoagglutination. Peripheral blood smear revealed neutrophils containing coarse blue-green cytoplasmic inclusions. Special staining and autofluorescence microscopy supported lipid-rich, acid-fast, and autofluorescent properties of the inclusions. Prussian blue staining showed iron-positive granular material in the hemolytic sample, but the intraneutrophilic inclusions did not show distinct Prussian blue reactivity, making hemosiderin-rich sideroleukocytes unlikely to fully explain the findings. Similar inclusions have recently been characterized in dogs, mainly in association with severe hepatocellular injury, pancreatitis, and poor short-term outcomes; however, their occurrence during acute clinical deterioration associated with suspected post-transfusion hemolysis has not been specifically documented. The dog died three days after inclusion detection. This case expands the clinical settings in which blue-green leukocyte cytoplasmic inclusions may be encountered in dogs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798019/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42824097",
-      "title": "Case report: Long-term local control of recurrent lymphatic malformations using minocycline sclerotherapy following surgical resection in a dog.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "Lymphatic malformation is a benign congenital vascular anomaly that is rarely reported in veterinary medicine. Complete surgical excision is extremely challenging because the boundary between the abnormal and normal tissues is poorly defined, which frequently results in recurrence. A 3-year-6-month-old castrated male mixed-breed dog (Chihuahua × Miniature Dachshund) presented with recurrent lymphatic malformations in the left inguinal and peripenile regions. The lesion had previously been surgically excised at another hospital but recurred shortly after surgery. Despite long-term prednisolone therapy, the lesion gradually enlarged, resulting in gait disturbance and decreased activity. Extensive surgical excision was performed at our hospital; however, early postoperative recurrence was observed. Repeat sclerotherapy with minocycline was subsequently administered for the recurrent cystic lesions. The large cystic lesions resolved or remained controlled after treatment, and long-term suppression of lesion progression was achieved. Although small residual lesions persisted, the dog maintained good activity and gait without marked progression at 535 days postoperatively. In addition, amplicon-based targeted deep sequencing of the PIK3CA hotspot regions did not identify any pathogenic variants. This case suggests that repeated minocycline sclerotherapy may represent a potential minimally invasive treatment option for canine lymphatic malformations that are difficult to control with surgical excision alone.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42824097/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42798016",
-      "title": "Non-Oliguric IRIS Grade V Acute Kidney Injury Associated with Suspected Leptospirosis in an Urban Dog Unvaccinated Against Leptospirosis from the Republic of Korea: A Case Report.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "Leptospirosis is a zoonotic disease that can cause severe acute kidney injury (AKI) in dogs. A three-year-old intact male Border Collie, unvaccinated against leptospirosis, with a history of exposure to urban stagnant water presented with acute vomiting, diarrhea, and moderate dehydration. Initial evaluation revealed extreme azotemia (blood urea nitrogen, 175.8 mg/dL; creatinine, 11.10 mg/dL) and hyperphosphatemia (13.6 mg/dL), consistent with International Renal Interest Society (IRIS) AKI Grade V; urine output remained within the non-oliguric range (2.15-3.0 mL/kg/h) throughout the catheterized period (Day 0-4). Clinical and imaging findings supported acute intrinsic renal injury over chronic kidney disease. A multiplex real-time PCR targeting the  Leptospira LipL32  gene was positive in urine (Ct 31.10), providing molecular evidence supporting active infection or shedding of pathogenic  Leptospira  spp., without identifying the infecting serovar. Empirical antimicrobial therapy targeting suspected leptospirosis, together with intravenous fluid therapy, was initiated on clinical suspicion prior to the PCR result. Renal and inflammatory biomarkers improved progressively over 22 days without extracorporeal kidney support; the patient's non-oliguric status, hemodynamic stability, and objective clinical improvement supported this management approach. This report documents, in detail, the clinicopathological recovery trajectory of a dog with non-oliguric IRIS Grade V AKI associated with suspected leptospirosis, information that may assist clinicians in recognizing and managing similarly severe presentations without assuming that dialysis is always required.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798016/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42798009",
-      "title": "Resolution of Regenerative Anemia, Thrombocytopenia, and Syncope After Cytoreduction of an Infiltrative Angiolipoma in a Dog: A Case Report.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-09",
-      "abstract": "Angiolipomas are uncommon benign mesenchymal neoplasms composed of mature adipocytes and proliferating vascular channels. In dogs, infiltrative angiolipomas are rarely reported and have primarily been described as localized soft-tissue masses. An 11-year-old, 10.8 kg, castrated male Japanese Spitz was referred for evaluation of regenerative anemia, mild thrombocytopenia, recurrent syncopal episodes, and a 5-year history of a slowly enlarging ventral thoracic mass. Preoperative hematological evaluation demonstrated anemia with a hematocrit of 25.4% and an increased absolute reticulocyte count of 122.7 K/µL, supporting a regenerative erythropoietic response. The platelet count was mildly decreased at 109 × 10 3 /µL. D-dimer concentration was increased (737.61 ng/mL; reference interval, 0-250 ng/mL), whereas prothrombin time (9.5 s; reference interval, 5-15 s) and activated partial thromboplastin time (15.6 s; reference interval, 15-45 s) were within their reference intervals. Referral history indicated that previous infectious and immune-mediated evaluations had not identified a definitive cause, although the original external testing records were unavailable for verification. Computed tomography revealed a heterogeneous subcutaneous mass with mixed fat- and soft-tissue-attenuating components, suspected infiltration of the superficial pectoral muscle, and focal rather than diffuse contrast enhancement. Surgical cytoreduction, including partial myectomy, was performed because complete excision was not considered feasible owing to deep muscular infiltration. Histopathological examination confirmed an infiltrative angiolipoma characterized by mature adipocytes, numerous vascular channels, skeletal muscle infiltration, and frequent intravascular fibrin thrombi. Following surgery, the hematological abnormalities progressively improved without blood transfusion or long-term immunosuppressive therapy. The platelet count increased from 109 × 10 3 /µL preoperatively to 153 × 10 3 /µL by postoperative day 16 and 202 × 10 3 /µL by postoperative day 56. During the same period, the hematocrit increased from 25.4% to 45.0%, and the absolute reticulocyte count subsequently returned to the reference interval. The syncopal episodes ceased after surgery and did not recur during the available 12-month follow-up. Fibrinogen concentration and peripheral blood smear evaluation were unavailable, and serial postoperative coagulation testing was not performed. Accordingly, the temporal association between tumor cytoreduction and hematological improvement raises the possibility of a tumor-associated process, but neither the underlying mechanism nor a causal relationship could be established.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798009/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42797638",
-      "title": "Rapid Clinical Improvement Temporally Associated with Off-Label LetiFend ®  Vaccination in Canine Leishmaniasis: A Case Report.",
-      "journal": "Vaccines",
-      "publication_date": "2026-09",
-      "abstract": "Canine leishmaniasis (CanL), caused by  Leishmania infantum , can be difficult to manage in dogs with severe clinical disease, particularly when established treatments are impractical or poorly tolerated. We report an approximately 3-year-old mixed-breed dog from Sardinia with clinically manifest CanL, anemia, thrombocytopenia, marked hyperglobulinemia, and an immunofluorescence antibody test titer of 1:4000. The dog's condition deteriorated during allopurinol treatment, with profound lethargy, vomiting, diarrhea, and complete refusal of food and water. Because escalation to combination leishmanicidal therapy (meglumine antimoniate or miltefosine) was considered clinically unsuitable in the severely debilitated patient, allopurinol monotherapy was discontinued after 18 days without clinical improvement, and one full commercial dose of the recombinant vaccine LetiFend ®  was administered subcutaneously off-label. No immediate adverse reaction was observed. Clinical improvement became apparent within approximately 10 days, and near-normal activity returned within three weeks. During follow-up, hematological parameters normalized and serum protein electrophoresis showed an increased albumin/globulin ratio and a reduced gamma-globulin fraction. Domperidone was subsequently introduced as long-term immunomodulatory follow-up, and allopurinol was temporarily reintroduced after transient laboratory deterioration in 2024; the dog remained clinically healthy through July 2026. The close temporal association is clinically noteworthy but cannot establish causality. This hypothesis-generating observation supports controlled investigation of therapeutic vaccination as a potential complementary approach in canine leishmaniasis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797638/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42791776",
-      "title": "Three-Dimensional Planning and Surgical Correction of Bilateral Developmental Valgus Deformity of the Manus in a Dog.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-09",
-      "abstract": "A one-year-old, 48 kg, male neutered, Great Dane presented for bilateral thoracic limb lameness ascribed to an apparent developmental valgus deformity of both manus. Corrective radial-shaped osteotomies of the four weight-bearing metacarpal bones (II-V) were virtually planned based on CT scan data, and bone models of each corrected manus were three-dimensionally (3D)-printed, sterilized, and used intra-operatively to facilitate the procedure. Corrective radial-shaped osteotomies of metacarpals II-V were performed on the right and then left manus, nine weeks apart. In the right manus, metacarpal bones II, IV, and V were individually stabilized with bone plates and screws, while metacarpal bone III was stabilized with an intramedullary pin. Bone plates and screws were used to stabilize metacarpal bones II-V in the left manus. Postoperative alignment was deemed appropriate following both procedures. A caudally positioned splint was maintained for four weeks following each surgery, and all osteotomies obtained union within eight weeks of surgery. The dog was examined 79 weeks after the initial procedure and thoracic limb posture and gait were markedly improved. Virtual surgical planning (VSP) and printed bone models facilitated successful correction of this dog's deformities.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791776/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
