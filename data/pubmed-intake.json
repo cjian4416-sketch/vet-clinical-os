@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-29T01:47:15.613431+00:00",
+  "updated_at": "2026-10-30T01:57:07.415766+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -341,6 +341,16 @@
       "publication_date": "2026-10",
       "abstract": "Advanced periodontal disease can compromise the recipient tissues available for flap fixation during oronasal fistula repair. This report describes double-layer repair of an acquired periodontal oronasal fistula in an eight-year-old castrated male Beagle. Radiographs and computed tomography (CT) identified regional bone loss and residual alveolar bone adjacent to the defect. Following extraction of the left maxillary canine and second premolar and debridement of the fistula margins, an inverted hard palatal mucoperiosteal flap was anchored to residual buccal alveolar bone through four transosseous bone holes created with an 18-gauge needle. Transosseous suture fixation used 4-0 polydioxanone simple interrupted sutures. A buccal mucosal advancement flap covered the inverted flap and palatal donor site; no interpositional graft was used. Healing without clinically evident dehiscence was documented on postoperative day 18, and nasal discharge had resolved by day 45. At 555 days, visual oral examination revealed an intact repair, with concordant CT findings obtained for an unrelated otologic indication. This case illustrates the use of residual buccal alveolar bone for palatal flap attachment when periodontal tissue loss limits gingival recipient margins, with maintained closure documented at late clinical and imaging reassessment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42944191/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42952495",
+      "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-10",
+      "abstract": "A 10-year-old female spayed mixed-breed dog was presented with a history of seizures and acute progressive intracranial signs. The neurological examination was consistent with multifocal brain disease. Clinical examination revealed ecchymoses, petechiae, and bilateral retinal hemorrhage. Clinicopathological evaluation identified severe thrombocytopenia [a platelet count of 9 × 10 3 /μL without clumps on manual smear evaluation] with an increased mean platelet volume. Coagulation testing (activated partial thromboplastin time and prothrombin time) and fibrinolysis markers (D-dimers, quantitative fibrinogen), infectious disease screening, and thoracic and abdominal imaging were within normal limits, establishing a diagnosis of primary immune-mediated thrombocytopenia (ITP). Magnetic resonance imaging (MRI) of the brain showed minimally expanded, bilateral crescent-shaped, extra-axial fluid accumulations overlying both cerebral hemispheres. Based on T1-weighted and T2-weighted hyperintensities and peripheral susceptibility artifact on T2*-weighted gradient-recalled echo (GRE) imaging, a late subacute subdural intracranial hemorrhage was diagnosed. Despite initial uneventful anesthesia and recovery, the dog experienced acute neurological deterioration and suffered cardiopulmonary arrest, suspected due to ongoing hemorrhage or brain herniation. This report describes a rare neurological manifestation of primary ITP in a dog. While canine ITP generally carries a favorable prognosis, life-threatening secondary intracranial hemorrhage can occur. Primary ITP should be considered as a differential diagnosis for an acute, progressive neurological presentation until a normal platelet count is confirmed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952495/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-09",
       "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the medulla oblongata was left  in situ  owing to the potential risk of severe complications from removal. Occipitocervical stabilization surgery was performed to prevent further damage from instability. A patient-specific titanium implant was designed by CAD and fabricated by CNC milling, and screws were applied to the occiput and C1 vertebra using standard techniques, whereas a screw was inserted transversely into the C2 spinous process to minimize the risk of implant failure from neck flexion. Postoperative computed tomography (CT) confirmed proper implant placement without neural injury. Over time, the patient showed improvements in hypoglossal dysfunction and gait, and was discharged on postoperative day five. Occipital condyle fractures are rare in both veterinary and human medicine, with most cases classified as type 1 or 2, and typically do not require surgical intervention. To the best of our knowledge, this is the first peer-reviewed description of surgical stabilization of an occipital condyle fracture in a dog using a patient-specific, CNC-milled titanium implant. Conservative management of occipital condyle fracture and surgical stabilization of craniocervical junction fractures have been described previously, and the contribution of the present report lies in the implant design and fabrication workflow rather than in the surgical management of craniocervical injury  per se .",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840741/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42807950",
-      "title": "Total ear canal ablation for the treatment of auricular hemangiosarcoma in a cat: case report.",
-      "journal": "Brazilian journal of veterinary medicine",
-      "publication_date": "2026-09",
-      "abstract": "Ear neoplasms are growths that commonly affect light-coated, unpigmented felines exposed to prolonged sunlight. Another factor associated with these growths is the constant tissue trauma caused by intense pruritus in cases of chronic otitis. Any tissue making up the structure of the pinna can undergo changes and initiate pathogenic cell proliferation. In this context, cutaneous hemangiosarcomas may arise from alterations in the ear's vascular endothelium, albeit less frequently. This report describes the case of a 12-year-old, white, mixed-breed cat with a history of prior pinnectomy and local recurrence. To treat the new lesion, total ear canal ablation combined with cryotherapy of the surgical bed was selected to maximize recurrence-free survival. Histopathological analysis of the surgical specimen confirmed a moderate grade hemangiosarcoma associated with chronic otitis, with clear margins. The patient was referred to for oncological follow-up and remains free of recurrence one year after the procedure.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42807950/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
