@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-10-30T01:57:07.415766+00:00",
+  "updated_at": "2026-10-31T01:35:16.477026+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,46 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42960229",
+      "title": "Carotid body carcinoma in a French bulldog treated with toceranib phosphate.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-11",
+      "abstract": "Carotid body tumors are rare neuroendocrine neoplasms in dogs, and evidence-based treatment options for malignant or unresectable cases remain poorly defined. An 8-year-old castrated male French bulldog was presented with a large cervical mass accompanied by progressive respiratory distress, neurologic abnormalities, and exophthalmos. Computed tomography revealed multiple, highly vascularized cervical masses with extensive local invasion, including nasopharyngeal obstruction and intracranial extension. Partial surgical excision was undertaken for diagnostic purposes, and histopathologic examination confirmed carotid body carcinoma with intravascular invasion. Because of incomplete surgical resection and malignant features, targeted therapy was initiated. Based on  in vitro  chemosensitivity testing, toceranib phosphate was selected. Following treatment, clinical signs related to mass effect improved, nasopharyngeal obstruction was alleviated, and increased intratumoral necrosis was suspected on follow-up imaging. Adverse effects were mild and manageable. The dog remained clinically stable for ~5 mo after targeted therapy but was subsequently lost to follow-up. On a later follow-up  via  telephone, the owner reported that the dog had died 6 mo after initiation of targeted therapy. Key clinical message: This case suggests that toceranib may represent a potential therapeutic option for dogs with unresectable or incompletely resected carotid body carcinoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960229/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42960181",
+      "title": "Clinical and  18 F-FDG PET/CT imaging features in a dog with bacterial sepsis of unknown origin.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-11",
+      "abstract": "Positron emission tomography with 2-deoxy-2-[fluorine-18] fluoro-D-glucose integrated with computed tomography ( 18 F-FDG PET/CT) imaging identified infection and inflammation earlier and with higher sensitivity than other imaging modalities in human medicine. A small case series explored the use of  18 F-FDG PET/CT for detecting the cause of fever of unknown origin in dogs. This report details clinical aspects and  18 F-FDG PET/CT imaging in the workup and treatment of a 12-year-old dog that was presented obtunded with severe neutropenia and hypoglycemia secondary to suspected sepsis. The  18 F-FDG PET/CT revealed moderate, patchy FDG avidity and soft-tissue swelling of the left carpus and tarsus (SUV max: 7.18 and SUV max: 5.58, respectively), moderate heterogeneous splenic and hepatic hypermetabolic activity (SUV max: 3.42), and bilaterally symmetric renal hypermetabolic activity (SUV max: 6.22) without appropriate flourine-18 fluorodeoxyglucose ( 18 F-FDG) excretion. Other notable findings included marked, diffuse  18 F-FDG uptake within all bone marrow spaces (SUV max: 15.47) and a generalized, mild lymphadenopathy with moderate hypermetabolic activity. Positive blood cultures confirmed sepsis. Clinical deterioration despite appropriate antibiotic and supportive therapy prompted euthanasia. Necropsy revealed lymphohistiocytic and neutrophilic necrotizing vasculitis with thrombosis and necrosis in heart, spleen, brain, and liver, consistent with septicemia.  Enterococcus faecium  was isolated from lungs, kidneys, and spleen;  Serratia marcescens  was isolated from lungs and kidneys. This is the first documented report of the use of  18 F-FDG PET/CT for the diagnostic workup of a septic patient in veterinary medicine with corroborative necropsy findings to confirm PET/CT suspicion of disseminated septicemia. Key clinical message: Positron emission tomography with 2-deoxy-2-[fluorine-18] fluoro-D-glucose integrated with computed tomography imaging, which combines the functional, metabolic information from a PET scan with the high-resolution anatomical detail from a CT scan, should be considered as an adjunctive imaging modality for the diagnostic workup to identify focal and systemic infections in veterinary medicine. This is critical for immunocompromised animals in which timely and accurate diagnosis is of utmost importance, either for guiding case management and clinical outcome or for guiding owners through difficult decisions when the prognosis is guarded to poor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960181/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42959866",
+      "title": "Ultrasonographic features and clinical outcome of an anaplastic carcinoma arising from a uterus masculinus in an intact, non-cryptorchid male dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-11",
+      "abstract": "A 6-year-old intact male dog was referred because of persistent hematuria despite multiple courses of antimicrobial therapy. Urogenital ultrasonography revealed a large, paraprostatic, uterus-like, fluid-filled structure containing echogenic fluid, associated with an adjacent large, heterogeneous mass located cranially and to the right of the lesion. These findings raised suspicion for malignant transformation of a uterus masculinus associated with persistent Müllerian duct syndrome. Exploratory laparotomy confirmed the presence of a uterus masculinus with blind-ended uterine horns, associated adhesions, and a large mass arising from the right cranial aspect. Surgical excision of the abnormal structure and orchiectomy were carried out. Histopathology confirmed an anaplastic carcinoma of Müllerian origin arising from persistent Müllerian duct remnants. The tumor exhibited highly aggressive biological behavior characterized by extensive local invasion. There was rapid clinical deterioration after surgery, including imaging findings consistent with pulmonary, hepatic, and peritoneal metastatic disease, ultimately leading to euthanasia 5 wk after diagnosis. Key clinical message: Persistent Müllerian duct remnants should be considered as a differential diagnosis for paraprostatic cavitary lesions in intact male dogs, even in the absence of cryptorchidism. Malignant transformation of a uterus masculinus, though rare, may exhibit highly aggressive biological behavior with rapid metastatic dissemination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959866/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42958886",
+      "title": "Treatment of Refractory Vomiting With Traditional Chinese Veterinary Medicine in Two Dogs and a Cat: A Cases Series.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Refractory vomiting in dogs and cats is a common clinical condition in small animal practice, typically characterized by recurrent vomiting, belching and related symptoms, which is a great challenge to veterinarians. According to Traditional Chinese Veterinary Medicine (TCVM), this condition is primarily attributed to dysfunction of the spleen and stomach in transformation and transportation, leading to the upward rebellion of stomach Qi. Derived from the Shang Han Lun (Treatise on Cold Damage), Xuanfu Daizhe Decoction functions to direct rebellious Qi downward, resolve phlegm, tonify Qi and harmonize the stomach. It is mainly indicated for conditions resulting from stomach Qi counter flow. In this report, three cases of refractory vomiting in two dogs and a cat diagnosed as stomach Qi rebellion according to TCVM were treated with modified Xuanfu Daizhe Decoction based on syndrome differentiation. The results showed that all three cases achieved favourable therapeutic outcomes. These findings suggest that, for refractory vomiting caused by stomach Qi rebellion in dogs and cats, individualized treatment with modified Xuanfu Daizhe Decoction based on specific clinical presentations can achieve stable and reliable efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958886/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -241,6 +281,26 @@
       "publication_date": "2026-03",
       "abstract": "Porcupine quill injuries have been reported in the veterinary literature as the source of a wide range of complications affecting separate body regions and organ systems, particularly in dogs from specific geographic locations. However, migration of porcupine quills involving the temporomandibular joint and its clinical consequences have not been previously reported. This report describes the first documented case of a dog presenting with trismus and a draining tract in the area of the left zygomatic arch several weeks following a porcupine encounter. The dog was referred as a consequence of the unsuccessful initial management of the injuries and the associated clinical signs. For this reason, advanced diagnostic imaging, including ultrasonography and computed tomography, was performed to investigate the possible cause. Surgical management for resolution of the clinical signs involved resection of the zygomatic arch, followed by partial resection of the lateral aspect of the mandibular condylar process for retrieval of the quill fragments.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41906387/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42957413",
+      "title": "Medial Tympanic Membrane Displacement in Five Dogs Resembling Tympanic Membrane Retraction in Humans.",
+      "journal": "Veterinary dermatology",
+      "publication_date": "2026-10",
+      "abstract": "Five dogs with head tilt, ataxia, incoordination or deafness without a history of otitis externa (OE) were diagnosed with otitis media by computed tomography (CT) or magnetic resonance imaging (MRI). Otoendoscopy showed possible tympanic membrane retraction with opaque, fibrotic membranes and advanced imaging showed middle ear involvement. The clinical significance requires further investigation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957413/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42961286",
+      "title": "Effects of pre-membrane acidification on extracorporeal CO2 removal compared with conventional ECCO2R in mechanically ventilated animal models: a preclinical systematic review protocol.",
+      "journal": "Critical care science",
+      "publication_date": "2026-10",
+      "abstract": "To systematically evaluate the effect of pre-membrane blood acidification, compared with conventional extracorporeal carbon dioxide removal without acidification, on extracorporeal - carbon dioxide elimination in large animal models undergoing mechanical ventilation. This protocol is prospectively registered in PROSPERO and will be conducted in accordance with PRISMA-P guidelines. We will include preclinical experimental studies in large animals (e.g., swine, sheep, goats, cattle, or dogs) evaluating pre-membrane acidification associated with extracorporeal carbon dioxide removal. We will conduct electronic searches in PubMed®, Web of Science, Scopus, Embase, and Google Scholar from database inception to December 2025, without language restrictions. Two independent reviewers will conduct study selection, data extraction, and risk-of-bias assessment using the SYRCLE tool. The primary outcome will be extracorporeal carbon dioxide elimination. When appropriate, we will conduct meta-analyses using random-effects models. We will standardize carbon dioxide elimination values by body weight (mL/kg/minute) to improve comparability across species. This review will provide a structured synthesis of preclinical evidence regarding the magnitude and consistency of the effect of pre-membrane acidification on carbon dioxide elimination, ventilatory parameters, and adverse events. By systematically evaluating available experimental data, this review aims to clarify the potential role of pre-membrane acidification as an adjunctive strategy to extracorporeal carbon dioxide removal and to identify knowledge gaps relevant for future translational and clinical research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961286/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -743,66 +803,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42086106/",
       "status": "pending_review",
       "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
-    },
-    {
-      "pmid": "42012404",
-      "title": "The benefits of multidisciplinary collaboration in the successful management of two complex feline cases.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-04",
-      "abstract": "Despite a frequent misconception that behavioural concerns are diagnoses of exclusion, medical conditions and behavioural disorders are frequently inter-related. In human medicine, the 'multidisciplinary team' approach (MDTA) is considered the most efficacious way of managing patients with complex and chronic health conditions. The case series illustrates how the MDTA for complex veterinary cases improves diagnosis, treatment and management for positive long-term outcomes in feline patients' health and welfare. Feline patient 1, a 2-year-old spayed domestic shorthair cat, presented for repeated episodes of self-trauma to her face and other areas. Detailed diagnostics explored dermatological, behavioural and neurological differential diagnoses. No single diagnosis could completely explain the feline patient's clinical signs or behaviour. A treatment plan involving medication, environmental management and behaviour modification was implemented to improve her health and welfare. Feline patient 2, a 3-year-old spayed domestic long-haired cat, presented after surgical removal of a trichobezoar (second surgery). The diagnostic work-up considered dermatological, behavioural and gastrointestinal causes. A working diagnosis was made of anxiety disorder with possible compounding factors of gastrointestinal and dermatological conditions. The treatment plan included medication, environmental management and behaviour modification. The overgrooming and fur ingestion behaviours resolved, and long-term strategies maintained physical and emotional health and welfare. Without the MDTA, neither feline patient would have received effective care. Using the MDTA for managing complex veterinary cases provides skilful assessment in determining aetiologies, treatment of complex conditions, and identification and management of contributing factors, which may affect and predict flare-ups. The MDTA improves outcomes for owners, feline patients and the veterinary teams who care for them.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42012404/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "41906864",
-      "title": "Successful Treatment of Idiopathic Follicular Mucinosis in a Golden Retriever: Clinical, Dermoscopic and Histopathological Findings.",
-      "journal": "Veterinary dermatology",
-      "publication_date": "2026-03",
-      "abstract": "Follicular mucinosis is a rare form of alopecia in dogs characterised by deposition of mural mucin, leading to hair loss, favouring the face, neck and limbs. This report documents its histopathological features, dermoscopic findings, clinical course and successful treatment in a golden retriever dog with follicular mucinosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41906864/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42603145",
-      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
-      "journal": "Veterinary surgery : VS",
-      "publication_date": "2026-08",
-      "abstract": "To describe the technique and outcome of a rostral labial pivot flap variant in dogs. Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap. Short case series. Rostral lip and paranasal defects with concurrent nasal mucosal involvement resulting from tumor resection were reconstructed using the rostral labial pivot flap and its variants, including incorporation of a mucosal island flap ± nasal rotation flap for modification of lip heights. Medical records were reviewed for all dogs that underwent tumor resection followed by reconstruction with a rostral labial pivot flap technique and its modifications. The rostral labial pivot flap and its variants provided acceptable outcomes in four dogs for reconstruction of rostral lip and paranasal defects. Incorporation of a mucosal island flap was effective for nasal mucosal reconstruction, and use of a nasal rotation flap to reduce tension and address lip height discrepancy resulted in acceptable outcomes. Two dogs experienced minor complications, including an oronasal fistula and mild narial stenosis, neither of which was associated with clinical signs. All dogs were considered to have normal function and quality of life at follow-up. The rostral labial pivot flap can be a reasonable and adaptable option for reconstruction of rostral lip and paranasal defects in dogs. Acceptable cosmetic and functional outcomes with low morbidity were observed in this series; however, additional cases are needed to better define success rates and complications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "41889221",
-      "title": "Canine Sarcoidosis Treated Successfully With Oclacitinib: A Case Report.",
-      "journal": "Veterinary dermatology",
-      "publication_date": "2026-03",
-      "abstract": "A male Finnish Lapphund presented with widespread papular skin lesions, which were diagnosed as cutaneous sarcoidosis based on histopathological results. Multiple diagnostic techniques, including bacterial and fungal culture, special staining, electron microscopy and in situ hybridisation, failed to identify a specific causative agent. Remission was achieved with oral oclacitinib.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41889221/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42785426",
-      "title": "Successful management of nesidioblastosis in a dog with persistent hyperinsulinemic hypoglycemia following staged bilateral partial pancreatectomies.",
-      "journal": "Topics in companion animal medicine",
-      "publication_date": "2026-09",
-      "abstract": "Nesidioblastosis is a rare but important differential diagnosis for hyperinsulinemic hypoglycemia in dogs, a condition most commonly associated with insulinoma. A nine-year-old spayed female dog was presented with recurrent episodes of collapse and documented hyperinsulinemic hypoglycemia. Diagnostic imaging failed to identify a pancreatic mass, prompting exploratory laparotomy with left partial pancreatectomy and regional lymphadenectomy. Histopathological examination excluded insulinoma and established a diagnosis of nesidioblastosis. Although clinical signs initially resolved following surgery, hypoglycemia recurred 45 days later, prompting a right partial pancreatectomy. Following the second procedure, the patient remained euglycemic and free of clinical signs, without evidence of clinical diabetes mellitus or exocrine pancreatic insufficiency throughout an eight-month follow-up period. This case underscores the importance of considering nesidioblastosis in dogs with hyperinsulinemic hypoglycemia when a pancreatic mass is not identified. Furthermore, this case suggests that recurrence after unilateral partial pancreatectomy may occur because of the diffuse nature of nesidioblastosis. In this patient, staged bilateral partial pancreatectomy was associated with sustained glycemic control and clinical remission, without clinically apparent endocrine or exocrine pancreatic dysfunction during an eight-month follow-up period.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785426/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42840741",
-      "title": "Surgical management of an unstable occipital condyle fracture in a dog using a patient-specific CNC-milled titanium implant: a case report.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-09",
-      "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the medulla oblongata was left  in situ  owing to the potential risk of severe complications from removal. Occipitocervical stabilization surgery was performed to prevent further damage from instability. A patient-specific titanium implant was designed by CAD and fabricated by CNC milling, and screws were applied to the occiput and C1 vertebra using standard techniques, whereas a screw was inserted transversely into the C2 spinous process to minimize the risk of implant failure from neck flexion. Postoperative computed tomography (CT) confirmed proper implant placement without neural injury. Over time, the patient showed improvements in hypoglossal dysfunction and gait, and was discharged on postoperative day five. Occipital condyle fractures are rare in both veterinary and human medicine, with most cases classified as type 1 or 2, and typically do not require surgical intervention. To the best of our knowledge, this is the first peer-reviewed description of surgical stabilization of an occipital condyle fracture in a dog using a patient-specific, CNC-milled titanium implant. Conservative management of occipital condyle fracture and surgical stabilization of craniocervical junction fractures have been described previously, and the contribution of the present report lies in the implant design and fabrication workflow rather than in the surgical management of craniocervical injury  per se .",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840741/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
   ]
 }
