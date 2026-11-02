@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-01T01:08:25.579539+00:00",
+  "updated_at": "2026-11-02T01:29:59.389464+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -205,6 +205,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42643073",
+      "title": "Three-dimensional printed dorsal occipitocervical fixation in a dog with atlantoaxial instability and concurrent incomplete ossification of the atlas.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-08",
+      "abstract": "A 5-year-old, male, neutered, Border Collie presented to a referral hospital with marked cervical hyperaesthesia, uncharacteristic aggression and progressive tetraparesis. The dog was diagnosed with chronic, dynamic atlantoaxial instability and incomplete ossification of the atlas using combined advanced cross-sectional imaging. Traditional surgical approaches rely on adequate bone stock from both the atlas and the axis to achieve robust fixation, which would have been challenging in this case. Descriptive surgical techniques are lacking for this presentation due to its rarity. The owner consented to a novel surgical technique that used a three-dimensional (3D) printed titanium alloy plate to achieve dorsal occipitocervical fixation. A single screw deviated from it's intended corridor in the calvarium by 2.43 mm. The dog demonstrated transient worsening of neurological deficits and regained full ambulation 4 weeks post operative. 3D printing is becoming a popular adjunct in evolving surgical techniques and can be considered in both traditional and rare presentations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42643073/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42636554",
       "title": "Corneal stromal metastasis of urothelial carcinoma in a dog.",
       "journal": "Research in veterinary science",
@@ -221,6 +231,16 @@
       "publication_date": "2026-08",
       "abstract": "An 8-y-old, castrated male Korean Shorthair cat was presented to a veterinary clinic for evaluation of a cutaneous mass on the left inner thigh. Microscopic examination revealed a poorly circumscribed dermal neoplasm composed of poorly granulated, pleomorphic neoplastic mast cells with frequent cell-in-cell structures. Notably, viable neoplastic mast cells were engulfed by large macrophages, indicating a specific form of the cell-in-cell phenomenon. Immunohistochemistry for c-KIT, IBA1, and cleaved caspase-3 was used to support the diagnosis. To our knowledge, cell-in-cell phenomenon has not been previously described in feline cutaneous mast cell tumors, nor has the clinical outcome of such cases been reported.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42625303/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42533391",
+      "title": "Polioencephalomyelitis and neuronal necrosis caused by canine parvovirus-2a variant in free-ranging juvenile mountain lions ( Puma concolor ).",
+      "journal": "Veterinary pathology",
+      "publication_date": "2026-07",
+      "abstract": "Canine parvovirus 2a (CPV-2a) causes severe enteritis and diarrhea in unvaccinated domestic puppies and wild mesocarnivores, such as raccoons ( Procyon lotor ). A retrospective and prospective study was conducted to characterize CPV-induced encephalomyelitis in mountain lions ( Puma concolor ) from California. Four free-ranging juvenile mountain lions were euthanized due to severe neurological signs. Microscopically, multifocal neuronal necrosis, lymphoplasmacytic perivascular cuffing, and gliosis were primarily observed in the gray matter of the brain and spinal cord in all the studied animals. Rare intranuclear inclusion bodies were observed in the brainstem of 1 animal. All animals lacked microscopic and macroscopic evidence of enteritis. The association between the lesions and CPV-2 was confirmed by quantitative polymerase chain reaction (qPCR) and immunohistochemistry, which revealed the presence of viral DNA in nervous tissue and antigen in numerous necrotic neurons, respectively. Detection of  CPV-2  mRNA by quantitative reverse transcription-PCR and nucleic acids by in situ hybridization indicated viral transcription in the necrotic neurons. Negative-contrast transmission electron microscopy revealed Parvoviridae particles in the brain, suggesting viral replication and assembly. Molecular sequencing in 2 cases detected a CPV-2a variant with amino acid substitutions previously observed in other wild carnivores. Although rare, CPV-2a is a potential cause of neurological signs in juvenile mountain lions without evidence of diarrhea or enteritis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533391/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -291,6 +311,16 @@
       "publication_date": "2026-03",
       "abstract": "Porcupine quill injuries have been reported in the veterinary literature as the source of a wide range of complications affecting separate body regions and organ systems, particularly in dogs from specific geographic locations. However, migration of porcupine quills involving the temporomandibular joint and its clinical consequences have not been previously reported. This report describes the first documented case of a dog presenting with trismus and a draining tract in the area of the left zygomatic arch several weeks following a porcupine encounter. The dog was referred as a consequence of the unsuccessful initial management of the injuries and the associated clinical signs. For this reason, advanced diagnostic imaging, including ultrasonography and computed tomography, was performed to investigate the possible cause. Surgical management for resolution of the clinical signs involved resection of the zygomatic arch, followed by partial resection of the lateral aspect of the mandibular condylar process for retrieval of the quill fragments.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41906387/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42965615",
+      "title": "Sarcocystis sp. infection associated to encephalomyelitis and myositis in a Brazilian dog.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-10",
+      "abstract": "Sarcocystis sp.-induced disease is known especially in horses, in which S. neurona is the primary causative agent of Equine Protozoal Myeloencephalitis in the Americas. While horses are aberrant hosts, the range of susceptible species includes marine mammals, raccoons, and cats. Reports of clinical disease in dogs are rare, remaining unreported in South America. This study describes the clinical, pathological, and immunohistochemical findings of a naturally occurring, fatal case of meningoencephalomyelitis and myositis caused by Sarcocystis sp. in a dog in Brazil. A 5-year-old mixed-breed bitch presented with acute non-ambulatory tetraparesis, generalized muscle atrophy, and blindness. Despite supportive therapy, the patient deteriorated and was euthanized. Gross findings included enlarged lymph nodes, moderate splenomegaly and hepatomegaly, with multifocal mild fibrin deposition on the liver capsule, accompanied by multifocal mild hemorrhages in the pancreas. Histopathology demonstrated severe, multifocal necrotizing meningoencephalomyelitis, myositis, splenitis, lymphadenitis and interstitial pneumonia, associated with intralesional protozoal schizonts. Immunohistochemistry supported immunolabelling consistent with Sarcocystis sp. while excluding Toxoplasma gondii and Neospora caninum. To the authors' knowledge, this represents the first report of clinical canine sarcocystosis with this severity in South America supported by histopathological and immunohistochemical findings. These findings support that Sarcocystis sp. should be considered a differential diagnosis for canine progressive neurological disease, highlighting the potential role of wildlife reservoirs in the disease's epidemiology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42965615/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -773,36 +803,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42538318/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42425879",
-      "title": "[Pasteurella multocida septic arthritis in a native joint: Management dilemmas in a penicillin-allergic patient].",
-      "journal": "La Revue de medecine interne",
-      "publication_date": "2026-07",
-      "abstract": "Pasteurella multocida is a common zoonotic, but it can also lead to invasive forms such as septic arthritis, particularly in immunocompromised patients. We report a 53-year-old man with well-controlled HIV, who presented with acute wrist arthritis following a cat scratch. He had a documented history of penicillin anaphylaxis, leading clinicians to avoid β-lactam antibiotics in the acute setting in the absence of immediate allergological evaluation. Synovial fluid culture grew P. multocida susceptible to several alternative antibiotics. After failure of doxycycline and intolerance to trimethoprim-sulfamethoxazole, treatment with levofloxacin led to a favorable outcome. The absence of a drainable collection allowed conservative management, with complete recovery after six weeks of antibiotic therapy. This case highlights the therapeutic challenges of P. multocida arthritis in a penicillin-allergic patient living with well-controlled HIV infection. Despite universal susceptibility to β-lactams, sequential alternative regimens were required due to drug intolerance. The favorable outcome without surgery underscores the importance of individualized antibiotic strategies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425879/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42338289",
-      "title": "CT-confirmed complete duplication of the renal pelvis and ureter in a dog.",
-      "journal": "The Journal of small animal practice",
-      "publication_date": "2026-06",
-      "abstract": "PubMed 未提供摘要。",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42338289/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42264194",
-      "title": "Clinical manifestations and management of Androctonus bicolor envenomation in a dog: A previously undescribed clinical case.",
-      "journal": "Toxicon : official journal of the International Society on Toxinology",
-      "publication_date": "2026-06",
-      "abstract": "The black fat tailed scorpion (Androctonus bicolor) is one of the most venomous native scorpion species in Israel. Its venom induces widespread autonomic overstimulation, resulting in severe cardiovascular, respiratory, and neuromuscular manifestations. Veterinary scorpion envenomation reports are scarce, and Canine Androctonus bicolor envenomation remains undocumented in the literature. A 10-year-old male dog was presented three hrs. following a witnessed Androctonus bicolor envenomation. Immediate clinical signs included dyspnea, hypersalivation, and collapse. The scorpion was identified by the Israeli Nature and Parks Authority. On presentation, the dog was non-ambulatory, and tachypneic. A small puncture wound was observed over the right hind paw. Immediate treatment included analgesia, antihistamine, and intravenous fluids. The dog developed nystagmus, muscle spasms, and generalized hypertonicity with tachycardia and high systolic blood pressure. Midazolam and phenobarbital were required to achieve muscle relaxation. Three days post admission the dog presented marked clinical improvement and was discharged, however, five days after discharge, the dog was re-presented with tremors, inappetence, hematochezia, hyperthermia, mild tachycardia with occasional ventricular premature complexes, and labored breathing. Bloodwork revealed an elevated C-reactive protein concentration and mild increased pancreatic lipase activity, consistent with systemic inflammation and mild pancreatitis. Supportive therapy was instituted, and clinical improvement was observed within 24 hours from the second admission. The dog was discharged and remained well. This is the first documented case of Androctonus bicolor envenomation in a dog. It highlights the prominent neurological and autonomic manifestations associated with this species in a canine patient, and importantly, identifies concurrent pancreatitis as a newly recognized potential sequela in veterinary patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42264194/",
-      "status": "pending_review",
-      "review_note": "Metadata intake only. Validate species, clinical relevance, evidence and local applicability before training use."
     }
   ]
 }
