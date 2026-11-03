@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-02T01:29:59.389464+00:00",
+  "updated_at": "2026-11-03T03:27:47.838248+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42969429",
+      "title": "Unilateral Hormonally Active Testicular Sertoli Cell Tumour and Feminization Syndrome in a Bernese Mountain Dog With Normally Descended Testes.",
+      "journal": "Reproduction in domestic animals = Zuchthygiene",
+      "publication_date": "2026-Nov",
+      "abstract": "To describe the clinical presentation, diagnostic workup and successful outcome of a hormonally active testicular Sertoli cell tumour (SCT) in a non-cryptorchid Bernese Mountain Dog. A 10-year-old intact male dog was evaluated with a history of progressive alopecia, gynaecomastia and haematuria. Diagnostic investigations included complete blood count, serum biochemistry, oestradiol assay, abdominal and testicular ultrasonography, preputial cytology and histopathological examination following bilateral orchiectomy. Clinical signs included bilaterally symmetrical alopecia, hyperpigmentation and a pendulous prepuce. Laboratory findings revealed mild non-regenerative anaemia and severe hyperestrogenism (oestradiol: 119 pg/mL). Preputial cytology showed a predominance of superficial epithelial cells (> 80%), supporting the state of hyperestrogenism. Ultrasonography identified a large, vascularized left testicular mass and cystic prostatic changes. Histopathology confirmed an SCT. Following surgery, clinical signs and laboratory abnormalities resolved completely within 9 months. This case emphasizes that SCTs should be a differential diagnosis for feminization syndrome in older dogs even without cryptorchidism. It also highlights preputial cytology as a rapid and effective minimally invasive tool for the preliminary identification of hyperestrogenism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969429/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -791,16 +801,6 @@
       "publication_date": "2026-Oct",
       "abstract": "A 14-month-old, male castrated, 3,9-kg Singapura cat was referred for treatment of severe pulmonary valve stenosis associated with tricuspid valve dysplasia. The cat was pretreated with atenolol and scheduled for pulmonary balloon valvuloplasty. Because the right femoral vein could not accommodate a 5 Fr introducer, vascular access was obtained via the left external jugular vein, followed by right ventricular catheterisation, pressure measurement and angiography. A 10 mm low pressure balloon catheter was advanced over a guidewire to the level of the pulmonary valve and inflated once, resulting in complete loss of the balloon waist. During the procedure, the cat was severely hypotensive for 30 minutes, lasting from the time of ca-theterisation of the right ventricular outflow tract until nearly the end of anaesthesia. Postoperative tachypnoea was attributed to congestive heart failure, although aspiration pneumonia could not be excluded. The patient was discharged the day after the intervention following a single dose of furosemide and received amoxicillin-clavulanate for ten days. Echocardiography after eleven days, three months and 16 months demonstrated a marked and sustained reduction of the transvalvular pressure gradient. The cat showed an improved activity level after the procedure, which persisted over the 16-month follow-up period.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42834632/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42538318",
-      "title": "Adjunctive Huperzine A for owner-directed aggression associated with hypersensitivity-hyperactivity syndrome in a dog: a case report.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-07",
-      "abstract": "A 7-month-old female Golden Retriever was referred for owner-directed aggression occurring during intense emotional arousal and characterised by a limited ability to down-regulate arousal and inhibit impulsive motor patterns. Episodes were most frequently triggered by restraint or physical contact (including during vehicle entry/exit) and by attempts to remove acquired objects and had resulted in grade-3 bites per the Dunbar bite scale. Clinical assessment was consistent with hypersensitivity-hyperactivity syndrome (HSHA), an ADHD-like neurodevelopmental condition described in dogs and associated with hyperactivity, impulsivity and reduced behavioural inhibition. A multimodal treatment plan including environmental management and structured behaviour modification was implemented. Fluoxetine was initiated at approximately 0.9 mg/kg/day and was associated with a marked reduction in aggressive incidents and improved arousal regulation. A subsequent attempt to increase the fluoxetine dose to improve residual impulsivity resulted in a 50% reduction of appetite (approximately), necessitating a return to the prior dose. Huperzine A, a Chinese club moss alkaloid and centrally acting acetylcholinesterase inhibitor with additional neuroprotective effects, was then added at 200 μg orally every 12 h. Following adjunctive huperzine A, the dog showed further improvement in behavioural inhibition and impulse control with additional reductions in arousal-linked impulsive behaviour and aggression and no reported adverse effects. This case highlights HSHA-associated owner-directed aggression and suggests that adjunctive huperzine A may be a useful option when dose-limiting adverse effects prevent optimisation of SSRI therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538318/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
