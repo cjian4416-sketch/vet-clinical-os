@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-03T03:27:47.838248+00:00",
+  "updated_at": "2026-11-04T02:19:21.812896+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -285,6 +285,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42425609",
+      "title": "Aggressive sarcoma in a young dog initially suspected to be trauma-associated.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-07",
+      "abstract": "PubMed 未提供摘要。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425609/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42415694",
       "title": "Characterization of  Escherichia marmotae , a novel pathogen causing urinary tract infection in a dog.",
       "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
@@ -295,12 +305,42 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42402371",
+      "title": "Gaze-evoked nystagmus in a dog with neuronal ceroid lipofuscinosis.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-07",
+      "abstract": "PubMed 未提供摘要。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402371/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42350911",
+      "title": "A case of successful surgical management of colonic duplication with pygomelia in a 2-month-old dog.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-06",
+      "abstract": "A 2-month-old crossbreed female dog was presented for investigation of multiple congenital malformations, including pygomelia and duplication of the anus. Computed tomography revealed a duplicated colon, a duplicated pelvis with associated supernumerary hind limbs, a perineal hernia and abnormalities of the left kidney and ureter. During surgical exploration, a third ovary with its associated uterine horn was also identified. Surgical management consisted of excision of the duplicated colon and anus, disarticulation of the supernumerary hind limbs and correction of the perineal hernia. Postoperative outcome was favourable, with resolution of dyschezia and only mild residual gait abnormalities. Bilateral medial patellar luxation was subsequently diagnosed and surgically treated, resulting in a good long-term functional outcome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42350911/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42310831",
       "title": "Disseminated histiocytic sarcoma in 2 FeLV-positive cats in Brazil.",
       "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
       "publication_date": "2026-06",
       "abstract": "Histiocytic sarcomas (HSs) are uncommon malignant neoplasms in cats, typically affecting older animals and not previously associated with feline leukemia virus (FeLV). Here, we describe 2 cases of disseminated HS in young FeLV-positive domestic shorthair cats that clinically and grossly mimicked lymphoma. Case 1, a 1-y-old female cat, was presented with hemiplegia and dysuria and was euthanized because of the clinical suspicion of spinal lymphoma. Case 2, a 4-y-old male cat, had hyporexia, ocular abnormalities, and bilateral renal enlargement and was euthanized because of the clinical suspicion of renal and ocular lymphoma. Both cases tested positive for feline leukemia virus (FeLV) infection with a SNAP test. At autopsy, case 1 had a white, irregular, intradural spinal cord mass at the C6-C7 segment, and case 2 had coalescing, unencapsulated, white nodules that effaced both renal cortices, along with uveal thickening in the left eye with hyphema. Both cases had highly pleomorphic neoplastic round-cell proliferation in neoplastic masses, with strong cytoplasmic labeling for vimentin and IBA1 on immunohistochemistry and no CD20 or CD3 labeling, confirming disseminated HS. The neoplastic cells also had strong cytoplasmic immunolabeling for FeLV, suggesting a possible oncogenic role of FeLV in feline HSs.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42310831/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42287022",
+      "title": "Transient marked reactive lymphocytosis in a puppy suspected to be secondary to recent vaccination.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-06",
+      "abstract": "A 3-month-old male Bernese Mountain dog was presented with a 10-day history of vomiting, vocalisation and abdominal discomfort following vaccination. Physical examination revealed subtle peripheral lymphadenopathy. Haematological testing revealed borderline anaemia, thrombocytopenia and moderate lymphocytosis with a high proportion of reactive or atypical lymphocytes. Cytology of the spleen and lymph nodes showed lymphoid hyperplasia, and PCR for antigen receptor rearrangement confirmed a polyclonal lymphocyte population with no evidence of clonal rearrangements of immunoglobulin or T-cell receptor genes. No treatment was initiated. Follow-up testing demonstrated spontaneous resolution of haematological abnormalities and normalisation of cytology within 30 days. Although causality cannot be established, a transient antigenic stimulation temporally associated with recent vaccination was considered among the possible explanations. This report highlights the importance of recognising benign reactive lymphocytosis that may mimic lymphoproliferative disease in young dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42287022/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -331,6 +371,16 @@
       "publication_date": "2026-10",
       "abstract": "Sarcocystis sp.-induced disease is known especially in horses, in which S. neurona is the primary causative agent of Equine Protozoal Myeloencephalitis in the Americas. While horses are aberrant hosts, the range of susceptible species includes marine mammals, raccoons, and cats. Reports of clinical disease in dogs are rare, remaining unreported in South America. This study describes the clinical, pathological, and immunohistochemical findings of a naturally occurring, fatal case of meningoencephalomyelitis and myositis caused by Sarcocystis sp. in a dog in Brazil. A 5-year-old mixed-breed bitch presented with acute non-ambulatory tetraparesis, generalized muscle atrophy, and blindness. Despite supportive therapy, the patient deteriorated and was euthanized. Gross findings included enlarged lymph nodes, moderate splenomegaly and hepatomegaly, with multifocal mild fibrin deposition on the liver capsule, accompanied by multifocal mild hemorrhages in the pancreas. Histopathology demonstrated severe, multifocal necrotizing meningoencephalomyelitis, myositis, splenitis, lymphadenitis and interstitial pneumonia, associated with intralesional protozoal schizonts. Immunohistochemistry supported immunolabelling consistent with Sarcocystis sp. while excluding Toxoplasma gondii and Neospora caninum. To the authors' knowledge, this represents the first report of clinical canine sarcocystosis with this severity in South America supported by histopathological and immunohistochemical findings. These findings support that Sarcocystis sp. should be considered a differential diagnosis for canine progressive neurological disease, highlighting the potential role of wildlife reservoirs in the disease's epidemiology.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42965615/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42970940",
+      "title": "Feline sporotrichosis caused by Sporothrix brasiliensis in Buenos Aires City, Argentina: Report of two zoonotic cases.",
+      "journal": "Journal de mycologie medicale",
+      "publication_date": "2026-10",
+      "abstract": "Sporotrichosis caused by Sporothrix brasiliensis is an emerging zoonosis in South America, with Brazil representing the epicenter of a major ongoing epizootic. In Argentina, human and feline cases have increased over the past decade, predominantly in the Buenos Aires metropolitan area. However, autochthonous zoonotic transmission within Buenos Aires City has not been previously documented. To describe the first documented feline and zoonotic outbreak caused by S. brasiliensis in Buenos Aires City, involving cat-to-cat and cat-to-human transmission. Two cats with ulcerative cutaneous lesions were evaluated at the Instituto de Zoonosis Luis Pasteur (Buenos Aires City) in 2025. Clinical samples were cultured, and isolates were identified by partial sequencing of the β-tubulin gene. Antifungal susceptibility testing was performed to determine the minimum inhibitory concentration (MIC) of itraconazole. Clinical evolution and treatment outcomes of both cats, as well as zoonotic transmission to the owner, were documented. Both isolates were identified as S. brasiliensis and showed an itraconazole MIC of 0.03 mg/L. Both cats were successfully treated with oral itraconazole, achieving clinical cure after approximately five months of therapy. Zoonotic transmission to the owner occurred in both cases, confirming the public health implications of feline sporotrichosis. These cases document the first recognized feline and zoonotic outbreak caused by S. brasiliensis in Buenos Aires City and provide evidence of cat-to-cat and cat-to-human transmission. The findings reinforce the emergence of S. brasiliensis in urban Argentina and highlight the need for a One Health approach integrating veterinary and human medicine to improve surveillance, early diagnosis, and disease control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970940/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -751,56 +801,6 @@
       "publication_date": "2026-04",
       "abstract": "To document the clinical signs, diagnosis, and outcomes in preweaned kittens with bromethalin toxicosis, and to determine the duration that desmethylbromethalin (DMB) can be measured in serum after bromethalin exposure in kittens. 5 litters of neonatal kittens with neurologic disease were evaluated. Two litters presented to a veterinary hospital for evaluation, and 3 litters presented for diagnostic investigation following euthanasia. In this retrospective study, physical and neurologic examinations were completed for 5 kittens, with serial follow-up examinations completed for 3 kittens. Autopsies were done in 10 kittens. Tissue (10 kittens) or serial serum samples (3 kittens) were analyzed with LC-MS-MS for DMB. 12 preweaned kittens were diagnosed with bromethalin toxicosis on the basis of clinical signs, autopsy, and measurement of DMB in tissue (n = 10) or serum (2). Ten kittens were tested for and diagnosed with bromethalin exposure on the basis of marked white matter vacuolization on histopathology. Three kittens in 1 litter were diagnosed with bromethalin exposure antemortem directed by autopsy results of 3 littermates. Two of the 3 kittens developed neurologic signs of bromethalin toxicosis that resolved within 6 weeks; the third kitten remained clinically normal. Serum monitoring detected DMB in the surviving kittens for > 30 days after presentation. Bromethalin toxicosis occurs in preweaned kittens, and neurologic signs are not uniformly predictive of a grave prognosis. The laboratory detection of DMB in serum can be a useful method for confirming exposure up to 46 days after exposure.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42019545/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846400",
-      "title": "Bilateral cranial polyneuropathy associated with an intracranial mass in a cat with concurrent tonsillar lymphoma.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "A 14-year-old spayed female Siamese cat was presented with signs consistent with a rapidly progressive cranial polyneuropathy. Magnetic resonance imaging of the brain revealed an extra-axial mass at the calvarial floor, extending caudally to involve bilateral trigeminal nerves and rostrally to involve the pituitary gland and optic chiasm. Additional findings included contrast-enhancing content within the bilateral tympanic bullae, mild mandibular and medial retropharyngeal lymphadenopathy, and a left tonsillar mass. Cytologic and histopathologic findings confirmed tonsillar lymphoma. The concurrent intracranial mass and the middle ear content were presumed to represent the same disease process, but the diagnosis was not confirmed. Oral glucocorticoid and lomustine were effective in resolving the dropped jaw and facial hypoesthesia. Neurogenic dry eye and corneal hypoesthesia also improved gradually, leading to complete resolution of secondary bilateral corneal ulcers by 20 wk after initiation of the oral chemotherapy. The cat remained in clinical remission throughout this period and survived for 166 d after the diagnosis. This is the first report of tonsillar lymphoma without oropharyngeal clinical signs in a cat presented with signs suggestive of concurrent intracranial involvement, leading to a rapidly progressive bilateral cranial polyneuropathy. Key clinical message: Lymphoma should be considered as an important differential diagnosis in cats with cranial polyneuropathy. Feline tonsillar lymphoma can exhibit concurrent central nervous system involvement without detectable disease in other organs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846400/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846313",
-      "title": "A rare case of aphakia associated with anterior segment malformation in a cocker spaniel puppy.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "This report describes a rare case of bilateral congenital aphakia with anterior segment malformation in a 12-week-old male cocker spaniel puppy. The puppy was initially suspected of having glaucoma and was subsequently diagnosed with anterior segment dysgenesis and aphakia resulting in blindness. Ophthalmic examination showed corneal opacity, absence of pupillary openings, and negative pupillary light reflexes. B-mode and high-frequency ultrasonography showed absence of the lens, poorly defined anterior chambers, and hyperechoic tissue adherent to the cornea, consistent with anterior segment dysgenesis. Unlike in similar cases in other species, enucleation was not indicated due to ocular stability and absence of discomfort. The puppy demonstrated functional adaptation to blindness and remained under close ophthalmic monitoring. This case underscores the diagnostic value of ultrasonography in identifying congenital aphakia and associated anterior segment abnormalities in dogs, facilitating early diagnosis and management. Key clinical message: Congenital aphakia is a rare developmental ocular abnormality that may occur with other anterior segment defects. Ocular ultrasonography is a valuable, noninvasive, diagnostic tool for evaluating intraocular structures when direct intraocular examination is not possible.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846313/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42015578",
-      "title": "Canine Maxillofacial Parosteal Osteosarcoma: A Retrospective Case Evaluation in 10 Dogs.",
-      "journal": "Journal of veterinary dentistry",
-      "publication_date": "2026-04",
-      "abstract": "Parosteal osteosarcoma (OSA) is a subtype of surface OSA that is considered slow growing with a less aggressive biological behavior compared to central OSA and, therefore, carries a better prognosis with surgical excision. Parosteal OSA has a predilection for the skull in dogs with documented more frequent occurrences on the zygoma, maxilla, or coronoid process of the mandible, all of which present unique challenges to the oral surgeon. Ten cases of parosteal OSA of the canine maxillofacial bones are summarized and discussed in this report. The most common bone of origin was the caudal maxilla and/or zygoma in 50% of tumors. Exophthalmos was a prominent clinical sign noted in 40% of dogs. Median survival time was 14 months, with a one-year survival rate of 60%. Metastasis to the lungs was suspected in three cases. The histopathological diagnosis of parosteal OSA is crucially dependent on diagnostic imaging. When a primary bone tumor of the maxillofacial bones is suspected, it is essential for the oral surgeon and pathologist to collaborate to provide informed guidance on surgical planning, anticipated long-term outcomes, and clinical monitoring for these patients. The goals of this retrospective study are to identify key clinical and radiographic features, improve recognition for accurate diagnosis, and establish treatment recommendations for canine maxillofacial parosteal OSA.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42015578/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846286",
-      "title": "Laryngeal rhabdomyosarcoma in a dog treated with surgery and palliative-intent radiation therapy.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "Primary laryngeal tumors are rare in dogs and may cause severe airway obstruction. Euthanasia is frequently elected because of the severity of clinical signs and the challenges associated with surgical treatment. A 3-year-old spayed female Italian greyhound dog was referred because of recurrence of a laryngeal rhabdomyosarcoma following incomplete surgical removal of a laryngeal mass. Residual tumor progression was identified 15 d after surgery and the dog was referred for further evaluation. Computed tomography revealed a soft-tissue mass within the right laryngopharyngeal wall, showing central contrast enhancement. The owner declined additional aggressive surgery and radiation therapy was delivered. A total radiation dose of 24 Gy was delivered in 4 weekly fractions. Clinical signs improved following treatment and tumor reduction was observed 168 d after initiation of radiation therapy. The dog remained clinically stable with sustained tumor reduction at the last follow-up, 742 d after initiation of radiation therapy. This case suggests that limited surgical management followed by radiation therapy may represent a viable treatment option and may lead to favorable long-term clinical outcomes in dogs with laryngeal rhabdomyosarcoma. Key clinical message: Limited surgical removal followed by radiation therapy may represent a treatment option for dogs with laryngeal rhabdomyosarcoma.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846286/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42834632",
-      "title": "Percutaneous balloon valvuloplasty in a small cat with pulmonary valve stenosis and concomitant tricuspid valve dysplasia.",
-      "journal": "Schweizer Archiv fur Tierheilkunde",
-      "publication_date": "2026-Oct",
-      "abstract": "A 14-month-old, male castrated, 3,9-kg Singapura cat was referred for treatment of severe pulmonary valve stenosis associated with tricuspid valve dysplasia. The cat was pretreated with atenolol and scheduled for pulmonary balloon valvuloplasty. Because the right femoral vein could not accommodate a 5 Fr introducer, vascular access was obtained via the left external jugular vein, followed by right ventricular catheterisation, pressure measurement and angiography. A 10 mm low pressure balloon catheter was advanced over a guidewire to the level of the pulmonary valve and inflated once, resulting in complete loss of the balloon waist. During the procedure, the cat was severely hypotensive for 30 minutes, lasting from the time of ca-theterisation of the right ventricular outflow tract until nearly the end of anaesthesia. Postoperative tachypnoea was attributed to congestive heart failure, although aspiration pneumonia could not be excluded. The patient was discharged the day after the intervention following a single dose of furosemide and received amoxicillin-clavulanate for ten days. Echocardiography after eleven days, three months and 16 months demonstrated a marked and sustained reduction of the transvalvular pressure gradient. The cat showed an improved activity level after the procedure, which persisted over the 16-month follow-up period.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42834632/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
