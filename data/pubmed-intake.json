@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-04T02:19:21.812896+00:00",
+  "updated_at": "2026-11-05T02:27:10.275855+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42977705",
+      "title": "Primary Erythrocytosis (Polycythaemia) in a Neutered Male Dog Presenting With Right Hindlimb Lameness.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "A 2-year-old male entire Cocker Spaniel was referred for investigation of progressive right hindlimb lameness and polyuria and polydipsia. Investigations conducted by the primary care veterinary surgeon revealed erythrocytosis (haematocrit of 78%, reference interval: 37%-55%) and urine concentration consistent with polyuria and polydipsia (specific gravity 1.014). Upon referral, physical examination revealed a dark red oral mucosa and right hindlimb lameness, characterised by intermittent non-weight bearing of the limb when standing. Neurological examination only revealed a mild short-strided gait, and orthopaedic examination was unremarkable. Secondary causes of erythrocytosis were excluded by normal arterial blood gas, low erythropoietin levels and normal thoracic and abdominal imaging, resulting in a diagnosis of primary erythrocytosis (PE). Focal ultrasonography identified a right external iliac venous thrombus, suspected to be the cause of the right hindlimb lameness and presumed to be associated with the PE. Initial management involved repeated phlebotomies, followed by long-term treatment with hydroxyurea (31 mg/kg twice weekly) and rivaroxaban (2 mg/kg once daily). At the 5-month recheck, the dog was asymptomatic, with resolution of the iliac thrombus and a normal haematocrit. This case highlights an unusual presentation of PE in a dog, not previously described in the veterinary literature, and re-examines the discussion on the optimal management of this rare condition, with a focus on the necessity of antithrombotic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977705/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -91,6 +101,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Filarial nematodes cause significant illness worldwide, including lymphatic and subcutaneous filariases in tropical regions. Dirofilaria asiatica is a recently described canine filarioid increasingly implicated in zoonotic human infections. Here, we report a patent infection in a child in Sri Lanka who had persistent microfilaraemia after 2 rounds of diethylcarbamazine treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42912415/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42874233",
+      "title": "Removal of a lodged endotracheal tube in an anaesthetised French Bulldog using manual laryngeal stabilisation and neuromuscular blockade, and subsequent complications.",
+      "journal": "Veterinary anaesthesia and analgesia",
+      "publication_date": "2026-09",
+      "abstract": "A 5-year-old, female neutered French Bulldog presented under anaesthesia with an endotracheal tube (ETT) lodged in the larynx. Cuff inflation and deflation, application of lubricant, ETT rotation, and repeated traction did not allow ETT removal. The ETT was successfully removed under neuromuscular blockade with manual laryngeal stabilisation: the left thumb pressed against the epiglottis intraorally and the left index and middle fingers gripped the larynx externally to immobilise the larynx. The right-hand applied traction to the ETT, which could then be extracted. The dog's larynx obstructed on recovery from anaesthesia with suspected temporary laryngeal paralysis. The dog was managed with a tracheostomy tube for 3 days and made a good recovery. The dog presented in respiratory distress 4 weeks later with tracheal stenosis that was successfully treated with tracheal resection and anastomosis. This case report describes the use of neuromuscular blockade and manual laryngeal stabilisation to remove a lodged ETT and reflects on the subsequent complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874233/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "This case report describes the occurrence of soft tissue sarcoma at the surgical site of partial tarsal arthrodesis in 2 dogs within 8 mo after surgery. Surgical correction was uncomplicated in both cases, and the dogs did clinically well postoperatively, until masses were noted over the surgical sites. Each dog underwent amputation of the affected leg, as the masses were deemed unresectable. This report describes an uncommon potential complication of partial tarsal arthrodesis in dogs. Key clinical message: The cases reported herein are apparently the first descriptions of soft tissue sarcoma as a possible surgical complication related to partial tarsal arthrodesis in the dog. They highlight soft tissue sarcoma as a differential diagnosis to consider for surgical site swellings of the tarsus; however, further studies are needed to confirm these findings.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42846432/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846404",
-      "title": "Sequential thoracoscopic thoracic duct occlusion and intra-abdominal lymphatic intervention for feline refractory idiopathic chylothorax.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "Surgical management of feline idiopathic chylothorax remains unpredictable, with reported success rates varying widely despite combined procedures. We report a case of refractory idiopathic chylothorax in a cat that was successfully managed through a strategic, sequential surgical approach guided by indocyanine green (ICG) fluorescence. Initially, the cat underwent thoracoscopic thoracic duct occlusion (TDO)  via  clipping, but chylous effusion persisted. A 2nd surgery was conducted to achieve definitive thoracic duct ligation using sutures combined with additional clipping, yet the effusion remained refractory. Computed tomography after the 2nd surgery revealed a focal convergence of lymphatic vessels within the abdominal cavity. Based on this, a 3rd intervention was undertaken, combining thoracoscopic TDO with laparoscopic intra-abdominal lymphatic vessel occlusion and a cisterna chyli incision. Real-time ICG fluorescence imaging allowed precise identification and addressing of complex lymphatic collaterals. Chylothorax completely resolved ~1 mo after this 3rd surgery. The cat remained complication-free with no recurrence for 324 d after surgery. This case demonstrated the efficacy of a multimodal, sequential strategy for refractory feline chylothorax, integrating computed tomography-based diagnostic evaluation with combined thoracoscopic and laparoscopic lymphatic interventions. This comprehensive, minimally invasive approach, enhanced by real-time ICG visualization, offers a potent therapeutic option when conventional, single-cavity treatments fail. Key clinical message: This report describes for the first time a sequential and minimally invasive surgical approach to treat feline idiopathic chylothorax, by combining completely endoscopic (thoracoscopic and laparoscopic), ICG-guided TDO, intra-abdominal lymphatic vessel occlusion, and cisterna chyli incision. Moreover, this case showed that ICG can be effectively and noninvasively administered to the paw pads, obviating the need for invasive abdominal surgery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846404/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42019545",
-      "title": "Clinical presentation and outcome of bromethalin toxicosis in preweaned kittens: a case series.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "publication_date": "2026-04",
-      "abstract": "To document the clinical signs, diagnosis, and outcomes in preweaned kittens with bromethalin toxicosis, and to determine the duration that desmethylbromethalin (DMB) can be measured in serum after bromethalin exposure in kittens. 5 litters of neonatal kittens with neurologic disease were evaluated. Two litters presented to a veterinary hospital for evaluation, and 3 litters presented for diagnostic investigation following euthanasia. In this retrospective study, physical and neurologic examinations were completed for 5 kittens, with serial follow-up examinations completed for 3 kittens. Autopsies were done in 10 kittens. Tissue (10 kittens) or serial serum samples (3 kittens) were analyzed with LC-MS-MS for DMB. 12 preweaned kittens were diagnosed with bromethalin toxicosis on the basis of clinical signs, autopsy, and measurement of DMB in tissue (n = 10) or serum (2). Ten kittens were tested for and diagnosed with bromethalin exposure on the basis of marked white matter vacuolization on histopathology. Three kittens in 1 litter were diagnosed with bromethalin exposure antemortem directed by autopsy results of 3 littermates. Two of the 3 kittens developed neurologic signs of bromethalin toxicosis that resolved within 6 weeks; the third kitten remained clinically normal. Serum monitoring detected DMB in the surviving kittens for > 30 days after presentation. Bromethalin toxicosis occurs in preweaned kittens, and neurologic signs are not uniformly predictive of a grave prognosis. The laboratory detection of DMB in serum can be a useful method for confirming exposure up to 46 days after exposure.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42019545/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
