@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-05T02:27:10.275855+00:00",
+  "updated_at": "2026-11-06T02:24:29.288865+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,56 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42716777",
+      "title": "Ovarian leiomyoma with an epithelioid differentiation in a dog.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-09",
+      "abstract": "A 12-years-3-months-old female Toy Poodle underwent ovariohysterectomy, and an 8-mm ovarian mass was incidentally identified on pathological examination. On the cut surface, the mass consisted of a yellowish-white solid oval area surrounded by a soft white crescent-shaped peripheral area. Histopathologically, the oval area was composed of interlacing fascicles of spindle neoplastic cells with elongated to cigar-shaped nuclei, whereas the crescent-shaped peripheral area contained solitary or clustered polygonal to round neoplastic cells scattered within myxoid stroma. Immunohistochemically, both tumor cell populations were positive for α-smooth muscle actin, desmin, and vimentin. Cytokeratin expression was observed in the polygonal to round neoplastic cells, but not in the spindle neoplastic cells. Collectively, the tumor was diagnosed as an ovarian leiomyoma with an epithelioid differentiation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716777/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42702550",
+      "title": "Magnetic resonance imaging features and management of recurrent spinal inflammatory pseudotumor with intramedullary extension in a dog.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-09",
+      "abstract": "A 4-year-old intact female mixed-breed dog was admitted with a 2-month history of progressive thoracic and pelvic limb paresis. Neurological examination localized the lesion to the cervical spine. Magnetic resonance imaging (MRI) revealed a well-defined mass of the spinal cord extending from the third to fifth cervical vertebral level. The mass was T2-weighted hypointense, T1-weighted isointense, with homogeneous contrast enhancement. Based on the surgical, histopathological, and microbiologic findings, the lesion was diagnosed as an inflammatory pseudotumor. At 55 days postoperatively, the patient demonstrated marked gait improvement, and MRI confirmed successful mass removal with a small residual intramedullary lesion at the C5 level. Follow-up MRI at day 118 exhibited tumor recurrence, and hypofractionated radiotherapy was administered. One month after treatment, MRI demonstrated lesion size reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702550/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42669475",
+      "title": "Intraocular carcinosarcoma with osteosarcomatous component arising from iridociliary adenocarcinoma in a dog.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-08",
+      "abstract": "A 9-year-old neutered male Labrador Retriever presented with increased intraocular pressure in the left eye and underwent enucleation for a suspected intraocular tumor. Grossly, a white to greyish-white solid mass occupied the anterior segment and was partially contiguous with the lens. Histologically, the tumor exhibited biphasic proliferation of epithelial and mesenchymal components. The mesenchymal component showed osteoid formation, and transitional features were observed between the two components. Based on histological and immunohistochemical findings, the tumor was diagnosed as a carcinosarcoma composed of an iridociliary adenocarcinoma component and an osteosarcomatous component. This is the first report of carcinosarcoma in the canine eye, expanding the understanding of the morphological diversity and histogenetic characteristics of canine iridociliary tumors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42669475/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42649075",
+      "title": "Histological and proteomic characterization of hyaline material in two dogs with hyalinizing pancreatic adenocarcinoma.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-08",
+      "abstract": "Hyalinizing pancreatic adenocarcinoma is a rare subtype of exocrine pancreatic carcinoma in dogs, characterized by abundant extracellular hyaline material within the tumor. In this study, we investigated two canine cases exhibiting this distinctive hyalinizing morphology using histological, proteomic, immunohistochemical, ultrastructural, and molecular approaches. Histological examination revealed amyloid-like eosinophilic hyaline deposits; however, these deposits lacked diagnostic features of amyloid, as confirmed by Congo red and thioflavin S staining and transmission electron microscopy. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) identified bile salt-activated lipase (BAL) as the predominant component of the hyaline deposits. Immunohistochemistry confirmed strong anti-BAL immunoreactivity in the deposits. In addition to BAL, amyloid-associated proteins, including clusterin, vitronectin, apolipoprotein E, and apolipoprotein A-I, were detected. Together with the negative Congo red and thioflavin S staining and ultrastructural findings, these results support that the hyaline deposits are BAL-rich, non-amyloid extracellular deposits. Some deposits also contained collagen, indicating biochemical heterogeneity of the hyaline material. RT-qPCR analysis suggested higher CEL, and lower GRP94 expression in hyalinizing pancreatic adenocarcinomas than in non-hyalinizing pancreatic carcinomas. These observations raise a hypothesis that excessive BAL production, together with reduced GRP94-mediated chaperone support, may contribute to extracellular accumulation of aggregated BAL. Collectively, this study identifies BAL as the predominant component of hyaline deposits in canine hyalinizing pancreatic adenocarcinoma based on LC-MS/MS analysis and highlights a non-amyloid protein aggregation process associated with this tumor subtype.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649075/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42604803",
+      "title": "A dog with suspected hypothalamic hypoadrenocorticism classified by corticotropin-releasing hormone (CRH) testing.",
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2026-08",
+      "abstract": "A 7-year-old intact male toy poodle presented with abdominal distension, polydipsia, and polyuria. Abdominal ultrasonography revealed bilateral adrenal atrophy, and adrenocorticotropic hormone (ACTH) stimulation testing showed persistently low cortisol concentrations with concurrent low endogenous ACTH, indicating central hypoadrenocorticism. To localize dysfunction within the hypothalamic-pituitary-adrenal axis, a corticotropin-releasing hormone (CRH) stimulation test was performed. Endogenous ACTH increased markedly after CRH administration, whereas cortisol remained undetectable, demonstrating preserved pituitary responsiveness and supporting a diagnosis of hypothalamic hypoadrenocorticism. Treatment of hypoadrenocorticism with prednisolone alone resulted in long-term clinical stabilization without electrolyte abnormalities for over one year. To our knowledge, this is the first canine report classifying suspected hypothalamic hypoadrenocorticism using CRH stimulation testing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42604803/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -205,6 +255,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "42770669",
+      "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-09",
+      "abstract": "To describe staged pre-renal caudal vena cava (CVC) occlusion before en bloc right divisional hepatectomy with segmental caval resection in two dogs with right divisional hepatocellular carcinoma (HCC) involving the CVC. Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu). Short case series. Dog 1 (Siberian Husky) had prior hemoperitoneum and biopsy-confirmed HCC; dog 2 (Shih Tzu) had persistent liver enzyme elevations and a suspected hepatic tumor. Computed tomography (CT) showed right divisional masses (91.8 × 122.3 × 101.4 mm; 77.0 × 94.8 × 70.2 mm) with CVC compression or involvement and no pre-existing collateral venous return. A percutaneously controlled hydraulic occluder was placed around the pre-renal CVC. Gradual outpatient occlusion was performed over 79 and 44 days while monitoring saphenous venous pressure, renal values, and hindlimb edema. Complete CVC occlusion and collateralization were confirmed by CT before en bloc right divisional hepatectomy with segmental CVC resection. Macroscopically complete resection was achieved in both dogs. Complete HCC resection was confirmed histopathologically. Morbidity was limited to transient wound exudation in dog 1 and transient ascites in dog 2. No recurrence or metastasis was identified in dog 1 during follow-up. In dog 2, no clinical signs suggestive of recurrence or metastasis were reported. Survival after hepatectomy was 352 and 2467 days. Staged pre-renal CVC occlusion may establish collateral venous return and permit planned en bloc right divisional hepatectomy with segmental CVC resection in carefully selected dogs with right divisional HCC involving the CVC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42768449",
       "title": "Bilateral Third Eyelid Ectopic Cilia in a Maine Coon Cat.",
       "journal": "Veterinary ophthalmology",
@@ -221,6 +281,16 @@
       "publication_date": "2026-Nov",
       "abstract": "To report the first documented case of corneal sequestration and distichiasis in a binturong (Arctictis binturong), discuss implications of disease prevalence in a non-domestic feliform, and hypothesize on potential etiology and predisposing factors for corneal sequestration. A 15-year-old intact male binturong. Anesthetized physical examination and ophthalmic assessment were performed by board-certified specialists. Corneal cytology, culture and sensitivity, debridement of the sequestra in lieu of keratectomy, histopathology, and cryoepilation were performed, followed by 4 weeks of topical therapy. The patient was euthanized 3 years later for unrelated reasons, and a necropsy was performed. Examination found bilateral distichiasis. In the left cornea, two brown, ovoid lesions flanked an area of yellow infiltrate, all overlying a raised, ulcerated granulation bed. Corneal cytology identified neutrophils, cocci, and rare rods. Histopathology of the debrided tissue showed coagulative to lytic necrosis with intralesional gram-positive cocci, indicating sequestration and secondary infection. Aerobic culture yielded Staphylococcus delphini and Streptococcus acidominimus. Photo updates 4 weeks post-operation showed resolution of clinical signs. Later, necropsy and histology showed chronic ocular changes without recurrence of sequestra. Clinical and histopathologic findings identified corneal sequestration, with chronic irritation secondary to distichiasis as a suspected factor. Surgical debridement and cryoepilation achieved long-term clinical resolution, with only mild distichiae regrowth and no sequestration recurrence after 3 years. Corneal sequestration is thought to predominantly affect domestic cats (Felis catus); this report expands the clinical relevance of corneal sequestration to an exotic species and supports chronic corneal irritation as a predisposing factor.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42754831/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42744608",
+      "title": "Technical note: Combined approach for total mandibulectomy.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-09",
+      "abstract": "To describe a novel combined approach for total mandibulectomy (CATM) by combining a lateral approach for condylectomy and a ventral approach for total mandibulectomy. Descriptive technical note utilizing a cadaveric study and clinical case. One dog cadaver (27 kg, mixed breed) and one clinical case (2.5-year-old castrated male Australian Shepherd). The CATM technique was evaluated in a dog cadaver prior to clinical application in a dog with a left mandibular soft tissue sarcoma. Condylectomy was performed by a lateral approach to the temporomandibular joint followed by a ventral paramedian approach for left total mandibulectomy. CATM was successfully performed in both the cadaveric model and clinical case without intraoperative complications. Extending the lateral condylectomy incision caudally allowed for regional lymphadenectomy in the clinical case. Medial drift of the right mandible resulted in palatal contact trauma that was successfully managed with crown height reduction and vital pulpotomy. At two months postoperatively, the dog maintained good clinical function without tumor recurrence or additional adverse effects. The CATM was a feasible technique that provided increased TMJ exposure for joint disarticulation and condylectomy. The CATM provides a safe and effective technique for total mandibulectomy that optimizes TMJ access, facilitating joint disarticulation and condylectomy, while enhancing visualization of neurovascular structures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -261,6 +331,16 @@
       "publication_date": "2026-08",
       "abstract": "An 8-y-old, castrated male Korean Shorthair cat was presented to a veterinary clinic for evaluation of a cutaneous mass on the left inner thigh. Microscopic examination revealed a poorly circumscribed dermal neoplasm composed of poorly granulated, pleomorphic neoplastic mast cells with frequent cell-in-cell structures. Notably, viable neoplastic mast cells were engulfed by large macrophages, indicating a specific form of the cell-in-cell phenomenon. Immunohistochemistry for c-KIT, IBA1, and cleaved caspase-3 was used to support the diagnosis. To our knowledge, cell-in-cell phenomenon has not been previously described in feline cutaneous mast cell tumors, nor has the clinical outcome of such cases been reported.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42625303/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42603142",
+      "title": "Long-term outcome after resection and reconstruction using vaginourethroplasty for distal urethral leiomyosarcoma in a female dog.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-08",
+      "abstract": "To describe vaginourethroplasty-based resection and reconstruction of distal urethral leiomyosarcoma in a female dog and report long-term outcomes. Case report. One 10-year-old spayed female mixed-breed dog. Retrograde urethrovaginography identified a distal urethral filling defect. Two days later, contrast-enhanced computed tomography under general anesthesia demonstrated a 17 × 17 × 24 mm distal urethral mass without distant metastasis; blind biopsy performed immediately afterward was nondiagnostic. Because stranguria progressed, surgery was performed 20 days after presentation in two sequential phases during a single general anesthetic. The proximal urethra was anastomosed end-to-end to the vaginal stump through a ventral approach. Bladder neck cystopexy was added, and the distal urethra, mass, and adjacent vaginal mucosa were removed en bloc through a perineal approach, followed by vaginal reconstruction and vulvoplasty. The mass was initially diagnosed as undifferentiated sarcoma and later classified as leiomyosarcoma after immunohistochemical reevaluation. The mitotic count was 12 per 10 high-power fields, and the distal margin was minimal. Voluntary urine storage and voiding were maintained; mild urinary incontinence was managed medically. Approximately 13 months after surgery, a right inguinal lymph node lesion morphologically compatible with metastasis from the prior urethral mesenchymal malignancy was excised. At 49 months after presentation, no local recurrence or new distant metastasis attributable to the urethral lesion had been detected. In this dog with distal urethral leiomyosarcoma, the combined ventral and perineal approach was associated with preserved urinary function; no local recurrence was detected through 49 months after presentation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603142/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -721,86 +801,6 @@
       "publication_date": "2026-08",
       "abstract": "An 11-year-old toy poodle presented with abnormal gait. Magnetic resonance imaging revealed a demarcated intradural extramedullary mass at the dorsal medulla oblongata, which was surgically removed. Histopathologically, a well-demarcated tumor was composed of small nests of meningothelial neoplastic cells separated by abundant fibrovascular tissue. The nuclei of neoplastic cells were often eccentric due to eosinophilic cytoplasmic inclusion bodies. Immunohistochemically, the neoplastic cells were positive for E-cadherin and vimentin, and endothelial cells were positive for CD31, von Willebrand factor, and vimentin. The cytoplasmic inclusion bodies of the neoplastic cells were E-cadherin-positive and, by electron microscopy, composed of folded membrane-like structures. The tumor was diagnosed as an angiomatous meningioma with cytoplasmic inclusion bodies, which were likely cell membranes containing E-cadherin.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42557042/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42543680",
-      "title": "Gap junction protein gamma 2 (GJC2) gene frameshift deletion in Toy Poodles with hypomyelinating leukodystrophy resembling human Pelizaeus-Merzbacher-like disease 1.",
-      "journal": "The Journal of veterinary medical science",
-      "publication_date": "2026-08",
-      "abstract": "Pelizaeus-Merzbacher-like disease type 1 (PMLD1), also known as hypomyelinating dystrophy 2, is a typical slowly progressive hypomyelinating leukodystrophy (HLD) that manifests in the neonatal period or early infancy. In humans, PMLD1 is inherited as an autosomal recessive trait, with genetic variants identified in the gap junction protein gamma 2 (GJC2) gene. Six juvenile-age Toy Poodle dogs exhibited coarse, vertical head and trunk tremors from immediately after birth. Conventional magnetic resonance imaging revealed uniform signal hyperintensities throughout the subcortical white matter in all dogs. All dogs were euthanized. Subsequent histopathological examination revealed vacuolar changes and demyelination in the cerebral and cerebellar white matter, leading to a diagnosis of HLD. Genetic analysis of five affected dogs identified a shared homozygous 14-base pair deletion in the GJC2 gene, XM_038556433.1:c.920_933del. To the best of our knowledge, this is the first report of a pathogenic GJC2 variant in dogs or any other domestic animal species. The results will enable genetic testing and provide a spontaneous large animal model for the homologous human disease.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42543680/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42897728",
-      "title": "Contrast-Enhanced Ultrasonography of Orbital and Intraocular Pathologies in 24 Dogs and 6 Cats.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Nov",
-      "abstract": "Contrast-enhanced ultrasonography (CEUS) is a noninvasive and relatively safe imaging technique to assess ocular perfusion, showing high sensitivity and specificity for tumor characterization in human oncology, while reports on its application in canine and feline diseased eyes are limited. This study aimed to describe the CEUS features of orbital and intraocular pathologies in dogs and cats in order to evaluate its diagnostic value in detecting and characterizing various lesions. CEUS examinations of 30 animals (24 dogs, 6 cats) were evaluated retrospectively. Following B-mode ultrasonography, CEUS examinations utilizing sulfur hexafluoride were performed. Pathologies were categorized in one of the following groups: orbital neoplastic lesions, orbital inflammatory lesions, intraocular neoplastic lesions, intraocular inflammatory lesions and retinal detachment. Qualitative perfusion parameters, contrast intensity, enhancement pattern, perfusion type and time to wash-in and wash-out were evaluated. CEUS detected vascularization in orbital and intraocular pathologies, with variable enhancement characteristics. Persistent vascularization was observed in all cases of retinal detachment. In orbital and intraocular neoplastic lesions, CEUS improved lesion localization, assessment of interactions with surrounding tissues and tissue perfusion. For inflammatory pathologies such as abscesses, myositis, and steatitis, the additional diagnostic value of CEUS compared to B-mode ultrasonography was limited. Findings indicated that CEUS could identify a variety of orbital and intraocular pathologies and provided additional diagnostic information to B-mode ultrasonography, particularly for assessing neoplastic lesions and retinal detachments. CEUS has the potential to enhance ophthalmic ultrasonography in differentiating specific pathologies. Prospective studies are warranted to further evaluate its clinical use.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897728/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42486645",
-      "title": "Transient high-output heart failure documented by echocardiographic cardiac index measurement in a pregnant cat.",
-      "journal": "The Journal of veterinary medical science",
-      "publication_date": "2026-07",
-      "abstract": "A female cat (approximately 3 weeks of gestation) was referred for respiratory distress and pleural effusion. Echocardiography revealed dilation of the left atrium and left ventricle, and the cardiac index was markedly elevated (0.39 L/kg/min), raising suspicion for high-output heart failure (HOHF). The cat was treated with furosemide and enrofloxacin. Pleural effusion completely resolved in late pregnancy, and 45 days after delivery the cardiac index decreased to 0.22 L/kg/min. To our knowledge, this is the first report describing a transient HOHF associated with pregnancy in a cat, highlighting the clinical utility of echocardiographic cardiac index measurement for identifying this condition. Further accumulation of cases is needed to better characterise this condition in feline patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42486645/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846602",
-      "title": "Unusually long-term survival in a feline with Fibrodysplasia ossificans progressiva (FOP-like) disease without  ACVR1  gene mutations.",
-      "journal": "Brazilian journal of veterinary medicine",
-      "publication_date": "2026-10",
-      "abstract": "Fibrodysplasia ossificans progressiva (FOP) is a rare genetic disorder characterized by heterotopic ossification within the connective tissues that affects the muscles, tendons, and joint capsules. It is an autosomal inherited condition caused by mutations in ACVR1, which is associated with ectopic bone formation. A 5-year-old neutered male outdoor cat, clinically diagnosed with FOP-like disease three years prior, presented for follow-up evaluation owing to an unusually long survival. New blood samples and radiographs were obtained to assess disease progression and investigate the patient's genetic background, with the aim of describing this case's clinical evolution and new genetic findings, and sharing the patient's exceptionally rare long-term survival with peers. Radiographic evaluation revealed severe progression of osteoarticular disease, partial to total resorption of previously deposited mineralized tissue, marked hypertrophy of the limb musculature, and an overall increase in radiographic muscular density. Genetic analysis confirmed the absence of the ACVR1 mutation. This is the first reported case of FOP-like disease in a cat in Uruguay, with no ACVR1 mutation detected and an unusually long survival of more than three years after diagnosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846602/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846592",
-      "title": "Anatomopathological features of uterine tube adenoma in a female dog.",
-      "journal": "Brazilian journal of veterinary medicine",
-      "publication_date": "2026-10",
-      "abstract": "The uterine tube is part of the female reproductive system responsible for connecting the ovary to the uterus. Neoplasms originating from the uterine tube are rare in both animals and humans, with few reports available in the veterinary literature. A 7-year-old mixed-breed bitch was presented with clinical signs of lethargy, weight gain, and abdominal distension. Ultrasonography and computed tomography revealed a large abdominal mass. The patient underwent exploratory laparotomy for surgical excision of the mass, which was found adhered to the right ovary. Grossly, the mass measured 27.5 × 22.5 × 5.5 cm, had a soft consistency, irregular contours, reddish coloration, and a papillary appearance. Histopathological evaluation revealed well-differentiated papillary projections lined by ciliated columnar epithelial cells, with positive expression of estrogen and progesterone receptors and low Ki-67 labeling index, supporting the diagnosis of uterine tube adenoma. Although these tumors may reach considerable dimensions, they are generally associated with a favorable prognosis. In the present case, the diagnosis was established based on the correlation of clinical, morphological, and histopathological findings.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846592/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846879",
-      "title": "Successful treatment of multidrug-resistant granulomatous colitis and rectal stricture in a French bulldog.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "A young French bulldog was presented with persistent hemorrhagic diarrhea and suspected rectal stricture unresponsive to previous medical management. Comprehensive diagnostic tests, including blood work, colonoscopy, biopsy, antimicrobial susceptibility testing, and fluorescence  in situ  hybridization analysis, confirmed granulomatous colitis with invasive  Escherichia coli . Culture testing identified a multidrug-resistant strain susceptible to meropenem. Concurrently, a rectal stricture was confirmed and managed with 3 repeat endoscopic balloon dilations. Systemic improvement was noted mid-treatment, and the stricture resolved at subsequent follow-up. Key clinical message: This case report highlights the successful diagnosis and management of multidrug-resistant granulomatous colitis in a French bulldog, including the use of meropenem for targeted antimicrobial therapy and repeat endoscopic balloon dilations for rectal stricture resolution. It underscores the importance of accurate diagnosis, appropriate antimicrobial selection, and structural intervention in the management of complex cases.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846879/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846829",
-      "title": "Non-epitheliotropic cutaneous T-cell lymphoma in a 5-week-old golden retriever puppy.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "A 5-week-old male golden retriever puppy was presented with multiple, rapidly progressive skin masses. One of the masses had been present since birth; the duration of the other 2 masses was unknown. Fine-needle aspiration cytology of the lesions revealed a monomorphic population of round cells, raising suspicion for a round cell neoplasm. Two representative masses were submitted for histologic examination and immunohistochemical analysis. Histologically, the neoplasm was composed of dense, non-epitheliotropic infiltrates of atypical lymphoid cells within the dermis and subcutis. Immunophenotyping confirmed a T-cell origin, establishing a diagnosis of non-epitheliotropic cutaneous T-cell lymphoma. In the postoperative period, the puppy's health declined and humane euthanasia was elected. A postmortem examination did not occur, precluding assessment for systemic involvement. To the authors' knowledge this is the first case of non-epitheliotropic cutaneous T-cell lymphoma in a dog of this age documented in the veterinary literature. This report underscores the importance of including cutaneous lymphoma in the differential diagnosis of rapidly progressive skin masses in a dog, irrespective of age, and highlights the utility of histopathology and immunohistochemistry for achieving a diagnosis. Key clinical message: Lymphoma can occur in dogs of any age and should not be excluded as a differential diagnosis, even in very young puppies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846829/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42846432",
-      "title": "Soft tissue sarcoma formation following partial tarsal arthrodesis in dogs: Report of 2 cases.",
-      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
-      "publication_date": "2026-10",
-      "abstract": "This case report describes the occurrence of soft tissue sarcoma at the surgical site of partial tarsal arthrodesis in 2 dogs within 8 mo after surgery. Surgical correction was uncomplicated in both cases, and the dogs did clinically well postoperatively, until masses were noted over the surgical sites. Each dog underwent amputation of the affected leg, as the masses were deemed unresectable. This report describes an uncommon potential complication of partial tarsal arthrodesis in dogs. Key clinical message: The cases reported herein are apparently the first descriptions of soft tissue sarcoma as a possible surgical complication related to partial tarsal arthrodesis in the dog. They highlight soft tissue sarcoma as a differential diagnosis to consider for surgical site swellings of the tarsus; however, further studies are needed to confirm these findings.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846432/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
