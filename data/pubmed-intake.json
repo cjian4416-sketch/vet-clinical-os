@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-06T02:24:29.288865+00:00",
+  "updated_at": "2026-11-07T01:54:54.263205+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,26 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42988999",
+      "title": "Genomic analysis of extended-spectrum β-lactamase-producing Escherichia coli and Klebsiella pneumoniae isolated from a dog with a severe episode of self-trauma and urinary tract infection.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-11",
+      "abstract": "Extended-spectrum β-lactamase (ESBL)-producing Enterobacterales are emerging pathogens of major importance in veterinary medicine. This study describes the clinical, microbiological, and genomic characteristics of ESBL-producing Escherichia coli and Klebsiella pneumoniae isolated from a dog with paraparesis and concurrent pyelonephritis, chronic cystitis, and a self-traumatized limb lesion. A 12-year-old mixed-breed female dog underwent repeated antimicrobial therapy during hospitalization. Urine obtained by cystocentesis and wound samples were cultured, and ESBL-producing strains were characterized by antimicrobial susceptibility testing and whole-genome sequence-based analysis. CTX-M-55-producing E. coli sequence type (ST) 457, phylogroup F, O11:H25, and fimH145, was recovered from urine and wound samples, while the wound sample also yielded a CTX-M-15- and SHV-2-producing K. pneumoniae ST39, KL149:OL2α.2. The two closely related E. coli strains differed by 96 single nucleotide polymorphisms, despite sharing the same ST, resistome, plasmid replicons, and virulence profile. ESBL-positive strains carried multiple virulence genes, with the E. coli strains classified as extraintestinal pathogenic E. coli strains. To the best of our knowledge, this is the first report of ESBL-producing K. pneumoniae ST39 in an animal in Brazil. The co-occurrence of ESBL-producing E. coli ST457 and K. pneumoniae ST39 in the same dog highlights the potential for companion animals to harbor clinically relevant multidrug-resistant lineages and reinforces the need for continuous antimicrobial resistance monitoring and antimicrobial stewardship in this sector.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988999/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42989685",
+      "title": "Hypocalcemia Secondary to Inadvertent Denosumab (Prolia) Administration in a 4-Month-Old Cat.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-11",
+      "abstract": "To describe the clinical presentation, diagnosis, and management of hypocalcemia secondary to inadvertent administration of denosumab in a 4-month-old kitten. A 4-month-old neutered female domestic shorthair kitten was presented with acute weakness, tremors, third eyelid prolapse, and ataxia for several hours. Physical examination revealed lethargy, tachycardia, hypothermia, mild dehydration, and apparent nausea. Neurologic findings included tremors, cerebellar ataxia, bilateral mydriasis, and decreased bilateral direct and indirect pupillary reflexes. ECG confirmed sinus tachycardia. Blood work showed severe ionized hypocalcemia (0.74 mmol/L [2.96 mg/dL]; reference interval [RI]: 1.10-1.40 [4.40-5.60]), mild hypokalemia (3.38 mmol/L [3.38 mEq/L]; RI: 3.90-4.90 [3.90-4.90]), and moderate hyperglycemia (10.8 mmol/L [194 mg/dL]; RI: 3.6-6.2 [64.86-111.71]). The owner later disclosed an accidental subcutaneous injection to the kitten with denosumab 1 week earlier, strongly suggesting drug-induced hypocalcemia. Treatment with IV calcium gluconate 10% (0.5 mL/kg over 10 min twice) resolved signs and normalized iCa (1.20 mmol/L [4.8 mg/dL]). Isotonic crystalloids with potassium and maropitant were given for hydration, electrolyte correction, and nausea. Oral calcium (60 mg/kg, q 24 h) was started on Day 1; iCa remained normal (1.26 mmol/L [5.04 mg/dL]) at Day 2, and the kitten was discharged. At Day 11, iCa was 1.19 mmol/L [4.76 mg/dL], the dose was halved, and at Day 18, iCa remained normal (1.24 mmol/L [4.96 mg/dL]), allowing for discontinuation of therapy. This report describes hypocalcemia secondary to inadvertent administration of denosumab to a kitten. The clinical manifestations and diagnosis are described, along with the details of management that led to the kitten in this report making a full recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989685/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -61,6 +81,16 @@
       "publication_date": "2026-08",
       "abstract": "A 7-year-old intact male toy poodle presented with abdominal distension, polydipsia, and polyuria. Abdominal ultrasonography revealed bilateral adrenal atrophy, and adrenocorticotropic hormone (ACTH) stimulation testing showed persistently low cortisol concentrations with concurrent low endogenous ACTH, indicating central hypoadrenocorticism. To localize dysfunction within the hypothalamic-pituitary-adrenal axis, a corticotropin-releasing hormone (CRH) stimulation test was performed. Endogenous ACTH increased markedly after CRH administration, whereas cortisol remained undetectable, demonstrating preserved pituitary responsiveness and supporting a diagnosis of hypothalamic hypoadrenocorticism. Treatment of hypoadrenocorticism with prednisolone alone resulted in long-term clinical stabilization without electrolyte abnormalities for over one year. To our knowledge, this is the first canine report classifying suspected hypothalamic hypoadrenocorticism using CRH stimulation testing.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42604803/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "42988773",
+      "title": "Chemodectoma Arising From the Abdominal Aorta in a 9-Year-Old Female Dog: Clinical, Histopathological and Immunohistochemstric Study.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Chemodectomas are uncommon, typically benign neoplasms derived from paraganglionic chemoreceptor tissues, most frequently arising in the heart base or carotid bodies of brachycephalic dogs. This report documents a detailed pathological description of a chemodectoma originating from the abdominal aorta in a non-human species, representing, to our knowledge, the first case specifically characterized by its origin at the aortic trifurcation, thereby expanding the recognized anatomical spectrum of this tumour entity. A 9-year-old spayed female terrier was presented with persistent panting, recent-onset obesity following previous cachexia, and a complex clinical history including polyuria/polydipsia and pyoderma. Haematological and biochemical analyses revealed a regenerative anaemia, leucocytosis, and biochemical indicators suggestive of cholestasis and potential endocrinopathy. Advanced imaging identified a solitary, well-demarcated, highly vascular abdominal mass closely associated with the aortic trifurcation. Given the tumour's inaccessibility and pronounced vascularity, cytological confirmation via fine needle aspiration was precluded due to haemorrhagic risk, necessitating exploratory laparotomy. Intraoperatively, the mass was unresectable because of its anatomical relationships and the prohibitive risk of catastrophic haemorrhage. Humane euthanasia was subsequently elected. Histopathological evaluation demonstrated a lobulated neoplasm composed of pleomorphic neuroendocrine cells, with low mitotic activity and an absence of necrosis or haemorrhage. Immunohistochemistry confirmed strong, diffuse synaptophysin reactivity and focal neuron-specific enolase positivity, while chromogranin A and S100 protein were negative, underscoring immunophenotypic variability. This case illustrates the diagnostic complexity and therapeutic limitations posed by extra-cardiac chemodectomas in veterinary species, especially when located in unconventional anatomical sites. Limitations included the unavailability of computed tomography and lack of postoperative follow-up. This report expands the recognized clinico-pathological spectrum of chemodectomas and highlights the necessity for multidisciplinary diagnostic strategies and further research aimed at defining optimal management protocols for such rare and challenging presentations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988773/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP) concentration. Molecular targeted therapy with olaparib was initiated since complete surgical resection was unachievable due to tumor adherence to the caudal vena cava and conventional chemotherapy has limited efficacy for canine HCC, based on genomic profiling. Following objective tumor progression and worsening mass effect after 2 months, cytoreductive surgery was performed. Postoperatively, olaparib and canine interleukin-15 (cIL-15) immunotherapy were instituted to control potential micrometastases. The patient achieved clinical and radiographic stability for a 10-month follow-up period, accompanied by a significant drop in serum AFP levels. However, following the discontinuation of cIL-15 and subsequent reduction of olaparib dosage because of suspected adverse effects, serum AFP levels rebounded progressively, and tumor recurrence was confirmed via ultrasonography. The patient died 20 months after the initial detection of the mass. This case describes the clinical course of canine HCC managed with a multimodal therapeutic approach and highlights the potential utility of serum AFP as an adjunctive biomarker for disease monitoring.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42904074/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42836885",
-      "title": "Mammary secretory carcinoma in a female domestic rabbit (Oryctolagus cuniculus): histopathological and immunohistochemical features.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-10",
-      "abstract": "Secretory carcinoma of the breast is a rare histological subtype in women and is uncommon in female dogs and cats, with only two cases described in female dogs and one case described in a cat. This report describes the histopathological and immunohistochemical features of secretory carcinoma of the mammary gland in a domestic rabbit (Oryctolagus cuniculus). Microscopic evaluation revealed a non-encapsulated, well-demarcated neoplastic proliferation composed of epithelial cells arranged in solid and tubular patterns, supported by a delicate fibrous connective tissue stroma. The neoplastic cells had slightly eosinophilic cytoplasm, frequently containing large, well-demarcated vacuoles that displaced the nucleus to the periphery, giving the cells a signet-ring-like appearance. Periodic acid-Schiff (PAS) histochemical staining, performed with and without diastase digestion, showed positivity in the intracellular and extracellular secretory material in both approaches. Immunohistochemical evaluation was performed for the markers α-lactalbumin, Ki-67, estrogen receptor, progesterone receptor, and COX-2. Positive cytoplasmic immunolabeling for α-lactalbumin was observed in neoplastic cells and in intracellular and extracellular secretory material, confirming their secretory nature. The diagnosis of secretory carcinoma was established based on the association of histopathological, histochemical, and immunohistochemical features. Considering the secretory features of the mammary gland in rabbits, secretory carcinoma should be included in the differential diagnosis of mammary carcinomas with prominent secretory activity in this species.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42836885/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42572323",
-      "title": "A case of feline aspergillosis with central nervous system involvement: clinical utility of cerebrospinal fluid PCR testing.",
-      "journal": "The Journal of veterinary medical science",
-      "publication_date": "2026-08",
-      "abstract": "A 5-year-old cat presented with exophthalmos and neurological signs. Aspergillus udagawae was identified by histopathological examination and polymerase chain reaction (PCR) analysis of an orbital mass. Although magnetic resonance imaging suggested intracranial infection, cerebrospinal fluid (CSF) analysis and fungal culture were not clear. Serial CSF PCR detected Aspergillus sp., leading to diagnosis of central nervous system (CNS) infection and monitoring of treatment response. Following surgical debulking and administration of antifungal agents including voriconazole, the clinical signs resolved and CSF PCR reverted to negative. This case suggests that CSF PCR is a sensitive adjunctive tool for diagnosing and monitoring CNS aspergillosis in cats when conventional methods are inconclusive.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572323/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42557042",
-      "title": "Atypical angiomatous meningioma with E-cadherin-positive inclusion bodies in a dog.",
-      "journal": "The Journal of veterinary medical science",
-      "publication_date": "2026-08",
-      "abstract": "An 11-year-old toy poodle presented with abnormal gait. Magnetic resonance imaging revealed a demarcated intradural extramedullary mass at the dorsal medulla oblongata, which was surgically removed. Histopathologically, a well-demarcated tumor was composed of small nests of meningothelial neoplastic cells separated by abundant fibrovascular tissue. The nuclei of neoplastic cells were often eccentric due to eosinophilic cytoplasmic inclusion bodies. Immunohistochemically, the neoplastic cells were positive for E-cadherin and vimentin, and endothelial cells were positive for CD31, von Willebrand factor, and vimentin. The cytoplasmic inclusion bodies of the neoplastic cells were E-cadherin-positive and, by electron microscopy, composed of folded membrane-like structures. The tumor was diagnosed as an angiomatous meningioma with cytoplasmic inclusion bodies, which were likely cell membranes containing E-cadherin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42557042/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
