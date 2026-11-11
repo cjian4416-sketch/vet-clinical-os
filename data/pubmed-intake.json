@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-10T04:06:03.206985+00:00",
+  "updated_at": "2026-11-11T01:55:33.159432+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -11,6 +11,16 @@
       "publication_date": "2026-08",
       "abstract": "Identifying possible sources of sex steroids is challenging in animals exhibiting apparent responses in reproductive tissues but presenting with a history of having been neutered. Sex steroids, typically secreted by the gonads, also induce responses in non-reproductive tissues including the skin or brain, sometimes affecting behaviors. The analysis of hormones has become a mainstay of diagnostic endocrinology in small and large animal practice. The repertoire of those with reproductive relevance has expanded significantly with specific immunoassays detecting anti-Müllerian hormone (AMH) from either ovarian granulosa or testicular Sertoli cells. This has proven to be extremely useful differentiating neutered animals from those that are not. When AMH is undetectable, indicating neutered status, the possibility of sex steroid secretion by non-gonadal, pathological tissue, or other exogenous sources becomes very real. Reported gonadal status (as stated by owners) is not always reliable given that changes of ownership are common, and neutering is not always complete, complicating initial diagnosis. The cases reported here include several that are unique in either their presentation, diagnostic approach or likely etiologic origin. All were submitted primarily for an assessment of their gonadal status. Collectively, they illustrate, with unusual insight, the utility of AMH as a gonadal biomarker, while obviating the complexity of interpretation of reproductive hormone analyses in supposedly gonadectomized cats, horses and dogs manifesting a variety of apparent, reproductive conditions and pathologies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685523/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "41928403",
+      "title": "Ecological Implications of Rodenticide Exposure: First Evidence of Bromadiolone Poisoning in an Indian Leopard ( Panthera pardus fusca ).",
+      "journal": "Environmental toxicology",
+      "publication_date": "2026-04",
+      "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -101,6 +111,16 @@
       "publication_date": "2026-08",
       "abstract": "A 7-year-old intact male toy poodle presented with abdominal distension, polydipsia, and polyuria. Abdominal ultrasonography revealed bilateral adrenal atrophy, and adrenocorticotropic hormone (ACTH) stimulation testing showed persistently low cortisol concentrations with concurrent low endogenous ACTH, indicating central hypoadrenocorticism. To localize dysfunction within the hypothalamic-pituitary-adrenal axis, a corticotropin-releasing hormone (CRH) stimulation test was performed. Endogenous ACTH increased markedly after CRH administration, whereas cortisol remained undetectable, demonstrating preserved pituitary responsiveness and supporting a diagnosis of hypothalamic hypoadrenocorticism. Treatment of hypoadrenocorticism with prednisolone alone resulted in long-term clinical stabilization without electrolyte abnormalities for over one year. To our knowledge, this is the first canine report classifying suspected hypothalamic hypoadrenocorticism using CRH stimulation testing.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42604803/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43008074",
+      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+      "journal": "Journal of veterinary internal medicine",
+      "publication_date": "2026-Nov",
+      "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "Portal hypertension has a limited pharmacological armamentarium despite decades of preclinical therapeutic research. We mapped the experimental architecture of this literature, independently of reported treatment efficacy. PubMed/MEDLINE was searched from inception to March 31, 2026. Two independent title-and-abstract screening procedures identified 833 records retained by at least one screen; 540 formed a concordant core retained by both. Records were classified using a prespecified taxonomy of therapeutic strategy, intervention modality, animal model, species, sex, treatment schedule and reporting features. Global counts included all records; variable-specific distributions used available-case denominators. Treatment effects were not extracted. Among records with classifiable mechanisms (n=709), vasoactive/neurohumoral (29.1%), NO-cGMP/endothelial (23.8%) and antifibrotic/HSC-extracellular-matrix strategies (20.0%) represented 72.9%. Among records reporting the relevant variable, rats accounted for 82.7% (677/819), males only for 85.9% (548/638), and CCl 4 , bile-duct ligation/cholestatic models and thioacetamide for 45.2%, 30.3% and 10.6% (n=568), respectively. Randomization and blinding were identifiable in indexed information for 5.3% and 0.1% of all records. Principal distributions were preserved in the concordant core. Preclinical portal-hypertension research has generated mechanistic diversity on a narrow experimental foundation. Broader use of both sexes, etiologically diverse models, repeated dosing, rigorous design and complementary human-based platforms may strengthen translation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42849845/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42844917",
-      "title": "Wound myiasis caused by Lucilia spp. (Diptera: Calliphoridae) in a dog and a cat in Korea.",
-      "journal": "Parasites, hosts and diseases",
-      "publication_date": "2026-10",
-      "abstract": "This study presents 2 cases of wound myiasis in a dog and a cat involving morphological and molecular identification in Korea. A 7-year-old male Jindo mix dog, Canis familiaris, was admitted to a veterinary clinic in Yangsan-si, Gyeongsangnam-do, Korea, in July 2024. The bite wound near the right rib was infected with maggots. We carefully removed the 5 maggots using forceps. The wound healed without any subsequent complications. A Korean Shorthair stray cat, Felis catus, was brought to the same clinic in October 2024 after being hit by a car. The maggot-infected wounds were found in the anus and perianal regions. We removed all 10 maggots from the wounds. After treatment, no living maggots were observed; however, the cat was euthanized due to trauma-related complications. The maggots from the dog and the cat were third instars with 12 body segments and posterior spiracles containing 3 distinct slits. Compared with the dog-derived larvae, the cat-derived larvae had a more dorsally positioned posterior process of the mouth hook, reduced dorsal papillae distances, and distinctly sclerotized ventral cornua. Complete cox1 gene analysis confirmed the dog- and cat-derived larvae as Lucilia sericata (Meigen, 1826) and Lucilia illustris (Meigen, 1826), respectively, whereas 18S rRNA gene analysis showed limited species-level resolution. In the present study, wound myiasis caused by L. sericata and L. illustris is described in a dog and a cat in Korea based on morphological and molecular findings.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844917/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42910107",
-      "title": "Case series: Superficial lipomatous hamartoma in dogs and cats is a previously unreported NLCS-like dermal lesion.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-10",
-      "abstract": "In humans nevus lipomatosus cutaneous superficialis (NLCS) is a rare, benign dermal hamartoma characterized by aggregates of adipose tissue within the dermis without any connection to the subcutaneous tissue. Although NLCS is a well-recognized entity, it is considered a rare lesion with limited reports in the human literature. To date, no comparable cases have been reported in dogs and cats. Over the course of one and a half years, six cases (five in dogs, one in a cat), resembling NLCS-like lesions, were examined. In this report, we compare these cases to the human condition regarding macroscopic features, histopathology, sex, and age of the affected patients. In all cases, the dermal lesions were composed of aggregates of well-differentiated adipocytes within the dermis. Given the morphological similarity to the lesion in humans, the term \"nevus lipomatosus superficialis-like lesion\" might be appropriate. However, given the controversial use of the term 'nevus' in veterinary medicine and a potential for confusion with pigmented lesion, we propose the term \"superficial lipomatous hamartoma\" for this entity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42910107/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
