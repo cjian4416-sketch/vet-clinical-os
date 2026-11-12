@@ -1,9 +1,19 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-11T01:55:33.159432+00:00",
+  "updated_at": "2026-11-12T02:57:43.698213+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "42764151",
+      "title": "Successful Treatment of Onchocerca lupi Auricular Infestation Causing Severe Otitis Externa in a Dog.",
+      "journal": "Veterinary dermatology",
+      "publication_date": "2026-09",
+      "abstract": "We report the first successfully treated case of auricular Onchocerca lupi infection in a dog in Switzerland, causing severe unilateral otitis externa. Diagnosis was confirmed by molecular analysis after nematode extraction. Combined therapy led to complete remission within 6 weeks, highlighting O. lupi as a differential for chronic otitis with mass formation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764151/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "42685523",
       "title": "Sex steroids in animals absent gonads: A case series.",
@@ -791,16 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "This case report describes the management of a complex volumetric muscle loss (VML) injury in a 3-year-old mixed-breed dog following severe trauma to the right forelimb, which resulted in extensive multi-muscle defects that were unsuitable for primary closure. After initial stabilization and surgical debridement, reconstruction was achieved using a transpositional flap, while a gold nanoparticles-bioactive glass-alginate-cellulose (BGAuSP-Alg-MCC) composite was implanted to fill the dead space and support tissue regeneration. Postoperative healing was evaluated through clinical follow-up, computed tomography performed immediately and at 1 and 3 months postoperatively, as well as histological and immunohistochemical analyses. Imaging demonstrated progressive integration of the biomaterial, restoration of tissue density comparable to adjacent muscle, and absence of major complications. Histological evaluation demonstrated moderate inflammation and granulation tissue formation, containing numerous blood capillaries (neoangiogenesis), confirmed by CD31 and α-Smooth muscle actin (SMA) immunolabelling. Functional recovery was favorable, with preserved limb mobility and normal gait. These findings provide preliminary evidence of local biocompatibility and support the feasibility of incorporating the BGAuSP-Alg-MCC composite into a multimodal surgical management approach for extensive volumetric muscle loss in canine patients.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42853324/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42849845",
-      "title": "Mapping the preclinical therapeutic landscape of cirrhotic portal hypertension: a systematic evidence map.",
-      "journal": "Annals of hepatology",
-      "publication_date": "2026-10",
-      "abstract": "Portal hypertension has a limited pharmacological armamentarium despite decades of preclinical therapeutic research. We mapped the experimental architecture of this literature, independently of reported treatment efficacy. PubMed/MEDLINE was searched from inception to March 31, 2026. Two independent title-and-abstract screening procedures identified 833 records retained by at least one screen; 540 formed a concordant core retained by both. Records were classified using a prespecified taxonomy of therapeutic strategy, intervention modality, animal model, species, sex, treatment schedule and reporting features. Global counts included all records; variable-specific distributions used available-case denominators. Treatment effects were not extracted. Among records with classifiable mechanisms (n=709), vasoactive/neurohumoral (29.1%), NO-cGMP/endothelial (23.8%) and antifibrotic/HSC-extracellular-matrix strategies (20.0%) represented 72.9%. Among records reporting the relevant variable, rats accounted for 82.7% (677/819), males only for 85.9% (548/638), and CCl 4 , bile-duct ligation/cholestatic models and thioacetamide for 45.2%, 30.3% and 10.6% (n=568), respectively. Randomization and blinding were identifiable in indexed information for 5.3% and 0.1% of all records. Principal distributions were preserved in the concordant core. Preclinical portal-hypertension research has generated mechanistic diversity on a narrow experimental foundation. Broader use of both sexes, etiologically diverse models, repeated dosing, rigorous design and complementary human-based platforms may strengthen translation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849845/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
