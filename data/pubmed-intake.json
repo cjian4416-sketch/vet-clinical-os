@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-12T02:57:43.698213+00:00",
+  "updated_at": "2026-11-13T02:37:36.081112+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -31,6 +31,16 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43017998",
+      "title": "Feline parasitic pneumonia caused by Troglostrongylus brevior: a case report.",
+      "journal": "Revista brasileira de parasitologia veterinaria = Brazilian journal of veterinary parasitology : Orgao Oficial do Colegio Brasileiro de Parasitologia Veterinaria",
+      "publication_date": "2026-11",
+      "abstract": "Nematodes represent an important etiological factor in verminous bronchopneumonia in domestic cats. Traditionally, Aelurostrongylus abstrusus and Capillaria aerophila were considered the principal parasitic species colonizing feline respiratory tract. However, in recent years, the clinical relevance of Troglostrongylus brevior has been increasingly recognized. This report describes a feline case characterized by chronic cough and persistent rhinitis lasting for four months. Thoracic radiography and ultrasonography revealed pulmonary alterations consistent with pneumonia. Routine hematological and copromicroscopic examinations yielded no significant findings. Definitive diagnosis was achieved through bronchoalveolar lavage (BAL) sampling followed by duplex polymerase chain reaction (PCR), which confirmed parasitic pneumonia attributable to T. brevior. Therapeutic management consisted of a topical spot-on formulation containing imidacloprid 40 mg and moxidectin 4 mg, administered on days 1 and 28. Clinical reassessment was performed on days 28, 56, 84, 112, and 140 post-treatment initiation. By day 140, all clinical signs had resolved completely. Follow-up thoracic radiographs and lung ultrasonography demonstrated no pathological changes. To the authors' knowledge, this is the first case report describing confirmed feline troglostrongylosis in Lithuania. Future studies should further investigate the epidemiological significance of cats in T. brevior infection, including the prevalence and distribution of the parasite within feline populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017998/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -131,6 +141,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43019038",
+      "title": "Acute Levothyroxine Overdose Followed by Serial Monitoring of Total Thyroxine and Thyroid-Stimulating Hormone in a Hypothyroid Dog.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Reports of acute levothyroxine overdose in dogs are rare with limited monitoring data. An 8-year-old spayed female Pomeranian receiving long-term hypothyroidism treatment presented 9 h after ingesting a one-month supply of levothyroxine (3 mg; 1.13 mg/kg). Except for transient tachycardia, the physical examination revealed unremarkable findings. The total thyroxine (T4) level exceeded the upper limit of quantification. Levothyroxine was discontinued, and activated charcoal and intravenous fluid were administered. The dog showed normal vital signs and no further clinical abnormalities during the 5-day hospitalisation. The total T4 concentration decreased and normalised by 73 h after the overdose. The canine thyroid-stimulating hormone (cTSH) concentrations were initially normal but exceeded the upper reference limit at 98 h. The patient was discharged on Day 5. Two days later, levothyroxine was resumed because the dog exhibited signs of recurrent hypothyroidism with persistently elevated cTSH levels. Hypothyroidism was well-controlled for 6 months. To our knowledge, this is the first report to document a levothyroxine overdose in a hypothyroid dog using daily total T4 and cTSH monitoring. These findings suggest that acute overdose is less severe than chronic levothyroxine exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019038/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "Two cats presented with acute progressive vomiting. One cat (Case 1) received prednisolone for suspected chronic inflammatory enteropathy for 14 months. The cat showed hypoalbuminemia, hypocobalaminemia, small intestinal thickening, and focal jejunal stricture with severe proximal dilation on ultrasonography. Exploratory laparotomy confirmed the stricture, and histopathology revealed submucosal fibroplasia with mild lymphoplasmacytic enteritis. The cat died on postoperative day 12. Another cat (Case 2) showed proximal small intestinal obstruction on ultrasonography. A wide-margin resection of the obstructed lesion was performed. Histopathology revealed mild intestinal wall fibrosis with mesenteric inflammation. Masson's trichrome staining showed submucosal collagen bundles. Immunohistochemistry and clonality analysis by PCR for antigen receptor rearrangement supported the diagnosis of low-grade intestinal T-cell lymphoma. The cat recovered uneventfully and remained restenosis-free during prednisolone treatment for 12 months after surgery. Intestinal stenoses were identified during long-term medical management of chronic enteropathy. This suggests that the extent of the lesion and the surgical resection strategy could be relevant factors for management and prognosis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42936481/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42921401",
-      "title": "Case Report: Surgical treatment of feline pituitary apoplexy in 3 cases.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-10",
-      "abstract": "Surgical treatment of feline pituitary apoplexy has not been previously described. To describe the clinical course and follow-up of 3 cases of feline pituitary apoplexy. Cases were selected based on histopathological confirmation of pituitary masses with haemorrhagic lesions, following transsphenoidal hypophysectomy. Details of physical examination, diagnostic test results, treatment and follow-up course were retrospectively acquired by review of medical and imaging records. Two cats were presented with acute onset of neurologic signs (case 1 and 2), and one cat showed subacute endocrinological dysfunction (case 3). All cases underwent successful transsphenoidal hypophysectomy, followed by intensive care hospitalization and successful discharge. Pituitary apoplexy was identified by histopathological examination of the excised pituitary glands in cases 1, 2, and 3. Imaging findings compatible with pituitary apoplexy were present in all 3 cases, although only case 3 was imaged with a hemorrhage-sensitive sequence, providing unequivocal evidence of intralesional hemorrhage. Case 1 had a survival time at least 716 days, underwent a second transsphenoidal surgery because of tumor recurrence and was subsequently lost to follow-up. Case 2 had a survival time of at least 1,098 days and is still alive at the time of writing this manuscript. In case 3, tumor recurrence was identified radiologically (MRI) at 365 days, and it died during a course of radiation therapy 612 days after transsphenoidal hypophysectomy. Pituitary apoplexy is a rare condition that also affects cats with large pituitary adenomas. Overall, the cats experienced acceptable clinical recovery and postoperative survival, supporting the feasibility of transsphenoidal hypophysectomy as a therapeutic option for cats with pituitary tumors affected by apoplexy. Notably, a favorable outcome was observed even in the presence of remnant pituitary tissue, as illustrated by the cat that later developed pituitary tumor recurrence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921401/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42853324",
-      "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
-      "journal": "Veterinary research communications",
-      "publication_date": "2026-10",
-      "abstract": "This case report describes the management of a complex volumetric muscle loss (VML) injury in a 3-year-old mixed-breed dog following severe trauma to the right forelimb, which resulted in extensive multi-muscle defects that were unsuitable for primary closure. After initial stabilization and surgical debridement, reconstruction was achieved using a transpositional flap, while a gold nanoparticles-bioactive glass-alginate-cellulose (BGAuSP-Alg-MCC) composite was implanted to fill the dead space and support tissue regeneration. Postoperative healing was evaluated through clinical follow-up, computed tomography performed immediately and at 1 and 3 months postoperatively, as well as histological and immunohistochemical analyses. Imaging demonstrated progressive integration of the biomaterial, restoration of tissue density comparable to adjacent muscle, and absence of major complications. Histological evaluation demonstrated moderate inflammation and granulation tissue formation, containing numerous blood capillaries (neoangiogenesis), confirmed by CD31 and α-Smooth muscle actin (SMA) immunolabelling. Functional recovery was favorable, with preserved limb mobility and normal gait. These findings provide preliminary evidence of local biocompatibility and support the feasibility of incorporating the BGAuSP-Alg-MCC composite into a multimodal surgical management approach for extensive volumetric muscle loss in canine patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853324/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
