@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-13T02:37:36.081112+00:00",
+  "updated_at": "2026-11-14T02:25:26.844632+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -31,6 +31,16 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43020466",
+      "title": "Electrochemotherapy for Urinary Bladder Botryoid Rhabdomyosarcoma in a Dog: Case Report.",
+      "journal": "Topics in companion animal medicine",
+      "publication_date": "2026-11",
+      "abstract": "Urinary bladder rhabdomyosarcoma (RMS) is a rare malignant neoplasm in dogs, most commonly affecting young animals and frequently arising from the trigone region, where complete surgical removal is challenging. Reported median survival time for dogs with vesical RMS is 45 days, ranging from 20 to 120 days. This report describes the diagnosis and multimodal treatment of a six-month-old intact female Golden Retriever diagnosed with vesical botryoid rhabdomyosarcoma. The patient presented with urinary incontinence, dysuria, and hematuria and was initially treated for suspected cystitis without clinical improvement. Ultrasonography identified a bladder mass located in the trigone region, and exploratory cystotomy with surgical debulking was performed. Intraoperative electrochemotherapy with bleomycin was administered, followed by six sessions of systemic doxorubicin chemotherapy. Complete remission was achieved, but recurrence was noted after 183 days, and the patient presented a survival time of 277 days, exceeding previously reported outcomes for this neoplasm. Although disease progression ultimately occurred, this case suggests that incorporating electrochemotherapy into a multimodal protocol may improve locoregional control in infiltrative vesical rhabdomyosarcoma and potentially prolong survival in dogs affected by this malignancy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020466/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -71,6 +81,16 @@
       "publication_date": "2026-11",
       "abstract": "Extended-spectrum β-lactamase (ESBL)-producing Enterobacterales are emerging pathogens of major importance in veterinary medicine. This study describes the clinical, microbiological, and genomic characteristics of ESBL-producing Escherichia coli and Klebsiella pneumoniae isolated from a dog with paraparesis and concurrent pyelonephritis, chronic cystitis, and a self-traumatized limb lesion. A 12-year-old mixed-breed female dog underwent repeated antimicrobial therapy during hospitalization. Urine obtained by cystocentesis and wound samples were cultured, and ESBL-producing strains were characterized by antimicrobial susceptibility testing and whole-genome sequence-based analysis. CTX-M-55-producing E. coli sequence type (ST) 457, phylogroup F, O11:H25, and fimH145, was recovered from urine and wound samples, while the wound sample also yielded a CTX-M-15- and SHV-2-producing K. pneumoniae ST39, KL149:OL2α.2. The two closely related E. coli strains differed by 96 single nucleotide polymorphisms, despite sharing the same ST, resistome, plasmid replicons, and virulence profile. ESBL-positive strains carried multiple virulence genes, with the E. coli strains classified as extraintestinal pathogenic E. coli strains. To the best of our knowledge, this is the first report of ESBL-producing K. pneumoniae ST39 in an animal in Brazil. The co-occurrence of ESBL-producing E. coli ST457 and K. pneumoniae ST39 in the same dog highlights the potential for companion animals to harbor clinically relevant multidrug-resistant lineages and reinforces the need for continuous antimicrobial resistance monitoring and antimicrobial stewardship in this sector.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988999/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43022985",
+      "title": "Multiple cartilaginous exostosis in a feline: Case report.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "publication_date": "2026-11",
+      "abstract": "Multiple cartilaginous exostoses (MCE), or osteochondromatosis, is a benign neoplasm characterized by the presence of nodules on the bone surface. In felines, the condition may be associated with feline leukemia virus (FeLV) infection and genetic mutations. This study reports the case of a 2-year-old cat diagnosed with MCE. The animal presented with cachexia, hyporexia, dehydration, and increased bone volume in multiple anatomical regions. Radiographic examination revealed proliferative sclerotic lesions, and histopathology confirmed osteochondrogenic proliferation consistent with MCE. Initial treatment included doxycycline and prednisolone. After 30 days, the cat showed clinical improvement; however, the osseous proliferations continued to increase in size. Subsequent radiographic evaluation demonstrated marked lesion progression, accompanied by worsening clinical signs. Due to the extent of the lesions and the unfavorable clinical condition, euthanasia was elected. This report highlights the clinical and imaging features of MCE in a young FeLV-positive cat and emphasizes the importance of early diagnosis and imaging follow-up in the management of affected patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022985/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "Food-responsive enteropathy (FRE) is the most common form of canine chronic inflammatory enteropathy. Novel protein diets constitute first-line therapy, and many dogs have already been exposed to \"novel\" meat alternatives. Edible insects are a novel, highly digestible, and sustainable protein source. In the present study, a five-year-old male York-shire Terrier with chronic FRE and gallbladder sludge was transitioned to a diet with a 35% inclusion level of  Tenebrio molitor  larvae meal. Clinical indices improved from \"severe\" (CIBDAI = 9 and CCECAI = 11) to \"clinically insignificant\" (CIBDAI = 0 and CCECAI = 2) within 3 weeks and remained stable for 24 months. Body weight normalized (from 5.4 to 4.0 kg), coat quality improved, and the ultrasound examination revealed that gallbladder sludge was eliminated. A brief interruption of the insect-based diet coincided with the recurrence of sludge and gastrointestinal signs, both of which resolved after the reintroduction of  T. molitor  larvae meal. Hematological and serum biochemical parameters remained within the reference ranges. The mealworm-based diet led to long-term remission of FRE and elimination of gallbladder sludge without adverse effects. Insect protein is a viable hypoallergenic option for canine elimination diets and may convey additional gut and hepatobiliary benefits.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42948389/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42869101",
-      "title": "Diagnosis of acute myeloid leukaemia in a previously diagnosed case of chronic lymphocytic leukaemia in a dog.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-10",
-      "abstract": "A 12-year-old female spayed Irish wolfhound presented with a 6-month history of weight loss, chronic vomiting and diarrhoea and a persistent progressive lymphocytosis with previously diagnosed CD8+ T-cell chronic lymphocytic leukaemia (CLL). CLL was initially diagnosed through flow cytometry of EDTA-preserved peripheral blood. The decision to treat was based on a progressive circulating neoplastic lymphocytic population in the face of clinical deterioration. Progressive clinical decline was identified in the several weeks after commencement of treatment with chlorambucil and pegylated asparaginase for progressive CLL. Repeated haemogram and blood smear were suggestive of a second morphologically distinct circulating neoplastic population. Repeated flow cytometry of peripheral blood was consistent with a concurrent acute myeloid leukaemia (AML) to previously identified CD8+ CLL. Emergence of AML coincided with development of upwards of five cutaneous lesions, with concern for leukaemia cutis. High-dose chemotherapy with vincristine (0.7 mg/m 2 ) was commenced. Despite more aggressive treatment, rapid clinical deterioration ensued, and euthanasia was elected. To the author's knowledge, this is the first report of diagnosis of concurrent AML and CLL in a dog.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869101/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42936481",
-      "title": "Fibrostenotic intestinal stenosis associated with chronic enteropathy in two cats: case report.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-10",
-      "abstract": "Two cats presented with acute progressive vomiting. One cat (Case 1) received prednisolone for suspected chronic inflammatory enteropathy for 14 months. The cat showed hypoalbuminemia, hypocobalaminemia, small intestinal thickening, and focal jejunal stricture with severe proximal dilation on ultrasonography. Exploratory laparotomy confirmed the stricture, and histopathology revealed submucosal fibroplasia with mild lymphoplasmacytic enteritis. The cat died on postoperative day 12. Another cat (Case 2) showed proximal small intestinal obstruction on ultrasonography. A wide-margin resection of the obstructed lesion was performed. Histopathology revealed mild intestinal wall fibrosis with mesenteric inflammation. Masson's trichrome staining showed submucosal collagen bundles. Immunohistochemistry and clonality analysis by PCR for antigen receptor rearrangement supported the diagnosis of low-grade intestinal T-cell lymphoma. The cat recovered uneventfully and remained restenosis-free during prednisolone treatment for 12 months after surgery. Intestinal stenoses were identified during long-term medical management of chronic enteropathy. This suggests that the extent of the lesion and the surgical resection strategy could be relevant factors for management and prognosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936481/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
