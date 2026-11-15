@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-14T02:25:26.844632+00:00",
+  "updated_at": "2026-11-15T01:54:06.592084+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -31,6 +31,26 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43031276",
+      "title": "Markedly enlarged orbital lipoma in a dog.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-11",
+      "abstract": "PubMed 未提供摘要。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031276/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43025691",
+      "title": "A rare case of disseminated mucocutaneous candidiasis in a dog.",
+      "journal": "Topics in companion animal medicine",
+      "publication_date": "2026-11",
+      "abstract": "A 6-year-old, neutered, male, mongrel dog was referred to the oncology team with numerous ulcerated nodules distributed throughout the skin and mucocutaneous regions. With the initial suspicion of a recurrent canine transmissible venereal tumor, fine-needle aspiration cytology was performed on a 5 × 4 cm ulcerated nodule in the ventral abdomen; however, the findings were similar to reactive cutaneous histiocytosis. The dog was then referred for biopsy and histopathological examination, which confirmed chronic pyogranulomatous dermatitis with intralesional fungal structures. Culture enabled a conclusive diagnosis of a rare case of disseminated mucocutaneous candidiasis (DMC). Treatment with itraconazole was administered, with complete clinical remission achieved within two months, demonstrating the importance of appropriate diagnosis and therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025691/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -161,6 +181,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43027183",
+      "title": "Adjuvant Interstitial Yttrium-90 Hydrogel (IsoPet ® ) Following Limb-Sparing Marginal Excision of Multifocal Distal Pelvic-Limb Neoplasia in a Dog.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-11",
+      "abstract": "Achieving complete surgical margins can be challenging for tumors involving the distal extremities due to limited surrounding soft tissue and the proximity of functionally important structures. Incompletely excised tumors may require adjuvant radiation therapy to treat suspected residual microscopic disease. Yttrium-90 phosphate hydrogel (IsoPet ® ) is an emerging injectable radiation modality that delivers localized beta radiation to a tumor bed or surgical margin. An eight-year-old neutered male Bullmastiff was evaluated by the referring veterinarian for firm subcutaneous masses developed along the right pelvic limb. Fine-needle aspiration was initially suggestive of an inflammatory process; however, subsequent punch biopsies identified Grade II soft tissue sarcoma. The patient was referred for surgical oncology evaluation. Four right pelvic limb masses and the right popliteal lymph node were surgically excised. Histopathological examination of the excisional specimens identified poorly differentiated carcinoma involving the excised masses, with metastatic involvement of the right popliteal lymph node and incomplete surgical margins. Adjuvant Y-90 hydrogel was elected following complete surgical wound healing. On 20 November 2025, 8.46 mCi (313 MBq) of Y-90 phosphate hydrogel in a total volume of 4.7 mL was administered through 66 peri-incisional and incisional injections distributed across the previous right pelvic limb surgical beds using a grid-based technique. The procedure was completed without complications. Post-treatment follow-up demonstrated satisfactory wound healing, with only mild transient appetite reduction and minimal localized tissue irritation. After surgery plus adjuvant Y-90, no clinically detectable local recurrence was identified at the treatment sites during the 120-day documented follow-up period. Seventy-four days following Y-90 hydrogel treatment, computed tomography performed for persistent otic disease identified an aggressive osteolytic lesion involving the right C5 vertebra with extradural spinal cord compression. The relationship between this lesion and the previously treated pelvic limb neoplasia could not be definitively established. Despite the subsequent development of this cervical lesion, no clinically detectable recurrence was documented at the original treatment limb sites. This finding is an observation after combined surgery and Y-90, not evidence of Y-90-specific efficacy. The patient was subsequently managed supportively and was euthanized by the referring veterinarian approximately four months after identification of the cervical lesion. This single case demonstrates that peri-incisional Y-90 phosphate hydrogel could be administered to multiple distal pelvic-limb surgical beds after limb-sparing excision. The procedure was well tolerated. No clinically detectable local recurrence was identified at the treated sites during the 120-day documented follow-up period. Because gross disease had already been removed and there was no comparator, these observations cannot establish the independent efficacy of IsoPet ® . Prospective studies are needed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027183/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "A 6-month-old intact female American Pitbull ( Canis lupus familiaris ) underwent forensic evaluation for suspected blunt force trauma. Postmortem computed tomography (PMCT) identified pleural hyperattenuating soft tissue attenuating material, consistent with clotted blood, pleural effusion, a large thymus, and moderate to severe cranial mediastinal expansion with mixed fluid and lower-attenuation, soft tissue attenuating material. Histology confirmed thymic hemorrhage, while autopsy identified hemothorax, pleural blood clots, and hemomediastinum, excluding trauma, most consistent with spontaneous idiopathic thymic hemorrhage. This case highlights the utility of identifying hyperattenuating clot formation on PMCT, like the sentinel clot sign, for localizing antemortem hemorrhage and improving antemortem-postmortem correlation in forensic investigations.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939154/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42872590",
-      "title": "A novel 3D-printed patient-specific limb-sparing radial endoprosthesis for treatment of primary osteosarcoma in a Great Dane.",
-      "journal": "Veterinary surgery : VS",
-      "publication_date": "2026-10",
-      "abstract": "To describe a novel titanium three-dimensional-printed patient-specific radial endoprosthesis (3D-PSE) for the successful treatment of a primary osteosarcoma in a 7-year-old female Great Dane. Case report. The dog presented with a 10-day history of swelling of the right distal radius. Computed tomography (CT) revealed an osteolytic lesion involving the distal metaphysis and diaphysis of the radius which was highly suspicious for an osteosarcoma (OSA). Thoracic CT showed no metastases. CT data was used to create a virtual 3D-model of the affected limb within computer-aided design software which was used for virtual osteotomy planning and the design of the 3D-PSE. During surgery 3D-printed patient-specific guides were used to execute osteotomies. The 3D-PSE comprised plate sections for attachment to the proximal radius and metacarpals 3, 4 and 5, and an integrated cage for bone graft to replace the radial defect. Histopathology demonstrated OSA, and postoperative adjuvant chemotherapy comprised five IV infusions of carboplatin every 3 weeks. The Liverpool Osteoarthritis in Dogs (LOAD) questionnaires were completed by the owner preoperatively and for each follow-up until the 6-month re-evaluation. No complications occurred intra-/post- or perioperatively. LOAD scores preoperatively, and at 6, 12 and 24 weeks postoperatively were 19, 13, 11 and 10. Ten months after surgery thoracic radiographs revealed multiple pulmonary metastases, but the dog remained asymptomatic for a further 6 weeks when progressive dyspnea and lethargy prompted euthanasia. Lameness was absent at that time. The described novel 3D-PSE provided an effective function-preserving solution as part of a multimodal treatment of a giant breed dog with OSA of the distal radius.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872590/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42870739",
-      "title": "Radiation therapy for persistent or progressive mediastinal lymphoma after chemotherapy in FeLV-positive cats: a retrospective case series of four cats.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-10",
-      "abstract": "Mediastinal lymphoma in feline leukaemia virus (FeLV)-positive cats is associated with a poor prognosis, and therapeutic options may be limited when adequate disease control is not achieved with chemotherapy. The efficacy of radiation therapy in this setting has not been established. Medical records were retrospectively reviewed for FeLV-positive cats diagnosed with mediastinal lymphoma between November 2018 and December 2024 that had persistent or progressive mediastinal disease after chemotherapy and were subsequently treated with radiation therapy. Treatment response was assessed by computed tomography using the Response Evaluation Criteria in Solid Tumours (RECIST). Three of four cats (75%) responded to radiation therapy (two complete responses, one partial response). Respiratory signs improved rapidly in three cats (median 5 days). Local disease control was achieved in most cases; however, three cats developed progression at other sites. Survival times were 45, 150 and 352 days in cats that died, and one cat remained alive for >626 days at the time of last follow-up. No severe radiation-related adverse effects were documented during the available follow-up, although systematic evaluation of late radiation toxicity was not possible. Radiation therapy may provide local control and rapid palliation of respiratory signs in FeLV-positive cats with persistent or progressive mediastinal lymphoma after chemotherapy. Further studies with larger cohorts are warranted.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42870739/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42948389",
-      "title": "Case report: long-term clinical remission of food-responsive enteropathy in a dog fed a yellow mealworm-based diet.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-10",
-      "abstract": "Food-responsive enteropathy (FRE) is the most common form of canine chronic inflammatory enteropathy. Novel protein diets constitute first-line therapy, and many dogs have already been exposed to \"novel\" meat alternatives. Edible insects are a novel, highly digestible, and sustainable protein source. In the present study, a five-year-old male York-shire Terrier with chronic FRE and gallbladder sludge was transitioned to a diet with a 35% inclusion level of  Tenebrio molitor  larvae meal. Clinical indices improved from \"severe\" (CIBDAI = 9 and CCECAI = 11) to \"clinically insignificant\" (CIBDAI = 0 and CCECAI = 2) within 3 weeks and remained stable for 24 months. Body weight normalized (from 5.4 to 4.0 kg), coat quality improved, and the ultrasound examination revealed that gallbladder sludge was eliminated. A brief interruption of the insect-based diet coincided with the recurrence of sludge and gastrointestinal signs, both of which resolved after the reintroduction of  T. molitor  larvae meal. Hematological and serum biochemical parameters remained within the reference ranges. The mealworm-based diet led to long-term remission of FRE and elimination of gallbladder sludge without adverse effects. Insect protein is a viable hypoallergenic option for canine elimination diets and may convey additional gut and hepatobiliary benefits.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948389/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
