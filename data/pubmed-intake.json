@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-15T01:54:06.592084+00:00",
+  "updated_at": "2026-11-16T02:05:13.526342+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -125,6 +125,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "43034526",
+      "title": "More than a scratch, Capnocytophaga bacteremia induced severe sepsis with multi-organ failure with occupational dog exposure: A case report.",
+      "journal": "IDCases",
+      "publication_date": "2026-11",
+      "abstract": "Capnocytophaga  species are fastidious gram-negative bacilli found in the oral flora of dogs and cats. Although human infection is typically associated with localized soft tissue disease following animal exposure, invasive infection can result in severe sepsis. We present a case of  Capnocytophaga  bacteremia in an immunocompetent woman with occupational exposure to dogs. A 49-year-old woman with a history of Factor V Leiden mutation, prior deep vein thrombosis and pulmonary embolism, and Raynaud's syndrome presented with fever, chills, fatigue, myalgias, abdominal pain, vomiting, diarrhea, and transient vaginal bleeding. Evaluation revealed acute kidney injury, lactic acidosis, transaminitis, severe thrombocytopenia, and a petechial rash. An extensive infectious and autoimmune workup was unrevealing. Further history revealed recurrent occupational exposure to dogs as a photographer and walker, including a recent healing scratch to her right arm without evidence of local infection. Due to persistent leukocytosis and lack of clinical improvement, antimicrobial therapy was escalated to meropenem, resulting in gradual clinical and laboratory recovery. Blood cultures eventually grew  Capnocytophaga  species after delayed growth on anaerobic media. The patient was transitioned to oral amoxicillin-clavulanate to complete a two-week course. Susceptibility testing could not be performed because of insufficient organism growth. This case highlights the potential for severe  Capnocytophaga  bacteremia in an immunocompetent host with recurrent occupational exposure to animals. The nonspecific presentation and difficulty identifying this fastidious organism contributed to diagnostic uncertainty and delayed targeted therapy. Clinicians should consider  Capnocytophaga  infection in patients with unexplained sepsis and a history of animal exposure, even in the absence of a significant bite wound or overt soft-tissue infection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034526/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "42716777",
       "title": "Ovarian leiomyoma with an epithelioid differentiation in a dog.",
       "journal": "The Journal of veterinary medical science",
@@ -181,6 +191,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43033022",
+      "title": "Ultrasound and CT Features of Isolated Gallbladder Torsion With a Suspected Congenital Anomaly in a Cat: An Imaging Diagnosis.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Nov",
+      "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical signs of abdominal pain and peracute vomiting.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "A 10-year-old female spayed mixed-breed dog was presented with a history of seizures and acute progressive intracranial signs. The neurological examination was consistent with multifocal brain disease. Clinical examination revealed ecchymoses, petechiae, and bilateral retinal hemorrhage. Clinicopathological evaluation identified severe thrombocytopenia [a platelet count of 9 × 10 3 /μL without clumps on manual smear evaluation] with an increased mean platelet volume. Coagulation testing (activated partial thromboplastin time and prothrombin time) and fibrinolysis markers (D-dimers, quantitative fibrinogen), infectious disease screening, and thoracic and abdominal imaging were within normal limits, establishing a diagnosis of primary immune-mediated thrombocytopenia (ITP). Magnetic resonance imaging (MRI) of the brain showed minimally expanded, bilateral crescent-shaped, extra-axial fluid accumulations overlying both cerebral hemispheres. Based on T1-weighted and T2-weighted hyperintensities and peripheral susceptibility artifact on T2*-weighted gradient-recalled echo (GRE) imaging, a late subacute subdural intracranial hemorrhage was diagnosed. Despite initial uneventful anesthesia and recovery, the dog experienced acute neurological deterioration and suffered cardiopulmonary arrest, suspected due to ongoing hemorrhage or brain herniation. This report describes a rare neurological manifestation of primary ITP in a dog. While canine ITP generally carries a favorable prognosis, life-threatening secondary intracranial hemorrhage can occur. Primary ITP should be considered as a differential diagnosis for an acute, progressive neurological presentation until a normal platelet count is confirmed.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42952495/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42939165",
-      "title": "Primary Erythrophagocytic Low-Grade Splenic T-Cell Lymphoma in a Cat: Clinical Case and Literature Review.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-10",
-      "abstract": "Lymphoma is a common hematopoietic neoplasm in cats; yet hepatosplenic forms remain rare. This report describes a unique case of low-grade erythrophagocytic splenic T-cell lymphoma with suspected peripheral blood involvement in a six-year-old neutered male domestic shorthair cat. The patient presented with severe non-regenerative macrocytic normochromic anemia and moderate splenomegaly. Blood smears revealed mononucleated cells exhibiting erythrophagocytosis. Splenic cytology and flow cytometry were consistent with a reactive process, leading to a presumptive diagnosis of immune-mediated anemia. The condition proved refractory to immunosuppressive therapy with prednisolone and cyclosporine. After splenectomy, histopathology showed diffuse erythrophagocytosis and white pulp hyperplasia. Definitive diagnosis was achieved only by PARR analysis, which demonstrated a monoclonal T-cell receptor gene rearrangement within a polyclonal background. This confirmed a neoplastic T-cell population despite the mature morphology of the lymphocytes. Treatment with chlorambucil and prednisolone resulted in progressive resolution of the anemia. The cat remains alive 13 months after splenectomy. This case highlights the diagnostic challenges of low-grade lymphomas, in which reactive features can mask neoplasia, and underscores the critical role of PARR analysis in differentiating monoclonal T-cell proliferation from complex reactive processes in feline splenic disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939165/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42939154",
-      "title": "Juvenile Spontaneous Mediastinal Hemorrhage with Suspect Trauma.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-10",
-      "abstract": "A 6-month-old intact female American Pitbull ( Canis lupus familiaris ) underwent forensic evaluation for suspected blunt force trauma. Postmortem computed tomography (PMCT) identified pleural hyperattenuating soft tissue attenuating material, consistent with clotted blood, pleural effusion, a large thymus, and moderate to severe cranial mediastinal expansion with mixed fluid and lower-attenuation, soft tissue attenuating material. Histology confirmed thymic hemorrhage, while autopsy identified hemothorax, pleural blood clots, and hemomediastinum, excluding trauma, most consistent with spontaneous idiopathic thymic hemorrhage. This case highlights the utility of identifying hyperattenuating clot formation on PMCT, like the sentinel clot sign, for localizing antemortem hemorrhage and improving antemortem-postmortem correlation in forensic investigations.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939154/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
