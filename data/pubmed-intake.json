@@ -1,9 +1,19 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-16T02:05:13.526342+00:00",
+  "updated_at": "2026-11-17T04:28:32.152949+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "43036678",
+      "title": "Exertional syncope caused by acquired obstruction of the pulmonary artery due to an organized thrombus in a dog.",
+      "journal": "Veterinary and animal science",
+      "publication_date": "2026-11",
+      "abstract": "An 8.5-year-old Boxer was referred for evaluation of frequently occurring exercise-induced seizure-like episodes for 2.5 months. Cardiac auscultation revealed a left basilar systolic murmur with an intensity of IV/VI. Echocardiography showed severe pulmonary arterial obstruction with a pressure gradient of 90 mmHg due to a suspected intraluminal mass. Cardiac catheterization was performed, where a right ventriculogram revealed a large rounded filling defect in the pulmonary artery trunk. No balloon angioplasty, biopsy or stenting were attempted. After euthanasia, post-mortem examination revealed an organized thrombus of unknown etiology attached to the wall of the pulmonary artery trunk. The adjacent arterial wall showed a markedly thickened intimal layer. The etiology remains unclear, primarily due to the chronic nature of the condition. Antemortem blood tests and postmortem examination failed to reveal any prothrombotic conditions. Acquired causes of pulmonary arterial obstruction are extremely rare in dogs, and an organized thrombus has not been reported yet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036678/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "42764151",
       "title": "Successful Treatment of Onchocerca lupi Auricular Infestation Causing Severe Otitis Externa in a Dog.",
@@ -35,6 +45,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "43035958",
+      "title": "Detection of Urinary Round Cells in a Dog With IgA Paraproteinemia: A Case of Myeloma-Related Disorder.",
+      "journal": "Veterinary clinical pathology",
+      "publication_date": "2026-11",
+      "abstract": "An 11-year-old neutered male Rottweiler mixed-breed dog was presented with apathy, anorexia, and polyuria/polydipsia. Clinicopathologic evaluation revealed hypercalcemia, azotemia, mild hyperproteinemia, and hyperglobulinemia, and proteinuria with concurrent glucosuria. Urinary cytology identified numerous neoplastic round cells morphologically consistent with plasma cells. Abdominal ultrasound demonstrated hepatic and splenic hypoechoic lesions, lymphadenomegaly, and hypoechoic prostatic parenchyma. Cytology of aspirates from hepatic and splenic lesions revealed the same neoplastic round cell population as observed in the urine. Based on these findings, a presumptive diagnosis of myeloma-related disorder (MRD), most likely multiple myeloma (MM), was made. Further laboratory investigations were pursued with serum protein electrophoresis (SPE) and immunofixation (IM), as well as immunocytochemistry. SPE coupled with IM revealed an IgA paraproteinemia, and immunocytochemistry findings were suggestive of plasma cell differentiation. The present findings are indicative of an MRD. To the authors' knowledge, this is the first description of plasmacytoid cells in urine from a dog with concurrent paraproteinemia, highlighting urine cytology as a potential non-invasive diagnostic tool for MRD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035958/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "43031276",
       "title": "Markedly enlarged orbital lipoma in a dog.",
       "journal": "The Journal of small animal practice",
@@ -56,7 +76,7 @@
     },
     {
       "pmid": "43020466",
-      "title": "Electrochemotherapy for Urinary Bladder Botryoid Rhabdomyosarcoma in a Dog: Case Report.",
+      "title": "Electrochemotherapy for urinary bladder botryoid rhabdomyosarcoma in a dog: case report.",
       "journal": "Topics in companion animal medicine",
       "publication_date": "2026-11",
       "abstract": "Urinary bladder rhabdomyosarcoma (RMS) is a rare malignant neoplasm in dogs, most commonly affecting young animals and frequently arising from the trigone region, where complete surgical removal is challenging. Reported median survival time for dogs with vesical RMS is 45 days, ranging from 20 to 120 days. This report describes the diagnosis and multimodal treatment of a six-month-old intact female Golden Retriever diagnosed with vesical botryoid rhabdomyosarcoma. The patient presented with urinary incontinence, dysuria, and hematuria and was initially treated for suspected cystitis without clinical improvement. Ultrasonography identified a bladder mass located in the trigone region, and exploratory cystotomy with surgical debulking was performed. Intraoperative electrochemotherapy with bleomycin was administered, followed by six sessions of systemic doxorubicin chemotherapy. Complete remission was achieved, but recurrence was noted after 183 days, and the patient presented a survival time of 277 days, exceeding previously reported outcomes for this neoplasm. Although disease progression ultimately occurred, this case suggests that incorporating electrochemotherapy into a multimodal protocol may improve locoregional control in infiltrative vesical rhabdomyosarcoma and potentially prolong survival in dogs affected by this malignancy.",
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "Metallic projectile injuries in companion animals present complex diagnostic and evidentiary challenges, especially when comprehensive crime scene data and intact projectiles are absent. This report describes the forensic postmortem investigation of an adult male Jindo dog submitted by law enforcement authorities following fatal penetrating trauma in South Korea. Digital radiography identified multiple radiopaque metallic opacities in the left thoracic region, accompanied by severe pleural effusion and subcutaneous emphysema. Postmortem computed tomography (PMCT; 16-slice MDCT, 0.75-mm slice thickness) precisely delineated clustered hyperattenuating metallic fragments embedded in the left thoracic wall, an oblique displaced fracture of the left fourth rib, marked hemopneumothorax with compression atelectasis, and pneumomediastinum, while excluding cranial or abdominal injury. At necropsy, approximately 100 mL of pleural blood was evacuated, and through-and-through pulmonary transcapsular lacerations were identified traversing the right and left cranial lung lobes. Multiple deformed metallic fragments were recovered adjacent to the fractured rib under strict forensic chain-of-custody protocols. Histopathology of pulmonary laceration margins confirmed acute hemorrhage, fibrin deposition, and early neutrophilic margination, establishing an acute antemortem vital reaction (survival interval < 1 h). Histological examination of the cutaneous entry and exit margins revealed mechanical tearing without thermal coagulation or soot residue, consistent with an intermediate-to-distant discharge. The anatomical convergence of lesions supported a right-to-left projectile trajectory, with the left axillary defect presenting features compatible with a shored exit wound. Death was attributed to fatal acute hemopneumothorax and bilateral pulmonary laceration secondary to perforating metallic projectile injury. This case demonstrates the indispensable diagnostic and prosecutorial value of integrating digital radiography, PMCT virtopsy, forensic necropsy, and histopathology in veterinary medicolegal investigations of non-accidental trauma.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939195/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42944191",
-      "title": "Transosseous Suture Fixation of an Inverted Palatal Mucoperiosteal Flap to Residual Buccal Alveolar Bone for Oronasal Fistula Repair in a Dog.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-10",
-      "abstract": "Advanced periodontal disease can compromise the recipient tissues available for flap fixation during oronasal fistula repair. This report describes double-layer repair of an acquired periodontal oronasal fistula in an eight-year-old castrated male Beagle. Radiographs and computed tomography (CT) identified regional bone loss and residual alveolar bone adjacent to the defect. Following extraction of the left maxillary canine and second premolar and debridement of the fistula margins, an inverted hard palatal mucoperiosteal flap was anchored to residual buccal alveolar bone through four transosseous bone holes created with an 18-gauge needle. Transosseous suture fixation used 4-0 polydioxanone simple interrupted sutures. A buccal mucosal advancement flap covered the inverted flap and palatal donor site; no interpositional graft was used. Healing without clinically evident dehiscence was documented on postoperative day 18, and nasal discharge had resolved by day 45. At 555 days, visual oral examination revealed an intact repair, with concordant CT findings obtained for an unrelated otologic indication. This case illustrates the use of residual buccal alveolar bone for palatal flap attachment when periodontal tissue loss limits gingival recipient margins, with maintained closure documented at late clinical and imaging reassessment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944191/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42952495",
-      "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-10",
-      "abstract": "A 10-year-old female spayed mixed-breed dog was presented with a history of seizures and acute progressive intracranial signs. The neurological examination was consistent with multifocal brain disease. Clinical examination revealed ecchymoses, petechiae, and bilateral retinal hemorrhage. Clinicopathological evaluation identified severe thrombocytopenia [a platelet count of 9 × 10 3 /μL without clumps on manual smear evaluation] with an increased mean platelet volume. Coagulation testing (activated partial thromboplastin time and prothrombin time) and fibrinolysis markers (D-dimers, quantitative fibrinogen), infectious disease screening, and thoracic and abdominal imaging were within normal limits, establishing a diagnosis of primary immune-mediated thrombocytopenia (ITP). Magnetic resonance imaging (MRI) of the brain showed minimally expanded, bilateral crescent-shaped, extra-axial fluid accumulations overlying both cerebral hemispheres. Based on T1-weighted and T2-weighted hyperintensities and peripheral susceptibility artifact on T2*-weighted gradient-recalled echo (GRE) imaging, a late subacute subdural intracranial hemorrhage was diagnosed. Despite initial uneventful anesthesia and recovery, the dog experienced acute neurological deterioration and suffered cardiopulmonary arrest, suspected due to ongoing hemorrhage or brain herniation. This report describes a rare neurological manifestation of primary ITP in a dog. While canine ITP generally carries a favorable prognosis, life-threatening secondary intracranial hemorrhage can occur. Primary ITP should be considered as a differential diagnosis for an acute, progressive neurological presentation until a normal platelet count is confirmed.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952495/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
