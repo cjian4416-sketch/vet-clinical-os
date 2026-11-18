@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-17T04:28:32.152949+00:00",
+  "updated_at": "2026-11-18T03:42:12.379232+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -41,6 +41,46 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43042548",
+      "title": "Transmural and Intraluminal Gallbladder Hemorrhage (Hemocholecyst) in a Dog Following Snakebite Envenomation.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-11",
+      "abstract": "To describe a case of hemocholecyst as a sequela to snake envenomation in a dog. A 2-year-old neutered male mixed-breed dog was hospitalized for 4 days after a suspected crotaline envenomation and possible anaphylactic reaction. Significant clinical findings included coagulopathy, thrombocytopenia, hyperbilirubinemia, anemia, multiorgan dysfunction, and hypotension. Point-of-care ultrasound was suggestive of gallbladder wall thickening, a finding frequently associated with anaphylaxis or intramural hemorrhage, with other differentials including cholecystitis, mucocele, or neoplasia. Despite aggressive therapy with antivenom, blood products, and supportive care, the dog experienced cardiopulmonary arrest. Necropsy revealed widespread hemorrhage, multiorgan tissue necrosis, pigment nephropathy, and marked obstructive hemorrhage and necrosis of the gallbladder, consistent with hemocholecyst formation. To the authors' knowledge, this is the first report of hemocholecyst as a sequela to snake envenomation in a dog. Obstructive hemocholecyst and transmural gallbladder wall hemorrhage should remain differentials for severe hyperbilirubinemia in dogs with venom-induced coagulopathy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042548/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43041205",
+      "title": "Acute Tracheal Narrowing due to Suspected Intramural Tracheal Hemorrhage in a Dog With Hemophilia A.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-11",
+      "abstract": "To describe a case of spontaneous intramural tracheal hemorrhage with subsequent tracheal narrowing leading to a respiratory crisis in a dog with hemophilia A (factor VIII deficiency). A 5-year-old neutered male Havanese presented in respiratory distress following acute-onset cough. The dog had a known history of hemophilia A and had been evaluated at a different facility the day prior, where thoracic radiographs showed severe tracheal attenuation, leading to a presumptive diagnosis of tracheal collapse. The patient was intubated on presentation due to severe respiratory distress. Serial blood work monitoring showed development of anemia and a prolonged activated partial thromboplastin time. Intramural tracheal hemorrhage was suspected, and a cryoprecipitate transfusion was administered. Subsequent thoracic radiographs at the 1-week follow-up showed improving tracheal attenuation, with complete resolution of tracheal narrowing. In hindsight, having a high index of suspicion of hemorrhage as the cause of respiratory distress at first presentation, and early transfusion of a factor VIII-containing blood product, would have likely reduced the progression and severity of the clinical episode in this dog. Intramural tracheal hemorrhage can present similarly to tracheal collapse and is a differential for tracheal narrowing on radiographs. There have been previous reports of dogs in respiratory distress with tracheal narrowing due to hemorrhage caused by anticoagulant rodenticide toxicosis. This is the first case report documenting spontaneous hemorrhage secondary to hemophilia A causing tracheal narrowing. Although rare, hemorrhage should be considered in all cases of tracheal narrowing, especially in patients without a chronic history of cough and those that fail to respond to standard treatment for tracheal collapse. Dogs with a known diagnosis of hemophilia A should be assumed to have bleeding almost regardless of their clinical presentation and treated accordingly.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041205/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43040156",
+      "title": "Gastric ulcers in cats with feline infectious peritonitis.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-11",
+      "abstract": "Feline infectious peritonitis (FIP) is one of the leading causes of death in cats worldwide. Although multiple organs can be affected, gastric ulcers have not been previously described as part of the pathological picture. Here we describe the macroscopic, histopathological, and immunohistochemical features of gastric ulcers of four domestic cats with FIP. The mean age of affected cats was 19 months. The affected cats had multisystemic involvement and the disease was classified as three mixed and one non-effusive case of FIP. Gross changes in the stomach were identified in all cases and consisted of single or multiple ulcers of variable diameter that were surrounded by a hyperemic halo. Histologically, ulcerated lesions consisted of areas of mucosal loss with coagulative necrosis surrounded by fibrin and cellular debris and, in some cases, pyogranulomatous inflammation. In the submucosa there was pyogranulomatous vasculitis, thrombosis, and fibrinoid vascular necrosis. All cases had positive immunolabeling for FCoV in the cytoplasm of macrophages within the gastric mucosa and submucosa. Although ulcerative gastritis is not a classic manifestation of FIP, the vasculitis and thrombosis observed in these cases likely contributed to the development of gastric ulcers. FIP should be considered as a differential diagnosis in cats with gastric ulcers associated with pyogranulomatous inflammatory infiltrate.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040156/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43040794",
+      "title": "Intrametatarsal pad injection of indocyanine green for near-infrared fluorescence imaging of the thoracic duct in four dogs and two cats with chylothorax.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-11",
+      "abstract": "To assess the efficacy of direct near-infrared fluorescence (NIRF) using indocyanine green (ICG) via intrametatarsal pad injection in dogs and cats with idiopathic chylothorax. Retrospective case series of client-owned animals undergoing intrametatarsal ICG injection and thoracoscopic thoracic duct ligation between 2020 and 2025. A total of four dogs and two cats. Inclusion criteria consisted of cytologically confirmed chylothorax, preoperative computed tomography (CT) lymphangiogram (CTL), and known intraoperative injection of ICG in the metatarsal pad(s). Data collected included signalment, weight, preoperative diagnostics, number of ducts visualized intraoperatively, dose of ICG, additional doses required, and concordance with CTL. Time to visualization of the ICG in the thoracic duct, surgical procedures performed, and any intraoperative complications encountered were also reported. Postoperative data included time to discharge, time to first recheck, presence of fluid at first recheck, postoperative complications, status at last recheck, and total follow-up time. Median number of ducts seen between T10 and 13 region on preoperative CT was 2.5 (range: 1-4). The ICG dose ranged from 0.06 to 0.25 mg/kg, and two cases required additional injections to visualize the duct and all branches. A duct not previously seen on CT was visualized with NIRF in one dog. Median time to TD visualization was 7 min (range: 5-22 min). No intra- or postoperative complications due to the metatarsal injections were reported, and all patients were discharged. A total of 5/6 patients did not require thoracocentesis and were clinically well at a median last follow-up of 647 days (range: 454-793). Intrametatarsal injection of ICG appears effective for identification of the thoracic duct in animals with chylothorax.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040794/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -211,6 +251,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43041003",
+      "title": "Surgical Management of a Testicular Spermatocytic Tumour in a Rescued Snow Leopard (Panthera uncia) With Successful Wild Reintroduction.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Neoplastic diseases in wild felids are rarely documented, particularly in threatened species such as the snow leopard (Panthera uncia). An adult male snow leopard rescued in Qinghai Province, China, presented with severe emaciation and marked scrotal enlargement that restricted normal movement. Bilateral orchiectomy was performed following clinical examination and imaging assessment. Histopathological analysis revealed large round tumour cells with prominent nucleoli and frequent mitotic figures. Immunohistochemical staining supported the diagnosis of a spermatocytic tumour with epididymal involvement. After surgery and postoperative care, the animal gradually recovered body condition. Behavioural evaluation indicated that it retained the ability to survive independently in the wild. The individual was therefore released after rehabilitation. Satellite tracking recorded normal movement patterns and confirmed survival for at least 3 years following release. This report provides clinical and pathological documentation of a testicular spermatocytic tumour in a snow leopard and indicates that surgical intervention may be feasible in selected cases encountered during wildlife rescue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041003/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -751,56 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "Pleuropulmonary blastoma (PPB) is a rare, paediatric, mesenchymal, pulmonary neoplasm that can be highly aggressive. To date, there are only two reports of PPB in animals. We describe the finding of pulmonary neoplasms with PPB-like features in two unrelated Labrador Retrievers. Both dogs presented with acute dyspnoea, pneumothorax and pulmonary lesions. Treatment consisted of emergency thoracostomy tube placement followed by lung lobectomy. At follow-up, one dog experienced no recurrence 20 months post-surgery, whereas recurrence developed in the second dog 2 years postoperatively. Histopathological examination revealed spindle-shaped neoplastic cells with blastematous-to-sarcomatous appearance, associated with cystic spaces lined by non-neoplastic respiratory epithelium. Immunohistochemistry showed that the neoplastic cells were positive for mesenchymal markers but negative for epithelial and neuroendocrine markers, with some tumour cells showing desmin positivity, supportive of myogenic differentiation, possibly compatible with rhabdomyoblastic differentiation. Genome profiling revealed a heterogeneous somatic landscape. No pathogenic somatic or germline  DICER1  variants were found. We compared these findings with those reported in human PPB. This is the first comprehensive analysis of pulmonary neoplasms with PPB-like features in animals, and reveals parallels with PPB in humans, further supporting the 'One Medicine' approach.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42944205/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42944201",
-      "title": "Perioperative Glycemic Changes Following Partial Pancreatectomy for a Pancreatic Islet Cell Neoplasm in a Dog: A Case Report.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-10",
-      "abstract": "Canine insulinomas are functional pancreatic neuroendocrine tumors that typically cause hypoglycemia, but blood glucose may fluctuate before surgery and increase after resection. This report describes the diagnostic evaluation, surgical treatment, and perioperative glycemic course of a 12-year-old female Miniature Schnauzer with a pancreatic islet cell neoplasm considered clinically consistent with insulinoma. Intermittent low or low-normal blood glucose concentrations ranging from 54 to 72 mg/dL were documented before surgery, and the blood glucose concentration on the day of surgery was 73 mg/dL. Contrast-enhanced computed tomography identified a mass in the left pancreatic limb, and partial pancreatectomy was subsequently performed. Blood glucose reached 416 mg/dL 2 h after pancreatic mass removal while surgery was ongoing, then initially declined without insulin administration. Recurrent postoperative hyperglycemia was treated with regular insulin on postoperative days (PODs) 2 and 3, whereas subsequent decreases in blood glucose were treated with dextrose supplementation. Blood glucose continued to fluctuate on POD 4; no additional insulin was administered after POD 3. Histopathologic examination identified a pancreatic islet cell neoplasm. Although a paired serum insulin concentration during documented hypoglycemia was not available and immunohistochemical staining for insulin or other neuroendocrine markers was not performed, the clinical, imaging, glycemic, and histopathological findings were considered consistent with a clinicopathologic diagnosis of insulinoma. Blood glucose was 150 mg/dL on POD 7; subsequent recorded concentrations through POD 150 ranged from 107 to 133 mg/dL. Serial glucose monitoring helped characterize the perioperative course and guide postoperative insulin and dextrose treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944201/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42964095",
-      "title": "Case Report:  18 F-FDG PET/CT findings and SUVmax characterization in a dog with apocrine gland anal sac adenocarcinoma.",
-      "journal": "Frontiers in veterinary science",
-      "publication_date": "2026-10",
-      "abstract": "Apocrine gland anal sac adenocarcinoma (AGASACA) is a malignant epithelial tumor in dogs that commonly metastasizes to regional lymph nodes. Although  18 F-fluorodeoxyglucose ( 18 F-FDG) positron emission tomography/computed tomography (PET/CT) has been mentioned as a staging modality for this tumor, detailed imaging findings and maximum standardized uptake values (SUVmax) have not previously been reported. A 10-year-old castrated male Maltese was referred for a right anal sac mass and suspected lymph node metastasis. Preoperative  18 F-FDG PET/CT revealed increased uptake in the primary mass (SUVmax 7.3), the internal iliac lymph node (SUVmax 6.35), and the lumbar aortic lymph node (SUVmax 4.3), with no evidence of distant metastasis. Therefore, the dog was therefore classified as Stage IIIa. Based on these findings, intra-abdominal lymphadenectomy and right anal sacculectomy were performed. Histopathology confirmed AGASACA in the primary mass and morphologically similar metastatic adenocarcinoma in the resected lymph nodes. To our knowledge, this is the first report of  18 F-FDG PET/CT findings and SUVmax values in a dog with AGASACA and histologically confirmed lymph node metastases. These findings suggest that PET/CT may provide complementary metabolic information for preoperative nodal staging.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964095/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42944196",
-      "title": "Cytologically Suggested Vulvar Involvement in a Dog with Multicentric Lymphoma After a Nodal Response to CHOP-Based Chemotherapy, with Discordant Clonality Results: A Case Report.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-10",
-      "abstract": "Involvement of the female reproductive tract is rare in canine lymphoma. A 9-year-old spayed female Maltese dog was presented with generalized lymphadenopathy. Cytology of a mandibular lymph node aspirate indicated large cell lymphoma, whereas PCR for antigen receptor rearrangement (PARR) of the same sample was polyclonal. Splenectomy confirmed splenic large cell lymphoma, classified as World Health Organization clinical stage IVa. After 12 cycles of a CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisolone)-based protocol, restaging computed tomography showed a marked reduction in all measurable lymph nodes, whereas gastric and subcutaneous nodules persisted. On Day 181 (168 days after the start of chemotherapy), vulvar swelling was noticed and progressed despite antimicrobial and anti-inflammatory treatment, together with inguinal lymphadenopathy. Disease progression was diagnosed by inguinal lymph node cytology, and rescue chemotherapy was started; however, the dog developed acute dyspnea and died two days later. Results reported after death showed a mixed monoclonal and polyclonal immunoglobulin heavy chain (IgH) pattern in the inguinal lymph node and a clonal IgH rearrangement in the vulvar aspirate, which was cytologically consistent with lymphoma. In dogs treated for lymphoma, vulvar swelling may reflect neoplastic infiltration, and PARR results may differ between samples obtained at different sites and time points.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944196/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42944195",
-      "title": "A Salivary Conglomerate with a Substantial Organic Component Mimicking a Mineral Sialolith in the Mandibular-Sublingual Gland Complex of a Dog.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-10",
-      "abstract": "Solid lesions of the mandibular-sublingual salivary gland complex are rare in dogs. We report the case of an 11-year-old, 5 kg, intact female Maltese dog that presented with a non-painful, 2-3 cm left cervical swelling, soft at the surface and firm in depth. Fine-needle aspiration yielded clear, sero-mucous fluid. Radiographs revealed a well-defined, ovoid radiopaque structure measuring 3.1 × 2.9 cm in the cranial cervical region. Mandibular and monostomatic sublingual sialoadenectomy via a ventral approach revealed a large, heart-shaped, solid conglomerate within the glandular complex. Histopathological examination confirmed glandular atrophy, fibrosis and sialoadenitis. Fourier-transform infrared (FTIR) spectrometry of the submitted fragments indicated a substantial organic, protein- and lipid-rich component, with additional bands suggesting a possible minor mineral component. The dog healed completely, with no recurrence detected at the 2-week examination. Limitations include the absence of cross-sectional imaging and elemental analysis and the limited clinical follow-up. This case shows that protein-rich solid conglomerates should be included in the differential diagnosis of cervical swellings in dogs, that radiopacity alone does not establish mineral composition, and that complete surgical excision was associated with a favourable short-term outcome.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944195/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42939195",
-      "title": "Multimodal Postmortem Investigation of Fatal Thoracic Metallic Projectile Trauma in a Jindo Dog: Radiographic, Computed Tomographic, Necropsy, and Histopathological Findings.",
-      "journal": "Animals : an open access journal from MDPI",
-      "publication_date": "2026-10",
-      "abstract": "Metallic projectile injuries in companion animals present complex diagnostic and evidentiary challenges, especially when comprehensive crime scene data and intact projectiles are absent. This report describes the forensic postmortem investigation of an adult male Jindo dog submitted by law enforcement authorities following fatal penetrating trauma in South Korea. Digital radiography identified multiple radiopaque metallic opacities in the left thoracic region, accompanied by severe pleural effusion and subcutaneous emphysema. Postmortem computed tomography (PMCT; 16-slice MDCT, 0.75-mm slice thickness) precisely delineated clustered hyperattenuating metallic fragments embedded in the left thoracic wall, an oblique displaced fracture of the left fourth rib, marked hemopneumothorax with compression atelectasis, and pneumomediastinum, while excluding cranial or abdominal injury. At necropsy, approximately 100 mL of pleural blood was evacuated, and through-and-through pulmonary transcapsular lacerations were identified traversing the right and left cranial lung lobes. Multiple deformed metallic fragments were recovered adjacent to the fractured rib under strict forensic chain-of-custody protocols. Histopathology of pulmonary laceration margins confirmed acute hemorrhage, fibrin deposition, and early neutrophilic margination, establishing an acute antemortem vital reaction (survival interval < 1 h). Histological examination of the cutaneous entry and exit margins revealed mechanical tearing without thermal coagulation or soot residue, consistent with an intermediate-to-distant discharge. The anatomical convergence of lesions supported a right-to-left projectile trajectory, with the left axillary defect presenting features compatible with a shored exit wound. Death was attributed to fatal acute hemopneumothorax and bilateral pulmonary laceration secondary to perforating metallic projectile injury. This case demonstrates the indispensable diagnostic and prosecutorial value of integrating digital radiography, PMCT virtopsy, forensic necropsy, and histopathology in veterinary medicolegal investigations of non-accidental trauma.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939195/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
