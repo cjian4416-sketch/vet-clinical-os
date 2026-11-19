@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-18T03:42:12.379232+00:00",
+  "updated_at": "2026-11-19T03:25:07.809145+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -41,6 +41,26 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43049821",
+      "title": "Paediatric Lagenidiosis Involving the Lacrimal Sac: A Rare Oomycete Infection in an Immunocompetent Child.",
+      "journal": "Mycopathologia",
+      "publication_date": "2026-11",
+      "abstract": "Lagenidium giganteum, an oomycete, causes invasive disease in dogs and horses following freshwater exposure, but only two human infections have been reported, both in adults. We describe a healthy 3-year-old boy who developed a firm lacrimal sac mass over three weeks, following freshwater exposure. Inflammatory markers were normal, and antibacterial therapy was ineffective. Biopsy demonstrated broad, sparsely septate hyphae within granulomatous and eosinophilic inflammation. Routine cultures were initially negative. Prolonged incubation yielded a slow-growing, submerged colony, and internal transcribed spacer sequencing identified Lagenidium giganteum forma caninum. The isolate did not grow sufficiently to facilitate susceptibility testing. Two surgical debridements, performed one week apart, did not achieve complete source control. Twelve months of oral posaconazole and terbinafine with topical natamycin produced sustained clinical and radiologic improvement, maintained after cessation of therapy. This is the first reported paediatric human lagenidiosis and the first involving the lacrimal apparatus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049821/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43045463",
+      "title": "Suspected Cullen's sign in a domestic shorthair cat with severe hepatopancreatobiliary disease.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-11",
+      "abstract": "PubMed 未提供摘要。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045463/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -781,26 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "A 7-month-old, 3.6-kg, intact male Dachshund was presented with a lifelong history of chronic respiratory signs. Multiple courses of antimicrobial therapy resulted in partial or complete clinical improvement, followed by recurrence after treatment discontinuation. To investigate the underlying cause of the persistent respiratory disease, rhino-tracheobronchoscopy was performed. Bronchoalveolar lavage (BAL) fluid and respiratory mucosal biopsy specimens were collected for cytological, histopathological, and ultrastructural evaluation. Cytological examination of BAL fluid revealed septic neutrophilic inflammation, and bacterial culture yielded  P. aeruginosa.  Transmission electron microscopy (TEM) identified ultrastructural abnormalities of the ciliary axoneme in 50% of the examined respiratory cilia. Based on these findings, primary ciliary dyskinesia (PCD) was diagnosed. PCD is a rare congenital disorder characterized by structural and functional abnormalities of motile cilia, resulting in impaired mucociliary clearance and recurrent respiratory infections. This case highlights the diagnostic value of a detailed clinical history, endoscopic examination, and TEM in dogs with suspected PCD.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42944208/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42896698",
-      "title": "A case of feline sparganosis caused by Spirometra asiana (Cestoda: Diphyllobothriidae) discovered during left forelimb amputation.",
-      "journal": "Parasitology international",
-      "publication_date": "2026-10",
-      "abstract": "A large plerocercoid was incidentally found and removed during left forelimb amputation performed to treat a refractory wound in a cat rescued in Tokushima Prefecture, Japan. Molecular analysis of the mitochondrial cytochrome c oxidase subunit I gene identified the recovered worm as Spirometra asiana. This represents the first reported case of feline sparganosis caused by this species. Although the association between plerocercoid infection and the clinical signs remains unclear, outdoor cats may potentially harbor plerocercoids.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896698/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42944205",
-      "title": "Pulmonary Neoplasms with Pleuropulmonary Blastoma-like Features in Two Young Labrador Retrievers: Clinicopathological, Molecular and Comparative Characterisation.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-10",
-      "abstract": "Pleuropulmonary blastoma (PPB) is a rare, paediatric, mesenchymal, pulmonary neoplasm that can be highly aggressive. To date, there are only two reports of PPB in animals. We describe the finding of pulmonary neoplasms with PPB-like features in two unrelated Labrador Retrievers. Both dogs presented with acute dyspnoea, pneumothorax and pulmonary lesions. Treatment consisted of emergency thoracostomy tube placement followed by lung lobectomy. At follow-up, one dog experienced no recurrence 20 months post-surgery, whereas recurrence developed in the second dog 2 years postoperatively. Histopathological examination revealed spindle-shaped neoplastic cells with blastematous-to-sarcomatous appearance, associated with cystic spaces lined by non-neoplastic respiratory epithelium. Immunohistochemistry showed that the neoplastic cells were positive for mesenchymal markers but negative for epithelial and neuroendocrine markers, with some tumour cells showing desmin positivity, supportive of myogenic differentiation, possibly compatible with rhabdomyoblastic differentiation. Genome profiling revealed a heterogeneous somatic landscape. No pathogenic somatic or germline  DICER1  variants were found. We compared these findings with those reported in human PPB. This is the first comprehensive analysis of pulmonary neoplasms with PPB-like features in animals, and reveals parallels with PPB in humans, further supporting the 'One Medicine' approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944205/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
