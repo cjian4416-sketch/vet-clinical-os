@@ -1,9 +1,29 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-19T03:25:07.809145+00:00",
+  "updated_at": "2026-11-20T03:13:05.004875+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "43053280",
+      "title": "Osteomyelitis Caused by Metamycoplasma gateae after Cat Bite, Japan, 2026.",
+      "journal": "Emerging infectious diseases",
+      "publication_date": "2026-Dec",
+      "abstract": "We report a case of osteomyelitis caused by Metamycoplasma gateae after a cat bite in an immunocompromised patient in Japan. No standardized treatment has been established; however, the patient recovered after surgery and minocycline treatment. Clinicians should consider M. gateae infection in immunocompromised patients with unidentified infections and cat-bite exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053280/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43052248",
+      "title": "Indirect Healthcare-Associated Canine Sporotrichosis Caused by Sporothrix brasiliensis, Argentina, 2024.",
+      "journal": "Emerging infectious diseases",
+      "publication_date": "2026-Dec",
+      "abstract": "We describe a Sporothrix brasiliensis infection in a dog in Puerto Iguazú, Argentina, in 2024, that clustered with 3 epidemiologically linked feline sporotrichosis cases at the same veterinary clinic. Early mycologic diagnosis, molecular surveillance, and rigorous infection-control practices are critical to prevent healthcare-associated S. brasiliensis exposures in veterinary settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052248/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "43036678",
       "title": "Exertional syncope caused by acquired obstruction of the pulmonary artery due to an organized thrombus in a dog.",
@@ -271,6 +291,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43053572",
+      "title": "Intraoperative Extracorporeal Irradiation of Craniotomy Bone Flap for Skull Reconstruction Following Brain Meningioma Resection in a Cat.",
+      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+      "publication_date": "2026-Nov",
+      "abstract": "A 6-year-old male neutered domestic shorthair cat underwent rostro-tentorial biparietal craniotomy for meningioma resection. The bone flap was removed under sterile conditions and subjected to extracorporeal irradiation with 100 Gy before reimplantation using nonabsorbable sutures. Postoperative MRI confirmed gross total resection of the mass. Seven-month follow-up with CT showed no evidence of tumor recurrence and successful integration of the bone flap. To our knowledge, this is the first report of intraoperative extracorporeal irradiation of a craniotomy flap in veterinary medicine and suggests its potential as a viable alternative for skull reconstruction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053572/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "To systematically evaluate the effect of pre-membrane blood acidification, compared with conventional extracorporeal carbon dioxide removal without acidification, on extracorporeal - carbon dioxide elimination in large animal models undergoing mechanical ventilation. This protocol is prospectively registered in PROSPERO and will be conducted in accordance with PRISMA-P guidelines. We will include preclinical experimental studies in large animals (e.g., swine, sheep, goats, cattle, or dogs) evaluating pre-membrane acidification associated with extracorporeal carbon dioxide removal. We will conduct electronic searches in PubMed®, Web of Science, Scopus, Embase, and Google Scholar from database inception to December 2025, without language restrictions. Two independent reviewers will conduct study selection, data extraction, and risk-of-bias assessment using the SYRCLE tool. The primary outcome will be extracorporeal carbon dioxide elimination. When appropriate, we will conduct meta-analyses using random-effects models. We will standardize carbon dioxide elimination values by body weight (mL/kg/minute) to improve comparability across species. This review will provide a structured synthesis of preclinical evidence regarding the magnitude and consistency of the effect of pre-membrane acidification on carbon dioxide elimination, ventilatory parameters, and adverse events. By systematically evaluating available experimental data, this review aims to clarify the potential role of pre-membrane acidification as an adjunctive strategy to extracorporeal carbon dioxide removal and to identify knowledge gaps relevant for future translational and clinical research.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42961286/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42517212",
-      "title": "From inference to proof: nanopore sequencing confirms zoonotic Neisseria Zoodegmatis peritonitis after cat bite-related contamination in a patient on automated peritoneal dialysis.",
-      "journal": "Journal of nephrology",
-      "publication_date": "2026-Oct",
-      "abstract": "Peritoneal dialysis (PD)-associated peritonitis caused by zoonotic pathogens is uncommon and diagnostically challenging. Neisseria zoodegmatis, a Gram-negative coccobacillus residing in the oral flora of cats and dogs, has been reported only once previously in PD-associated peritonitis, with zoonotic transmission inferred but unproven. We report the case of a 90-year-old patient receiving automated PD who developed peritonitis following cat bite-related transfer-set damage, with partial response to empirical therapy and subsequent relapse. Conventional culture and MALDI-TOF mass spectrometry identified N. zoodegmatis, confirmed by 16S rRNA gene sequencing from colony isolates and PD effluent. Intermediate β-lactam susceptibility prompted escalation to carbapenem-based therapy. Third-generation nanopore sequencing demonstrated N. zoodegmatis as the dominant organism in PD effluent and identified the identical species in feline saliva, establishing molecular concordance. Sustained remission required strict environmental control. This is the second reported case of Neisseria zoodegmatis PD-associated peritonitis and the first one with molecular proof of zoonotic transmission, highlighting the selective role of long-read sequencing in complex or relapsing peritonitis, the need for antimicrobial reassessment after suspicion of pet-related contamination, and the importance of environmental intervention in preventing recurrence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517212/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42900271",
-      "title": "First molecular characterization of Echinococcus granulosus sensu stricto genotype G1 from a common chimpanzee (Pan troglodytes) in the Kuwait Zoo.",
-      "journal": "Acta parasitologica",
-      "publication_date": "2026-10",
-      "abstract": "Cystic echinococcosis (CE) is a cosmopolitan parasitic zoonosis with public health and economic significance. In this study, we report CE in uncommon host, a chimpanzee (Pan troglodytes) in the Kuwait Zoo with description of clinical and pathological findings. In September 2025, a 32-year-old adult female common chimpanzee (Pan troglodytes) died at the zoo of Kuwait after showing severe symptoms. Post-mortem examination revealed a handball-sized cyst embedded in the hepatic umbilical fissure, causing lesions. The content of the cyst was examined microscopically as well as by sequencing of the mitochondrial nad1 gene from one of the clonal protoscoleces found in the cyst. The cyst proved to be Echinococcus granulosus sensu stricto, genotype G1. The clinical case of the infection is described in detail. DNA sequence was nearly identical to sequences of G1 genotype of E. granulosus available in GenBank. This report of CE in a chimpanzee in the zoo highlights the problem related to environmental contamination. The implication of dogs in environmental contamination and other aspects of CE epidemiology in Kuwait is discussed. This is the first report of genetically identified hydatid cyst of E. granulosus sensu stricto in Kuwait and the first genetically confirmed case of the genotype G1 in chimpanzee.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900271/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42944208",
-      "title": "Primary Ciliary Dyskinesia with Secondary  Pseudomonas aeruginosa  Infection in a Dog: Endoscopic and Diagnostic Findings.",
-      "journal": "Veterinary sciences",
-      "publication_date": "2026-10",
-      "abstract": "A 7-month-old, 3.6-kg, intact male Dachshund was presented with a lifelong history of chronic respiratory signs. Multiple courses of antimicrobial therapy resulted in partial or complete clinical improvement, followed by recurrence after treatment discontinuation. To investigate the underlying cause of the persistent respiratory disease, rhino-tracheobronchoscopy was performed. Bronchoalveolar lavage (BAL) fluid and respiratory mucosal biopsy specimens were collected for cytological, histopathological, and ultrastructural evaluation. Cytological examination of BAL fluid revealed septic neutrophilic inflammation, and bacterial culture yielded  P. aeruginosa.  Transmission electron microscopy (TEM) identified ultrastructural abnormalities of the ciliary axoneme in 50% of the examined respiratory cilia. Based on these findings, primary ciliary dyskinesia (PCD) was diagnosed. PCD is a rare congenital disorder characterized by structural and functional abnormalities of motile cilia, resulting in impaired mucociliary clearance and recurrent respiratory infections. This case highlights the diagnostic value of a detailed clinical history, endoscopic examination, and TEM in dogs with suspected PCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944208/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
