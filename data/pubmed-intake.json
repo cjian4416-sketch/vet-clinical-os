@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-20T03:13:05.004875+00:00",
+  "updated_at": "2026-11-21T03:12:04.862711+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -61,6 +61,26 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43062764",
+      "title": "Extended-spectrum β-lactamase-producing Enterobacter hormaechei and Klebsiella pneumoniae isolated from mammary and postoperative wounds in canine oncology patients.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-11",
+      "abstract": "Extended-spectrum β-lactamase (ESBL)-producing Enterobacterales represent an increasing challenge in small animal medicine due to their limited treatment options and potential for dissemination in clinical settings. Although ESBL-positive Enterobacterales are increasingly recognized in dogs, their detection and clinical significance among dogs with cancer remain poorly investigated. Herein, we report the detection and genomic characterization of three ESBL-producing isolates recovered from wound samples of two dogs with neoplastic diseases. One Enterobacter hormaechei isolate was recovered from an ulcerated mammary tumor, whereas another E. hormaechei isolate and a Klebsiella pneumoniae isolate were recovered from a postoperative wound following thoracic nodulectomy. All three isolates were classified as multidrug-resistant and belonged to clinically relevant sequence types: E. hormaechei sequence type (ST) 114 and ST133, and K. pneumoniae ST11. All isolates carried bla CTX-M-15 , while K. pneumoniae ST11 additionally harbored bla CTX-M-8 . Genomic analyses also identified multiple virulence-associated determinants, including siderophore-associated genes in E. hormaechei ST133. To the best of our knowledge, this represents the first published report of E. hormaechei ST133 in a dog. These findings highlight the detection of clinically relevant ESBL-producing lineages in canine oncology patients and reinforce the importance of microbiological surveillance and antimicrobial susceptibility testing in veterinary practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062764/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43059157",
+      "title": "Beating-heart pulmonary arteriotomy under cardiopulmonary bypass for heartworm extraction in three dogs without caval syndrome.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-11",
+      "abstract": "To describe the clinical outcomes of beating-heart open-heart surgery under cardiopulmonary bypass (CPB) for surgical extraction of adult heartworms from the pulmonary arteries in dogs without caval syndrome. Animals Three client-owned dogs. Three client-owned dogs with heartworm disease, ≥5 adult heartworms visualized within a single pulmonary arterial branch, and no evidence of caval syndrome were included. After establishment of CPB, the pulmonary artery was opened without cardioplegic arrest, and adult heartworms were surgically extracted. Clinical follow-up ranged from 6 to 22 months, with objective echocardiographic, radiographic, right pulmonary artery distensibility (RPAD) index, and heartworm antigen assessments performed at scheduled follow-up examinations. Study design Case report. Adult heartworms visible intraoperatively were surgically removed in each dog. All dogs survived surgery and were discharged without major perioperative complications. During follow-up, heartworm antigen tests became negative, and no residual heartworms were detected on echocardiographic examinations. Pulmonary arterial dilation and radiographic abnormalities improved, while right pulmonary artery distensibility (RPAD) index values increased from 27.7%, 28.0%, and 22.5% preoperatively to 38.8%, 35.6%, and 35.4%, respectively. Surgical extraction of adult heartworms from the pulmonary arteries was associated with favorable postoperative and follow-up findings in these three dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059157/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -291,6 +311,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43062433",
+      "title": "Milk-related food-dependent exercise-induced anaphylaxis with suspected pork-cat syndrome in an 11-year-old boy.",
+      "journal": "Allergologia et immunopathologia",
+      "publication_date": "2026-11",
+      "abstract": "Pork-cat syndrome (PCS) is caused by cross-reactivity between cat serum albumin (Fel d 2) and pork serum albumin (Sus s 1). Although bovine serum albumin (Bos d 6) is also homologous to Fel d 2, milk-related symptoms have rarely been described in patients with PCS. We report an 11-year-old boy with food-dependent exercise-induced anaphylaxis (FDEIA) in whom milk was identified as the trigger and serum albumin cross-reactivity was suspected as a possible mechanism. He had experienced two episodes of anaphylaxis after eating pork sausage for breakfast and school lunch containing milk and pork, followed by exercise. He had lived with a cat since birth. Serum testing showed high levels of specific IgE to Fel d 2, Sus s 1, Bos d 6, cat dander, pork, beef, and milk, whereas casein-specific and alpha-gal-specific IgE levels were low. Skin prick testing was positive for raw pork, raw beef, pork sausage, and unheated milk, but negative for heated pork, heated beef, and heated milk. In an oral food challenge, symptoms were reproduced after exercise following ingestion of 300 mL of unheated milk, leading to a diagnosis of milk-related FDEIA. Inhibition enzyme-linked immunosorbent assay demonstrated partial inhibition of IgE reactivity to Bos d 6 by pork, cat hair, and milk extracts at the tested concentration. These findings suggested serum albumin cross-reactivity involving PCS. This case highlights the clinical utility of component-resolved diagnosis, particularly low casein-specific IgE with high Bos d 6-specific IgE, in raising suspicion of serum albumin-related mechanisms in patients with milk-related FDEIA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062433/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -771,36 +801,6 @@
       "publication_date": "2026-10",
       "abstract": "Sarcocystis sp.-induced disease is known especially in horses, in which S. neurona is the primary causative agent of Equine Protozoal Myeloencephalitis in the Americas. While horses are aberrant hosts, the range of susceptible species includes marine mammals, raccoons, and cats. Reports of clinical disease in dogs are rare, remaining unreported in South America. This study describes the clinical, pathological, and immunohistochemical findings of a naturally occurring, fatal case of meningoencephalomyelitis and myositis caused by Sarcocystis sp. in a dog in Brazil. A 5-year-old mixed-breed bitch presented with acute non-ambulatory tetraparesis, generalized muscle atrophy, and blindness. Despite supportive therapy, the patient deteriorated and was euthanized. Gross findings included enlarged lymph nodes, moderate splenomegaly and hepatomegaly, with multifocal mild fibrin deposition on the liver capsule, accompanied by multifocal mild hemorrhages in the pancreas. Histopathology demonstrated severe, multifocal necrotizing meningoencephalomyelitis, myositis, splenitis, lymphadenitis and interstitial pneumonia, associated with intralesional protozoal schizonts. Immunohistochemistry supported immunolabelling consistent with Sarcocystis sp. while excluding Toxoplasma gondii and Neospora caninum. To the authors' knowledge, this represents the first report of clinical canine sarcocystosis with this severity in South America supported by histopathological and immunohistochemical findings. These findings support that Sarcocystis sp. should be considered a differential diagnosis for canine progressive neurological disease, highlighting the potential role of wildlife reservoirs in the disease's epidemiology.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42965615/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42970940",
-      "title": "Feline sporotrichosis caused by Sporothrix brasiliensis in Buenos Aires City, Argentina: Report of two zoonotic cases.",
-      "journal": "Journal de mycologie medicale",
-      "publication_date": "2026-10",
-      "abstract": "Sporotrichosis caused by Sporothrix brasiliensis is an emerging zoonosis in South America, with Brazil representing the epicenter of a major ongoing epizootic. In Argentina, human and feline cases have increased over the past decade, predominantly in the Buenos Aires metropolitan area. However, autochthonous zoonotic transmission within Buenos Aires City has not been previously documented. To describe the first documented feline and zoonotic outbreak caused by S. brasiliensis in Buenos Aires City, involving cat-to-cat and cat-to-human transmission. Two cats with ulcerative cutaneous lesions were evaluated at the Instituto de Zoonosis Luis Pasteur (Buenos Aires City) in 2025. Clinical samples were cultured, and isolates were identified by partial sequencing of the β-tubulin gene. Antifungal susceptibility testing was performed to determine the minimum inhibitory concentration (MIC) of itraconazole. Clinical evolution and treatment outcomes of both cats, as well as zoonotic transmission to the owner, were documented. Both isolates were identified as S. brasiliensis and showed an itraconazole MIC of 0.03 mg/L. Both cats were successfully treated with oral itraconazole, achieving clinical cure after approximately five months of therapy. Zoonotic transmission to the owner occurred in both cases, confirming the public health implications of feline sporotrichosis. These cases document the first recognized feline and zoonotic outbreak caused by S. brasiliensis in Buenos Aires City and provide evidence of cat-to-cat and cat-to-human transmission. The findings reinforce the emergence of S. brasiliensis in urban Argentina and highlight the need for a One Health approach integrating veterinary and human medicine to improve surveillance, early diagnosis, and disease control.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970940/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42957413",
-      "title": "Medial Tympanic Membrane Displacement in Five Dogs Resembling Tympanic Membrane Retraction in Humans.",
-      "journal": "Veterinary dermatology",
-      "publication_date": "2026-10",
-      "abstract": "Five dogs with head tilt, ataxia, incoordination or deafness without a history of otitis externa (OE) were diagnosed with otitis media by computed tomography (CT) or magnetic resonance imaging (MRI). Otoendoscopy showed possible tympanic membrane retraction with opaque, fibrotic membranes and advanced imaging showed middle ear involvement. The clinical significance requires further investigation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957413/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42961286",
-      "title": "Effects of pre-membrane acidification on extracorporeal CO2 removal compared with conventional ECCO2R in mechanically ventilated animal models: a preclinical systematic review protocol.",
-      "journal": "Critical care science",
-      "publication_date": "2026-10",
-      "abstract": "To systematically evaluate the effect of pre-membrane blood acidification, compared with conventional extracorporeal carbon dioxide removal without acidification, on extracorporeal - carbon dioxide elimination in large animal models undergoing mechanical ventilation. This protocol is prospectively registered in PROSPERO and will be conducted in accordance with PRISMA-P guidelines. We will include preclinical experimental studies in large animals (e.g., swine, sheep, goats, cattle, or dogs) evaluating pre-membrane acidification associated with extracorporeal carbon dioxide removal. We will conduct electronic searches in PubMed®, Web of Science, Scopus, Embase, and Google Scholar from database inception to December 2025, without language restrictions. Two independent reviewers will conduct study selection, data extraction, and risk-of-bias assessment using the SYRCLE tool. The primary outcome will be extracorporeal carbon dioxide elimination. When appropriate, we will conduct meta-analyses using random-effects models. We will standardize carbon dioxide elimination values by body weight (mL/kg/minute) to improve comparability across species. This review will provide a structured synthesis of preclinical evidence regarding the magnitude and consistency of the effect of pre-membrane acidification on carbon dioxide elimination, ventilatory parameters, and adverse events. By systematically evaluating available experimental data, this review aims to clarify the potential role of pre-membrane acidification as an adjunctive strategy to extracorporeal carbon dioxide removal and to identify knowledge gaps relevant for future translational and clinical research.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961286/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
