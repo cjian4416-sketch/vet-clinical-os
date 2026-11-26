@@ -1,9 +1,19 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-25T04:53:20.805085+00:00",
+  "updated_at": "2026-11-26T04:08:37.750351+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "42442925",
+      "title": "Iatrogenic rectal perforation in two cats secondary to use of a faecal loop.",
+      "journal": "New Zealand veterinary journal",
+      "publication_date": "2026-07",
+      "abstract": "Two male, neutered, Domestic Shorthair cats, aged 5 and 8 years, were presented to the University of Florida for evaluation and correction of rectal perforations that occurred during faecal sample collection with faecal loops at their primary care hospitals. One cat presented with a fever, neutropenia, and lymphocytosis, while the other had a fever, thrombocytopenia, hyperglycaemia, and was approximately 5% dehydrated. In both cases, radiography identified a heterogeneous soft tissue and gas opacity adjacent to the rectum, and CT scans identified a defect in the rectal wall with associated pocketing, subcutaneous faecal material, and subcutaneous emphysema. The rectal defects were repaired surgically in both cats using a lateral perineal approach. Both surgical sites were treated with open wound management and left to heal by second intention. Iatrogenic rectal perforation. There are risks associated with the use of instruments, such as faecal loops or thermometers, in the rectum. Associated trauma can lead to potentially life-threatening complications. Early detection of rectal perforation is vital to reduce further complications and improve clinical outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442925/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "43053280",
       "title": "Osteomyelitis Caused by Metamycoplasma gateae after Cat Bite, Japan, 2026.",
@@ -61,6 +71,26 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43081715",
+      "title": "Presumed Leflunomide-Induced Lung Injury in a Dog.",
+      "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+      "publication_date": "2026-11",
+      "abstract": "To describe a clinical case of presumed drug-induced lung disease (DILD) caused by leflunomide, including a clinical case summary and a discussion of current veterinary and translational understandings of the diagnostic and therapeutic approach to DILD and the possible relationship between leflunomide use and interstitial lung disease in a dog. A 1-year-old intact male mixed-breed dog with a history of steroid-responsive meningitis-arteritis managed on prednisone, leflunomide, and cyclosporine was presented for a 2-day history of coughing, vomiting, lethargy, and anorexia. Thoracic radiographs showed an interstitial pulmonary pattern, while computed tomography showed diffuse pulmonary infiltrates and severe tracheobronchial lymphadenomegaly. Diagnostic testing including fungal serology and airway cytology/culture effectively ruled out infectious etiologies. Because the patient responded completely to a cessation of leflunomide therapy and anti-inflammatory doses of corticosteroids, we suspect these signs were the result of DILD as has been reported with leflunomide use in people. This is the first report of leflunomide-induced lung disease in veterinary medicine. Clinicians should be aware of the adverse drug event and use caution when considering this medication in patients with preexisting pulmonary disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081715/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43079147",
+      "title": "Cystic clear cell thymoma in a cat: clinical, imaging, anatomopathological and immunohistochemical findings.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-11",
+      "abstract": "Thymomas are uncommon thymic epithelial neoplasms in cats and may present uncommon histological variants, such as cystic clear cell thymoma. The aim of this case report was to describe the clinical, imaging, anatomopathological, and immunohistochemical findings of a cystic clear cell thymoma in a four-year-old mixed-breed female cat presented with anorexia and progressive dyspnea. Imaging examinations revealed a large heterogeneous mediastinal mass with cystic components, accompanied by pleural effusion and pulmonary compression. Ultrasound-guided cytology was inconclusive. Despite intensive supportive care, the patient died due to respiratory failure. Necropsy revealed a large mediastinal mass occupying approximately 70-80% of the thoracic cavity, accompanied by compressive pulmonary atelectasis and hydrothorax. Histologically, the neoplasm was predominantly composed of carbohydrate-rich clear epithelial cells accompanied by cystic structures, scattered mature lymphocytes and rare Hassall's corpuscles. Immunohistochemistry demonstrated strong nuclear expression of p40, p63 and CKAE1/AE3 in the neoplastic cells, whereas CD3 labeling was restricted to non-neoplastic lymphocytes, supporting the diagnosis of cystic clear cell thymoma. This report expands the current knowledge of this rare tumor variant in cats and highlights the importance of imaging examinations, histopathology, and immunohistochemistry for establishing a definitive diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079147/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -341,6 +371,16 @@
       "publication_date": "2026-Nov",
       "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43080212",
+      "title": "Concurrent Pericardial Effusion Leading to Cardiac Tamponade as the Initial Manifestation of Multicentric Lymphoma in a Dog.",
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2026-Nov",
+      "abstract": "Multicentric lymphoma is one of the most common haematopoietic neoplasms in dogs and may present with variable systemic and cardiothoracic manifestations. This report describes a case of multicentric lymphoma in an 8-year-old mixed-breed dog presenting with severe respiratory distress associated with concurrent pleural and pericardial effusions leading to cardiac tamponade. Clinical investigation included thoracic radiography, abdominal ultrasonography, echocardiography, electrocardiography and cytological evaluation of pericardial fluid. Imaging examinations revealed marked cardiomegaly, hepatomegaly, splenic mass and significant thoracic effusions associated with cardiopulmonary compromise. Pericardiocentesis was performed as both therapeutic and diagnostic procedure, allowing temporary haemodynamic stabilization and cytological identification of malignant lymphoid proliferation compatible with multicentric lymphoma. Despite supportive treatment and transient clinical improvement, rapid recurrence of respiratory signs resulted in death. This report highlights the clinical importance of recognizing concurrent thoracic effusions as potential indicators of advanced systemic neoplasia in dogs. The case emphasizes the value of rapid multimodal diagnostic investigation, particularly the integration of imaging techniques and cavitary fluid cytology, in the management of critically ill patients with suspected neoplastic thoracic disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080212/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -761,46 +801,6 @@
       "publication_date": "2026-07",
       "abstract": "PubMed 未提供摘要。",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42425609/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42415694",
-      "title": "Characterization of  Escherichia marmotae , a novel pathogen causing urinary tract infection in a dog.",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "publication_date": "2026-07",
-      "abstract": "Escherichia  is one of the most studied bacterial genera and includes several clinically significant pathogenic species. Unique strategies have evolved in members of this genus to allow their survival within different niches. Although initially the  Escherichia  cryptic clades (CCs) I-VIII were identified as environmental bacteria, they have been found as commensals and opportunistic pathogens in animals and humans. Notably, members of the  Escherichia  CCs are commonly mistaken for  E. coli  when using standard microbiologic techniques for species identification. We used whole-genome sequencing to correctly identify  E. marmotae -a member of the  Escherichia  CCs-that was initially misidentified as  E. coli  as the causative agent of a urinary tract infection (UTI) in a female dog. The isolate had phenotypic and genotypic resistance to cefalexin-an antibiotic used commonly for the treatment of uncomplicated UTIs-and carried a set of virulence factors also present in uropathogenic  E. coli , which would explain the capacity of the organism to colonize the urinary tract. As a relatively new species that is phenotypically very similar to  E. coli , it is quite possible that  E. marmotae  infections may be underreported or misidentified. We hope that our work alerts veterinarians to consider  E. marmotae  as a possible cause of UTIs in dogs, especially because this could affect treatment decisions. Additionally, our findings broaden the current understanding of the  E. marmotae  ecology and host range.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42415694/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42402371",
-      "title": "Gaze-evoked nystagmus in a dog with neuronal ceroid lipofuscinosis.",
-      "journal": "The Journal of small animal practice",
-      "publication_date": "2026-07",
-      "abstract": "PubMed 未提供摘要。",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402371/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42350911",
-      "title": "A case of successful surgical management of colonic duplication with pygomelia in a 2-month-old dog.",
-      "journal": "The Journal of small animal practice",
-      "publication_date": "2026-06",
-      "abstract": "A 2-month-old crossbreed female dog was presented for investigation of multiple congenital malformations, including pygomelia and duplication of the anus. Computed tomography revealed a duplicated colon, a duplicated pelvis with associated supernumerary hind limbs, a perineal hernia and abnormalities of the left kidney and ureter. During surgical exploration, a third ovary with its associated uterine horn was also identified. Surgical management consisted of excision of the duplicated colon and anus, disarticulation of the supernumerary hind limbs and correction of the perineal hernia. Postoperative outcome was favourable, with resolution of dyschezia and only mild residual gait abnormalities. Bilateral medial patellar luxation was subsequently diagnosed and surgically treated, resulting in a good long-term functional outcome.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42350911/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42310831",
-      "title": "Disseminated histiocytic sarcoma in 2 FeLV-positive cats in Brazil.",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "publication_date": "2026-06",
-      "abstract": "Histiocytic sarcomas (HSs) are uncommon malignant neoplasms in cats, typically affecting older animals and not previously associated with feline leukemia virus (FeLV). Here, we describe 2 cases of disseminated HS in young FeLV-positive domestic shorthair cats that clinically and grossly mimicked lymphoma. Case 1, a 1-y-old female cat, was presented with hemiplegia and dysuria and was euthanized because of the clinical suspicion of spinal lymphoma. Case 2, a 4-y-old male cat, had hyporexia, ocular abnormalities, and bilateral renal enlargement and was euthanized because of the clinical suspicion of renal and ocular lymphoma. Both cases tested positive for feline leukemia virus (FeLV) infection with a SNAP test. At autopsy, case 1 had a white, irregular, intradural spinal cord mass at the C6-C7 segment, and case 2 had coalescing, unencapsulated, white nodules that effaced both renal cortices, along with uveal thickening in the left eye with hyphema. Both cases had highly pleomorphic neoplastic round-cell proliferation in neoplastic masses, with strong cytoplasmic labeling for vimentin and IBA1 on immunohistochemistry and no CD20 or CD3 labeling, confirming disseminated HS. The neoplastic cells also had strong cytoplasmic immunolabeling for FeLV, suggesting a possible oncogenic role of FeLV in feline HSs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42310831/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
