@@ -1,7 +1,7 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-26T04:08:37.750351+00:00",
+  "updated_at": "2026-11-27T04:14:09.438515+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
     {
@@ -145,12 +145,32 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "43094027",
+      "title": "Postoperative Contralateral Pneumothorax After Right Cranial Lung Lobectomy and Cranial Mediastinal Lymph Node Excision in a Dog: A Case Report Highlighting Mediastinal Defect Repair and Unilateral Pleural Evacuation.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-11",
+      "abstract": "Postoperative pneumothorax is a recognized complication of lung lobectomy, and interpleural communication in dogs can make pleural air distribution and evacuation difficult to predict. A 10-year-old neutered male mixed-breed dog underwent right cranial lung lobectomy and excision of a metastatic cranial mediastinal lymph node. The excision created an approximately 2.5-cm full-thickness mediastinal defect through which the contralateral lung was visible; the defect was subsequently closed. At thoracic closure, pleural air was evacuated only from the right hemithorax. On postoperative day 1, tachypnea and increased respiratory effort developed, and a right-sided hemothorax was identified. After removal of 93 mL of hemorrhagic pleural fluid and initiation of whole-blood transfusion, respiratory abnormalities persisted. Contrast-enhanced computed tomography (CT) was performed to investigate the persistent respiratory abnormalities and a possible source of postoperative hemorrhage. CT demonstrated a large left-sided pneumothorax without active contrast extravasation or a definite bleeding source. Left thoracocentesis removed approximately 95 mL of air, with subsequent respiratory improvement. Temporary interpleural communication followed by repair and unilateral pleural evacuation may have contributed to contralateral air retention, although delayed bronchial stump or pulmonary parenchymal leakage could not be excluded. This case emphasizes bilateral pleural assessment and postoperative drainage planning after mediastinal manipulation or repair.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094027/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "43049821",
       "title": "Paediatric Lagenidiosis Involving the Lacrimal Sac: A Rare Oomycete Infection in an Immunocompetent Child.",
       "journal": "Mycopathologia",
       "publication_date": "2026-11",
       "abstract": "Lagenidium giganteum, an oomycete, causes invasive disease in dogs and horses following freshwater exposure, but only two human infections have been reported, both in adults. We describe a healthy 3-year-old boy who developed a firm lacrimal sac mass over three weeks, following freshwater exposure. Inflammatory markers were normal, and antibacterial therapy was ineffective. Biopsy demonstrated broad, sparsely septate hyphae within granulomatous and eosinophilic inflammation. Routine cultures were initially negative. Prolonged incubation yielded a slow-growing, submerged colony, and internal transcribed spacer sequencing identified Lagenidium giganteum forma caninum. The isolate did not grow sufficiently to facilitate susceptibility testing. Two surgical debridements, performed one week apart, did not achieve complete source control. Twelve months of oral posaconazole and terbinafine with topical natamycin produced sustained clinical and radiologic improvement, maintained after cessation of therapy. This is the first reported paediatric human lagenidiosis and the first involving the lacrimal apparatus.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43049821/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43088089",
+      "title": "Prosthetic Rehabilitation of Posterior Edentulous Regions in a Beagle Mandible Using Canine-Specific Dental Implants.",
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "publication_date": "2026-11",
+      "abstract": "This case report describes the surgical, prosthetic, radiographic, and histologic outcomes of prosthetic rehabilitation of a healed edentulous mandibular ridge in a beagle using canine-specific dental implant systems. Two customized implant systems with distinct macrogeometry, thread configuration, collar design, and prosthetic connection characteristics were used to restore the edentulous sites. Digital intraoral impressions were obtained after an 8-week healing period and used to develop customized CAD/CAM-fabricated implant-supported prostheses. Implant stability was assessed by resonance frequency analysis at Weeks 8 and 26, with individual implants showing variable changes in implant stability quotient (ISQ) values. Clinical observations were documented during follow-up, which extended to 24 months after prosthetic delivery, whereas radiographic assessments were performed immediately after implant placement, at 8 weeks, and after prosthetic delivery. Terminal histologic evaluation demonstrated direct bone-to-implant contact, with mean bone-to-implant contact values of 53.2% and 62.6% for Systems A and B, respectively. This case illustrates the application of customized implant designs and digital prosthetic workflows in canine mandibular rehabilitation. The findings provide descriptive clinical and histologic observations, but long-term implant stability and radiographic bone-level maintenance cannot be established from this single-animal case.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088089/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -215,6 +235,16 @@
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
     {
+      "pmid": "43087578",
+      "title": "Acute Exercise-Associated Collapse in a Racing Siberian Husky: A Case Report.",
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-11",
+      "abstract": "The cause of exercise-associated collapse is rarely established when episodes are transient and occur in the field. A 4.5-year-old intact female Siberian Husky with a body condition score of 3/9 collapsed while competing in a 246 km multi-stage sled-dog race at about 1500 m altitude. On day 2, after 14 min of running and at the start of the first uphill section, she fell into lateral recumbency, became apnoeic and unresponsive, and recovered within seconds after chest compressions by the musher. Investigations comprised clinical examination, blood analyses at 30 min and 72 h, dietary analysis, training records and race tracking data. The examination 10 min later was unremarkable. Hyperglycaemia, increased cortisol and muscle and liver enzyme activities, and a mildly decreased haematocrit were consistent with an acute exercise and stress response. Calculated energy intake (1633 kcal/day) was below estimated racing requirements (2116-2539 kcal/day), and she had trained almost exclusively on flat terrain near sea level. No definitive cause could be identified. Several contributing factors were considered, including body condition, nutritional status, training specificity, altitude exposure, and race demands. A transient mismatch between oxygen delivery and metabolic demand remains one possible explanation; however, this hypothesis could not be confirmed, and a transient cardiac arrhythmia could not be excluded. Unexplained collapse in canine endurance athletes warrants withdrawal from competition and a structured cardiovascular, metabolic, nutritional, and training evaluation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087578/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
       "pmid": "43031276",
       "title": "Markedly enlarged orbital lipoma in a dog.",
       "journal": "The Journal of small animal practice",
@@ -241,6 +271,16 @@
       "publication_date": "2026-11",
       "abstract": "Urinary bladder rhabdomyosarcoma (RMS) is a rare malignant neoplasm in dogs, most commonly affecting young animals and frequently arising from the trigone region, where complete surgical removal is challenging. Reported median survival time for dogs with vesical RMS is 45 days, ranging from 20 to 120 days. This report describes the diagnosis and multimodal treatment of a six-month-old intact female Golden Retriever diagnosed with vesical botryoid rhabdomyosarcoma. The patient presented with urinary incontinence, dysuria, and hematuria and was initially treated for suspected cystitis without clinical improvement. Ultrasonography identified a bladder mass located in the trigone region, and exploratory cystotomy with surgical debulking was performed. Intraoperative electrochemotherapy with bleomycin was administered, followed by six sessions of systemic doxorubicin chemotherapy. Complete remission was achieved, but recurrence was noted after 183 days, and the patient presented a survival time of 277 days, exceeding previously reported outcomes for this neoplasm. Although disease progression ultimately occurred, this case suggests that incorporating electrochemotherapy into a multimodal protocol may improve locoregional control in infiltrative vesical rhabdomyosarcoma and potentially prolong survival in dogs affected by this malignancy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020466/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43094654",
+      "title": "Case Report: Interlaminar approach for unilateral biportal endoscopy of a thoracolumbar intervertebral disc extrusion in a dog.",
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2026-11",
+      "abstract": "A 7-year-old castrated male Golden Retriever weighing 41 kg was presented with progressive ambulatory paraparesis and bilateral pelvic limb proprioceptive ataxia (modified Frankel grade 2). Computed tomography and magnetic resonance imaging confirmed a right-ventrolateral T13-L1 intervertebral disc extrusion reducing the cross-sectional area of the spinal cord by approximately 30% at the site of maximal compression. Spinal cord decompression was performed through a unilateral biportal endoscopic interlaminar approach, with the skin entry points of both portals positioned along the medial pedicle line. The interlaminar window was enlarged by partial laminotomy and partial medial facetectomy while preserving the pedicle and the majority of the articular processes joint. The wide dorsal endoscopic view provided direct visualization of an adherent, encapsulated disc fragment and an adjacent congested internal vertebral venous sinus facilitating their management. The dog recovered uneventfully from anesthesia. Mild residual left pelvic limb monoparesis was present at discharge and, at the final evaluation on postoperative day 109 (modified Frankel grade 2), at which time the paw placement response was normal in the right pelvic limb and intermittently mildly delayed in the left pelvic limb. No recurrence of clinical signs was reported by the owner on postoperative day 121. To the authors' knowledge, this is the first clinical report of an interlaminar unilateral biportal endoscopic approach for canine thoracolumbar intervertebral disc extrusion, broadening the minimally invasive options for this condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094654/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -311,6 +351,16 @@
       "publication_date": "2026-11",
       "abstract": "Capnocytophaga  species are fastidious gram-negative bacilli found in the oral flora of dogs and cats. Although human infection is typically associated with localized soft tissue disease following animal exposure, invasive infection can result in severe sepsis. We present a case of  Capnocytophaga  bacteremia in an immunocompetent woman with occupational exposure to dogs. A 49-year-old woman with a history of Factor V Leiden mutation, prior deep vein thrombosis and pulmonary embolism, and Raynaud's syndrome presented with fever, chills, fatigue, myalgias, abdominal pain, vomiting, diarrhea, and transient vaginal bleeding. Evaluation revealed acute kidney injury, lactic acidosis, transaminitis, severe thrombocytopenia, and a petechial rash. An extensive infectious and autoimmune workup was unrevealing. Further history revealed recurrent occupational exposure to dogs as a photographer and walker, including a recent healing scratch to her right arm without evidence of local infection. Due to persistent leukocytosis and lack of clinical improvement, antimicrobial therapy was escalated to meropenem, resulting in gradual clinical and laboratory recovery. Blood cultures eventually grew  Capnocytophaga  species after delayed growth on anaerobic media. The patient was transitioned to oral amoxicillin-clavulanate to complete a two-week course. Susceptibility testing could not be performed because of insufficient organism growth. This case highlights the potential for severe  Capnocytophaga  bacteremia in an immunocompetent host with recurrent occupational exposure to animals. The nonspecific presentation and difficulty identifying this fastidious organism contributed to diagnostic uncertainty and delayed targeted therapy. Clinicians should consider  Capnocytophaga  infection in patients with unexplained sepsis and a history of animal exposure, even in the absence of a significant bite wound or overt soft-tissue infection.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43034526/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43093974",
+      "title": "An Unusual Case of Acquired Nasopharyngeal Stenosis Associated with Chronic Displaced Skull Fractures in a Cat.",
+      "journal": "Veterinary sciences",
+      "publication_date": "2026-11",
+      "abstract": "A 3-year-old neutered male domestic shorthair cat was referred for bilateral mucopurulent nasal discharge, marked stertor, sneezing, and reverse sneezing that, according to the owner, developed immediately after a road traffic accident about one year earlier. Clinical signs had shown mild, transient improvement during repeated courses of antimicrobial and anti-inflammatory treatment. Computed tomography revealed multiple chronic comminuted skull fractures with smooth, sclerotic margins. Displaced fracture fragments were associated with marked narrowing of the rostral nasopharynx, with a minimum luminal diameter of 1.5 mm. Retroflexed nasopharyngoscopy identified a fixed, concentric stenosis that could not be traversed with a 3.5 mm endoscope. A deflated 10 mm balloon catheter was advanced antegrade across the lesion; seven inflations produced minimal luminal enlargement and no clinically meaningful improvement. Brush cytology showed predominantly neutrophilic inflammation, and bacterial culture was negative. Stertor persisted despite oral prednisolone, while nasal discharge recurred after treatment. At reassessment 1 month later, the clinical condition was unchanged; repeat imaging and endoscopy were declined.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43093974/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -751,56 +801,6 @@
       "publication_date": "2026-08",
       "abstract": "To describe vaginourethroplasty-based resection and reconstruction of distal urethral leiomyosarcoma in a female dog and report long-term outcomes. Case report. One 10-year-old spayed female mixed-breed dog. Retrograde urethrovaginography identified a distal urethral filling defect. Two days later, contrast-enhanced computed tomography under general anesthesia demonstrated a 17 × 17 × 24 mm distal urethral mass without distant metastasis; blind biopsy performed immediately afterward was nondiagnostic. Because stranguria progressed, surgery was performed 20 days after presentation in two sequential phases during a single general anesthetic. The proximal urethra was anastomosed end-to-end to the vaginal stump through a ventral approach. Bladder neck cystopexy was added, and the distal urethra, mass, and adjacent vaginal mucosa were removed en bloc through a perineal approach, followed by vaginal reconstruction and vulvoplasty. The mass was initially diagnosed as undifferentiated sarcoma and later classified as leiomyosarcoma after immunohistochemical reevaluation. The mitotic count was 12 per 10 high-power fields, and the distal margin was minimal. Voluntary urine storage and voiding were maintained; mild urinary incontinence was managed medically. Approximately 13 months after surgery, a right inguinal lymph node lesion morphologically compatible with metastasis from the prior urethral mesenchymal malignancy was excised. At 49 months after presentation, no local recurrence or new distant metastasis attributable to the urethral lesion had been detected. In this dog with distal urethral leiomyosarcoma, the combined ventral and perineal approach was associated with preserved urinary function; no local recurrence was detected through 49 months after presentation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42603142/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42533391",
-      "title": "Polioencephalomyelitis and neuronal necrosis caused by canine parvovirus-2a variant in free-ranging juvenile mountain lions ( Puma concolor ).",
-      "journal": "Veterinary pathology",
-      "publication_date": "2026-07",
-      "abstract": "Canine parvovirus 2a (CPV-2a) causes severe enteritis and diarrhea in unvaccinated domestic puppies and wild mesocarnivores, such as raccoons ( Procyon lotor ). A retrospective and prospective study was conducted to characterize CPV-induced encephalomyelitis in mountain lions ( Puma concolor ) from California. Four free-ranging juvenile mountain lions were euthanized due to severe neurological signs. Microscopically, multifocal neuronal necrosis, lymphoplasmacytic perivascular cuffing, and gliosis were primarily observed in the gray matter of the brain and spinal cord in all the studied animals. Rare intranuclear inclusion bodies were observed in the brainstem of 1 animal. All animals lacked microscopic and macroscopic evidence of enteritis. The association between the lesions and CPV-2 was confirmed by quantitative polymerase chain reaction (qPCR) and immunohistochemistry, which revealed the presence of viral DNA in nervous tissue and antigen in numerous necrotic neurons, respectively. Detection of  CPV-2  mRNA by quantitative reverse transcription-PCR and nucleic acids by in situ hybridization indicated viral transcription in the necrotic neurons. Negative-contrast transmission electron microscopy revealed Parvoviridae particles in the brain, suggesting viral replication and assembly. Molecular sequencing in 2 cases detected a CPV-2a variant with amino acid substitutions previously observed in other wild carnivores. Although rare, CPV-2a is a potential cause of neurological signs in juvenile mountain lions without evidence of diarrhea or enteritis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42533391/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42528363",
-      "title": "Diagnosis of feline platynosomosis: case series and literature review.",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "publication_date": "2026-07",
-      "abstract": "Platynosomosis is a parasitic disease of cats and other animal species, caused by trematodes of the genus  Platynosomum . These flukes can infect the liver parenchyma, biliary ducts, and gallbladder. In cats, this parasite is most commonly associated with inapparent infections; however, clinical infections with cholangiohepatitis have also been described.  Platynosomum  spp. are also related to the development of cholangiocarcinoma. Here, we describe 6 cases of cats parasitized by  Platynosomum illiciens . Four of these cats were also infected with feline leukemia virus; 5 were parasitized with  Spirometra mansoni , 4 with  Ancylostoma  sp., and 1 with  Dirofilaria immitis.  Clinical and coprologic evaluations were performed on all individuals. Five cats had severe clinical decline, which prompted euthanasia. On autopsy, these 5 animals had diffuse cholangiohepatitis with intralesional trematodes. Gross and microscopic lesions, parasite and egg morphology, PCR, and DNA sequencing with a Bayesian inference phylogenetic tree and haplotype network confirmed a diagnosis of platynosomosis caused by  P. illiciens .",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528363/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42528315",
-      "title": "Clostridium perfringens  gas gangrene in a canine splenic liposarcoma.",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "publication_date": "2026-07",
-      "abstract": "Histotoxic clostridial infections occur when clostridial spores germinate in anaerobic tissue environments and release a variety of extracellular toxins, causing necrosis, secondary inflammation, and often death. These infections are seen in humans and animals, especially ruminants and horses, but are rare in dogs. An 11-y-old, intact male Border Collie-cross dog was inappetent and lethargic after abdominal blunt-force trauma. Clinical examination and imaging revealed a splenic mass containing gas and an abdominal effusion, identified cytologically as a neutrophilic exudate. At splenectomy, an area on the anti-hilar surface of the mass was abscessed, with inspissated material on the mass surface and in the omentum. Histopathology identified a splenic liposarcoma with areas of necrosis, suppuration, emphysema, and colonization by large gram-positive bacilli. These were identified as  Clostridium perfringens  by immunohistochemistry. The bacteria are presumed to have translocated from the bowel and germinated in a region of tumor necrosis secondary to traumatic ischemia. To our knowledge, gas gangrene has not been reported previously within a visceral tumor in a dog.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528315/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42521054",
-      "title": "Oxidative stress and immunomarkers in equine dermal melanomatosis: single-case comparison with healthy individual.",
-      "journal": "Journal of equine veterinary science",
-      "publication_date": "2026-07",
-      "abstract": "Dermal melanomatosis is a common tumor in grey horses, characterized by cutaneous/subcutaneous lesions with metastatic potential. While clinically well-described, oxidative stress involvement remains poorly understood. This case report compared oxidative stress markers and antioxidant enzymes' activities in total protein extracts from melanomatosis lesions (grey horse) versus healthy control skin (black horse), alongside histopathology and immunohistochemistry, to correlate oxidative imbalance and tumor behavior. Melanomatosis tissue exhibited decreased antioxidant defenses confirmed by catalase (CAT) and superoxide dismutase (SOD) reduced activities, with 29% lower glutathione (GSH) levels. Oxidative damage markers increased in melanomatosis tissue: malondialdehyde (MDA) rising by 73% and advanced oxidation protein products (AOPP) by 56%. Histology confirmed melanocytic proliferation, supported by moderate positive S100 (highly sensitive melanocytic marker) and low proliferation rate (8% positive to proliferation marker Ki-67). These findings suggest oxidative stress was involved in melanomatosis pathophysiology in this case, highlighting the potential relevance of these markers for further investigation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42521054/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42425609",
-      "title": "Aggressive sarcoma in a young dog initially suspected to be trauma-associated.",
-      "journal": "The Journal of small animal practice",
-      "publication_date": "2026-07",
-      "abstract": "PubMed 未提供摘要。",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425609/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
