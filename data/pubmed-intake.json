@@ -1,9 +1,19 @@
 {
   "source": "PubMed E-utilities",
   "query": "(\"case reports\"[Publication Type]) AND (dog OR canine OR cat OR feline) AND (veterinary OR animal)",
-  "updated_at": "2026-11-27T04:14:09.438515+00:00",
+  "updated_at": "2026-11-28T03:53:41.671649+00:00",
   "policy": "自动任务只更新待审核线索。任何病例必须完成结构化审核、来源核对和教学重构后，才可进入正式训练池。",
   "records": [
+    {
+      "pmid": "43099868",
+      "title": "Rapid Bilateral Ocular Metastasis of Feline Injection-Site Sarcoma Despite Early Radical Therapeutic Intervention.",
+      "journal": "Veterinary ophthalmology",
+      "publication_date": "2027-Jan",
+      "abstract": "To report on clinical, ophthalmic, and pathologic features of a rare case of bilateral ocular metastasis of feline injection-site sarcoma despite early radical therapeutic intervention. A 6-year-old female spayed domestic shorthair cat with the complaint of a left hindlimb mass 10 months following vaccination. Initial fine needle aspirate of mass was suggestive of sarcoma. Following staging that was within normal limits, amputation of limb was performed. A high-grade sarcoma was confirmed histologically, with complete excision. Three weeks postoperatively, the patient developed ataxia, left-sided mydriasis, and panuveitis with papilledema and partial retinal separation. Thoracic radiographs and abdominal ultrasound revealed multifocal pulmonary, splenic, renal, jejunal, and lymph node masses consistent with metastatic neoplasia. The cat declined rapidly and was euthanized approximately 10 weeks after initial presentation. Necropsy confirmed widespread metastatic fibrosarcoma involving multiple organs and both eyes. Histopathology demonstrated intravascular neoplastic spindle cells within the choroid and peripapillary connective tissue bilaterally, consistent with hematogenous ocular metastasis. This case showcases an unusually aggressive FISS with bilateral ocular metastases developing only weeks following surgical removal. Despite histologically complete excision, rapid systemic dissemination occurred, highlighting the potential for early micrometastasis. Ocular and neurologic signs may serve as early indicators of metastatic spread in FISS, emphasizing the need for vigilant postoperative monitoring and adjunctive therapeutic consideration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099868/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
     {
       "pmid": "42442925",
       "title": "Iatrogenic rectal perforation in two cats secondary to use of a faecal loop.",
@@ -11,6 +21,76 @@
       "publication_date": "2026-07",
       "abstract": "Two male, neutered, Domestic Shorthair cats, aged 5 and 8 years, were presented to the University of Florida for evaluation and correction of rectal perforations that occurred during faecal sample collection with faecal loops at their primary care hospitals. One cat presented with a fever, neutropenia, and lymphocytosis, while the other had a fever, thrombocytopenia, hyperglycaemia, and was approximately 5% dehydrated. In both cases, radiography identified a heterogeneous soft tissue and gas opacity adjacent to the rectum, and CT scans identified a defect in the rectal wall with associated pocketing, subcutaneous faecal material, and subcutaneous emphysema. The rectal defects were repaired surgically in both cats using a lateral perineal approach. Both surgical sites were treated with open wound management and left to heal by second intention. Iatrogenic rectal perforation. There are risks associated with the use of instruments, such as faecal loops or thermometers, in the rectum. Associated trauma can lead to potentially life-threatening complications. Early detection of rectal perforation is vital to reduce further complications and improve clinical outcomes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42442925/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101808",
+      "title": "An intrauterine grass awn foreign body in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "A 3-year-old intact female West Highland white terrier dog with a history of acute lethargy and diarrhea was presented to the University of Calgary's Diagnostic Services Unit (Calgary, Alberta) for a postmortem examination. Necropsy and subsequent histopathologic examination revealed suppurative peritonitis and ulcerative metritis with an intraluminal grass awn foreign body. Bacterial culture identified  Escherichia coli  and  Streptococcus lutetiensis  in the uterus and spleen. Sudden death was attributed to septic shock secondary to the uterine infection. This case highlighted the rare but clinically important condition of intrauterine grass awn foreign body in a dog. Key clinical message: This case illustrates that migrating plant material can, uncommonly, enter the canine uterus and induce severe inflammatory disease, including metritis, and should be considered among differential diagnoses for uterine pathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101808/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101807",
+      "title": "Peracute infectious canine hepatitis in a Canadian puppy.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "Infectious canine hepatitis (ICH), caused by canine adenovirus type 1 (CAV-1), is now rare in Canada due to vaccination, though sporadic and severe cases still occur. This report describes the peracute presentation, diagnostic findings, and management challenges of an 11-week-old German shepherd mix dog with ICH complicated by disseminated intravascular coagulation (DIC). The puppy was presented with lethargy, hypothermia, hypoglycemia, abdominal pain and effusion, and progressive shock of duration < 24 h. Point-of-care ultrasound showed marked abdominal effusion, and diagnostic testing revealed severe thrombocytopenia, prolonged clotting times, hypoproteinemia, elevated liver enzymes, hyperbilirubinemia, metabolic acidosis, and hyperlactatemia, consistent with acute hepatic failure and DIC. Despite aggressive supportive care, the dog deteriorated within 4 h and was euthanized. Postmortem histopathological and PCR assessment confirmed CAV-1 hepatic necrosis and ICH. This case highlights the continued presence of CAV-1 in Canada, including likely urban exposure, and reinforces the need for vaccination. This report also underscores the diagnostic and therapeutic challenges of peracute ICH with secondary DIC, in which early intervention may influence outcome. Key clinical message: Peracute ICH, though rare in vaccinated populations, remains a fatal differential diagnosis in young dogs presented with acute collapse and hepatic failure, even in urban environments. In addition, the continued presence of this disease reinforces the importance of vaccination and helps inform future vaccination recommendations for rescue groups and independent owners.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101807/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101802",
+      "title": "Cervical vertebral osteomyelitis mimicking neoplasia in a dog: Successful surgical management and diagnostic challenges.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "A 10-year-old male mixed-breed dog weighing ~15 kg was presented with chronic cervical pain and progressive neurological deficits. Computed tomography revealed severe osteolysis of the C4 vertebral body and a contrast-enhancing extradural lesion causing marked spinal cord compression; these findings were highly suggestive of neoplasia. Due to neurological deterioration, surgical intervention was conducted. The dog underwent a subtotal lateral corpectomy followed by asymmetric stabilization using monoaxial vertebral screws and titanium rods. Intraoperative findings revealed friable tissue and extensive bone destruction suggestive of infection rather than neoplasia. Bacterial culture yielded  Staphylococcus aureus  susceptible to amoxicillin-clavulanic acid, whereas fungal culture was negative. Histopathological assessment demonstrated inflammatory changes without evidence of neoplasia. The dog showed rapid clinical improvement following surgery and culture-guided antimicrobial therapy (amoxicillin-clavulanic acid: 15 mg/kg, PO, q12h for 45 d). The dog was discharged 24 h after surgery and remained pain-free with no evidence of recurrence over a follow-up period of at least 2 y. Key clinical message: This case highlights the diagnostic challenges associated with vertebral lesions that mimic neoplasia and emphasizes the role of surgical intervention in both diagnosis and treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101802/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101797",
+      "title": "Erosive immune-mediated polyarthritis in 4 Maltese dogs.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "The medical records of a veterinary teaching hospital were retrospectively reviewed between 2021 and 2024 and 4 Maltese dogs with erosive immune-mediated polyarthritis were identified. Signalment, physical examination findings, radiographic findings, synovial fluid analysis, medical treatments, and outcome for each affected Maltese dog was recorded. A dog was classified as having erosive immunemediated polyarthritis if radiographic evidence of erosive arthritis was endorsed by a Board-certified radiologist. Fourteen dogs were diagnosed with idiopathic immune-mediated polyarthritis, of which 4 (28.6%) met the criteria for erosive immune-mediated polyarthritis; all were of the Maltese breed. On admission, affected dogs were presented with lameness, deformation, and swelling of the carpal joints. Radiographs revealed bone lytic lesions; synovial fluid analysis indicated suppurative, non-septic polyarthritis. Three dogs received combination immunosuppressive therapy, resulting in complete remission in 1 dog and partial remission in 2 dogs. Key clinical message: The present report highlights a cluster of erosive immune-mediated polyarthritis in Maltese dogs and may indicate a breed predisposition towards erosive arthropathies. This case series also demonstrates the challenges of treating this disease, as immunosuppressive treatment appeared to uncommonly lead to full clinical remission, with only 1 dog achieving complete cytologic remission. Joint deformation was not improved in any of the dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101797/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101536",
+      "title": "Bilateral  Brucella -associated septic hip arthritis in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "A 3-year-old spayed female mixed-breed dog was evaluated for bilateral pelvic-limb lameness and abnormal gait. Radiographic and computed tomographic examination revealed bilateral coxofemoral joint arthritis and discospondylitis. Serologic testing using indirect fluorescent antibody and agar gel immunodiffusion confirmed  Brucella canis  infection. The dog was treated with oral doxycycline and enrofloxacin for 1 y, until  Brucella  polymerase chain reaction was negative. Palliative bilateral femoral head and neck excisions were carried out, and resolution of clinical pelvic-limb lameness was documented. Vertebral involvement, including discospondylitis and sacroiliitis, has been previously documented in canine brucellosis. However, hip joint involvement, although it is a recognized manifestation in human brucellosis, has not been previously reported in the veterinary literature. Key clinical message:  Brucella canis  should be considered as a differential diagnosis in dogs with septic hip arthritis, especially when multiple joints and vertebrae are affected.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101536/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101500",
+      "title": "Multimodal management of refractory cutaneous nocardiosis in a feline immunodeficiency virus-positive cat.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "A 7-year-old neutered male domestic shorthair cat positive for feline immunodeficiency virus was presented with a 2-year history of recurrent ulcerative cutaneous lesions on the dorsum. Microbiological identification revealed  Nocardia nova , and histopathological findings were consistent with cutaneous nocardiosis. Systemic minocycline was selected based on antimicrobial susceptibility testing, but long-term administration was limited by gastrointestinal adverse effects. Because prolonged systemic antimicrobial therapy could not be maintained, local adjunctive therapies, including topical amikacin in tris-EDTA, amikacin-loaded 30% poloxamer 407, and cold atmospheric microwave plasma, were used to support lesion control but did not achieve complete resolution. Surgical excision was directed at the persistent main lesion and an adjacent lesion associated with extensive subcutaneous dead space. Complete healing was achieved, with no recurrence during an 11-month postoperative follow-up period. Key clinical message: Systemic antimicrobial therapy guided by culture and susceptibility testing remains the cornerstone of treatment for feline cutaneous nocardiosis. Adjunctive local therapies may support lesion control when systemic therapy is poorly tolerated, but timely surgical excision should be considered when persistent, localized lesions are associated with chronic fibrotic tissue or subcutaneous dead space.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101500/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43101494",
+      "title": "Insidious eunatremic, eukalemic primary hypoadrenocorticism in a dog.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "publication_date": "2026-12",
+      "abstract": "A 10-year-old spayed female papillon dog with alopecia underwent an ACTH stimulation test to rule out hyperadrenocorticism. The results unexpectedly revealed primary hypoadrenocorticism characterized by increased endogenous ACTH concentration in conjunction with a subnormal cortisol response. Plasma electrolyte concentrations were within normal limits, though low post-ACTH aldosterone concentrations were subsequently identified. Congenital/juvenile hypoadrenocorticism had been ruled out  via  previous ACTH response testing in the workup of chronic diarrhea at 1 y of age. No treatment for hypoadrenocorticism was given initially. Over the next 3 y, glucocorticoid function gradually declined, electrolyte concentrations remained within normal limits, and alopecia resolved. The dog had a subsequent hypoglucocorticoid crisis associated with pancreatitis at 13 y age, after which prednisolone treatment was started. Dosage was adjusted over time based on endogenous ACTH and aldosterone concentrations and plasma renin activity when possible. The dog's hypocortisolemia was acceptably controlled for the next 2 y. Plasma electrolyte concentrations continued to remain within normal limits, without mineralocorticoid replacement, until the dog ultimately died from congestive heart failure associated with myxomatous mitral valve disease. Severe bilateral trizonal cortical adrenal atrophy and mild lymphoplasmacytic adrenalitis were identified on necropsy. Key clinical message: This report documents insidious atypical Addison's disease in a dog with a preclinical course of > 3 y and clinical course of 2 y. Although all 3 zones of the adrenal cortex were destroyed, plasma electrolyte concentrations remained within normal limits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101494/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -71,6 +151,46 @@
       "publication_date": "2026-04",
       "abstract": "Large carnivores such as Indian leopard ( Panthera pardus fusca ) play a crucial role in maintaining ecosystem stability. However, they face increasing threats from habitat loss and other anthropogenic pressures. One significant but underreported threat is unintentional or deliberate poisoning, particularly from chemical pesticides. This study reports the first documented case of rodenticide (bromadiolone) poisoning in a large mammalian carnivore in India. In this study, a deceased female leopard (~5 years old) was recovered from the Nilgiris Forest Division, Tamil Nadu, India. Tissues of kidney, liver, and gut contents of the leopard were collected for toxicological investigation. Using high-performance liquid chromatography-mass spectrometry (LC-MS/MS), the samples were screened for 51 pesticides. Bromadiolone, a second-generation anticoagulant rodenticide (SGAR), was detected at concentrations of 802.9 ng/g in kidney, 237.7 ng/g in liver, and 39.3 ng/g in gut. No other pesticides were detected in any of the samples studied. Postmortem examination revealed internal hemorrhaging consistent with bromadiolone-induced coagulopathy, confirming it as the likely cause of death. This study underscores the ecological risk posed by rodenticides through deliberate or secondary poisoning of nontarget wildlife. To prevent such incidents, stricter regulations and greater public awareness regarding the use of anticoagulant rodenticides near forested areas are urgently needed. Additionally, long-term monitoring and research on rodenticide exposure are strongly recommended to guide further conservation actions and safeguard wildlife across the country.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928403/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43102671",
+      "title": "Histopathological observation and diagnosis of hepatic neuroendocrine carcinoma in a cat.",
+      "journal": "Veterinary research communications",
+      "publication_date": "2026-11",
+      "abstract": "Hepatic neuroendocrine carcinoma is a rare hepatic neoplasm in cats. It is generally considered highly malignant with a poor prognosis. Therefore, early diagnosis and appropriate treatment of such tumors are critical for a successful outcome. This report describes a 6-year-old male Oriental Longhair cat presented to our hospital with a primary complaint of recurrent vomiting and mild abdominal distension. Ultrasonography revealed heterogeneous echogenicity of the hepatic parenchyma, indicating uneven hepatic density. Laparotomy revealed white and dark red nodules of varying sizes on the liver surface. Histopathological examination showed that the hepatic mass was composed of malignant neoplastic cells with typical neuroendocrine differentiation features. Immunohistochemical staining for CgA and NSE confirmed that the liver tumor cells were derived from the neuroendocrine system. Following histopathological diagnosis, the cat received palliative treatment and died 34 days after the initial presentation. Through histopathological observation and diagnosis of feline hepatic neuroendocrine carcinoma, this study provides a useful reference for the future clinical diagnosis of this disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102671/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43099923",
+      "title": "Surgical repair of an ostium secundum atrial septal defect with absent dorsal rim in a dog.",
+      "journal": "Veterinary surgery : VS",
+      "publication_date": "2026-11",
+      "abstract": "To describe the anatomical characteristics and surgical practicality of repairing an ostium secundum atrial septal defect (ASD), lacking a dorsal rim, in a dog. Case report. A 1-year-old, 4.7 kg spayed female Bichon Frise dog presenting with exercise intolerance and cough. Clinical data, including diagnostic imaging studies, surgical records, and postoperative follow-up findings, were reviewed. The dog underwent open-heart repair under cardiopulmonary bypass using a glutaraldehyde-fixed autologous pericardial patch, with the rim-deficient dorsal portion anchored to the atrial free wall. The dog recovered uneventfully from surgery, and the closed defect remained stable during a 406 days follow-up period. No peri- or postoperative complications were observed. Surgical closure of a secundum ASD lacking a dorsal rim was successfully achieved using an autologous pericardial patch, resulting in stable defect repair without complications during follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099923/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43098659",
+      "title": "Computed tomographic features and clinical outcome of a presumed subconjunctival hibernoma in a dog.",
+      "journal": "The Journal of small animal practice",
+      "publication_date": "2026-11",
+      "abstract": "An 11-year-old male neutered German shepherd dog was presented for evaluation of a left subconjunctival mass associated with mild exophthalmos and ventral globe deviation. CT identified a well-defined, contrast-enhancing, soft tissue attenuating mass within the dorsal subconjunctival region. The mass was removed via globe-sparing excisional biopsy after it was found intraoperatively to be discrete and readily separable from surrounding tissues. Histopathology identified an adipocytic neoplasm most consistent with hibernoma, although liposarcoma could not be definitively excluded. No clinically apparent local tumour recurrence was identified on general physical examination 18 months postoperatively. This report provides CT characterisation of a presumed subconjunctival hibernoma together with globe-sparing excision and long-term clinical follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098659/",
+      "status": "pending_review",
+      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
+    },
+    {
+      "pmid": "43098139",
+      "title": "Primary diffuse meningeal melanomatosis in a dog: Histopathological and immunohistochemical findings.",
+      "journal": "Australian veterinary journal",
+      "publication_date": "2026-11",
+      "abstract": "Primary diffuse meningeal melanomatosis is a rare neoplasm in dogs that arises from leptomeningeal melanocytes of neural crest origin. This report describes the clinicopathological and immunohistochemical features of a primary diffuse meningeal melanomatosis in a 10-year-old female spayed Staffordshire Bull Terrier that presented with progressive neurological dysfunction, including blindness and seizures. Cerebrospinal fluid analysis revealed moderate mononuclear pleocytosis. Histologically, a densely cellular, poorly demarcated and infiltrative neoplasm multifocally expanded the leptomeninges overlying the cerebrum and cerebellum and invaded the adjacent neuroparenchyma. Neoplastic cells were arranged in sheets, cords and solid aggregates, polygonal to spindle-shaped and occasionally contained intracytoplasmic, brown granular pigment consistent with melanin. Immunohistochemically, neoplastic cells exhibited moderate diffuse nuclear immunoreactivity for SOX10 and moderate cytoplasmic labelling for Melan A, supporting melanocytic differentiation. Based on morphological features, the invasive growth pattern and immunophenotype, a diagnosis of primary diffuse meningeal melanomatosis was established. No extracranial primary melanoma was identified at postmortem examination. From a comparative perspective, this case mirrors the spectrum of primary central nervous system melanocytic tumours recognised in human neuropathology, where the exclusion of metastatic disease is essential, and histological features such as mitotic activity and parenchymal invasion correlate with biological behaviour.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098139/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     },
@@ -681,126 +801,6 @@
       "publication_date": "2026-Nov",
       "abstract": "Persistent corneal edema in cats with anterior uveitis is often attributed to endothelial dysfunction; however, the underlying structural cause may not be apparent without advanced imaging. Descemet's membrane detachment (DMD) is rarely reported in cats and has not been well described in suspected feline infectious peritonitis (FIP)-associated uveitis. A 4-month-old intact male Norwegian Forest cat presented with severe unilateral granulomatous uveitis, mutton-fat keratic precipitates, diffuse stromal edema, and a 2+ aqueous flare. Aqueous humor PCR detected feline coronavirus RNA, although biotype testing did not confirm a mutation consistent with that associated with feline infectious peritonitis virus. As ocular inflammation progressed despite anti-inflammatory treatment, the nucleoside analog GS-441524 was administered along with anti-inflammatory and supportive ophthalmic treatment. Intraocular inflammation improved, but corneal edema persisted, prompting anterior segment optical coherence tomography (AS-OCT), which revealed planar DMD. Serial AS-OCT monitored posterior corneal structural changes. Corneal edema gradually decreased, and Descemet's membrane reapposition was documented by AS-OCT approximately one year after the initial presentation. Corneal clarity and stability were maintained without clinically evident recurrence for 18 months after reapposition was confirmed. This case describes the AS-OCT diagnosis and serial documentation of DMD and subsequent Descemet's membrane reapposition in a cat with suspected FIP-associated uveitis. These findings highlight the value of AS-OCT for identifying and monitoring posterior corneal abnormalities, including DMD, in cats with severe anterior uveitis and persistent corneal edema. The relationships among suspected FIP-associated uveitis, treatment, and DMD could not be determined from this single case.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42806563/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42806532",
-      "title": "Meibomian Gland Epithelioma Mimicking Eyelid Squamous Cell Carcinoma in a Hereford-Cross Steer.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Nov",
-      "abstract": "To describe the clinical presentation and histopathology of a meibomian gland epithelioma that clinically resembled squamous cell carcinoma in a steer. A 15 year-old Hereford-Lowline cross steer presented for evaluation of an approximately 2 × 4 cm ulcerated, pedunculated eyelid mass arising from the right inferior eyelid margin. Excision of the mass followed by adjunctive cryotherapy was performed. The mass was submitted for histopathologic analysis. Histopathologic evaluation revealed the mass to be consistent with a meibomian gland epithelioma, a neoplastic proliferation of the basal/reserve cells of the meibomian gland. The steer recovered routinely from the procedure with no evidence of regrowth of the mass at 13 months post-operatively. Meibomian gland epitheliomas are one of the most common eyelid tumors of dogs; however, this is the first known report of a histologically confirmed meibomian gland epithelioma in cattle. Clinically, the mass resembled the appearance of squamous cell carcinoma, a common eyelid tumor in Hereford cattle. The clinical misclassification of a benign eyelid mass as squamous cell carcinoma could lead to unnecessary aggressive management such as enucleation, exenteration, or culling. This case confirms the importance of histopathologic analysis of excised tissues to reach an accurate diagnosis and appropriate treatment and follow-up plans.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42806532/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42806436",
-      "title": "Computed Tomographic Findings of Ischemic Necrosis of the Accessory Carpal Bone in a Dog.",
-      "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-      "publication_date": "2026-Nov",
-      "abstract": "A 1-year-and-9-month-old Golden Retriever presented with a 9-month history of right thoracic limb lameness. Radiographs revealed a monostotic, expansile lesion of the right accessory carpal bone (ACB). A computed tomography (CT) confirmed the aggressive nature of the lesion, demonstrating multifocal moth-eaten osteolysis, sclerosis, periosteal reaction, and flexor carpi ulnaris tendinopathy. Differential diagnoses included the ischemic necrosis of the ACB, osteomyelitis, and primary bone neoplasia. Histopathology confirmed osteonecrosis. This case highlights the value of CT in evaluating aggressive carpal lesions and identifies ischemic necrosis as an important differential diagnosis. This case represents the first CT description of this disease in dogs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42806436/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42799346",
-      "title": "Idiopathic Granulomatous Inflammation of the Periocular Structures in Four Dogs: Clinical, Histopathological, and Imaging Findings and Therapeutic Outcome.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Nov",
-      "abstract": "To describe cases of canine idiopathic periocular granulomatous inflammation. Clinical records were reviewed. At the time of presentation, the four patients (German Shepherd dog, mixed breed, Magyar Vizsla, Hovawart) were 1.5-5 (mean 3.75) years old. All dogs were female; two were spayed. Lesions were unilateral in 3/4 cases. Dogs presented with ulcerated (1) or non-ulcerated (3) mass lesions affecting the periocular skin (3/4), medial canthal area (2/4), or third eyelid (1/4). Incisional biopsies revealed pyogranulomatous inflammation in three and granulomatous inflammation in one case. There was no evidence of microbial infection in the specimens. Patients received anti-inflammatory or immunosuppressive dosages of systemic corticosteroids. Three dogs also received systemic cyclosporin (5 mg/kg, sid), and one dog received topical cyclosporin (0.1%, bid). One dog underwent surgical debulking of a circumscribed mass within the left lower eyelid prior to immunosuppressive therapy and developed an additional swelling on the left upper eyelid. Remission of clinical signs was achieved in all patients. Dogs were treated for 5 to 11 months (mean 8.7). No recurrence was reported in 4/4 patients during a mean follow-up period of 17.3 months. In 3/4patients, there was no recurrence within an average of 11 months after discontinuation of therapy. One dog was lost to follow-up. Idiopathic granulomatous inflammation is a differential diagnosis for periocular mass lesions. Its diagnosis is based on histopathology and the exclusion of other causes of granulomatous inflammation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799346/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42770669",
-      "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
-      "journal": "Veterinary surgery : VS",
-      "publication_date": "2026-09",
-      "abstract": "To describe staged pre-renal caudal vena cava (CVC) occlusion before en bloc right divisional hepatectomy with segmental caval resection in two dogs with right divisional hepatocellular carcinoma (HCC) involving the CVC. Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu). Short case series. Dog 1 (Siberian Husky) had prior hemoperitoneum and biopsy-confirmed HCC; dog 2 (Shih Tzu) had persistent liver enzyme elevations and a suspected hepatic tumor. Computed tomography (CT) showed right divisional masses (91.8 × 122.3 × 101.4 mm; 77.0 × 94.8 × 70.2 mm) with CVC compression or involvement and no pre-existing collateral venous return. A percutaneously controlled hydraulic occluder was placed around the pre-renal CVC. Gradual outpatient occlusion was performed over 79 and 44 days while monitoring saphenous venous pressure, renal values, and hindlimb edema. Complete CVC occlusion and collateralization were confirmed by CT before en bloc right divisional hepatectomy with segmental CVC resection. Macroscopically complete resection was achieved in both dogs. Complete HCC resection was confirmed histopathologically. Morbidity was limited to transient wound exudation in dog 1 and transient ascites in dog 2. No recurrence or metastasis was identified in dog 1 during follow-up. In dog 2, no clinical signs suggestive of recurrence or metastasis were reported. Survival after hepatectomy was 352 and 2467 days. Staged pre-renal CVC occlusion may establish collateral venous return and permit planned en bloc right divisional hepatectomy with segmental CVC resection in carefully selected dogs with right divisional HCC involving the CVC.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42768449",
-      "title": "Bilateral Third Eyelid Ectopic Cilia in a Maine Coon Cat.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Nov",
-      "abstract": "To describe a case of a Maine Coon cat diagnosed with bilateral aberrant hairs consistent with ectopic cilia arising from the third eyelid. The history, clinical signs, examination findings, surgical procedures, and case outcome were reviewed. An eleven-month-old Maine Coon cat presented with a chronic history of bilateral epiphora and right blepharospasm. The left eye previously underwent upper and lower eyelid wedge excision to shorten the palpebral fissure and a partial Celsus-Hotz procedure to correct lower eyelid entropion. The right eye developed lower eyelid entropion shortly after and was surgically treated using the Read and Broun technique. Examination revealed a bilateral ocular discharge and follicular conjunctivitis; macroblepharon, permanent lower eyelid entropion associated with trichiasis, and non-ulcerative keratitis were present in the right eye. The upper and lower eyelid position was normal in the left eye. The right eye was treated with the Stades Diabolo technique and a partial Celsus-Hotz procedure. Inspection under general anesthesia revealed bilateral single aberrant hairs consistent with ectopic cilia on the palpebral surface of the third eyelid. A focal conjunctivectomy, including the ectopic cilium, was performed in each eye. Eyelid and conjunctival wounds healed uneventfully. Differential diagnoses for aberrant hair arising from the third eyelid conjunctiva include dermoid, choristoma, or ectopic cilium. Histology was declined due to financial constraints. Although not previously reported in the literature, given the clinical appearance, an ectopic cilium is the most likely diagnosis. Surgical excision was curative, with no recurrence of epiphora, conjunctivitis, or the entropion.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768449/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42754831",
-      "title": "Corneal Sequestration and Bilateral Distichiasis in a Binturong (Arctictis binturong).",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Nov",
-      "abstract": "To report the first documented case of corneal sequestration and distichiasis in a binturong (Arctictis binturong), discuss implications of disease prevalence in a non-domestic feliform, and hypothesize on potential etiology and predisposing factors for corneal sequestration. A 15-year-old intact male binturong. Anesthetized physical examination and ophthalmic assessment were performed by board-certified specialists. Corneal cytology, culture and sensitivity, debridement of the sequestra in lieu of keratectomy, histopathology, and cryoepilation were performed, followed by 4 weeks of topical therapy. The patient was euthanized 3 years later for unrelated reasons, and a necropsy was performed. Examination found bilateral distichiasis. In the left cornea, two brown, ovoid lesions flanked an area of yellow infiltrate, all overlying a raised, ulcerated granulation bed. Corneal cytology identified neutrophils, cocci, and rare rods. Histopathology of the debrided tissue showed coagulative to lytic necrosis with intralesional gram-positive cocci, indicating sequestration and secondary infection. Aerobic culture yielded Staphylococcus delphini and Streptococcus acidominimus. Photo updates 4 weeks post-operation showed resolution of clinical signs. Later, necropsy and histology showed chronic ocular changes without recurrence of sequestra. Clinical and histopathologic findings identified corneal sequestration, with chronic irritation secondary to distichiasis as a suspected factor. Surgical debridement and cryoepilation achieved long-term clinical resolution, with only mild distichiae regrowth and no sequestration recurrence after 3 years. Corneal sequestration is thought to predominantly affect domestic cats (Felis catus); this report expands the clinical relevance of corneal sequestration to an exotic species and supports chronic corneal irritation as a predisposing factor.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754831/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42744608",
-      "title": "Technical note: Combined approach for total mandibulectomy.",
-      "journal": "Veterinary surgery : VS",
-      "publication_date": "2026-09",
-      "abstract": "To describe a novel combined approach for total mandibulectomy (CATM) by combining a lateral approach for condylectomy and a ventral approach for total mandibulectomy. Descriptive technical note utilizing a cadaveric study and clinical case. One dog cadaver (27 kg, mixed breed) and one clinical case (2.5-year-old castrated male Australian Shepherd). The CATM technique was evaluated in a dog cadaver prior to clinical application in a dog with a left mandibular soft tissue sarcoma. Condylectomy was performed by a lateral approach to the temporomandibular joint followed by a ventral paramedian approach for left total mandibulectomy. CATM was successfully performed in both the cadaveric model and clinical case without intraoperative complications. Extending the lateral condylectomy incision caudally allowed for regional lymphadenectomy in the clinical case. Medial drift of the right mandible resulted in palatal contact trauma that was successfully managed with crown height reduction and vital pulpotomy. At two months postoperatively, the dog maintained good clinical function without tumor recurrence or additional adverse effects. The CATM was a feasible technique that provided increased TMJ exposure for joint disarticulation and condylectomy. The CATM provides a safe and effective technique for total mandibulectomy that optimizes TMJ access, facilitating joint disarticulation and condylectomy, while enhancing visualization of neurovascular structures.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42713863",
-      "title": "Removal of a Posteriorly Luxated Lens Using Pars Plana Vitrectomy and Perfluorocarbon Liquid: A Case Report.",
-      "journal": "Veterinary ophthalmology",
-      "publication_date": "2026-Nov",
-      "abstract": "To report a case of canine posterior lens luxation in which the intact lens was successfully floated using perfluorocarbon liquid (PFCL) combined with pars plana vitrectomy (PPV) and subsequently removed. A client-owned 7-year-old castrated female Italian Greyhound presented with rapidly progressive bilateral posterior lens luxation. In the right eye, via a three-port 25-gauge pars plana approach, the vitreous was removed and PFCL was injected beneath the luxated lens to float the intact lens from the retinal surface to the pupillary plane. The lens was subsequently removed by intracapsular lens extraction through a limbal incision using a cryoprobe. At the final 6-month follow-up examination, vision was preserved, and no retinal detachment or other significant postoperative complications were observed. In this case, combining PPV and PFCL was an effective technique for managing posterior lens luxation and enabled successful removal of the intact luxated lens.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42713863/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42643073",
-      "title": "Three-dimensional printed dorsal occipitocervical fixation in a dog with atlantoaxial instability and concurrent incomplete ossification of the atlas.",
-      "journal": "Australian veterinary journal",
-      "publication_date": "2026-08",
-      "abstract": "A 5-year-old, male, neutered, Border Collie presented to a referral hospital with marked cervical hyperaesthesia, uncharacteristic aggression and progressive tetraparesis. The dog was diagnosed with chronic, dynamic atlantoaxial instability and incomplete ossification of the atlas using combined advanced cross-sectional imaging. Traditional surgical approaches rely on adequate bone stock from both the atlas and the axis to achieve robust fixation, which would have been challenging in this case. Descriptive surgical techniques are lacking for this presentation due to its rarity. The owner consented to a novel surgical technique that used a three-dimensional (3D) printed titanium alloy plate to achieve dorsal occipitocervical fixation. A single screw deviated from it's intended corridor in the calvarium by 2.43 mm. The dog demonstrated transient worsening of neurological deficits and regained full ambulation 4 weeks post operative. 3D printing is becoming a popular adjunct in evolving surgical techniques and can be considered in both traditional and rare presentations.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42643073/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42636554",
-      "title": "Corneal stromal metastasis of urothelial carcinoma in a dog.",
-      "journal": "Research in veterinary science",
-      "publication_date": "2026-08",
-      "abstract": "A 15-year-old intact male Miniature Dachshund presented with severe hematuria. Clinical evaluations of this dog raised the suspicion of a malignant bladder tumor, and corneal stromal opacity was observed in the left eye. Because of the critical condition, the dog died on the day of presentation, after which a necropsy was performed. Necropsy and histopathological examinations confirmed urothelial carcinoma (UC) in the bladder. Moreover, the corneal stromal opacity represented a metastatic lesion of UC, and similar metastatic lesions were identified at 13 other sites. The UC in this dog was considered clinically highly malignant based on its rapid clinical course and the presence of multiple metastatic sites. This highly malignant nature may have contributed to the corneal stromal metastasis. This is an extremely rare case of corneal stromal metastasis from canine UC.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636554/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42625303",
-      "title": "Feline cutaneous mast cell tumor with extensive macrophage-associated cell-in-cell structures.",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "publication_date": "2026-08",
-      "abstract": "An 8-y-old, castrated male Korean Shorthair cat was presented to a veterinary clinic for evaluation of a cutaneous mass on the left inner thigh. Microscopic examination revealed a poorly circumscribed dermal neoplasm composed of poorly granulated, pleomorphic neoplastic mast cells with frequent cell-in-cell structures. Notably, viable neoplastic mast cells were engulfed by large macrophages, indicating a specific form of the cell-in-cell phenomenon. Immunohistochemistry for c-KIT, IBA1, and cleaved caspase-3 was used to support the diagnosis. To our knowledge, cell-in-cell phenomenon has not been previously described in feline cutaneous mast cell tumors, nor has the clinical outcome of such cases been reported.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42625303/",
-      "status": "pending_review",
-      "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
-    },
-    {
-      "pmid": "42603142",
-      "title": "Long-term outcome after resection and reconstruction using vaginourethroplasty for distal urethral leiomyosarcoma in a female dog.",
-      "journal": "Veterinary surgery : VS",
-      "publication_date": "2026-08",
-      "abstract": "To describe vaginourethroplasty-based resection and reconstruction of distal urethral leiomyosarcoma in a female dog and report long-term outcomes. Case report. One 10-year-old spayed female mixed-breed dog. Retrograde urethrovaginography identified a distal urethral filling defect. Two days later, contrast-enhanced computed tomography under general anesthesia demonstrated a 17 × 17 × 24 mm distal urethral mass without distant metastasis; blind biopsy performed immediately afterward was nondiagnostic. Because stranguria progressed, surgery was performed 20 days after presentation in two sequential phases during a single general anesthetic. The proximal urethra was anastomosed end-to-end to the vaginal stump through a ventral approach. Bladder neck cystopexy was added, and the distal urethra, mass, and adjacent vaginal mucosa were removed en bloc through a perineal approach, followed by vaginal reconstruction and vulvoplasty. The mass was initially diagnosed as undifferentiated sarcoma and later classified as leiomyosarcoma after immunohistochemical reevaluation. The mitotic count was 12 per 10 high-power fields, and the distal margin was minimal. Voluntary urine storage and voiding were maintained; mild urinary incontinence was managed medically. Approximately 13 months after surgery, a right inguinal lymph node lesion morphologically compatible with metastasis from the prior urethral mesenchymal malignancy was excised. At 49 months after presentation, no local recurrence or new distant metastasis attributable to the urethral lesion had been detected. In this dog with distal urethral leiomyosarcoma, the combined ventral and perineal approach was associated with preserved urinary function; no local recurrence was detected through 49 months after presentation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603142/",
       "status": "pending_review",
       "review_note": "自动抓取的元数据线索；必须核对原文、物种、临床价值、影像授权和适用边界后才能进入训练池。"
     }
